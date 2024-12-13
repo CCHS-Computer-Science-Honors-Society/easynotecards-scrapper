@@ -1,4 +1,5 @@
 import requests
+import os
 from bs4 import BeautifulSoup
 import json
 import sys
@@ -158,7 +159,8 @@ def scrape_easynotecards_to_json(url, output_file='flashcards.json', unit='', ch
 
     # Write data to JSON
     try:
-        with open(output_file, 'w', encoding='utf-8') as jsonfile:
+        os.makedirs("./data", exist_ok=True)
+        with open(f"./data/{output_file}", 'w', encoding='utf-8') as jsonfile:
             json.dump(data, jsonfile, ensure_ascii=False, indent=4)
         print(f"Flashcards successfully saved to '{output_file}'.")
     except IOError as e:
@@ -179,11 +181,33 @@ def parse_arguments():
     
     return parser.parse_args()
 
+def do():
+    index = 1
+    chapter = 1
+    indexToUrl = {
+        1: "https://www.easynotecards.com/notecard_set/89356",
+        2: "https://www.easynotecards.com/notecard_set/89357",
+        3: "https://www.easynotecards.com/notecard_set/89358",
+        4: "https://www.easynotecards.com/notecard_set/89359",
+        5: "https://www.easynotecards.com/notecard_set/89360",
+        6: "https://www.easynotecards.com/notecard_set/89361",
+        7: "https://www.easynotecards.com/notecard_set/89362",
+        8: "https://www.easynotecards.com/notecard_set/89363",
+        9: "https://www.easynotecards.com/notecard_set/89073",
+        10: "https://www.easynotecards.com/notecard_set/89364",
+    }
+
+
+    for i in range(10):
+        index += 1
+        chapter += 1
+        
+        scrape_easynotecards_to_json(
+            url=indexToUrl[index],
+            output_file=f"chapter{chapter}.json",
+            unit=f"Chapter {chapter}",
+            chapter=f"Chapter {chapter}"
+        )
+
 if __name__ == "__main__":
-    args = parse_arguments()
-    scrape_easynotecards_to_json(
-        url=args.url,
-        output_file=args.output,
-        unit=args.unit,
-        chapter=args.chapter
-    )
+    do()
