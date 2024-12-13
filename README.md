@@ -46,7 +46,6 @@ Before you begin, ensure you have met the following requirements:
    cd easynotecards-scraper
    ```
 
-````
 
 2. **Create a Virtual Environment (Optional but Recommended)**
 
@@ -310,4 +309,4 @@ For any questions, suggestions, or feedback, please reach out:
 
 _Happy Scraping! 🚀_
 
-````
+
