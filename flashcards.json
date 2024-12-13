@@ -1,0 +1,897 @@
+[
+    {
+        "front": "A localized group of organisms that belong to the same species is called a",
+        "options": [
+            "A) biosystem",
+            "B) community",
+            "C) population",
+            "D) ecosystem",
+            "E) family"
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Organisms interact with their environments, exchanging matter and energy. For example, plant chloroplasts convert the energy of sunlight into",
+        "options": [
+            "A) the energy of motion",
+            "B) carbon dioxide and water",
+            "C) the potential energy of chemical bonds",
+            "D) oxygen",
+            "E) kinetic energy"
+        ],
+        "back": "C"
+    },
+    {
+        "front": "The main source of energy for producers in an ecosystem is",
+        "options": [
+            "A)",
+            "light energy",
+            "B) kinetic energy",
+            "C) thermal energy",
+            "D)",
+            "chemical energy",
+            "E) ATP"
+        ],
+        "back": "A"
+    },
+    {
+        "front": "Which of the following types of cells utilize deoxyribonucleic acid (DNA) as their genetic material but do not have their DNA encased within a nuclear envelope?",
+        "options": [
+            "A) animal",
+            "B) plant",
+            "C)",
+            "archaea",
+            "D) fungi",
+            "E) protists"
+        ],
+        "back": "C"
+    },
+    {
+        "front": "To understand the chemical basis of inheritance, we must understand the molecular structure of DNA. This is an example of the application of which concept to the study of biology?",
+        "options": [
+            "A) evolution",
+            "B)",
+            "emergent properties",
+            "C) reductionism",
+            "D) the cell theory",
+            "E) feedback regulation"
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Once labor begins in childbirth, contractions increase in intensity and frequency until delivery. The increasing labor contractions of childbirth are an example of which type of regulation?",
+        "options": [
+            "A) a",
+            "bioinformatic system",
+            "B) positive feedback",
+            "C) negative",
+            "feedback",
+            "D) feedback inhibition",
+            "E) enzymatic catalysis"
+        ],
+        "back": "B"
+    },
+    {
+        "front": "When the body's blood glucose level rises, the pancreas secretes insulin and, as a result, the blood glucose level declines. When the blood glucose level is low, the pancreas secretes glucagon and, as a result, the blood glucose level rises. Such regulation of the blood glucose level is the result of",
+        "options": [
+            "A) catalytic feedback",
+            "B)",
+            "positive feedback",
+            "C) negative feedback",
+            "D) bioinformatic",
+            "regulation",
+            "E) protein-protein interactions"
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Which branch of biology is concerned with the naming and classifying of organisms?",
+        "options": [
+            "A) informatics",
+            "B) schematic biology",
+            "C)",
+            "taxonomy",
+            "D) genomics",
+            "E) evolution"
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Prokaryotic and eukaryotic cells generally have which of the following features in common?",
+        "options": [
+            "A) a membrane-bounded nucleus",
+            "B) a cell wall made of cellulose",
+            "C) ribosomes",
+            "D)",
+            "flagella or cilia that contain microtubules",
+            "E) linear",
+            "chromosomes made of DNA and protein"
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Prokaryotes are classified as belonging to two different domains. What are the domains?",
+        "options": [
+            "A) Bacteria and Eukarya",
+            "B) Archaea",
+            "and Monera",
+            "C) Eukarya and Monera",
+            "D) Bacteria and Protista",
+            "E) Bacteria and Archaea"
+        ],
+        "back": "E"
+    },
+    {
+        "front": "Global warming, as demonstrated by observations such as melting of glaciers, increasing CO2 levels, and increasing average ambient temperatures, has already had many effects on living organisms. Which of the following might best offer a solution to this problem?",
+        "options": [
+            "A)",
+            "Continue to measure these and other parameters of the problem.",
+            "B) Increase the abilities of animals to migrate to more suitable",
+            "habitats.",
+            "C) Do nothing; nature will attain its own balance.",
+            "D) Limit the burning of fossil fuels and regulate our loss of",
+            "forested areas.",
+            "E) Recycle as much as possible."
+        ],
+        "back": "D"
+    },
+    {
+        "front": "A water sample from a hot thermal vent contained a single-celled organism that had a cell wall but lacked a nucleus. What is its most likely classification?",
+        "options": [
+            "A) Eukarya",
+            "B) Archaea",
+            "C)",
+            "Animalia",
+            "D) Protista",
+            "E) Fungi"
+        ],
+        "back": "B"
+    },
+    {
+        "front": "A filamentous organism has been isolated from decomposing organic matter. This organism has a cell wall but no chloroplasts. How would you classify this organism?",
+        "options": [
+            "A) domain Bacteria, kingdom",
+            "Prokaryota",
+            "B) domain Archaea, kingdom Bacteria",
+            "C) domain",
+            "Eukarya, kingdom Plantae",
+            "D) domain Eukarya, kingdom Protista",
+            "E) domain Eukarya, kingdom Fungi"
+        ],
+        "back": "E"
+    },
+    {
+        "front": "Which of these provides evidence of the common ancestry of all life?",
+        "options": [
+            "A) ubiquitous use of catalysts by living systems",
+            "B) near",
+            "universality of the genetic code",
+            "C) structure of the nucleus",
+            "D) structure of cilia",
+            "E) structure of chloroplasts"
+        ],
+        "back": "B"
+    },
+    {
+        "front": "Which of the following is (are) true of natural selection?",
+        "options": [
+            "A)",
+            "It requires genetic variation.",
+            "B) It results in descent with",
+            "modification.",
+            "C) It involves differential reproductive success.",
+            "D) It results in descent with modification and involves",
+            "differential reproductive success.",
+            "E) It requires genetic",
+            "variation, results in descent with modification, and involves",
+            "differential reproductive success."
+        ],
+        "back": "E"
+    },
+    {
+        "front": "Charles Darwin proposed a mechanism for descent with modification that stated that organisms of a particular species are adapted to their environment when they possess",
+        "options": [
+            "A) non-inheritable traits",
+            "that enhance their survival in the local environment.",
+            "B)",
+            "non-inheritable traits that enhance their reproductive success in the",
+            "local environment.",
+            "C) non-inheritable traits that enhance their",
+            "survival and reproductive success in the local environment.",
+            "D)",
+            "inheritable traits that enhance their survival and reproductive",
+            "success in the local environment.",
+            "E) inheritable traits that",
+            "decrease their survival and reproductive success in the local environment."
+        ],
+        "back": "D"
+    },
+    {
+        "front": "Which of these individuals is likely to be most successful in an evolutionary sense?",
+        "options": [
+            "A) a reproductively sterile individual who",
+            "never falls ill",
+            "B) an organism that dies after five days of life",
+            "but leaves 10 offspring, all of whom survive to reproduce",
+            "C) a",
+            "male who mates with 20 females and fathers one offspring",
+            "D) an",
+            "organism that lives 100 years and leaves two offspring, both of whom",
+            "survive to reproduce",
+            "E) a female who mates with 20 males and",
+            "produces one offspring that lives to reproduce"
+        ],
+        "back": "B"
+    },
+    {
+        "front": "In a hypothetical world, every 50 years people over 6 feet tall are eliminated from the population before they reproduce. Based on your knowledge of natural selection, you would predict that the average height of the human population will",
+        "options": [
+            "A) remain unchanged.",
+            "B) gradually decline.",
+            "C) rapidly decline.",
+            "D)",
+            "gradually increase.",
+            "E) rapidly increase."
+        ],
+        "back": "B"
+    },
+    {
+        "front": "Through time, the lineage that led to modern whales shows a change from four-limbed land animals to aquatic animals with two limbs that function as flippers. This change is best explained by",
+        "options": [
+            "A)",
+            "natural philosophy.",
+            "B) creationism.",
+            "C) the hierarchy of",
+            "the biological organization of life.",
+            "D) natural selection.",
+            "E) feedback inhibition."
+        ],
+        "back": "D"
+    },
+    {
+        "front": "What is the major difference between a kingdom and a domain?",
+        "options": [
+            "A)",
+            "A kingdom can include several subgroups known as domains.",
+            "B) All",
+            "eukarya belong to one domain.",
+            "C) All prokaryotes belong to one",
+            "domain.",
+            "D) The importance of fungi has led scientists to make",
+            "them the whole of one domain.",
+            "E) Only organisms that produce",
+            "their own food belong to one of the domains."
+        ],
+        "back": "B"
+    },
+    {
+        "front": "Which of the following best describes what occurred after the publication of Charles Darwin's On the Origin of Species?",
+        "options": [
+            "A) The",
+            "book received little attention except from a small scientific",
+            "community.",
+            "B) The book was banned from schools.",
+            "C) The",
+            "book was widely discussed and disseminated.",
+            "D) The book's",
+            "authorship was disputed.",
+            "E) The book was discredited by most scientists."
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Why is Darwin considered original in his thinking?",
+        "options": [
+            "A) He",
+            "provided examples of organisms that had evolved over time.",
+            "B) He",
+            "demonstrated that evolution is continuing to occur now.",
+            "C) He",
+            "described the relationship between genes and evolution.",
+            "D) He",
+            "proposed the mechanism that explained how evolution takes place.",
+            "E) He observed that organisms produce large numbers of offspring."
+        ],
+        "back": "D"
+    },
+    {
+        "front": "Darwin's finches, collected from the Galápagos Islands, illustrate which of the following?",
+        "options": [
+            "A) mutation frequency",
+            "B) ancestors",
+            "from different regions",
+            "C) adaptive radiation",
+            "D) vestigial",
+            "anatomic structures",
+            "E) the accuracy of the fossil record"
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Which of the following categories of organisms is least likely to be revised?",
+        "options": [
+            "A) kingdom",
+            "B) class",
+            "C) order",
+            "D)",
+            "phylum",
+            "E) species"
+        ],
+        "back": "E"
+    },
+    {
+        "front": "What is the major distinguishing characteristic of fungi?",
+        "options": [
+            "A)",
+            "gaining nutrition through ingestion",
+            "B) being sedentary",
+            "C)",
+            "being prokaryotic",
+            "D) absorbing dissolved nutrients",
+            "E)",
+            "being decomposers of dead organisms"
+        ],
+        "back": "D"
+    },
+    {
+        "front": "What are archaea?",
+        "options": [
+            "A) Prokaryotes characterized as extremophiles",
+            "that share some bacterial and some eukaryotic traits.",
+            "B)",
+            "Organisms that are adapted to high temperature environments, such as",
+            "in volcanic springs.",
+            "C) Single-celled organisms that are killed",
+            "by the application of antibiotics at certain concentrations.",
+            "D)",
+            "Bacteria-like organisms that can live only in extreme salt",
+            "environments.",
+            "E) Primitive protist-like creatures possessing",
+            "fewer than two chromosomes per cell."
+        ],
+        "back": "A"
+    },
+    {
+        "front": "According to Darwinian theory, which of the following exhibits the greatest fitness for evolutionary success?",
+        "options": [
+            "A) the species with",
+            "the longest life",
+            "B) the individuals within a population that",
+            "have the greatest reproductive success",
+            "C) the phylum with",
+            "members that occupy the greatest number of habitats",
+            "D) the",
+            "community of organisms that is capable of living in the most",
+            "nutrient-poor biome",
+            "E) the organism that produces its own",
+            "nutrients most efficiently"
+        ],
+        "back": "B"
+    },
+    {
+        "front": "Similarities and differences among/between life-forms over time are most efficiently recorded by scientists in which field(s) of study?",
+        "options": [
+            "A) paleontology",
+            "B) paleontology and anatomy",
+            "C)",
+            "paleontology, anatomy, and taxonomy",
+            "D) paleontology, anatomy,",
+            "taxonomy, and genetics",
+            "E) paleontology, anatomy, taxonomy,",
+            "genetics, and ecology"
+        ],
+        "back": "E"
+    },
+    {
+        "front": "Why is the theme of evolution considered to be the core theme of biology by biologists?",
+        "options": [
+            "A) It provides a framework within which",
+            "all biological investigation makes sense.",
+            "B) It is recognized as",
+            "the core theme of biology by organizations such as the National",
+            "Science Foundation.",
+            "C) Controversy about this theory provides a",
+            "basis for a great deal of experimental research.",
+            "D) Since it",
+            "cannot be proven, biologists will be able to study evolutionary",
+            "possibilities for many years.",
+            "E) Biologists do not subscribe to",
+            "alternative models."
+        ],
+        "back": "A"
+    },
+    {
+        "front": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+        "options": [
+            "A) hypothesis-based",
+            "science.",
+            "B) discovery science.",
+            "C) experimental science.",
+            "D) quantitative science.",
+            "E) qualitative science."
+        ],
+        "back": "B"
+    },
+    {
+        "front": "Collecting data based on observation is an example of ________; analyzing this data to reach a conclusion is an example of ________ reasoning.",
+        "options": [
+            "A) hypothesis-based science; inductive",
+            "B) the",
+            "process of science; deductive",
+            "C) discovery science; inductive",
+            "D) descriptive science; deductive",
+            "E) hypothesis-based",
+            "science; deductive"
+        ],
+        "back": "C"
+    },
+    {
+        "front": "When applying the process of science, which of these is tested?",
+        "options": [
+            "A) a question",
+            "B) a result",
+            "C) an observation",
+            "D)",
+            "a prediction",
+            "E) a hypothesis"
+        ],
+        "back": "D"
+    },
+    {
+        "front": "A controlled experiment is one in which",
+        "options": [
+            "A) the experiment is",
+            "repeated many times to ensure that the results are accurate.",
+            "B)",
+            "the experiment proceeds at a slow pace to guarantee that the scientist",
+            "can carefully observe all reactions and process all experimental data.",
+            "C) there are at least two groups, one of which does not receive",
+            "the experimental treatment.",
+            "D) there are at least two groups,",
+            "one differing from the other by two or more variables.",
+            "E) there",
+            "is one group for which the scientist controls all variables."
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Why is it important that an experiment include a control group?",
+        "options": [
+            "A) The control group is the group that the researcher is in",
+            "control of, the group in which the researcher predetermines the",
+            "results.",
+            "B) The control group provides a reserve of experimental",
+            "subjects.",
+            "C) A control group is required for the development of",
+            "an \"If…then\" statement.",
+            "D) A control group assures",
+            "that an experiment will be repeatable.",
+            "E) Without a control",
+            "group, there is no basis for knowing if a particular result is due to",
+            "the variable being tested."
+        ],
+        "back": "E"
+    },
+    {
+        "front": "The application of scientific knowledge for some specific purpose is known as",
+        "options": [
+            "A) technology.",
+            "B) deductive science.",
+            "C)",
+            "inductive science.",
+            "D) anthropologic science.",
+            "E) pure science."
+        ],
+        "back": "A"
+    },
+    {
+        "front": "Which of the following are qualities of any good scientific hypothesis? I. It is testable. II. It is falsifiable. III. It produces quantitative data. IV. It produces results that can be replicated.",
+        "options": [
+            "A) I only",
+            "B) II only",
+            "C) III only",
+            "D) I and II",
+            "E) III and IV"
+        ],
+        "back": "D"
+    },
+    {
+        "front": "When a hypothesis cannot be written in an \"If…then\" format, what does this mean?",
+        "options": [
+            "A) It does not represent deductive",
+            "reasoning.",
+            "B) It cannot be a scientific hypothesis.",
+            "C) The",
+            "subject cannot be explored scientifically.",
+            "D) The hypothesizer",
+            "does not have sufficient information.",
+            "E) It cannot be testable."
+        ],
+        "back": "A"
+    },
+    {
+        "front": "In presenting data that result from an experiment, a group of students show that most of their measurements fall on a straight diagonal line on their graph. However, two of their data points are \"outliers\" and fall far to one side of the expected relationship. What should they do?",
+        "options": [
+            "A) Do not show these points",
+            "but write a footnote that the graph represents the correct data.",
+            "B) Average several trials and therefore rule out the improbable",
+            "results.",
+            "C) Show all results obtained and then try to explore",
+            "the reason(s) for these outliers.",
+            "D) Throw out this set of data",
+            "and try again.",
+            "E) Change the details of the experiment until",
+            "they can obtain the expected results."
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Which of the following is the best description of a control for an experiment?",
+        "options": [
+            "A) The control group is kept in an unchanging",
+            "environment.",
+            "B) The control is left alone by the experimenters.",
+            "C) The control group is matched with the experimental group",
+            "except for the one experimental variable.",
+            "D) The control group",
+            "is exposed to only one variable rather than several.",
+            "E) Only the",
+            "experimental group is tested or measured."
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Given the cooperativity of science, which of the following is most likely to result in an investigator being intellectually looked down upon by other scientists?",
+        "options": [
+            "A) Making money as the result of",
+            "studies in which a new medication is discovered.",
+            "B) Doing",
+            "meticulous experiments that show data that contradict what has been",
+            "previously reported by the scientific community.",
+            "C) Spending",
+            "most of a lifetime investigating a small and seemingly unimportant",
+            "organism.",
+            "D) Getting negative results from the same set of",
+            "experiments.",
+            "E) Being found to have falsified or created data to",
+            "better fit a hypothesis."
+        ],
+        "back": "E"
+    },
+    {
+        "front": "Which of these is an example of inductive reasoning?",
+        "options": [
+            "A)",
+            "Hundreds of individuals of a species have been observed and all are",
+            "photosynthetic; therefore, the species is photosynthetic.",
+            "B)",
+            "These organisms live in sunny parts of this area so they are able to",
+            "photosynthesize.",
+            "C) If horses are always found grazing on grass,",
+            "they can be only herbivores and not omnivores.",
+            "D) If protists",
+            "are all single-celled, then they are incapable of aggregating.",
+            "E) If two species are members of the same genus, they are more",
+            "alike than each of them could be to a different genus."
+        ],
+        "back": "A"
+    },
+    {
+        "front": "In a high school laboratory, which of the following constitutes an experiment? I. learning to use a microscope by examining fixed specimens on slides II. being able to examine swimming protists under a microscope III. extracting pigments from plant leaves and separating the types of pigments for identification IV. preparing root tips for examination by staining them",
+        "options": [
+            "A) I only",
+            "B) II only",
+            "C) III only",
+            "D) II and III only",
+            "E)",
+            "II, III, and IV"
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Which of the following best describes a model organism?",
+        "options": [
+            "A) It",
+            "is often pictured in textbooks and easy for students to imagine.",
+            "B) It lends itself to many studies that are useful to beginning",
+            "students.",
+            "C) It is well studied, easy to grow, and results are",
+            "widely applicable.",
+            "D) It is small, inexpensive to raise, and",
+            "lives a long time.",
+            "E) It has been chosen for study by the",
+            "earliest biologists."
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Why is a scientific topic best discussed by people of varying points of view, a variety of subdisciplines, and diverse cultures?",
+        "options": [
+            "A)",
+            "They can rectify each other's approach to make it truly scientific.",
+            "B) Robust and critical discussion between diverse groups",
+            "improves scientific thinking.",
+            "C) Scientists can explain to",
+            "others that they need to work in isolation to utilize the scientific",
+            "method more productively.",
+            "D) This is another way of making",
+            "science more reproducible.",
+            "E) Scientists need to exchange their",
+            "ideas with other disciplines and cultures so that all groups are in",
+            "consensus with the course of future research."
+        ],
+        "back": "B"
+    },
+    {
+        "front": "What do these two plants have in common?",
+        "options": [
+            "A) adaptations to",
+            "extreme heat",
+            "B) adaptations to conserve water",
+            "C) identical",
+            "stem structures",
+            "D) identical flower structures",
+            "E) lack of photosynthesis"
+        ],
+        "back": "B"
+    },
+    {
+        "front": "Use the following information to answer questions 47 - 50. Golden algae are a group of protists whose color is due to carotenoid pigments: yellow and brown. Most have two flagella and all are photosynthetic. A group of students was given a significant sample of one of these (Dinobryon) that is colonial. Their instructions for the project were to design two or more experiments that could be done with these organisms. Since these organisms are protists, which of these  characteristics could the students assume to be true?",
+        "options": [
+            "A) The  organisms are photosynthetic.",
+            "B) All of",
+            "them are marine.",
+            "C) They are single-celled.",
+            "D) They lack",
+            "membrane-bound  organelles.",
+            "E) Each has a single circular",
+            "molecule of DNA."
+        ],
+        "back": "A"
+    },
+    {
+        "front": "The students decide that for one of their experiments, they want to see whether the organisms can photosynthesize. Which of the following is the best hypothesis?",
+        "options": [
+            "A) If the Dinobryon can live > 5 days",
+            "without added food, they must be able to photosynthesize.",
+            "B) If",
+            "the Dinobryon can live without exposure to light for > 5 days, they",
+            "must be able to photosynthesize.",
+            "C) If the Dinobryon",
+            "photosynthesize, they must need no other minerals or nutrients and",
+            "will be able to live in distilled water and light alone.",
+            "D) If",
+            "the Dinobryon are kept in the dark, one-half will be expected to die",
+            "in 5 days.",
+            "E) If the Dinobryon are able to photosynthesize, the",
+            "students should be able to extract photosynthetic pigments."
+        ],
+        "back": "E"
+    },
+    {
+        "front": "For their second experiment, the students want to know whether the Dinobryon have to live in colonies or can be free living. How might they proceed?",
+        "options": [
+            "A) Observe each day to see whether new organisms",
+            "are ever reproduced as single cells.",
+            "B) Observe whether only",
+            "specialized cells are able to divide to produce new colonies.",
+            "C)",
+            "Divide a sample into single cells and measure the length of time they",
+            "remain this way.",
+            "D) Divide a sample into single cells and",
+            "observe them.",
+            "E) Divide a sample into single cells and see",
+            "whether they come back together."
+        ],
+        "back": "C"
+    },
+    {
+        "front": "The students plan to gather data from the project. Which of the following would be the best way to present what they gather from experimental groups as opposed to controls?",
+        "options": [
+            "A) qualitatively,",
+            "noting color, size, and so on",
+            "B) measuring the number of new",
+            "colonies formed during every 12-hour period",
+            "C) counting the",
+            "number of new colonies after a week",
+            "D) measuring the size of",
+            "each new colony in millimeters (mm) of length",
+            "E) measuring the",
+            "dry weight of all new colonies in grams"
+        ],
+        "back": "B"
+    },
+    {
+        "front": "The following is a list of biology themes discussed in Chapter 1. Use them to answer questions 51 - 54. I. New properties emerge at each level in the biological hierarchy. II. Organisms interact with other organisms and the physical environment. III. Life requires energy transfer and transformation. IV. Structure and function are correlated at all levels of biological organization. V. Cells are an organism's basic units of structure and function. VI. The continuity of life is based on heritable information in the form of DNA. VII. Feedback mechanisms regulate biological systems. VIII. Evolution accounts for the unity and diversity of life. Which theme(s) is/are best illustrated by an experiment in which a biologist seeks a medication that will inhibit pain responses in a cancer patient?",
+        "options": [
+            "A) II",
+            "B) VII",
+            "C) III and V",
+            "D) V",
+            "and VIII",
+            "E) VI and VII"
+        ],
+        "back": "B"
+    },
+    {
+        "front": "Which theme(s) is/are best illustrated by a group of investigators who are trying to classify and explain the ecology of an area known as the Big Thicket?",
+        "options": [
+            "A) I only",
+            "B) II only",
+            "C) VIII only",
+            "D) IV and VI",
+            "E) I and II"
+        ],
+        "back": "E"
+    },
+    {
+        "front": "Which theme(s) is/are illustrated when a group of students is trying to establish which phase of cell division in root tips happens most quickly?",
+        "options": [
+            "A) IV only",
+            "B) V only",
+            "C) VII only",
+            "D)",
+            "IV, V, and VI",
+            "E) V, VI, and VII"
+        ],
+        "back": "D"
+    },
+    {
+        "front": "Which theme(s) is/are illustrated when a biology class is comparing the rates of photosynthesis between leaves of a flowering plant species (Gerbera jamesonii) and a species of fern (Polypodium polypodioides)?",
+        "options": [
+            "A) I only",
+            "B) II only",
+            "C) I and III",
+            "D) I and VII",
+            "E) I, III, and V"
+        ],
+        "back": "E"
+    },
+    {
+        "front": "Questions 55 - 64 are from the end-of-chapter \"Test Your Understanding\" section in Chapter 1 of the textbook. All the organisms on your campus make up",
+        "options": [
+            "A) an ecosystem.",
+            "B) a community.",
+            "C) a population.",
+            "D) an experimental",
+            "group.",
+            "E) a taxonomic domain."
+        ],
+        "back": "B"
+    },
+    {
+        "front": "Which of the following is a correct sequence of levels in life's hierarchy, proceeding downward from an individual animal?",
+        "options": [
+            "A)",
+            "brain, organ system, nerve cell, nervous tissue",
+            "B) organ system,",
+            "nervous tissue, brain",
+            "C) organism, organ system, tissue, cell,",
+            "organ",
+            "D) nervous system, brain, nervous tissue, nerve cell",
+            "E) organ system, tissue, molecule, cell"
+        ],
+        "back": "D"
+    },
+    {
+        "front": "Which of the following is not an observation or inference on which Darwin's theory of natural selection is based?",
+        "options": [
+            "A) Poorly adapted",
+            "individuals never produce offspring.",
+            "B) There is heritable",
+            "variation among individuals.",
+            "C) Because of overproduction of",
+            "offspring, there is competition for limited resources.",
+            "D)",
+            "Individuals whose inherited characteristics best fit them to the",
+            "environment will generally produce more offspring.",
+            "E) A",
+            "population can become adapted to its environment over time."
+        ],
+        "back": "A"
+    },
+    {
+        "front": "Systems biology is mainly an attempt to",
+        "options": [
+            "A) analyze genomes from",
+            "different species.",
+            "B) simplify complex problems by reducing the",
+            "system into smaller, less complex units.",
+            "C) understand the",
+            "behavior of entire biological systems.",
+            "D) build high-throughput",
+            "machines for the rapid acquisition of biological data.",
+            "E) speed",
+            "up the technological application of scientific knowledge."
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Protists and bacteria are grouped into different domains because",
+        "options": [
+            "A) protists eat bacteria.",
+            "B) bacteria are not made of",
+            "cells.",
+            "C) protists have a membrane-bounded nucleus, which",
+            "bacterial cells lack.",
+            "D) bacteria decompose protists.",
+            "E)",
+            "protists are photosynthetic."
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Which of the following best demonstrates the unity among all organisms?",
+        "options": [
+            "A) matching DNA nucleotide sequences",
+            "B) descent",
+            "with modification",
+            "C) the structure and function of DNA",
+            "D)",
+            "natural selection",
+            "E) emergent properties"
+        ],
+        "back": "C"
+    },
+    {
+        "front": "A controlled experiment is one that",
+        "options": [
+            "A) proceeds slowly enough",
+            "that a scientist can make careful records of the results.",
+            "B)",
+            "tests experimental and control groups in parallel.",
+            "C) is",
+            "repeated many times to make sure the results are accurate.",
+            "D)",
+            "keeps all variables constant.",
+            "E) is supervised by an experienced scientist."
+        ],
+        "back": "B"
+    },
+    {
+        "front": "Which of the following statements best distinguishes hypotheses from theories in science?",
+        "options": [
+            "A) Theories are hypotheses that have been",
+            "proved.",
+            "B) Hypotheses are guesses; theories are correct answers.",
+            "C) Hypotheses usually are relatively narrow in scope; theories",
+            "have broad explanatory power.",
+            "D) Hypotheses and theories are",
+            "essentially the same thing.",
+            "E) Theories are proved true;",
+            "hypotheses are often falsified."
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Which of the following is an example of qualitative data?",
+        "options": [
+            "A)",
+            "The temperature decreased from 20°C to 15°C.",
+            "B) The plant's",
+            "height is 25 centimeters (cm).",
+            "C) The fish swam in a zigzag",
+            "motion.",
+            "D) The six pairs of robins hatched an average of three",
+            "chicks.",
+            "E) The contents of the stomach are mixed every 20 seconds."
+        ],
+        "back": "C"
+    },
+    {
+        "front": "Which of the following best describes the logic of scientific inquiry?",
+        "options": [
+            "A) If I generate a testable hypothesis, tests and",
+            "observations will support it.",
+            "B) If my prediction is correct, it",
+            "will lead to a testable hypothesis.",
+            "C) If my observations are",
+            "accurate, they will support my hypothesis.",
+            "D) If my hypothesis",
+            "is correct, I can expect certain test results.",
+            "E) If my",
+            "experiments are set up right, they will lead to a testable hypothesis."
+        ],
+        "back": "D"
+    }
+]
