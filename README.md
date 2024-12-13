@@ -1,4 +1,3 @@
-````markdown
 # EasyNoteCards Flashcard Scraper
 
 ## Table of Contents
@@ -46,6 +45,7 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/yourusername/easynotecards-scraper.git
    cd easynotecards-scraper
    ```
+
 ````
 
 2. **Create a Virtual Environment (Optional but Recommended)**
@@ -310,6 +310,4 @@ For any questions, suggestions, or feedback, please reach out:
 
 _Happy Scraping! 🚀_
 
-```
-
-```
+````
