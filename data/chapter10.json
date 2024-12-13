@@ -1,0 +1,969 @@
+[
+    {
+        "front": "Using the yeast signal transduction pathways, both types of mating cells release the mating factors. These factors bind to specific receptors on the correct cells,",
+        "options": [
+            "A) which induce changes in the cells that lead to cell fusion.",
+            "B) which produce more of the a factor in a positive feedback.",
+            "C) then one cell nucleus binds the mating factors and produces a new nucleus in the opposite cell.",
+            "D) stimulating cell membrane disintegration, releasing the mating factors that lead to new yeast cells.",
+            "E) which in turn releases a growth factor that stimulates mitosis in both cells."
+        ],
+        "back": "A",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "What is most likely to happen to an animal's target cells that lack receptors for local regulators?",
+        "options": [
+            "A) They might compensate by receiving nutrients via a factor.",
+            "B) They could develop normally in response to neurotransmitters instead.",
+            "C) They could divide but never reach full size.",
+            "D) They might not be able to multiply in response to growth factors from nearby cells.",
+            "E) Hormones would not be able to interact with target cells."
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Which of the following is a likely explanation of why natural selection favored the evolution of signals for sexual reproduction?",
+        "options": [
+            "A) Even in the simplest organisms, sexual reproduction required several coordinated responses by cells.",
+            "B) Multicellular eukaryotes required signals that were responded to by multiple organ systems.",
+            "C) Cells of several kinds of mating types needed to sort themselves to allow self-recognition.",
+            "D) Rooted plants required chemical diffusible signals that could travel throughout the organism.",
+            "E) Hormones required a mechanism for introducing changes in their target tissues."
+        ],
+        "back": "A",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Which of the following is characterized by a cell releasing a signal molecule into the environment, followed by a number of cells in the immediate vicinity responding?",
+        "options": [
+            "A) hormonal signaling",
+            "B) autocrine signaling",
+            "C) paracrine signaling",
+            "D) endocrine signaling",
+            "E) synaptic signaling"
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "In the formation of biofilms, such as those forming on unbrushed teeth, cell signaling serves which function?",
+        "options": [
+            "A) formation of mating complexes",
+            "B) secretion of apoptotic signals",
+            "C) aggregation of bacteria that can cause cavities",
+            "D) secretion of substances that inhibit foreign bacteria",
+            "E) digestion of unwanted parasite populations"
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "In yeast signal transduction, the yeast cells",
+        "options": [
+            "A) must physically and directly interact.",
+            "B) produce signal molecules that change themselves so they can interact with one another.",
+            "C) produce response molecules that diffuse to other yeast cells.",
+            "D) secrete molecules that result in response by other yeast cells.",
+            "E) mate, after which the new cells secrete hybrid signals."
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "In which of the following ways do plant hormones differ from hormones in animals?",
+        "options": [
+            "A) Plant hormones interact primarily with intracellular receptors.",
+            "B) Plant hormones may travel in air or through vascular systems.",
+            "C) Animal hormones are found in much greater concentration.",
+            "D) Plant hormones are synthesized from two or more distinct molecules.",
+            "E) Animal hormones are primarily for mating and embryonic development."
+        ],
+        "back": "B",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "In an experiment to track the movement of growth factor molecules from secretion to the point of receptor binding in a particular species of mammal, a student found a 20-fold reduction in mm traveled when in the presence of an adrenal hormone. This is in part attributable to which of the following?",
+        "options": [
+            "A) The growth factor is a paracrine signal.",
+            "B) The growth factor depends on osmosis.",
+            "C) The mammal only carries growth factor through the lymph.",
+            "D) The growth factor is an exocrine signal.",
+            "E) The growth factor is an endocrine signal."
+        ],
+        "back": "A",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "When a neuron responds to a particular neurotransmitter by opening gated ion channels, the neurotransmitter is serving as which part of the signal pathway?",
+        "options": [
+            "A) receptor",
+            "B) relay molecule",
+            "C) transducer",
+            "D) signal molecule",
+            "E) endocrine molecule"
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Of the following, a receptor protein in a membrane that recognizes a chemical signal is most similar to",
+        "options": [
+            "A) the active site of an allosteric enzyme that binds to a specific substrate.",
+            "B) tRNA specifying which amino acids are in a polypeptide.",
+            "C) a metabolic pathway operating within a specific organelle.",
+            "D) an enzyme having an optimum pH and temperature for activity.",
+            "E) an antibody in the immune system."
+        ],
+        "back": "A",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Which of the following is true for the signaling system in an animal cell that lacks the ability to produce GTP?",
+        "options": [
+            "A) It would not be able to activate and inactivate the G protein on the cytoplasmic side of the plasma membrane.",
+            "B) It could activate only the epinephrine system.",
+            "C) It would be able to carry out reception and transduction but would not be able to respond to a signal.",
+            "D) It would use ATP instead of GTP to activate and inactivate the G protein on the cytoplasmic side of the plasma membrane.",
+            "E) It would employ a transduction pathway directly from an external messenger."
+        ],
+        "back": "A",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Testosterone functions inside a cell by",
+        "options": [
+            "A) acting as a signal receptor that activates tyrosine kinases.",
+            "B) binding with a receptor protein that enters the nucleus and activates specific genes.",
+            "C) acting as a steroid signal receptor that activates ion channel proteins.",
+            "D) becoming a second messenger that inhibits adenylyl cyclase.",
+            "E) coordinating a phosphorylation cascade that increases spermatogenesis."
+        ],
+        "back": "B",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Which of the following is true of transcription factors?",
+        "options": [
+            "A) They regulate the synthesis of DNA in response to a signal.",
+            "B) They transcribe ATP into cAMP.",
+            "C) They initiate the epinephrine response in animal cells.",
+            "D) They control gene expression.",
+            "E) They regulate the synthesis of lipids in the cytoplasm."
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "One of the major categories of receptors in the plasma membrane reacts by forming dimers, adding phosphate groups, and then activating relay proteins. Which type does this?",
+        "options": [
+            "A) G protein-coupled receptors",
+            "B) ligand-gated ion channels",
+            "C) steroid receptors",
+            "D) receptor tyrosine kinases"
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Because most receptors are membrane proteins, which of the following is usually true?",
+        "options": [
+            "A) They lead to changes in intracellular ion concentration.",
+            "B) They open and close in response to protein signals.",
+            "C) They are only attached to one membrane surface: exterior or interior.",
+            "D) They preferentially bind with lipid or glycolipid signal molecules.",
+            "E) They change their conformation after binding with signal polypeptides."
+        ],
+        "back": "E",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Since steroid receptors are located intracellularly, which of the following is true?",
+        "options": [
+            "A) The receptor molecules are themselves lipids or glycolipids.",
+            "B) The steroid/receptor complex can cross the nuclear membrane.",
+            "C) The unbound steroid receptors are quickly recycled by lysosomes.",
+            "D) The concentration of steroid receptors must be relatively high in most cells.",
+            "E) The receptor molecules are free to move in and out of most organelles."
+        ],
+        "back": "B",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Receptor tyrosine kinases (RTKs) are found at high levels on various cancer cells. A protein, Herceptin, has been found to bind to an RTK known as HER2. This information can now be utilized in breast cancer treatment if which of the following is true?",
+        "options": [
+            "A) If Herceptin is found in the breast lymph nodes of the patient.",
+            "B) If HER2, administered by injection, is in sufficient concentration.",
+            "C) If the patient's cancer cells have detectable HER2.",
+            "D) If the patient's genome codes for the HER2 receptor.",
+            "E) If the patient's genome codes for the manufacture of Herceptin."
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "The receptors for a group of signaling molecules known as growth factors are often",
+        "options": [
+            "A) ligand-gated ion channels.",
+            "B) G protein-coupled receptors.",
+            "C) cyclic AMP.",
+            "D) receptor tyrosine kinases.",
+            "E) neurotransmitters."
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "In general, a signal transmitted via phosphorylation of a series of proteins",
+        "options": [
+            "A) brings a conformational change to each protein.",
+            "B) requires binding of a hormone to a cytosol receptor.",
+            "C) cannot occur in yeasts because they lack protein phosphatases.",
+            "D) requires phosphorylase activity.",
+            "E) allows target cells to change their shape and therefore their activity."
+        ],
+        "back": "A",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Sutherland discovered that epinephrine signals",
+        "options": [
+            "A) a decrease in levels of cAMP as a result of bypassing the plasma membrane.",
+            "B) lower blood glucose by binding to liver cells.",
+            "C) interactions with insulin inside muscle cells.",
+            "D) interactions directly with glycogen phosphorylase.",
+            "E) elevation of cytosolic concentrations of cyclic AMP."
+        ],
+        "back": "E",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Which of the following is the best explanation for the inability of a specific animal cell to reduce the Ca2⁺ concentration in its cytosol compared with the extracellular fluid?",
+        "options": [
+            "A) blockage of the synaptic signal",
+            "B) loss of transcription factors",
+            "C) insufficient ATP levels in the cytoplasm",
+            "D) low oxygen concentration around the cell",
+            "E) low levels of protein kinase in the cell"
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "The toxin of Vibrio cholerae causes profuse diarrhea because it",
+        "options": [
+            "A) modifies a G protein involved in regulating salt and water secretion.",
+            "B) decreases the cytosolic concentration of calcium ions, making the cells hypotonic.",
+            "C) binds with adenylyl cyclase and triggers the formation of cAMP.",
+            "D) signals IP3 to act as a second messenger for the release of calcium.",
+            "E) modifies calmodulin and activates a cascade of protein kinases."
+        ],
+        "back": "A",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Which of the following would be inhibited by a drug that specifically blocks the addition of phosphate groups to proteins?",
+        "options": [
+            "A) G protein-coupled receptor signaling",
+            "B) ligand-gated ion channel signaling",
+            "C) adenylyl cyclase activity",
+            "D) phosphatase activity",
+            "E) receptor tyrosine kinase activity"
+        ],
+        "back": "E",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Which of the following most likely would be an immediate result of growth factor binding to its receptor?",
+        "options": [
+            "A) protein kinase activity",
+            "B) adenylyl cyclase activity",
+            "C) GTPase activity",
+            "D) protein phosphatase activity",
+            "E) phosphorylase activity"
+        ],
+        "back": "A",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "An inhibitor of phosphodiesterase activity would have which of the following effects?",
+        "options": [
+            "A) block the response of epinephrine",
+            "B) decrease the amount of cAMP in the cytoplasm",
+            "C) block the activation of G proteins in response to epinephrine binding to its receptor",
+            "D) prolong the effect of epinephrine by maintaining elevated cAMP levels in the cytoplasm",
+            "E) block the activation of protein kinase A"
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Adenylyl cyclase has the opposite effect of which of the following?",
+        "options": [
+            "A) protein kinase",
+            "B) protein phosphatase",
+            "C) phosphodiesterase",
+            "D) phosphorylase",
+            "E) GTPase"
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Caffeine is an inhibitor of phosphodiesterase. Therefore, the cells of a person who has recently consumed coffee would have increased levels of",
+        "options": [
+            "A) phosphorylated proteins.",
+            "B) GTP.",
+            "C) cAMP.",
+            "D) adenylyl cyclase.",
+            "E) activated G proteins."
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "If a pharmaceutical company wished to design a drug to maintain low blood sugar levels, one approach might be to design a compound",
+        "options": [
+            "A) that activates epinephrine receptors.",
+            "B) that increases cAMP production in liver cells.",
+            "C) to block G protein activity in liver cells.",
+            "D) that increases phosphorylase activity.",
+            "E) that keeps sugar molecules from crossing the plasma membrane of liver cells."
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "If a pharmaceutical company wished to design a drug to maintain low blood sugar levels, one approach might be to design a compound",
+        "options": [
+            "A) that mimics epinephrine and can bind to the epinephrine receptor.",
+            "B) that stimulates cAMP production in liver cells.",
+            "C) to stimulate G protein activity in liver cells.",
+            "D) that increases phosphodiesterase activity.",
+            "E) that does any of the above."
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "An inhibitor of which of the following could be used to block the release of calcium from the endoplasmic reticulum?",
+        "options": [
+            "A) tyrosine kinases",
+            "B) serine/threonine kinases",
+            "C) phosphodiesterase",
+            "D) phospholipase C",
+            "E) adenylyl cyclase"
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Which of the following statements is true of signal molecules?",
+        "options": [
+            "A) When signal molecules first bind to receptor tyrosine kinases, the receptors phosphorylate a number of nearby molecules.",
+            "B) In response to some G protein-mediated signals, a special type of lipid molecule associated with the plasma membrane is cleaved to form IP₃ and calcium.",
+            "C) In most cases, signal molecules interact with the cell at the plasma membrane and then enter the cell and eventually the nucleus.",
+            "D) Toxins such as those that cause botulism and cholera interfere with the ability of activated G proteins to hydrolyze GTP to GDP, resulting in phosphodiesterase activity in the absence of an appropriate signal molecule.",
+            "E) Protein kinase A activation is one possible result of signal molecules binding to G protein-coupled receptors."
+        ],
+        "back": "E",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Which of the following is a correct association?",
+        "options": [
+            "A) kinase activity and the addition of a tyrosine",
+            "B) phosphodiesterase activity and the removal of phosphate groups",
+            "C) GTPase activity and hydrolysis of GTP to GDP",
+            "D) phosphorylase activity and the catabolism of glucose",
+            "E) adenylyl cyclase activity and the conversion of cAMP to AMP"
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "One inhibitor of cGMP is Viagra. It provides a signal that leads to dilation of blood vessels and increase of blood in the penis, facilitating erection. Since cGMP is inhibited, the signal is prolonged. The original signal that is now inhibited would have",
+        "options": [
+            "A) hydrolyzed cGMP to GMP.",
+            "B) hydrolyzed GTP to GDP.",
+            "C) phosphorylated GDP.",
+            "D) dephosphorylated cGMP.",
+            "E) removed GMP from the cell."
+        ],
+        "back": "A",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Which of the following is the best explanation for the fact that most transduction pathways have multiple steps?",
+        "options": [
+            "A) Most of the steps were already in place because they are steps in other pathways.",
+            "B) Multiple steps in a pathway require the least amount of ATP.",
+            "C) Multiple steps provide for greater possible amplification of a signal.",
+            "D) Each individual step can remove excess phosphate groups from the cytoplasm.",
+            "E) Each step can be activated by several G proteins simultaneously."
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Which of the following amino acids are most frequently phosphorylated by protein kinases in the cytoplasm during signal transduction?",
+        "options": [
+            "A) tyrosines",
+            "B) glycine and histidine",
+            "C) serine and threonine",
+            "D) glycine and glutamic acid",
+            "E) Any of the 20 amino acids are equally phosphorylated."
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "The function of phosphatases in signal transduction is best described as to",
+        "options": [
+            "A) move the phosphate group of the transduction pathway to the next molecule of a series.",
+            "B) prevent a protein kinase from being reused when there is another extracellular signal.",
+            "C) amplify the transduction signal so it affects multiple transducers.",
+            "D) amplify the second messengers such as cAMP.",
+            "E) inactivate protein kinases and turn off the signal transduction."
+        ],
+        "back": "E",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "What explains the increased concentration of Ca⁺⁺ in the ER?",
+        "options": [
+            "A) Calcium ions are actively imported from the cytoplasm into the ER.",
+            "B) Calcium concentration is kept low in the cytoplasm because of its high usage level.",
+            "C) Calcium cannot enter the plasma membrane through ion channels.",
+            "D) Calcium levels in the blood or other body fluids are extremely low.",
+            "E) The Ca ions are recycled from other molecules in the ER."
+        ],
+        "back": "A",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "In which of the following ways could signal transduction most probably be explored in research to treat cancer?",
+        "options": [
+            "A) removal of serine/threonine phosphate acceptors from transduction pathways in colon pre-cancerous growths",
+            "B) alteration of protein kinases in cell cycle regulation in order to slow cancer growth",
+            "C) increase in calcium ion uptake into the cytoplasm in order to modulate the effects of environmental carcinogens",
+            "D) expansion of the role of transduction inhibitors in the cells before they give rise to cancer",
+            "E) increase in the concentration of phosphodiesterases in order to produce more AMP"
+        ],
+        "back": "B",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "A drug designed to inhibit the response of cells to testosterone would almost certainly result in which of the following?",
+        "options": [
+            "A) lower cytoplasmic levels of cAMP",
+            "B) an increase in receptor tyrosine kinase activity",
+            "C) a decrease in transcriptional activity of certain genes",
+            "D) an increase in cytosolic calcium concentration",
+            "E) a decrease in G protein activity"
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "At puberty, an adolescent female body changes in both structure and function of several organ systems, primarily under the influence of changing concentrations of estrogens and other steroid hormones. How can one hormone, such as estrogen, mediate so many effects?",
+        "options": [
+            "A) Estrogen is produced in very large concentration and therefore diffuses widely.",
+            "B) Estrogen has specific receptors inside several cell types, but each cell responds in the same way to its binding.",
+            "C) Estrogen is kept away from the surface of any cells not able to bind it at the surface.",
+            "D) Estrogen binds to specific receptors inside many kinds of cells, each of which have different responses to its binding.",
+            "E) The subcomponents of estrogen, when metabolized, can influence cell response."
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "What are scaffolding proteins?",
+        "options": [
+            "A) ladderlike proteins that allow receptor-ligand complexes to climb through cells from one position to another",
+            "B) microtubular protein arrays that allow lipid-soluble hormones to get from the cell membrane to the nuclear pores",
+            "C) large molecules to which several relay proteins attach to facilitate cascade effects",
+            "D) relay proteins that orient receptors and their ligands in appropriate directions to facilitate their complexing",
+            "E) proteins that can reach into the nucleus of a cell to affect transcription"
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "The termination phase of cell signaling requires which of the following?",
+        "options": [
+            "A) removal of the receptor",
+            "B) activation of a different set of relay molecules",
+            "C) converting ATP to camp",
+            "D) incompatibility of the binding of the signal molecule to the receptor",
+            "E) apoptosis"
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "GTPase activity is involved in the regulation of signal transduction because it",
+        "options": [
+            "A) increases the available concentration of phosphate.",
+            "B) decreases the amount of G protein in the membrane.",
+            "C) hydrolyzes GTP binding to G protein.",
+            "D) converts cGMP to GTP.",
+            "E) phosphorylates protein kinases."
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Why has C. elegans proven to be a useful model for understanding apoptosis?",
+        "options": [
+            "A) The animal has as many genes as complex organisms, but finding those responsible is easier than in a more complex organism.",
+            "B) The nematode undergoes a fixed and easy-to-visualize number of apoptotic events during its normal development.",
+            "C) This plant has a long-studied aging mechanism that has made understanding its death just a last stage.",
+            "D) While the organism ages, its cells die progressively until the whole organism is dead.",
+            "E) All of its genes are constantly being expressed so all of its proteins are available from each cell."
+        ],
+        "back": "B",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Which of the following describes the events of apoptosis?",
+        "options": [
+            "A) The cell dies, it is lysed, its organelles are phagocytized, and its contents are recycled.",
+            "B) Its DNA and organelles become fragmented, it dies, and it is phagocytized.",
+            "C) The cell dies and the presence of its fragmented contents stimulates nearby cells to divide.",
+            "D) Its DNA and organelles are fragmented, the cell shrinks and forms blebs, and the cell self-digests.",
+            "E) Its nucleus and organelles are lysed, then the cell enlarges and bursts."
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "If an adult person has a faulty version of the human analog to ced-4 of the nematode, which of the following is most likely to result?",
+        "options": [
+            "A) neurodegeneration",
+            "B) activation of a developmental pathway found in the worm but not in humans",
+            "C) a form of cancer in which there is insufficient apoptosis",
+            "D) webbing of fingers or toes",
+            "E) excess skin exfoliation"
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Why is apoptosis potentially threatening to the healthy \"neighbors\" of a dying cell?",
+        "options": [
+            "A) Cell death would usually spread from one cell to the next via paracrine signals.",
+            "B) Lysosomal enzymes exiting the dying cell would damage surrounding cells.",
+            "C) Released cellular energy would interfere with the neighbors' energy budget.",
+            "D) Bits of membrane from the dying cell could merge with neighbors and bring in foreign receptors.",
+            "E) Neighboring cells would activate immunological responses."
+        ],
+        "back": "B",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "In C. elegans, ced-9 prevents apoptosis in a normal cell in which of the following ways?",
+        "options": [
+            "A) It prevents the caspase activity of ced-3 and ced-4.",
+            "B) Ced-9 remains inactive until it is signaled by ced-3 and other caspases.",
+            "C) Ced-9 cleaves to produce ced-3 and ced-4.",
+            "D) Ced-9 enters the nucleus and activates apoptotic genes.",
+            "E) Ced-9 prevents blebbing by its action on the cell membrane."
+        ],
+        "back": "A",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "In research on aging (both cellular aging and organismal aging), it has been found that aged cells do not progress through the cell cycle as they had previously. Which of the following would provide evidence that this is related to cell signaling?",
+        "options": [
+            "A) Growth factor ligands do not bind as efficiently to receptors.",
+            "B) Their lower hormone concentrations elicit a lesser response.",
+            "C) cAMP levels change very frequently.",
+            "D) Enzymatic activity declines.",
+            "E) ATP production decreases."
+        ],
+        "back": "A",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Where do apoptotic signals come from?",
+        "options": [
+            "A) the nucleus only",
+            "B) the ER only",
+            "C) ligand binding only",
+            "D) mitochondrial protein leakage only",
+            "E) all of the above"
+        ],
+        "back": "E",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "The human population's life expectancy has increased significantly but seems to have an upper limit. Which of the following might be described as an ecological consequence of passing that upper limit by regulating cell death?",
+        "options": [
+            "A) an increase in the relative frequency of deaths from cancer",
+            "B) an increased need for gerontologists and other professionals to care for the elderly",
+            "C) an increase in the total population of humans on the planet",
+            "D) a decrease in the ratio of younger to older members of the population",
+            "E) a decrease in the birth rate"
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Which of the following types of signaling is represented in the figure?",
+        "options": [
+            "A) autocrine",
+            "B) paracrine",
+            "C) hormonal",
+            "D) synaptic",
+            "E) long distance"
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": [
+            "https://web.archive.org/web/20170717081756im_/http://www.easynotecards.com:80/uploads/970/88/69c3b13a_13a8788d737__8000_00000079.png"
+        ]
+    },
+    {
+        "front": "In the figure, the dots in the space between the two structures represent which of the following?",
+        "options": [
+            "A) receptor molecules",
+            "B) signal transducers",
+            "C) neurotransmitters",
+            "D) hormones",
+            "E) pheromones"
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": [
+            "https://web.archive.org/web/20170717081756im_/http://www.easynotecards.com:80/uploads/970/88/69c3b13a_13a8788d737__8000_00000079.png"
+        ]
+    },
+    {
+        "front": "A major group of G protein-coupled receptors contains seven transmembrane α helices. The amino end of the protein lies at the exterior of the plasma membrane. Loops of amino acids connect the helices either at the exterior face or on the cytosol face of the membrane. The loop on the cytosol side between helices 5 and 6 is usually substantially longer than the others. Where would you expect to find the carboxyl end?",
+        "options": [
+            "A) at the exterior surface",
+            "B) at the cytosol surface",
+            "C) connected with the loop at H5 and H6",
+            "D) between the membrane layers"
+        ],
+        "back": "B",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "A major group of G protein-coupled receptors contains seven transmembrane α helices. The amino end of the protein lies at the exterior of the plasma membrane. Loops of amino acids connect the helices either at the exterior face or on the cytosol face of the membrane. The loop on the cytosol side between helices 5 and 6 is usually substantially longer than the others. The coupled G protein most likely interacts with this receptor",
+        "options": [
+            "A) at the NH₃ end.",
+            "B) at the COO– end.",
+            "C) along the exterior margin.",
+            "D) along the interior margin.",
+            "E) at the loop between H5 and H6."
+        ],
+        "back": "E",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "A major group of G protein-coupled receptors contains seven transmembrane α helices. The amino end of the protein lies at the exterior of the plasma membrane. Loops of amino acids connect the helices either at the exterior face or on the cytosol face of the membrane. The loop on the cytosol side between helices 5 and 6 is usually substantially longer than the others. If you wish to design an experiment to block the G protein-coupled receptor interaction, the block would preferentially affect which of the following?",
+        "options": [
+            "A) the exterior (cytoplasmic) end of the receptor",
+            "B) the cytosolic end of the receptor",
+            "C) the phospholipid's transmembrane domain",
+            "D) the amino acid sequence in the binding site for the G protein",
+            "E) the amino acids in the binding site for the transduction molecules"
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Affinity chromatography is a method that can be used to purify cell-surface receptors, while they retain their hormone-binding ability. A ligand (hormone) for a receptor of interest is chemically linked to polystyrene beads. A solubilized preparation of membrane proteins is passed over a column containing these beads. Only the receptor binds to the beads. When an excess of the ligand (hormone) is poured through the column after the receptor binding step, what do you expect will occur?",
+        "options": [
+            "A) The ligand will attach to those beads that have the receptor and remain on the column.",
+            "B) The ligand will cause the receptor to be displaced from the beads and eluted out.",
+            "C) The ligand will attach to the bead instead of the receptor.",
+            "D) The ligand will cause the bead to lose its affinity by changing shape.",
+            "E) The reaction will cause a pH change due to electron transfer."
+        ],
+        "back": "B",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Affinity chromatography is a method that can be used to purify cell-surface receptors, while they retain their hormone-binding ability. A ligand (hormone) for a receptor of interest is chemically linked to polystyrene beads. A solubilized preparation of membrane proteins is passed over a column containing these beads. Only the receptor binds to the beads. This method of affinity chromatography would be expected to collect which of the following?",
+        "options": [
+            "A) molecules of the hormone",
+            "B) molecules of purified receptor",
+            "C) G proteins",
+            "D) assorted membrane proteins",
+            "E) hormone-receptor complexes"
+        ],
+        "back": "B",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Humans have receptors for two kinds of beta adrenergic compounds such as catecholamines to control cardiac muscle contractions. Some are beta 1 receptors that promote increased heart rate. Other drugs, called beta blockers, slow heart rate. Smooth muscle cells, however, have beta 2 receptors, which mediate muscle relaxation. Blockers of these effects are sometimes used to treat asthma. The description above illustrates which of the following?",
+        "options": [
+            "A) Just because a drug acts on one type of receptor does not mean that it will act on another type.",
+            "B) Beta blockers can be used effectively on any type of muscle.",
+            "C) Beta adrenergic receptors must be in the cytosol if they are going to influence contraction and relaxation.",
+            "D) The chemical structures of the beta 1 and beta 2 receptors must have the same active sites."
+        ],
+        "back": "A",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Humans have receptors for two kinds of beta adrenergic compounds such as catecholamines to control cardiac muscle contractions. Some are beta 1 receptors that promote increased heart rate. Other drugs, called beta blockers, slow heart rate. Smooth muscle cells, however, have beta 2 receptors, which mediate muscle relaxation. Blockers of these effects are sometimes used to treat asthma. The use of beta 2 antagonist drugs may be useful in asthma because they may",
+        "options": [
+            "A) increase constriction of the skeletal muscle of the chest wall.",
+            "B) increase heart rate and therefore allow the patient to get more oxygen circulated.",
+            "C) dilate the bronchioles by relaxing their smooth muscle.",
+            "D) override the beta blockers that the patient is already taking.",
+            "E) obstruct all G protein-mediated receptors."
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Humans have receptors for two kinds of beta adrenergic compounds such as catecholamines to control cardiac muscle contractions. Some are beta 1 receptors that promote increased heart rate. Other drugs, called beta blockers, slow heart rate. Smooth muscle cells, however, have beta 2 receptors, which mediate muscle relaxation. Blockers of these effects are sometimes used to treat asthma. Beta 2 antagonist drugs might also be used most effectively for which of the following?",
+        "options": [
+            "A) cardiac arrhythmias",
+            "B) increased gastric acid production",
+            "C) neuropathy of the extremities",
+            "D) increasing low blood pressure",
+            "E) decreasing peristalsis"
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Phosphorylation cascades involving a series of protein kinases are useful for cellular signal transduction because",
+        "options": [
+            "A) they are species specific.",
+            "B) they always lead to the same cellular response.",
+            "C) they amplify the original signal manyfold.",
+            "D) they counter the harmful effects of phosphatases.",
+            "E) the number of molecules used is small and fixed."
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Binding of a signaling molecule to which type of receptor leads directly to a change in the distribution of ions on opposite sides of the membrane?",
+        "options": [
+            "A) receptor tyrosine kinase",
+            "B) G protein-coupled receptor",
+            "C) phosphorylated receptor tyrosine kinase dimer",
+            "D) ligand-gated ion channel",
+            "E) intracellular receptor"
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "The activation of receptor tyrosine kinases is characterized by",
+        "options": [
+            "A) dimerization and phosphorylation.",
+            "B) dimerization and IP3 binding.",
+            "C) a phosphorylation cascade.",
+            "D) GTP hydrolysis.",
+            "E) channel protein shape change."
+        ],
+        "back": "A",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Lipid-soluble signaling molecules, such as testosterone, cross the membranes of all cells but affect only target cells because",
+        "options": [
+            "A) only target cells retain the appropriate DNA segments.",
+            "B) intracellular receptors are present only in target cells.",
+            "C) most cells lack the Y chromosome required.",
+            "D) only target cells possess the cytosolic enzymes that transduce the testosterone.",
+            "E) only in target cells is testosterone able to initiate the phosphorylation cascade leading to activated transcription factor."
+        ],
+        "back": "B",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Consider this pathway: epinephrine → G protein-coupled receptor → G protein → adenylyl cyclase → cAMP. Identify the second messenger.",
+        "options": [
+            "A) cAMP",
+            "B) G protein",
+            "C) GTP",
+            "D) adenylyl cyclase",
+            "E) G protein-coupled receptor"
+        ],
+        "back": "A",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Apoptosis involves all but which of the following?",
+        "options": [
+            "A) fragmentation of the DNA",
+            "B) cell-signaling pathways",
+            "C) activation of cellular enzymes",
+            "D) lysis of the cell",
+            "E) digestion of cellular contents by scavenger cells"
+        ],
+        "back": "D",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Which observation suggested to Sutherland the involvement of a second messenger in epinephrine's effect on liver cells?",
+        "options": [
+            "A) Enzymatic activity was proportional to the amount of calcium added to a cell-free extract.",
+            "B) Receptor studies indicated that epinephrine was a ligand.",
+            "C) Glycogen breakdown was observed only when epinephrine was administered to intact cells.",
+            "D) Glycogen breakdown was observed when epinephrine and glycogen phosphorylase were combined.",
+            "E) Epinephrine was known to have different effects on different types of cells."
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
+        "front": "Protein phosphorylation is commonly involved with all of the following except",
+        "options": [
+            "A) regulation of transcription by extracellular signaling molecules.",
+            "B) enzyme activation.",
+            "C) activation of G protein-coupled receptors.",
+            "D) activation of receptor tyrosine kinases.",
+            "E) activation of protein kinase molecules."
+        ],
+        "back": "C",
+        "unit": "Chapter 10",
+        "chapter": "Chapter 10",
+        "images": []
+    }
+]

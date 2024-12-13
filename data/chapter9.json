@@ -1,0 +1,1515 @@
+[
+    {
+        "front": "What is the term for metabolic pathways that release stored energy by breaking down complex molecules?",
+        "options": [
+            "A) anabolic pathways",
+            "B) catabolic pathways",
+            "C) fermentation pathways",
+            "D) thermodynamic pathways",
+            "E) bioenergetic pathways"
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "The molecule that functions as the reducing agent (electron donor) in a redox or oxidation-reduction reaction",
+        "options": [
+            "A) gains electrons and gains potential energy.",
+            "B) loses electrons and loses potential energy.",
+            "C) gains electrons and loses potential energy.",
+            "D) loses electrons and gains potential energy.",
+            "E) neither gains nor loses electrons, but gains or loses potential energy."
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "When electrons move closer to a more electronegative atom, what happens?",
+        "options": [
+            "A) The more electronegative atom is reduced, and energy is released.",
+            "B) The more electronegative atom is reduced, and energy is consumed.",
+            "C) The more electronegative atom is oxidized, and energy is consumed.",
+            "D) The more electronegative atom is oxidized, and energy is released.",
+            "E) The more electronegative atom is reduced, and entropy decreases."
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Why does the oxidation of organic compounds by molecular oxygen to produce CO₂ and water release free energy?",
+        "options": [
+            "A) The covalent bonds in organic molecules and molecular oxygen have more kinetic energy than the covalent bonds in water and carbon dioxide.",
+            "B) Electrons are being moved from atoms that have a lower affinity for electrons (such as C) to atoms with a higher affinity for electrons (such as O).",
+            "C) The oxidation of organic compounds can be used to make ATP.",
+            "D) The electrons have a higher potential energy when associated with water and CO₂ than they do in organic compounds.",
+            "E) The covalent bond in O₂ is unstable and easily broken by electrons from organic molecules."
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Which of the following statements describes the results of this reaction? C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O + Energy",
+        "options": [
+            "A) C₆H₁₂O₆ is oxidized and O₂ is reduced.",
+            "B) O₂ is oxidized and H₂O is reduced.",
+            "C) CO₂ is reduced and O₂ is oxidized.",
+            "D) C₆H₁₂O₆ is reduced and CO₂ is oxidized.",
+            "E) O₂ is reduced and CO₂ is oxidized."
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "When a glucose molecule loses a hydrogen atom as the result of an oxidation-reduction reaction, the molecule becomes",
+        "options": [
+            "A) hydrolyzed.",
+            "B) hydrogenated.",
+            "C) oxidized.",
+            "D) reduced.",
+            "E) an oxidizing agent."
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "When a molecule of NAD⁺ (nicotinamide adenine dinucleotide) gains a hydrogen atom (not a proton), the molecule becomes",
+        "options": [
+            "A) dehydrogenated.",
+            "B) oxidized.",
+            "C) reduced.",
+            "D) redoxed.",
+            "E) hydrolyzed."
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Which of the following statements describes NAD⁺?",
+        "options": [
+            "A) NAD⁺ is reduced to NADH during glycolysis, pyruvate oxidation, and the citric acid cycle.",
+            "B) NAD⁺ has more chemical energy than NADH.",
+            "C) NAD⁺ is oxidized by the action of hydrogenases.",
+            "D) NAD⁺ can donate electrons for use in oxidative phosphorylation.",
+            "E) In the absence of NAD⁺, glycolysis can still function."
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Where does glycolysis take place in eukaryotic cells?",
+        "options": [
+            "A) mitochondrial matrix",
+            "B) mitochondrial outer membrane",
+            "C) mitochondrial inner membrane",
+            "D) mitochondrial intermembrane space",
+            "E) cytosol"
+        ],
+        "back": "E",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "The ATP made during glycolysis is generated by",
+        "options": [
+            "A) substrate-level phosphorylation.",
+            "B) electron transport.",
+            "C) photophosphorylation.",
+            "D) chemiosmosis.",
+            "E) oxidation of NADH to NAD⁺."
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "The oxygen consumed during cellular respiration is involved directly in which process or event?",
+        "options": [
+            "A) glycolysis",
+            "B) accepting electrons at the end of the electron transport chain",
+            "C) the citric acid cycle",
+            "D) the oxidation of pyruvate to acetyl CoA",
+            "E) the phosphorylation of ADP to form ATP"
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Which process in eukaryotic cells will proceed normally whether oxygen (O₂) is present or absent?",
+        "options": [
+            "A) electron transport",
+            "B) glycolysis",
+            "C) the citric acid cycle",
+            "D) oxidative phosphorylation",
+            "E) chemiosmosis"
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "An electron loses potential energy when it",
+        "options": [
+            "A) shifts to a less electronegative atom.",
+            "B) shifts to a more electronegative atom.",
+            "C) increases its kinetic energy.",
+            "D) increases its activity as an oxidizing agent.",
+            "E) moves further away from the nucleus of the atom."
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Why are carbohydrates and fats considered high energy foods?",
+        "options": [
+            "A) They have a lot of oxygen atoms.",
+            "B) They have no nitrogen in their makeup.",
+            "C) They can have very long carbon skeletons.",
+            "D) They have a lot of electrons associated with hydrogen.",
+            "E) They are easily reduced."
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Substrate-level phosphorylation accounts for approximately what percentage of the ATP formed by the reactions of glycolysis?",
+        "options": [
+            "A) 0%",
+            "B) 2%",
+            "C) 10%",
+            "D) 38%",
+            "E) 100%"
+        ],
+        "back": "E",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "During glycolysis, when each molecule of glucose is catabolized to two molecules of pyruvate, most of the potential energy contained in glucose is",
+        "options": [
+            "A) transferred to ADP, forming ATP.",
+            "B) transferred directly to ATP.",
+            "C) retained in the two pyruvates.",
+            "D) stored in the NADH produced.",
+            "E) used to phosphorylate fructose to form fructose 6-phosphate."
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "In addition to ATP, what are the end products of glycolysis?",
+        "options": [
+            "A) CO₂ and H₂O",
+            "B) CO₂ and pyruvate",
+            "C) NADH and pyruvate",
+            "D) CO₂ and NADH",
+            "E) H₂O, FADH₂, and citrate"
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "The free energy for the oxidation of glucose to CO₂ and water is -686 kcal/mol and the free energy for the reduction of NAD⁺ to NADH is +53 kcal/mol. Why are only two molecules of NADH formed during glycolysis when it appears that as many as a dozen could be formed?",
+        "options": [
+            "A) Most of the free energy available from the oxidation of glucose is used in the production of ATP in glycolysis.",
+            "B) Glycolysis is a very inefficient reaction, with much of the energy of glucose released as heat.",
+            "C) Most of the free energy available from the oxidation of glucose remains in pyruvate, one of the products of glycolysis.",
+            "D) There is no CO₂ or water produced as products of glycolysis.",
+            "E) Glycolysis consists of many enzymatic reactions, each of which extracts some energy from the glucose molecule."
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Starting with one molecule of glucose, the energy-containing products of glycolysis are",
+        "options": [
+            "A) 2 NAD⁺, 2 pyruvate, and 2 ATP.",
+            "B) 2 NADH, 2 pyruvate, and 2 ATP.",
+            "C) 2 FADH₂, 2 pyruvate, and 4 ATP.",
+            "D) 6 CO₂, 2 ATP, and 2 pyruvate.",
+            "E) 6 CO₂, 30 ATP, and 2 pyruvate."
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "In glycolysis, for each molecule of glucose oxidized to pyruvate",
+        "options": [
+            "A) two molecules of ATP are used and two molecules of ATP are produced.",
+            "B) two molecules of ATP are used and four molecules of ATP are produced.",
+            "C) four molecules of ATP are used and two molecules of ATP are produced.",
+            "D) two molecules of ATP are used and six molecules of ATP are produced.",
+            "E) six molecules of ATP are used and six molecules of ATP are produced."
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "A molecule that is phosphorylated",
+        "options": [
+            "A) has been reduced as a result of a redox reaction involving the loss of an inorganic phosphate.",
+            "B) has a decreased chemical reactivity; it is less likely to provide energy for cellular work.",
+            "C) has been oxidized as a result of a redox reaction involving the gain of an inorganic phosphate.",
+            "D) has an increased chemical potential energy; it is primed to do cellular work.",
+            "E) has less energy than before its phosphorylation and therefore less energy for cellular work."
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Which kind of metabolic poison would most directly interfere with glycolysis?",
+        "options": [
+            "A) an agent that reacts with oxygen and depletes its concentration in the cell",
+            "B) an agent that binds to pyruvate and inactivates it",
+            "C) an agent that closely mimics the structure of glucose but is not metabolized",
+            "D) an agent that reacts with NADH and oxidizes it to NAD⁺",
+            "E) an agent that blocks the passage of electrons along the electron transport chain"
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Why is glycolysis described as having an investment phase and a payoff phase?",
+        "options": [
+            "A) It both splits molecules and assembles molecules.",
+            "B) It attaches and detaches phosphate groups.",
+            "C) It uses glucose and generates pyruvate.",
+            "D) It shifts molecules from cytosol to mitochondrion.",
+            "E) It uses stored ATP and then forms a net increase in ATP."
+        ],
+        "back": "E",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "The transport of pyruvate into mitochondria depends on the proton-motive force across the inner mitochondrial membrane. How does pyruvate enter the mitochondrion?",
+        "options": [
+            "A) active transport",
+            "B) diffusion",
+            "C) facilitated diffusion",
+            "D) through a channel",
+            "E) through a pore"
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Which of the following intermediary metabolites enters the citric acid cycle and is formed, in part, by the removal of a carbon (CO₂) from one molecule of pyruvate?",
+        "options": [
+            "A) lactate",
+            "B) glyceraldehydes-3-phosphate",
+            "C) oxaloacetate",
+            "D) acetyl CoA",
+            "E) citrate"
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "During cellular respiration, acetyl CoA accumulates in which location?",
+        "options": [
+            "A) cytosol",
+            "B) mitochondrial outer membrane",
+            "C) mitochondrial inner membrane",
+            "D) mitochondrial intermembrane space",
+            "E) mitochondrial matrix"
+        ],
+        "back": "E",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "How many carbon atoms are fed into the citric acid cycle as a result of the oxidation of one molecule of pyruvate?",
+        "options": [
+            "A) two",
+            "B) four",
+            "C) six",
+            "D) eight",
+            "E) ten"
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Carbon dioxide (CO₂) is released during which of the following stages of cellular respiration?",
+        "options": [
+            "A) glycolysis and the oxidation of pyruvate to acetyl CoA",
+            "B) oxidation of pyruvate to acetyl CoA and the citric acid cycle",
+            "C) the citric acid cycle and oxidative phosphorylation",
+            "D) oxidative phosphorylation and fermentation",
+            "E) fermentation and glycolysis"
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "A young animal has never had much energy. He is brought to a veterinarian for help and is sent to the animal hospital for some tests. There they discover his mitochondria can use only fatty acids and amino acids for respiration, and his cells produce more lactate than normal. Of the following, which is the best explanation of his condition?",
+        "options": [
+            "A) His mitochondria lack the transport protein that moves pyruvate across the outer mitochondrial membrane.",
+            "B) His cells cannot move NADH from glycolysis into the mitochondria.",
+            "C) His cells contain something that inhibits oxygen use in his mitochondria.",
+            "D) His cells lack the enzyme in glycolysis that forms pyruvate.",
+            "E) His cells have a defective electron transport chain, so glucose goes to lactate instead of to acetyl CoA."
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "During aerobic respiration, electrons travel downhill in which sequence?",
+        "options": [
+            "A) food → citric acid cycle → ATP → NAD⁺",
+            "B) food → NADH → electron transport chain → oxygen",
+            "C) glucose → pyruvate → ATP → oxygen",
+            "D) glucose → ATP → electron transport chain → NADH",
+            "E) food → glycolysis → citric acid cycle → NADH → ATP"
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "What fraction of the carbon dioxide exhaled by animals is generated by the reactions of the citric acid cycle, if glucose is the sole energy source?",
+        "options": [
+            "A) 1/6",
+            "B) 1/3",
+            "C) 1/2",
+            "D) 2/3",
+            "E) 100/100"
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Where are the proteins of the electron transport chain located?",
+        "options": [
+            "A) cytosol",
+            "B) mitochondrial outer membrane",
+            "C) mitochondrial inner membrane",
+            "D) mitochondrial intermembrane space",
+            "E) mitochondrial matrix"
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "In cellular respiration, the energy for most ATP synthesis is supplied by",
+        "options": [
+            "A) high energy phosphate bonds in organic molecules.",
+            "B) a proton gradient across a membrane.",
+            "C) converting oxygen to ATP.",
+            "D) transferring electrons from organic molecules to pyruvate.",
+            "E) generating carbon dioxide and oxygen in the electron transport chain."
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "During aerobic respiration, which of the following directly donates electrons to the electron transport chain at the lowest energy level?",
+        "options": [
+            "A) NAD+",
+            "B) NADH",
+            "C) ATP",
+            "D) ADP + Pi",
+            "E) FADH2"
+        ],
+        "back": "E",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "The primary role of oxygen in cellular respiration is to",
+        "options": [
+            "A) yield energy in the form of ATP as it is passed down the respiratory chain.",
+            "B) act as an acceptor for electrons and hydrogen, forming water.",
+            "C) combine with carbon, forming CO₂.",
+            "D) combine with lactate, forming pyruvate.",
+            "E) catalyze the reactions of glycolysis."
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Inside an active mitochondrion, most electrons follow which pathway?",
+        "options": [
+            "A) glycolysis → NADH → oxidative phosphorylation → ATP → oxygen",
+            "B) citric acid cycle → FADH₂ → electron transport chain → ATP",
+            "C) electron transport chain → citric acid cycle → ATP → oxygen",
+            "D) pyruvate → citric acid cycle → ATP → NADH → oxygen",
+            "E) citric acid cycle → NADH → electron transport chain → oxygen"
+        ],
+        "back": "E",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "During aerobic respiration, H₂O is formed. Where does the oxygen atom for the formation of the water come from?",
+        "options": [
+            "A) carbon dioxide (CO₂)",
+            "B) glucose (C₆H₁₂O₆)",
+            "C) molecular oxygen (O₂)",
+            "D) pyruvate (C₃H₃O₃-)",
+            "E) lactate (C₃H₅O₃-)"
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "In chemiosmotic phosphorylation, what is the most direct source of energy that is used to convert ADP + Pi to ATP?",
+        "options": [
+            "A) energy released as electrons flow through the electron transport system",
+            "B) energy released from substrate-level phosphorylation",
+            "C) energy released from movement of protons through ATP synthase, against the electrochemical gradient",
+            "D) energy released from movement of protons through ATP synthase, down the electrochemical gradient",
+            "E) No external source of energy is required because the reaction is exergonic."
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Energy released by the electron transport chain is used to pump H⁺ into which location in eukaryotic cells?",
+        "options": [
+            "A) cytosol",
+            "B) mitochondrial outer membrane",
+            "C) mitochondrial inner membrane",
+            "D) mitochondrial intermembrane space",
+            "E) mitochondrial matrix"
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "The direct energy source that drives ATP synthesis during respiratory oxidative phosphorylation in eukaryotic cells is",
+        "options": [
+            "A) oxidation of glucose to CO₂ and water.",
+            "B) the thermodynamically favorable flow of electrons from NADH to the mitochondrial electron transport carriers.",
+            "C) the final transfer of electrons to oxygen.",
+            "D) the proton-motive force across the inner mitochondrial membrane.",
+            "E) the thermodynamically favorable transfer of phosphate from glycolysis and the citric acid cycle intermediate molecules of ADP."
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "When hydrogen ions are pumped from the mitochondrial matrix across the inner membrane and into the intermembrane space, the result is the",
+        "options": [
+            "A) formation of ATP.",
+            "B) reduction of NAD⁺.",
+            "C) restoration of the Na⁺/K⁺ balance across the membrane.",
+            "D) creation of a proton-motive force.",
+            "E) lowering of pH in the mitochondrial matrix."
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Where is ATP synthase located in the mitochondrion?",
+        "options": [
+            "A) cytosol",
+            "B) electron transport chain",
+            "C) outer membrane",
+            "D) inner membrane",
+            "E) mitochondrial matrix"
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "It is possible to prepare vesicles from portions of the inner mitochondrial membrane. Which one of the following processes could still be carried on by this isolated inner membrane?",
+        "options": [
+            "A) the citric acid cycle",
+            "B) oxidative phosphorylation",
+            "C) glycolysis and fermentation",
+            "D) reduction of NAD⁺",
+            "E) both the citric acid cycle and oxidative phosphorylation"
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "How many oxygen molecules (O₂) are required each time a molecule of glucose (C₆H₁₂O₆) is completely oxidized to carbon dioxide and water via aerobic respiration,?",
+        "options": [
+            "A) 1",
+            "B) 3",
+            "C) 6",
+            "D) 12",
+            "E) 30"
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Which of the following produces the most ATP when glucose (C₆H₁₂O₆) is completely oxidized to carbon dioxide (CO₂) and water?",
+        "options": [
+            "A) glycolysis",
+            "B) fermentation",
+            "C) oxidation of pyruvate to acetyl CoA",
+            "D) citric acid cycle",
+            "E) oxidative phosphorylation (chemiosmosis)"
+        ],
+        "back": "E",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Approximately how many molecules of ATP are produced from the complete oxidation of two molecules of glucose (C₆H₁₂O₆) in aerobic cellular respiration?",
+        "options": [
+            "A) 2",
+            "B) 4",
+            "C) 15",
+            "D) 30-32",
+            "E) 60-64"
+        ],
+        "back": "E",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "The synthesis of ATP by oxidative phosphorylation, using the energy released by movement of protons across the membrane down their electrochemical gradient, is an example of",
+        "options": [
+            "A) active transport.",
+            "B) an endergonic reaction coupled to an exergonic reaction.",
+            "C) a reaction with a positive ΔG .",
+            "D) osmosis.",
+            "E) allosteric regulation."
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Chemiosmotic ATP synthesis (oxidative phosphorylation) occurs in",
+        "options": [
+            "A) all cells, but only in the presence of oxygen.",
+            "B) only eukaryotic cells, in the presence of oxygen.",
+            "C) only in mitochondria, using either oxygen or other electron acceptors.",
+            "D) all respiring cells, both prokaryotic and eukaryotic, using either oxygen or other electron acceptors.",
+            "E) all cells, in the absence of respiration."
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "If a cell is able to synthesize 30 ATP molecules for each molecule of glucose completely oxidized by carbon dioxide and water, how many ATP molecules can the cell synthesize for each molecule of pyruvate oxidized to carbon dioxide and water?",
+        "options": [
+            "A) 0",
+            "B) 1",
+            "C) 12",
+            "D) 14",
+            "E) 15"
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "What is proton-motive force?",
+        "options": [
+            "A) the force required to remove an electron from hydrogen",
+            "B) the force exerted on a proton by a transmembrane proton concentration gradient",
+            "C) the force that moves hydrogen into the intermembrane space",
+            "D) the force that moves hydrogen into the mitochondrion",
+            "E) the force that moves hydrogen to NAD⁺"
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "In liver cells, the inner mitochondrial membranes are about five times the area of the outer mitochondrial membranes. What purpose must this serve?",
+        "options": [
+            "A) It allows for an increased rate of glycolysis.",
+            "B) It allows for an increased rate of the citric acid cycle.",
+            "C) It increases the surface for oxidative phosphorylation.",
+            "D) It increases the surface for substrate-level phosphorylation.",
+            "E) It allows the liver cell to have fewer mitochondria."
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Brown fat cells produce a protein called thermogenin in their mitochondrial inner membrane. Thermogenin is a channel for facilitated transport of protons across the membrane. What will occur in the brown fat cells when they produce thermogenin?",
+        "options": [
+            "A) ATP synthesis and heat generation will both increase.",
+            "B) ATP synthesis will increase, and heat generation will decrease.",
+            "C) ATP synthesis will decrease, and heat generation will increase.",
+            "D) ATP synthesis and heat generation will both decrease.",
+            "E) ATP synthesis and heat generation will stay the same."
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "In a mitochondrion, if the matrix ATP concentration is high, and the intermembrane space proton concentration is too low to generate sufficient proton-motive force, then",
+        "options": [
+            "A) ATP synthase will increase the rate of ATP synthesis.",
+            "B) ATP synthase will stop working.",
+            "C) ATP synthase will hydrolyze ATP and pump protons into the intermembrane space.",
+            "D) ATP synthase will hydrolyze ATP and pump protons into the matrix."
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Which catabolic processes may have been used by cells on ancient Earth before free oxygen became available?",
+        "options": [
+            "A) glycolysis and fermentation only",
+            "B) glycolysis and the citric acid cycle only",
+            "C) glycolysis, pyruvate oxidation, and the citric acid cycle",
+            "D) oxidative phosphorylation only",
+            "E) glycolysis, pyruvate oxidation, the citric acid cycle, and oxidative phosphorylation, using an electron acceptor other than oxygen"
+        ],
+        "back": "E",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Which of the following normally occurs regardless of whether or not oxygen (O₂) is present?",
+        "options": [
+            "A) glycolysis",
+            "B) fermentation",
+            "C) oxidation of pyruvate to acetyl CoA",
+            "D) citric acid cycle",
+            "E) oxidative phosphorylation (chemiosmosis)"
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Which of the following occurs in the cytosol of a eukaryotic cell?",
+        "options": [
+            "A) glycolysis and fermentation",
+            "B) fermentation and chemiosmosis",
+            "C) oxidation of pyruvate to acetyl CoA",
+            "D) citric acid cycle",
+            "E) oxidative phosphorylation"
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Which metabolic pathway is common to both cellular respiration and fermentation?",
+        "options": [
+            "A) the oxidation of pyruvate to acetyl CoA",
+            "B) the citric acid cycle",
+            "C) oxidative phosphorylation",
+            "D) glycolysis",
+            "E) chemiosmosis"
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "The ATP made during fermentation is generated by which of the following?",
+        "options": [
+            "A) the electron transport chain",
+            "B) substrate-level phosphorylation",
+            "C) chemiosmosis",
+            "D) oxidative phosphorylation",
+            "E) aerobic respiration"
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "In the absence of oxygen, yeast cells can obtain energy by fermentation, resulting in the production of",
+        "options": [
+            "A) ATP, CO₂, and ethanol (ethyl alcohol).",
+            "B) ATP, CO₂, and lactate.",
+            "C) ATP, NADH, and pyruvate.",
+            "D) ATP, pyruvate, and oxygen.",
+            "E) ATP, pyruvate, and acetyl CoA."
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "In alcohol fermentation, NAD⁺ is regenerated from NADH by",
+        "options": [
+            "A) reduction of acetaldehyde to ethanol (ethyl alcohol).",
+            "B) oxidation of pyruvate to acetyl CoA.",
+            "C) reduction of pyruvate to form lactate.",
+            "D) oxidation of ethanol to acetyl CoA.",
+            "E) reduction of ethanol to pyruvate."
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "One function of both alcohol fermentation and lactic acid fermentation is to",
+        "options": [
+            "A) reduce NAD⁺ to NADH.",
+            "B) reduce FAD⁺ to FADH₂.",
+            "C) oxidize NADH to NAD⁺.",
+            "D) reduce FADH₂ to FAD⁺.",
+            "E) do none of the above."
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "An organism is discovered that thrives both in the presence and absence of oxygen in the air. Curiously, the consumption of sugar increases as oxygen is removed from the organism's environment, even though the organism does not gain much weight. This organism",
+        "options": [
+            "A) must use a molecule other than oxygen to accept electrons from the electron transport chain.",
+            "B) is a normal eukaryotic organism.",
+            "C) is photosynthetic.",
+            "D) is an anaerobic organism.",
+            "E) is a facultative anaerobe."
+        ],
+        "back": "E",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Which statement best supports the hypothesis that glycolysis is an ancient metabolic pathway that originated before the last universal common ancestor of life on Earth?",
+        "options": [
+            "A) Glycolysis is widespread and is found in the domains Bacteria, Archaea, and Eukarya.",
+            "B) Glycolysis neither uses nor needs O₂.",
+            "C) Glycolysis is found in all eukaryotic cells.",
+            "D) The enzymes of glycolysis are found in the cytosol rather than in a membrane-enclosed organelle.",
+            "E) Ancient prokaryotic cells, the most primitive of cells, made extensive use of glycolysis long before oxygen was present in Earth's atmosphere."
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Why is glycolysis considered to be one of the first metabolic pathways to have evolved?",
+        "options": [
+            "A) It produces much less ATP than does oxidative phosphorylation.",
+            "B) It does not involve organelles or specialized structures, does not require oxygen, and is present in most organisms.",
+            "C) It is found in prokaryotic cells but not in eukaryotic cells.",
+            "D) It relies on chemiosmosis, which is a metabolic mechanism present only in the first cells' prokaryotic cells.",
+            "E) It requires the presence of membrane-enclosed cell organelles found only in eukaryotic cells."
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "When an individual is exercising heavily and when the muscle becomes oxygen-deprived, muscle cells convert pyruvate to lactate. What happens to the lactate in skeletal muscle cells?",
+        "options": [
+            "A) It is converted to NAD⁺.",
+            "B) It produces CO₂ and water.",
+            "C) It is taken to the liver and converted back to pyruvate.",
+            "D) It reduces FADH₂ to FAD⁺.",
+            "E) It is converted to alcohol."
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "When skeletal muscle cells are oxygen-deprived, the heart still pumps. What must the heart muscle cells be able to do?",
+        "options": [
+            "A) derive sufficient energy from fermentation",
+            "B) continue aerobic metabolism when skeletal muscle cannot",
+            "C) transform lactate to pyruvate again",
+            "D) remove lactate from the blood",
+            "E) remove oxygen from lactate"
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "When skeletal muscle cells undergo anaerobic respiration, they become fatigued and painful. This is now known to be caused by",
+        "options": [
+            "A) buildup of pyruvate.",
+            "B) buildup of lactate.",
+            "C) increase in sodium ions.",
+            "D) increase in potassium ions.",
+            "E) increase in ethanol."
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "A mutation in yeast makes it unable to convert pyruvate to ethanol. How will this mutation affect these yeast cells?",
+        "options": [
+            "A) The mutant yeast will be unable to grow anaerobically.",
+            "B) The mutant yeast will grow anaerobically only when given glucose.",
+            "C) The mutant yeast will be unable to metabolize glucose.",
+            "D) The mutant yeast will die because they cannot regenerate NAD⁺ from NAD.",
+            "E) The mutant yeast will metabolize only fatty acids."
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "You have a friend who lost 7 kg (about 15 pounds) of fat on a regimen of strict diet and exercise. How did the fat leave her body?",
+        "options": [
+            "A) It was released as CO₂ and H₂O.",
+            "B) It was converted to heat and then released.",
+            "C) It was converted to ATP, which weighs much less than fat.",
+            "D) It was broken down to amino acids and eliminated from the body.",
+            "E) It was converted to urine and eliminated from the body."
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Phosphofructokinase is an important control enzyme in the regulation of cellular respiration. Which of the following statements correctly describes phosphofructokinase activity?",
+        "options": [
+            "A) It is inhibited by AMP.",
+            "B) It is activated by ATP.",
+            "C) It is activated by citrate, an intermediate of the citric acid cycle.",
+            "D) It catalyzes the conversion of fructose 1,6-bisphosphate to fructose 6-phosphate, an early step of glycolysis.",
+            "E) It is an allosteric enzyme."
+        ],
+        "back": "E",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Phosphofructokinase is an allosteric enzyme that catalyzes the conversion of fructose 6-phosphate to fructose 1,6-bisphosphate, an early step of glycolysis. In the presence of oxygen, an increase in the amount of ATP in a cell would be expected to",
+        "options": [
+            "A) inhibit the enzyme and thus slow the rates of glycolysis and the citric acid cycle.",
+            "B) activate the enzyme and thus slow the rates of glycolysis and the citric acid cycle.",
+            "C) inhibit the enzyme and thus increase the rates of glycolysis and the citric acid cycle.",
+            "D) activate the enzyme and increase the rates of glycolysis and the citric acid cycle.",
+            "E) inhibit the enzyme and thus increase the rate of glycolysis and the concentration of citrate."
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Even though plants carry on photosynthesis, plant cells still use their mitochondria for oxidation of pyruvate. When and where will this occur?",
+        "options": [
+            "A) in photosynthetic cells in the light, while photosynthesis occurs concurrently",
+            "B) in nonphotosynthesizing cells only",
+            "C) in cells that are storing glucose only",
+            "D) in all cells all the time",
+            "E) in photosynthesizing cells in the light and in other tissues in the dark"
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "In vertebrate animals, brown fat tissue's color is due to abundant blood vessels and capillaries. White fat tissue, on the other hand, is specialized for fat storage and contains relatively few blood vessels or capillaries. Brown fat cells have a specialized protein that dissipates the proton-motive force across the mitochondrial membranes. Which of the following might be the function of the brown fat tissue?",
+        "options": [
+            "A) to increase the rate of oxidative phosphorylation from its few mitochondria",
+            "B) to allow the animals to regulate their metabolic rate when it is especially hot",
+            "C) to increase the production of ATP",
+            "D) to allow other membranes of the cell to perform mitochondrial functions",
+            "E) to regulate temperature by converting most of the energy from NADH oxidation to heat"
+        ],
+        "back": "E",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "What is the purpose of beta oxidation in respiration?",
+        "options": [
+            "A) oxidation of glucose",
+            "B) oxidation of pyruvate",
+            "C) feedback regulation",
+            "D) control of ATP accumulation",
+            "E) breakdown of fatty acids"
+        ],
+        "back": "E",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Where do the catabolic products of fatty acid breakdown enter into the citric acid cycle?",
+        "options": [
+            "A) pyruvate",
+            "B) malate or fumarate",
+            "C) acetyl CoA",
+            "D) α-ketoglutarate",
+            "E) succinyl CoA"
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "What carbon sources can yeast cells metabolize to make ATP from ADP under anaerobic conditions?",
+        "options": [
+            "A) glucose",
+            "B) ethanol",
+            "C) pyruvate",
+            "D) lactic acid",
+            "E) either ethanol or lactic acid"
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "High levels of citric acid inhibit the enzyme phosphofructokinase, a key enzyme in glycolysis. Citric acid binds to the enzyme at a different location from the active site. This is an example of",
+        "options": [
+            "A) competitive inhibition.",
+            "B) allosteric regulation.",
+            "C) the specificity of enzymes for their substrates.",
+            "D) an enzyme requiring a cofactor.",
+            "E) positive feedback regulation."
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "During intense exercise, as skeletal muscle cells go into anaerobiosis, the human body will increase its catabolism of",
+        "options": [
+            "A) fats only.",
+            "B) carbohydrates only.",
+            "C) proteins only.",
+            "D) fats, carbohydrates, and proteins.",
+            "E) fats and proteins only."
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Yeast cells that have defective mitochondria incapable of respiration will be able to grow by catabolizing which of the following carbon sources for energy?",
+        "options": [
+            "A) glucose",
+            "B) proteins",
+            "C) fatty acids",
+            "D) glucose, proteins, and fatty acids",
+            "E) Such yeast cells will not be capable of catabolizing any food molecules, and will therefore die."
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Which step in Figure 9.1 shows a split of one molecule into two smaller molecules?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "In which step in Figure 9.1 is an inorganic phosphate added to the reactant?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": [
+            "https://web.archive.org/web/20170724123727im_/http://www.easynotecards.com:80/uploads/774/90/73f8d0c4_13a509a985f__8000_00000070.png"
+        ]
+    },
+    {
+        "front": "Which step in Figure 9.1 is a redox reaction?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": [
+            "https://web.archive.org/web/20170724123727im_/http://www.easynotecards.com:80/uploads/774/90/73f8d0c4_13a509a985f__8000_00000070.png"
+        ]
+    },
+    {
+        "front": "Which portion of the pathway in Figure 9.1 involves an endergonic reaction?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": [
+            "https://web.archive.org/web/20170724123727im_/http://www.easynotecards.com:80/uploads/774/90/73f8d0c4_13a509a985f__8000_00000070.png"
+        ]
+    },
+    {
+        "front": "Which portion of the pathway in Figure 9.1 contains a phosphorylation reaction in which ATP is the phosphate source?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": [
+            "https://web.archive.org/web/20170724123727im_/http://www.easynotecards.com:80/uploads/774/90/73f8d0c4_13a509a985f__8000_00000070.png"
+        ]
+    },
+    {
+        "front": "Starting with one molecule of isocitrate and ending with fumarate, how many ATP molecules can be made through substrate-level phosphorylation (see Figure 9.2)?",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 11",
+            "D) 12",
+            "E) 24"
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": [
+            "https://web.archive.org/web/20170724123727im_/http://www.easynotecards.com:80/uploads/774/90/73f8d0c4_13a509a985f__8000_00000070.png"
+        ]
+    },
+    {
+        "front": "Carbon skeletons for amino acid biosynthesis are supplied by intermediates of the citric acid cycle. Which intermediate would supply the carbon skeleton for synthesis of a five-carbon amino acid (see Figure 9.2)?",
+        "options": [
+            "A) succinate",
+            "B) malate",
+            "C) citrate",
+            "D) α-ketoglutarate",
+            "E) isocitrate"
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": [
+            "https://web.archive.org/web/20170724123727im_/http://www.easynotecards.com:80/uploads/779/95/73f8d0c4_13a509a985f__8000_00000075.png"
+        ]
+    },
+    {
+        "front": "For each mole of glucose (C₆H₁₂O₆) oxidized by cellular respiration, how many moles of CO₂ are released in the citric acid cycle (see Figure 9.2)?",
+        "options": [
+            "A) 2",
+            "B) 4",
+            "C) 6",
+            "D) 12",
+            "E) 3"
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": [
+            "https://web.archive.org/web/20170724123727im_/http://www.easynotecards.com:80/uploads/779/95/73f8d0c4_13a509a985f__8000_00000075.png"
+        ]
+    },
+    {
+        "front": "If pyruvate oxidation is blocked, what will happen to the levels of oxaloacetate and citric acid in the citric acid cycle shown in Figure 9.2?",
+        "options": [
+            "A) There will be no change in the levels of oxaloacetate and citric acid.",
+            "B) Oxaloacetate will decrease and citric acid will accumulate.",
+            "C) Oxaloacetate will accumulate and citric acid will decrease.",
+            "D) Both oxaloacetate and citric acid will decrease.",
+            "E) Both oxaloacetate and citric acid will accumulate."
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": [
+            "https://web.archive.org/web/20170724123727im_/http://www.easynotecards.com:80/uploads/779/95/73f8d0c4_13a509a985f__8000_00000075.png"
+        ]
+    },
+    {
+        "front": "Starting with citrate, which of the following combinations of products would result from three acetyl CoA molecules entering the citric acid cycle (see Figure 9.2)?",
+        "options": [
+            "A) 1 ATP, 2 CO₂, 3 NADH, and 1 FADH₂",
+            "B) 2 ATP, 2 CO₂, 3 NADH, and 3 FADH₂",
+            "C) 3 ATP, 3 CO₂, 3 NADH, and 3 FADH₂",
+            "D) 3 ATP, 6 CO₂, 9 NADH, and 3 FADH₂",
+            "E) 38 ATP, 6 CO₂, 3 NADH, and 12 FADH₂"
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": [
+            "https://web.archive.org/web/20170724123727im_/http://www.easynotecards.com:80/uploads/779/95/73f8d0c4_13a509a985f__8000_00000075.png"
+        ]
+    },
+    {
+        "front": "For each molecule of glucose that is metabolized by glycolysis and the citric acid cycle (see Figure 9.2), what is the total number of NADH + FADH₂ molecules produced?",
+        "options": [
+            "A) 4",
+            "B) 5",
+            "C) 6",
+            "D) 10",
+            "E) 12"
+        ],
+        "back": "E",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": [
+            "https://web.archive.org/web/20170724123727im_/http://www.easynotecards.com:80/uploads/779/95/73f8d0c4_13a509a985f__8000_00000075.png"
+        ]
+    },
+    {
+        "front": "Figure 9.3 shows the electron transport chain. Which of the following is the combination of substances that is initially added to the chain?",
+        "options": [
+            "A) oxygen, carbon dioxide, and water",
+            "B) NAD⁺, FAD, and electrons",
+            "C) NADH, FADH₂, and protons",
+            "D) NADH, FADH₂, and O₂",
+            "E) oxygen and protons"
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": [
+            "https://web.archive.org/web/20170724123727im_/http://www.easynotecards.com:80/uploads/779/95/73f8d0c4_13a509a985f__8000_00000075.png"
+        ]
+    },
+    {
+        "front": "Which of the following most accurately describes what is happening along the electron transport chain in Figure 9.3?",
+        "options": [
+            "A) Chemiosmosis is coupled with electron transfer.",
+            "B) Each electron carrier alternates between being reduced and being oxidized.",
+            "C) ATP is generated at each step.",
+            "D) Energy of the electrons increases at each step.",
+            "E) Molecules in the chain give up some of their potential energy."
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": [
+            "https://web.archive.org/web/20170724123727im_/http://www.easynotecards.com:80/uploads/788/5/73f8d0c4_13a509a985f__8000_00000084.png"
+        ]
+    },
+    {
+        "front": "Which of the protein complexes labeled with Roman numerals in Figure 9.3 will transfer electrons to O₂?",
+        "options": [
+            "A) complex I",
+            "B) complex II",
+            "C) complex III",
+            "D) complex IV",
+            "E) All of the complexes can transfer electrons to O₂."
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": [
+            "https://web.archive.org/web/20170724123727im_/http://www.easynotecards.com:80/uploads/788/5/73f8d0c4_13a509a985f__8000_00000084.png"
+        ]
+    },
+    {
+        "front": "What happens at the end of the chain in Figure 9.3?",
+        "options": [
+            "A) 2 electrons combine with a proton and a molecule of NAD⁺.",
+            "B) 2 electrons combine with a molecule of oxygen and two hydrogen atoms.",
+            "C) 4 electrons combine with a molecule of oxygen and 4 protons.",
+            "D) 4 electrons combine with four hydrogen and two oxygen atoms.",
+            "E) 1 electron combines with a molecule of oxygen and a hydrogen atom."
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": [
+            "https://web.archive.org/web/20170724123727im_/http://www.easynotecards.com:80/uploads/788/5/73f8d0c4_13a509a985f__8000_00000084.png"
+        ]
+    },
+    {
+        "front": "In the presence of oxygen, the three-carbon compound pyruvate can be catabolized in the citric acid cycle. First, however, the pyruvate (1) loses a carbon, which is given off as a molecule of CO₂, (2) is oxidized to form a two-carbon compound called acetate, and (3) is bonded to coenzyme A. These three steps result in the formation of",
+        "options": [
+            "A) acetyl  CoA, O₂, and ATP.",
+            "B) acetyl CoA, FADH₂, and CO₂.",
+            "C) acetyl  CoA, FAD, H₂, and CO₂.",
+            "D) acetyl CoA, NADH, H⁺, and CO₂.",
+            "E) acetyl CoA, NAD⁺, ATP, and CO₂."
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": [
+            "https://web.archive.org/web/20170724123727im_/http://www.easynotecards.com:80/uploads/788/5/73f8d0c4_13a509a985f__8000_00000084.png"
+        ]
+    },
+    {
+        "front": "In the presence of oxygen, the three-carbon compound pyruvate can be catabolized in the citric acid cycle. First, however, the pyruvate (1) loses a carbon, which is given off as a molecule of CO₂, (2) is oxidized to form a two-carbon compound called acetate, and (3) is bonded to coenzyme A. Why is coenzyme A, a sulfur-containing molecule derived from a B  vitamin, added?",
+        "options": [
+            "A) because sulfur is needed for the molecule to  enter the mitochondrion",
+            "B) in order to utilize this portion of a  B vitamin which would otherwise be a waste product from another  pathway",
+            "C) to provide a relatively unstable molecule whose  acetyl portion can be readily transferred to a compound in the citric  acid cycle",
+            "D) because it drives the reaction that regenerates  NAD⁺",
+            "E) in order to remove one molecule of CO₂"
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Exposing inner mitochondrial membranes to ultrasonic vibrations will disrupt the membranes. However, the fragments will reseal \"inside out.\" These little vesicles that result can still transfer electrons from NADH to oxygen and synthesize ATP. If the membranes are agitated further, however, the ability to synthesize ATP is lost. After the first disruption, when electron transfer and ATP  synthesis still occur, what must be present?",
+        "options": [
+            "A) all of the electron transport proteins as well as ATP synthase",
+            "B) all of the electron transport system and the ability to add CoA to acetyl groups",
+            "C) the ATP synthase system",
+            "D) the electron transport system",
+            "E) plasma membranes like those bacteria use for respiration"
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Exposing inner mitochondrial membranes to ultrasonic vibrations will disrupt the membranes. However, the fragments will reseal \"inside out.\" These little vesicles that result can still transfer electrons from NADH to oxygen and synthesize ATP. If the membranes are agitated further, however, the ability to synthesize ATP is lost. After the further agitation of the membrane vesicles, what must  be lost from the membrane?",
+        "options": [
+            "A) the ability of NADH to transfer  electrons to the first acceptor in the electron transport chain",
+            "B) the prosthetic groups like heme from the transport system",
+            "C) cytochromes",
+            "D) ATP synthase, in whole or in part",
+            "E) the contact required between inner and outer membrane surfaces"
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Exposing inner mitochondrial membranes to ultrasonic vibrations will disrupt the membranes. However, the fragments will reseal \"inside out.\" These little vesicles that result can still transfer electrons from NADH to oxygen and synthesize ATP. If the membranes are agitated further, however, the ability to synthesize ATP is lost. These inside-out membrane vesicles",
+        "options": [
+            "A) will become acidic  inside the vesicles when NADH is added.",
+            "B) will become alkaline  inside the vesicles when NADH is added.",
+            "C) will make ATP from  ADP and i if transferred to a pH 4 buffered solution after incubation  in a pH 7 buffered solution.",
+            "D) will hydrolyze ATP to pump  protons out of the interior of the vesicle to the exterior.",
+            "E)  will reverse electron flow to generate NADH from NAD⁺ in the absence  of oxygen."
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "The immediate energy source that drives ATP synthesis by ATP synthase during oxidative phosphorylation is the",
+        "options": [
+            "A) oxidation of glucose and other organic compounds.",
+            "B) flow of electrons down the electron transport chain.",
+            "C) affinity of oxygen for electrons.",
+            "D) H⁺ concentration across the membrane holding ATP synthase.",
+            "E) transfer of phosphate to ADP."
+        ],
+        "back": "D",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Which metabolic pathway is common to both fermentation and cellular respiration of a glucose molecule?",
+        "options": [
+            "A) the citric acid cycle",
+            "B) the electron transport chain",
+            "C) glycolysis",
+            "D) synthesis of acetyl CoA from pyruvate",
+            "E) reduction of pyruvate to lactate"
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "In mitochondria, exergonic redox reactions",
+        "options": [
+            "A) are the source of energy driving prokaryotic ATP synthesis.",
+            "B) are directly coupled to substrate-level phosphorylation.",
+            "C) provide the energy that establishes the proton gradient.",
+            "D) reduce carbon atoms to carbon dioxide.",
+            "E) are coupled via phosphorylated intermediates to endergonic processes."
+        ],
+        "back": "C",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "The final electron acceptor of the electron transport chain that functions in aerobic oxidative phosphorylation is",
+        "options": [
+            "A) oxygen.",
+            "B) water.",
+            "C) NAD⁺.",
+            "D) pyruvate.",
+            "E) ADP."
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "What is the oxidizing agent in the following reaction? Pyruvate + NADH + H⁺ → Lactate + NAD⁺",
+        "options": [
+            "A) oxygen",
+            "B) NADH",
+            "C) NAD⁺",
+            "D) lactate",
+            "E) pyruvate"
+        ],
+        "back": "E",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "When electrons flow along the electron transport chains of mitochondria, which of the following changes occurs?",
+        "options": [
+            "A) The pH of the matrix increases.",
+            "B) ATP synthase pumps protons by active transport.",
+            "C) The electrons gain free energy.",
+            "D) The cytochromes phosphorylate ADP to form ATP.",
+            "E) NAD⁺ is oxidized."
+        ],
+        "back": "A",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    },
+    {
+        "front": "Most CO₂ from catabolism is released during",
+        "options": [
+            "A) glycolysis.",
+            "B) the citric acid cycle.",
+            "C) lactate fermentation.",
+            "D) electron transport.",
+            "E) oxidative phosphorylation."
+        ],
+        "back": "B",
+        "unit": "Chapter 9",
+        "chapter": "Chapter 9",
+        "images": []
+    }
+]

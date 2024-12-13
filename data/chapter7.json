@@ -1,0 +1,1157 @@
+[
+    {
+        "front": "Who was/were the first to propose that cell membranes are phospholipid bilayers?",
+        "options": [
+            "A) H. Davson and J. Danielli",
+            "B) I. Langmuir",
+            "C) C. Overton",
+            "D) S. Singer and G. Nicolson",
+            "E) E. Gorter and F. Grendel"
+        ],
+        "back": "E",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Some regions of the plasma membrane, called lipid rafts, have a higher concentration of cholesterol molecules. As a result, these lipid rafts",
+        "options": [
+            "A) are more fluid than the surrounding membrane.",
+            "B) are more rigid than the surrounding membrane.",
+            "C) are able to flip from inside to outside.",
+            "D) detach from the plasma membrane and clog arteries.",
+            "E) have higher rates of lateral diffusion of lipids and proteins into and out of the lipid rafts."
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Singer and Nicolson's fluid mosaic model of the membrane proposed that",
+        "options": [
+            "A) membranes are a phospholipid bilayer.",
+            "B) membranes are a phospholipid bilayer between two layers of hydrophilic proteins.",
+            "C) membranes are a single layer of phospholipids and proteins.",
+            "D) membranes consist of protein molecules embedded in a fluid bilayer of phospholipids.",
+            "E) membranes consist of a mosaic of polysaccharides and proteins."
+        ],
+        "back": "D",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which of the following types of molecules are the major structural components of the cell membrane?",
+        "options": [
+            "A) phospholipids and cellulose",
+            "B) nucleic acids and proteins",
+            "C) phospholipids and proteins",
+            "D) proteins and cellulose",
+            "E) glycoproteins and cholesterol"
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "When biological membranes are frozen and then fractured, they tend to break along the middle of the bilayer. The best explanation for this is that",
+        "options": [
+            "A) the integral membrane proteins are not strong enough to hold the bilayer together.",
+            "B) water that is present in the middle of the bilayer freezes and is easily fractured.",
+            "C) hydrophilic interactions between the opposite membrane surfaces are destroyed on freezing.",
+            "D) the carbon-carbon bonds of the phospholipid tails are easily broken.",
+            "E) the hydrophobic interactions that hold the membrane together are weakest at this point."
+        ],
+        "back": "E",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "The presence of cholesterol in the plasma membranes of some animals",
+        "options": [
+            "A) enables the membrane to stay fluid more easily when cell temperature drops.",
+            "B) enables the animal to remove hydrogen atoms from saturated phospholipids.",
+            "C) enables the animal to add hydrogen atoms to unsaturated phospholipids.",
+            "D) makes the membrane less flexible, allowing it to sustain greater pressure from within the cell.",
+            "E) makes the animal more susceptible to circulatory disorders."
+        ],
+        "back": "A",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "According to the fluid mosaic model of cell membranes, which of the following is a true statement about membrane phospholipids?",
+        "options": [
+            "A) They can move laterally along the plane of the membrane.",
+            "B) They frequently flip-flop from one side of the membrane to the other.",
+            "C) They occur in an uninterrupted bilayer, with membrane proteins restricted to the surface of the membrane.",
+            "D) They are free to depart from the membrane and dissolve in the surrounding solution.",
+            "E) They have hydrophilic tails in the interior of the membrane."
+        ],
+        "back": "A",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which of the following is one of the ways that the membranes of winter wheat are able to remain fluid when it is extremely cold?",
+        "options": [
+            "A) by increasing the percentage of unsaturated phospholipids in the membrane",
+            "B) by increasing the percentage of cholesterol molecules in the membrane",
+            "C) by decreasing the number of hydrophobic proteins in the membrane",
+            "D) by cotransport of glucose and hydrogen",
+            "E) by using active transport"
+        ],
+        "back": "A",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "In order for a protein to be an integral membrane protein it would have to be",
+        "options": [
+            "A) hydrophilic.",
+            "B) hydrophobic.",
+            "C) amphipathic, with at least one hydrophobic region.",
+            "D) completely covered with phospholipids.",
+            "E) exposed on only one surface of the membrane."
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "When a membrane is freeze-fractured, the bilayer splits down the middle between the two layers of phospholipids. In an electron micrograph of a freeze-fractured membrane, the bumps seen on the fractured surface of the membrane are",
+        "options": [
+            "A) peripheral proteins.",
+            "B) phospholipids.",
+            "C) carbohydrates.",
+            "D) integral proteins.",
+            "E) cholesterol molecules."
+        ],
+        "back": "D",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which of the following is a reasonable explanation for why unsaturated fatty acids help keep any membrane more fluid at lower temperatures?",
+        "options": [
+            "A) The double bonds form kinks in the fatty acid tails, preventing adjacent lipids from packing tightly.",
+            "B) Unsaturated fatty acids have a higher cholesterol content and therefore more cholesterol in membranes.",
+            "C) Unsaturated fatty acids are more polar than saturated fatty acids.",
+            "D) The double bonds block interaction among the hydrophilic head groups of the lipids.",
+            "E) The double bonds result in shorter fatty acid tails and thinner membranes."
+        ],
+        "back": "A",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which of the following is true of integral membrane proteins?",
+        "options": [
+            "A) They lack tertiary structure.",
+            "B) They are loosely bound to the surface of the bilayer.",
+            "C) They are usually transmembrane proteins.",
+            "D) They are not mobile within the bilayer.",
+            "E) They serve only a structural role in membranes."
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "The primary function of polysaccharides attached to the glycoproteins and glycolipids of animal cell membranes is",
+        "options": [
+            "A) to facilitate diffusion of molecules down their concentration gradients.",
+            "B) to actively transport molecules against their concentration gradients.",
+            "C) to maintain the integrity of a fluid mosaic membrane.",
+            "D) to maintain membrane fluidity at low temperatures.",
+            "E) to mediate cell-to-cell recognition."
+        ],
+        "back": "E",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "An animal cell lacking oligosaccharides on the external surface of its plasma membrane would likely be impaired in which function?",
+        "options": [
+            "A) transporting ions against an electrochemical gradient",
+            "B) cell-cell recognition",
+            "C) maintaining fluidity of the phospholipid bilayer",
+            "D) attaching to the cytoskeleton",
+            "E) establishing the diffusion barrier to charged molecules"
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "In the years since the proposal of the fluid mosaic model of the cell membrane, which of the following observations has been added to the model?",
+        "options": [
+            "A) The membrane is only fluid across a very narrow temperature range.",
+            "B) Proteins rarely move, even though they possibly can do so.",
+            "C) Unsaturated lipids are excluded from the membranes.",
+            "D) The concentration of protein molecules is now known to be much higher.",
+            "E) The proteins are known to be made of only acidic amino acids."
+        ],
+        "back": "D",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "A protein that spans the phospholipid bilayer one or more times is",
+        "options": [
+            "A) a transmembrane protein.",
+            "B) an integral protein.",
+            "C) a peripheral protein.",
+            "D) an integrin.",
+            "E) a glycoprotein."
+        ],
+        "back": "A",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which of these are not embedded in the hydrophobic portion of the lipid bilayer at all?",
+        "options": [
+            "A) transmembrane proteins",
+            "B) integral proteins",
+            "C) peripheral proteins",
+            "D) integrins",
+            "E) glycoproteins"
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "The cell membranes of Antarctic ice fish might have which of the following adaptations?",
+        "options": [
+            "A) very long chain fatty acids",
+            "B) branched isoprenoid lipids",
+            "C) a high percentage of polyunsaturated fatty acids",
+            "D) a higher percentage of trans-fatty acids",
+            "E) no cholesterol"
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "In a paramecium, cell surface integral membrane proteins are synthesized",
+        "options": [
+            "A) in the cytoplasm by free ribosomes.",
+            "B) by ribosomes in the nucleus.",
+            "C) by ribosomes bound to the rough endoplasmic reticulum.",
+            "D) by ribosomes in the Golgi vesicles.",
+            "E) by ribosomes bound to the inner surface of the plasma membrane."
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "The formulation of a model for a structure or for a process serves which of the following purposes?",
+        "options": [
+            "A) It asks a scientific question.",
+            "B) It functions as a testable hypothesis.",
+            "C) It records observations.",
+            "D) It serves as a data point among results.",
+            "E) It can only be arrived at after years of experimentation."
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Cell membranes are asymmetrical. Which of the following is the most likely explanation?",
+        "options": [
+            "A) The cell membrane forms a border between one cell and another in tightly packed tissues such as epithelium.",
+            "B) Cell membranes communicate signals from one organism to another.",
+            "C) The two sides of a cell membrane face different environments and carry out different functions.",
+            "D) The \"innerness\" and \"outerness\" of membrane surfaces are predetermined by genes.",
+            "E) Proteins can only be associated with the cell membranes on the cytoplasmic side."
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which of the following is true of the evolution of cell membranes?",
+        "options": [
+            "A) Cell membranes have stopped evolving now that they are fluid mosaics.",
+            "B) Cell membranes cannot evolve if the membrane proteins do not.",
+            "C) The evolution of cell membranes is driven by the evolution of glycoproteins and glycolipids.",
+            "D) All components of membranes evolve in response to natural selection.",
+            "E) An individual organism selects its preferred type of cell membrane for particular functions."
+        ],
+        "back": "D",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Why are lipids and proteins free to move laterally in membranes?",
+        "options": [
+            "A) The interior of the membrane is filled with liquid water.",
+            "B) Lipids and proteins repulse each other in the membrane.",
+            "C) Hydrophilic portions of the lipids are in the interior of the membrane.",
+            "D) There are only weak hydrophobic interactions in the interior of the membrane.",
+            "E) Molecules such as cellulose can pull them in various directions."
+        ],
+        "back": "D",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "What kinds of molecules pass through a cell membrane most easily?",
+        "options": [
+            "A) large and hydrophobic",
+            "B) small and hydrophobic",
+            "C) large polar",
+            "D) ionic",
+            "E) monosaccharides such as glucose"
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which of the following is a characteristic feature of a carrier protein in a plasma membrane?",
+        "options": [
+            "A) It is a peripheral membrane protein.",
+            "B) It exhibits a specificity for a particular type of molecule.",
+            "C) It requires the expenditure of cellular energy to function.",
+            "D) It works against diffusion.",
+            "E) It has few, if any, hydrophobic amino acids."
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Nitrous oxide gas molecules diffusing across a cell's plasma membrane is an example of",
+        "options": [
+            "A) diffusion across the lipid bilayer.",
+            "B) facilitated diffusion.",
+            "C) active transport.",
+            "D) osmosis.",
+            "E) cotransport."
+        ],
+        "back": "A",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which of the following would likely move through the lipid bilayer of a plasma membrane most rapidly?",
+        "options": [
+            "A) CO₂",
+            "B) an amino acid",
+            "C) glucose",
+            "D) K⁺",
+            "E) starch"
+        ],
+        "back": "A",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which of the following statements is correct about diffusion?",
+        "options": [
+            "A) It is very rapid over long distances.",
+            "B) It requires an expenditure of energy by the cell.",
+            "C) It is a passive process in which molecules move from a region of higher concentration to a region of lower concentration.",
+            "D) It is an active process in which molecules move from a region of lower concentration to one of higher concentration.",
+            "E) It requires integral proteins in the cell membrane."
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Water passes quickly through cell membranes because",
+        "options": [
+            "A) the bilayer is hydrophilic.",
+            "B) it moves through hydrophobic channels.",
+            "C) water movement is tied to ATP hydrolysis.",
+            "D) it is a small, polar, charged molecule.",
+            "E) it moves through aquaporins in the membrane."
+        ],
+        "back": "E",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Celery stalks that are immersed in fresh water for several hours become stiff and hard. Similar stalks left in a 0.15 M salt solution become limp and soft. From this we can deduce that the cells of the celery stalks are",
+        "options": [
+            "A) hypotonic to both fresh water and the salt solution.",
+            "B) hypertonic to both fresh water and the salt solution.",
+            "C) hypertonic to fresh water but hypotonic to the salt solution.",
+            "D) hypotonic to fresh water but hypertonic to the salt solution.",
+            "E) isotonic with fresh water but hypotonic to the salt solution."
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Mammalian blood contains the equivalent of 0.15 M NaCl. Seawater contains the equivalent of 0.45 M NaCl. What will happen if red blood cells are transferred to seawater?",
+        "options": [
+            "A) Water will leave the cells, causing them to shrivel and collapse.",
+            "B) NaCl will be exported from the red blood cells by facilitated diffusion.",
+            "C) The blood cells will take up water, swell, and eventually burst.",
+            "D) NaCl will passively diffuse into the red blood cells.",
+            "E) The blood cells will expend ATP for active transport of NaCl into the cytoplasm."
+        ],
+        "back": "A",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which of the following statements correctly describes the normal tonicity conditions for typical plant and animal cells?",
+        "options": [
+            "A) The animal cell is in a hypotonic solution, and the plant cell is in an isotonic solution.",
+            "B) The animal cell is in an isotonic solution, and the plant cell is in a hypertonic solution.",
+            "C) The animal cell is in a hypertonic solution, and the plant cell is in an isotonic solution.",
+            "D) The animal cell is in an isotonic solution, and the plant cell is in a hypotonic solution.",
+            "E) The animal cell is in a hypertonic solution, and the plant cell is in a hypotonic solution."
+        ],
+        "back": "D",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "In which of the following would there be the greatest need for osmoregulation?",
+        "options": [
+            "A) an animal connective tissue cell bathed in isotonic body fluid",
+            "B) cells of a tidepool animal such as an anemone",
+            "C) a red blood cell surrounded by plasma",
+            "D) a lymphocyte before it has been taken back into lymph fluid",
+            "E) a plant being grown hydroponically (in a watery mixture of designated nutrients)"
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "When a plant cell, such as one from a peony stem, is submerged in a very hypotonic solution, what is likely to occur?",
+        "options": [
+            "A) The cell will burst.",
+            "B) The cell membrane will lyse.",
+            "C) Plasmolysis will shrink the interior.",
+            "D) The cell will become flaccid.",
+            "E) The cell will become turgid."
+        ],
+        "back": "E",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which of the following membrane activities require energy from ATP hydrolysis?",
+        "options": [
+            "A) facilitated diffusion of chloride ions across the membrane through a chloride channel",
+            "B) movement of water into a cell",
+            "C) Na⁺ ions moving out of a mammalian cell bathed in physiological saline",
+            "D) movement of glucose molecules into a bacterial cell from a medium containing a higher concentration of glucose than inside the cell",
+            "E) movement of carbon dioxide out of a paramecium"
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "The phosphate transport system in bacteria imports phosphate into the cell even when the concentration of phosphate outside the cell is much lower than the cytoplasmic phosphate concentration. Phosphate import depends on a pH gradient across the membrane–more acidic outside the cell than inside the cell. Phosphate transport is an example of",
+        "options": [
+            "A) passive diffusion.",
+            "B) facilitated diffusion.",
+            "C) active transport.",
+            "D) osmosis.",
+            "E) cotransport."
+        ],
+        "back": "E",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Glucose diffuses slowly through artificial phospholipid bilayers. The cells lining the small intestine, however, rapidly move large quantities of glucose from the glucose-rich food into their glucose-poor cytoplasm. Using this information, which transport mechanism is most probably functioning in the intestinal cells?",
+        "options": [
+            "A) simple diffusion",
+            "B) phagocytosis",
+            "C) active transport pumps",
+            "D) exocytosis",
+            "E) facilitated diffusion"
+        ],
+        "back": "E",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "What is the voltage across a membrane called?",
+        "options": [
+            "A) water potential",
+            "B) chemical gradient",
+            "C) membrane potential",
+            "D) osmotic potential",
+            "E) electrochemical gradient"
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "In most cells, there are electrochemical gradients of many ions across the plasma membrane even though there are usually only one or two electrogenic pumps present in the membrane. The gradients of the other ions are most likely accounted for by",
+        "options": [
+            "A) cotransport proteins.",
+            "B) ion channels.",
+            "C) carrier proteins.",
+            "D) passive diffusion across the plasma membrane.",
+            "E) cellular metabolic reactions that create or destroy ions."
+        ],
+        "back": "A",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "The sodium-potassium pump is called an electrogenic pump because it",
+        "options": [
+            "A) pumps equal quantities of Na⁺ and K⁺ across the membrane.",
+            "B) pumps hydrogen ions out of the cell.",
+            "C) contributes to the membrane potential.",
+            "D) ionizes sodium and potassium atoms.",
+            "E) is used to drive the transport of other molecules against a concentration gradient."
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which of the following is most likely true of a protein that cotransports glucose and sodium ions into the intestinal cells of an animal?",
+        "options": [
+            "A) The sodium ions are moving down their electrochemical gradient while glucose is moving up.",
+            "B) Glucose entering the cell along its concentration gradient provides energy for uptake of sodium ions against the electrochemical gradient.",
+            "C) Sodium ions can move down their electrochemical gradient through the cotransporter whether or not glucose is present outside the cell.",
+            "D) The cotransporter can also transport potassium ions.",
+            "E) A substance that blocks sodium ions from binding to the cotransport protein will also block the transport of glucose."
+        ],
+        "back": "E",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "The movement of potassium into an animal cell requires",
+        "options": [
+            "A) low cellular concentrations of sodium.",
+            "B) high cellular concentrations of potassium.",
+            "C) an energy source such as ATP.",
+            "D) a cotransport protein.",
+            "E) a potassium channel protein."
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Ions diffuse across membranes through specific ion channels",
+        "options": [
+            "A) down their chemical gradients.",
+            "B) down their concentration gradients.",
+            "C) down the electrical gradients.",
+            "D) down their electrochemical gradients.",
+            "E) down the osmotic potential gradients."
+        ],
+        "back": "D",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which of the following would increase the electrochemical potential across a membrane?",
+        "options": [
+            "A) a chloride channel",
+            "B) a sucrose-proton cotransporter",
+            "C) a proton pump",
+            "D) a potassium channel",
+            "E) both a proton pump and a potassium channel"
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "The sodium-potassium pump in animal cells requires cytoplasmic ATP to pump ions across the plasma membrane. When the proteins of the pump are first synthesized in the rough ER, what side of the ER membrane will the ATP binding site be on?",
+        "options": [
+            "A) It will be on the cytoplasmic side of the ER.",
+            "B) It will be on the side facing the interior of the ER.",
+            "C) It could be facing in either direction because proteins are properly reoriented in the Golgi apparatus.",
+            "D) It doesn't matter, because the pump is not active in the ER."
+        ],
+        "back": "A",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Proton pumps are used in various ways by members of every domain of organisms: Bacteria, Archaea, and Eukarya. What does this most probably mean?",
+        "options": [
+            "A) Proton pumps must have evolved before any living organisms were present on Earth.",
+            "B) Proton gradients across a membrane were used by cells that were the common ancestor of all three domains of life.",
+            "C) The high concentration of protons in the ancient atmosphere must have necessitated a pump mechanism.",
+            "D) Cells of each domain evolved proton pumps independently when oceans became more acidic.",
+            "E) Proton pumps are necessary to all cell membranes."
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Several epidemic microbial diseases of earlier centuries incurred high death rates because they resulted in severe dehydration due to vomiting and diarrhea. Today they are usually not fatal because we have developed which of the following?",
+        "options": [
+            "A) antiviral medications that are efficient and work well with all viruses",
+            "B) antibiotics against the viruses in question",
+            "C) intravenous feeding techniques",
+            "D) medication to prevent blood loss",
+            "E) hydrating drinks that include high concentrations of salts and glucose"
+        ],
+        "back": "E",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "An organism with a cell wall would most likely be unable to take in materials through",
+        "options": [
+            "A) diffusion.",
+            "B) osmosis.",
+            "C) active transport.",
+            "D) phagocytosis.",
+            "E) facilitated diffusion."
+        ],
+        "back": "D",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "White blood cells engulf bacteria through what process?",
+        "options": [
+            "A) exocytosis",
+            "B) phagocytosis",
+            "C) pinocytosis",
+            "D) osmosis",
+            "E) receptor-mediated exocytosis"
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Familial hypercholesterolemia is characterized by which of the following?",
+        "options": [
+            "A) defective LDL receptors on the cell membranes",
+            "B) poor attachment of the cholesterol to the extracellular matrix of cells",
+            "C) a poorly formed lipid bilayer that cannot incorporate cholesterol into cell membranes",
+            "D) inhibition of the cholesterol active transport system in red blood cells",
+            "E) a general lack of glycolipids in the blood cell membranes"
+        ],
+        "back": "A",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "The difference between pinocytosis and receptor-mediated endocytosis is that",
+        "options": [
+            "A) pinocytosis brings only water molecules into the cell, but receptor-mediated endocytosis brings in other molecules as well.",
+            "B) pinocytosis increases the surface area of the plasma membrane whereas receptor-mediated endocytosis decreases the plasma membrane surface area.",
+            "C) pinocytosis is nonselective in the molecules it brings into the cell, whereas receptor-mediated endocytosis offers more selectivity.",
+            "D) pinocytosis requires cellular energy, but receptor-mediated endocytosis does not.",
+            "E) pinocytosis can concentrate substances from the extracellular fluid, but receptor-mediated endocytosis cannot."
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "In receptor-mediated endocytosis, receptor molecules initially project to the outside of the cell. Where do they end up after endocytosis?",
+        "options": [
+            "A) on the outside of vesicles",
+            "B) on the inside surface of the cell membrane",
+            "C) on the inside surface of the vesicle",
+            "D) on the outer surface of the nucleus",
+            "E) on the ER"
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "A bacterium engulfed by a white blood cell through phagocytosis will be digested by enzymes contained in",
+        "options": [
+            "A) peroxisomes.",
+            "B) lysosomes.",
+            "C) Golgi vesicles.",
+            "D) vacuoles.",
+            "E) secretory vesicles."
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which component is the peripheral protein?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "D",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/687/3/79565cc4_13a419e1442__8000_00000150.png"
+        ]
+    },
+    {
+        "front": "Which component is cholesterol?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "E",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/687/3/79565cc4_13a419e1442__8000_00000150.png"
+        ]
+    },
+    {
+        "front": "Which component is the fiber of the extracellular matrix?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "A",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/687/3/79565cc4_13a419e1442__8000_00000150.png"
+        ]
+    },
+    {
+        "front": "Which component is a microfilament of the cytoskeleton?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/687/3/79565cc4_13a419e1442__8000_00000150.png"
+        ]
+    },
+    {
+        "front": "Which component is a glycolipid?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/687/3/79565cc4_13a419e1442__8000_00000150.png"
+        ]
+    },
+    {
+        "front": "The solutions in the two arms of this U-tube are separated by a membrane that is permeable to water and glucose but not to sucrose. Side A is half-filled with a solution of 2 M sucrose and 1 M glucose. Side B is half-filled with 1 M sucrose and 2 M glucose. Initially, the liquid levels on both sides are equal. Initially, in terms of tonicity, the solution in side A with respect to that in side B is",
+        "options": [
+            "A) hypotonic.",
+            "B) plasmolyzed.",
+            "C) isotonic.",
+            "D) saturated.",
+            "E) hypertonic."
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/692/8/79565cc4_13a419e1442__8000_00000155.png"
+        ]
+    },
+    {
+        "front": "After the system reaches equilibrium, what changes are observed?",
+        "options": [
+            "A) The molarity of sucrose and glucose are equal on both sides.",
+            "B) The molarity of glucose is higher in side A than in side B.",
+            "C) The water level is higher in side A than in side B.",
+            "D) The water level is unchanged.",
+            "E) The water level is higher in side B than in side A."
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/692/8/79565cc4_13a419e1442__8000_00000155.png"
+        ]
+    },
+    {
+        "front": "The solutions in the arms of a U-tube are separated at the bottom of the tube by a selectively permeable membrane. The membrane is permeable to sodium chloride but not to glucose. Side A is filled with a solution of 0.4 M glucose and 0.5 M sodium chloride (NaCl), and side B is filled with a solution containing 0.8 M glucose and 0.4 M sodium chloride. Initially, the volume in both arms is the same. At the beginning of the experiment,",
+        "options": [
+            "A) side A is hypertonic to side B.",
+            "B) side A is hypotonic to side B.",
+            "C) side A is isotonic to side B.",
+            "D) side A is hypertonic to side B with respect to glucose.",
+            "E) side A is hypotonic to side B with respect to sodium chloride."
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/694/10/79565cc4_13a419e1442__8000_00000157.png"
+        ]
+    },
+    {
+        "front": "If you examine side A after three days, you should find",
+        "options": [
+            "A) a decrease in the concentration of NaCl and glucose and an increase in the water level.",
+            "B) a decrease in the concentration of NaCl, an increase in water level, and no change in the concentration of glucose.",
+            "C) no net change in the system.",
+            "D) a decrease in the concentration of NaCl and a decrease in the water level.",
+            "E) no change in the concentration of NaCl and glucose and an increase in the water level."
+        ],
+        "back": "D",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/694/10/79565cc4_13a419e1442__8000_00000157.png"
+        ]
+    },
+    {
+        "front": "Five dialysis bags, constructed from a semipermeable membrane that is impermeable to sucrose, were filled with various concentrations of sucrose and then placed in separate beakers containing an initial concentration of 0.6 M sucrose solution. At 10-minute intervals, the bags were massed (weighed) and the percent change in mass of each bag was graphed. Which line in the graph represents the bag that contained a solution isotonic to the 0.6 M solution at the beginning of the experiment?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/696/12/79565cc4_13a419e1442__8000_00000159.png"
+        ]
+    },
+    {
+        "front": "Which line in the graph represents the bag with the highest initial concentration of sucrose?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "A",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/696/12/79565cc4_13a419e1442__8000_00000159.png"
+        ]
+    },
+    {
+        "front": "Which line or lines in the graph represent(s) bags that contain a solution that is hypertonic at 50 minutes?",
+        "options": [
+            "A) A and B",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) D and E"
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/696/12/79565cc4_13a419e1442__8000_00000159.png"
+        ]
+    },
+    {
+        "front": "Human immunodeficiency virus (HIV) infects cells that have both CD4 and CCR5 cell surface molecules. The viral nucleic acid molecules are enclosed in a protein capsid, and the protein capsid is itself contained inside an envelope consisting of a lipid bilayer membrane and viral glycoproteins. One hypothesis for viral entry into cells is that binding of HIV membrane glycoproteins to CD4 and CCR5 initiates fusion of the HIV membrane with the plasma membrane, releasing the viral capsid into the cytoplasm. An alternative hypothesis is that HIV gains entry into the cell via receptor-mediated endocytosis, and membrane fusion occurs in the endocytotic vesicle. To test these alternative hypotheses for HIV entry, researchers labeled the lipids on the HIV membrane with a red fluorescent dye. What would be observed by live-cell fluorescence microscopy if the red fluorescent lipid dye-labeled HIV membrane fuses with the target cell plasma membrane?",
+        "options": [
+            "A) A spot of red fluorescence will remain on the infected cell's plasma membrane, marking the site of membrane fusion and HIV entry.",
+            "B) The red fluorescent dye-labeled lipids will diffuse in the infected cell's plasma membrane and become difficult to detect.",
+            "C) A spot of red fluorescence will move into the infected cell's cytoplasm.",
+            "D) A spot of red fluorescence will remain outside the cell after delivering the viral capsid.",
+            "E) Fluorescence microscopy does not have enough resolution to visualize fluorescently labeled HIV virus particles."
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/699/15/79565cc4_13a419e1442__8000_00000162.png"
+        ]
+    },
+    {
+        "front": "What would be observed by live-cell fluorescence microscopy if HIV is endocytosed first, and then fuses with the endocytotic vesicle membrane?",
+        "options": [
+            "A) A spot of red fluorescence will remain on the infected cell's plasma membrane, marking the site of membrane fusion and HIV entry.",
+            "B) The red fluorescent dye-labeled lipids will diffuse in the endocytotic vesicle membrane and become difficult to detect.",
+            "C) A spot of red fluorescence will move into the infected cell's interior.",
+            "D) A spot of red fluorescence will remain outside the cell after delivering the viral capsid.",
+            "E) Fluorescence microscopy does not have enough resolution to visualize fluorescently labeled HIV virus particles."
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/699/15/79565cc4_13a419e1442__8000_00000162.png"
+        ]
+    },
+    {
+        "front": "Using live-cell fluorescence microscopy, researchers observed that a red fluorescent spot moved from the plasma membrane into the interior of target cells when red fluorescent dye-labeled HIV was added to the cells. What is the best conclusion from these observations?",
+        "options": [
+            "A) The hypothesis that HIV enters the cell via fusion with the target cell plasma membrane is proved.",
+            "B) The hypothesis that HIV enters the cell via fusion with the target cell plasma membrane is not supported.",
+            "C) The hypothesis that HIV enters the cell via endocytosis is proved.",
+            "D) The hypothesis that HIV enters the cell via endocytosis is not supported.",
+            "E) Neither hypothesis is supported by these results."
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/699/15/79565cc4_13a419e1442__8000_00000162.png"
+        ]
+    },
+    {
+        "front": "If HIV first enters the cell in an endocytotic vesicle, instead of directly fusing with the plasma membrane, then",
+        "options": [
+            "A) HIV infection should be hindered by microtubule polymerization inhibitors such as nocodazole.",
+            "B) HIV infection should be more efficient at lower temperatures.",
+            "C) intact cortical actin microfilaments should interfere with HIV infection.",
+            "D) cells lacking integrins should be resistant to HIV infection.",
+            "E) addition of ligands for other cell-surface receptors to stimulate their endocytosis should increase the efficiency of HIV infection."
+        ],
+        "back": "A",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/699/15/79565cc4_13a419e1442__8000_00000162.png"
+        ]
+    },
+    {
+        "front": "In an HIV-infected cell producing HIV virus particles, the viral glycoprotein is expressed on the plasma membrane. How do the viral glycoproteins get to the plasma membrane?",
+        "options": [
+            "A) They are synthesized on ribosomes on the plasma membrane.",
+            "B) They are synthesized by ribosomes in the rough ER, and arrive at the plasma membrane in the membrane of secretory vesicles.",
+            "C) They are synthesized on free cytoplasmic ribosomes, and then inserted into the plasma membrane.",
+            "D) They are synthesized by ribosomes in the rough ER, secreted from the cell, and inserted into the plasma membrane from the outside.",
+            "E) They are synthesized by ribosomes on the HIV viral membrane, which fuses with the plasma membrane from inside the cell."
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/699/15/79565cc4_13a419e1442__8000_00000162.png"
+        ]
+    },
+    {
+        "front": "Cystic fibrosis is a genetic disease in humans in which the CFTR protein, which functions as a chloride ion channel, is missing or nonfunctional in cell membranes. 71) The CFTR protein belongs to what category of membrane proteins?",
+        "options": [
+            "A) gap junctions",
+            "B) aquaporins",
+            "C) electrogenic ion pumps",
+            "D) cotransporters",
+            "E) hydrophilic channels"
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "If the sodium ion concentration outside the cell increases, and the CFTR channel is open, in what direction will chloride ions and water move across the cell membrane?",
+        "options": [
+            "A) Chloride ions will move out of the cell, and water will move into the cell.",
+            "B) Both chloride ions and water will move out of the cell.",
+            "C) Chloride ions will move into the cell, and water will move out of the cell.",
+            "D) Both chloride ions and water will move into the cell.",
+            "E) The movement of chloride ions and water molecules will not be affected by changes in sodium ion concentration outside the cell."
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "In the small airways of the lung, a thin layer of liquid is needed between the epithelial cells and the mucus layer in order for cilia to beat and move the mucus and trapped particles out of the lung. One hypothesis is that the volume of this airway surface liquid is regulated osmotically by transport of sodium and chloride ions across the epithelial cell membrane. How would the lack of a functional chloride channel in cystic fibrosis patients affect sodium ion transport and the volume of the airway surface liquid?",
+        "options": [
+            "A) Sodium ion transport will increase; higher osmotic potential will increase airway surface liquid volume.",
+            "B) Sodium ion transport will increase; higher osmotic potential will decrease airway surface liquid volume.",
+            "C) Sodium ion transport will decrease; lower osmotic potential will decrease airway surface liquid volume.",
+            "D) Sodium ion transport will decrease; lower osmotic potential will increase the airway surface liquid volume.",
+            "E) Sodium ion transport will be unaffected; lack of chloride transport still reduces osmotic potential and decreases the airway surface liquid volume."
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "A patient has had a serious accident and lost a lot of blood. In an attempt to replenish body fluids, distilled water–equal to the volume of blood lost–is transferred directly into one of his veins. What will be the most probable result of this transfusion?",
+        "options": [
+            "A) It will have no unfavorable effect as long as the water is free of viruses and bacteria.",
+            "B) The patient's red blood cells will shrivel up because the blood fluid has become hypotonic compared to the cells.",
+            "C) The patient's red blood cells will swell because the blood fluid has become hypotonic compared to the cells.",
+            "D) The patient's red blood cells will shrivel up because the blood fluid has become hypertonic compared to the cells.",
+            "E) The patient's red blood cells will burst because the blood fluid has become hypertonic compared to the cells."
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "You are working on a team that is designing a new drug. In order for this drug to work, it must enter the cytoplasm of specific target cells. Which of the following would be a factor that determines whether the molecule selectively enters the target cells?",
+        "options": [
+            "A) blood or tissue type of the patient",
+            "B) hydrophobicity of the drug molecule",
+            "C) lack of charge on the drug molecule",
+            "D) similarity of the drug molecule to other molecules transported by the target cells",
+            "E) lipid composition of the target cells' plasma membrane"
+        ],
+        "back": "D",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "In what way do the membranes of a eukaryotic cell vary?",
+        "options": [
+            "A) Phospholipids are found only in certain membranes.",
+            "B) Certain proteins are unique to each membrane.",
+            "C) Only certain membranes of the cell are selectively permeable.",
+            "D) Only certain membranes are constructed from amphipathic molecules.",
+            "E) Some membranes have hydrophobic surfaces exposed to the cytoplasm, while others have hydrophilic surfaces facing the cytoplasm."
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "According to the fluid mosaic model of membrane structure, proteins of the membrane are mostly",
+        "options": [
+            "A) spread in a continuous layer over the inner and outer surfaces of the membrane.",
+            "B) confined to the hydrophobic interior of the membrane.",
+            "C) embedded in a lipid bilayer.",
+            "D) randomly oriented in the membrane, with no fixed inside-outside polarity.",
+            "E) free to depart from the fluid membrane and dissolve in the surrounding solution."
+        ],
+        "back": "C",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which of the following factors would tend to increase membrane fluidity?",
+        "options": [
+            "A) a greater proportion of unsaturated phospholipids",
+            "B) a greater proportion of saturated phospholipids",
+            "C) a lower temperature",
+            "D) a relatively high protein content in the membrane",
+            "E) a greater proportion of relatively large glycolipids compared with lipids having smaller molecular masses"
+        ],
+        "back": "A",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Which of the following processes includes all others?",
+        "options": [
+            "A) osmosis",
+            "B) diffusion of a solute across a membrane",
+            "C) facilitated diffusion",
+            "D) passive transport",
+            "E) transport of an ion down its electrochemical gradient"
+        ],
+        "back": "D",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": []
+    },
+    {
+        "front": "Based on the figure above, which of these experimental treatments would increase the rate of sucrose transport into the cell?",
+        "options": [
+            "A) decreasing extracellular sucrose concentration",
+            "B) decreasing extracellular pH",
+            "C) decreasing cytoplasmic pH",
+            "D) adding an inhibitor that blocks the regeneration of ATP",
+            "E) adding a substance that makes the membrane more permeable to hydrogen ions"
+        ],
+        "back": "B",
+        "unit": "Chapter 7",
+        "chapter": "Chapter 7",
+        "images": [
+            "https://web.archive.org/web/20170717025006im_/http://www.easynotecards.com:80/uploads/686/2/79565cc4_13a419e1442__8000_00000149.png"
+        ]
+    }
+]

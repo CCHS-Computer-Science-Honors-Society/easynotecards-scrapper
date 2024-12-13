@@ -1,0 +1,950 @@
+[
+    {
+        "front": "In a single molecule of water, two hydrogen atoms are bonded to a single oxygen atom by",
+        "options": [
+            "A) hydrogen bonds.",
+            "B) nonpolar covalent bonds.",
+            "C) polar covalent bonds.",
+            "D) ionic bonds.",
+            "E) van der Waals interactions."
+        ],
+        "back": "C",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "The slight negative charge at one end of one water molecule is attracted to the slight positive charge of another water molecule. What is this attraction called?",
+        "options": [
+            "A) a covalent bond",
+            "B) a hydrogen bond",
+            "C) an ionic bond",
+            "D) a hydrophilic bond",
+            "E) a van der Waals interaction"
+        ],
+        "back": "B",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "The partial negative charge in a molecule of water occurs because",
+        "options": [
+            "A) the oxygen atom acquires an additional electron.",
+            "B) the electrons shared between the oxygen and hydrogen atoms spend more time around the oxygen atom nucleus than around the hydrogen atom nucleus.",
+            "C) the oxygen atom has two pairs of electrons in its valence shell that are not neutralized by hydrogen atoms.",
+            "D) the oxygen atom forms hybrid orbitals that distribute electrons unequally around the oxygen nucleus.",
+            "E) one of the hydrogen atoms donates an electron to the oxygen atom."
+        ],
+        "back": "B",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Sulfur is in the same column of the periodic table as oxygen, but has electronegativity similar to carbon. Compared to water molecules, molecules of H₂S",
+        "options": [
+            "A) will ionize more readily.",
+            "B) will have greater cohesion to other molecules of H₂S.",
+            "C) will have a greater tendency to form hydrogen bonds with each other.",
+            "D) will have a higher capacity to absorb heat for the same change in temperature.",
+            "E) will not form hydrogen bonds with each other."
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Water molecules are able to form hydrogen bonds with",
+        "options": [
+            "A) compounds that have polar covalent bonds.",
+            "B) oils.",
+            "C) oxygen gas (O₂) molecules.",
+            "D) chloride ions.",
+            "E) any compound that is not soluble in water."
+        ],
+        "back": "A",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Which of the following effects is produced by the high surface tension of water?",
+        "options": [
+            "A) Lakes don't freeze solid in winter, despite low temperatures.",
+            "B) A water strider can walk across the surface of a small pond.",
+            "C) Organisms resist temperature changes, although they give off heat due to chemical reactions.",
+            "D) Evaporation of sweat from the skin helps to keep people from overheating.",
+            "E) Water flows upward from the roots to the leaves in plants."
+        ],
+        "back": "B",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Which of the following takes place as an ice cube cools a drink?",
+        "options": [
+            "A) Molecular collisions in the drink increase.",
+            "B) Kinetic energy in the drink decreases.",
+            "C) A calorie of heat energy is transferred from the ice to the water of the drink.",
+            "D) The specific heat of the water in the drink decreases.",
+            "E) Evaporation of the water in the drink increases."
+        ],
+        "back": "B",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "A dietary Calorie equals 1 kilocalorie. Which of the following statements correctly defines 1 kilocalorie?",
+        "options": [
+            "A) 1,000 calories, or the amount of heat required to raise the temperature of 1 g of water by 1,000°C",
+            "B) 100 calories, or the amount of heat required to raise the temperature of 100 g of water by 1°C",
+            "C) 10,000 calories, or the amount of heat required to raise the temperature of 1 kg of water by 1°F",
+            "D) 1,000 calories, or the amount of heat required to raise the temperature of 1 kg of water by 1°C",
+            "E) 1,000 calories, or the amount of heat required to raise the temperature of 100 g of water by 100°C"
+        ],
+        "back": "D",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "The nutritional information on a cereal box shows that one serving of a dry cereal has 200 kilocalories. If one were to burn one serving of the cereal, the amount of heat given off would be sufficient to raise the temperature of 20 kg of water how many degrees Celsius?",
+        "options": [
+            "A) 0.2°C",
+            "B) 1.0°C",
+            "C) 2.0°C",
+            "D) 10.0°C",
+            "E) 20.0°C"
+        ],
+        "back": "D",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Liquid water's high specific heat is mainly a consequence of the",
+        "options": [
+            "A) small size of the water molecules.",
+            "B) high specific heat of oxygen and hydrogen atoms.",
+            "C) absorption and release of heat when hydrogen bonds break and form.",
+            "D) fact that water is a poor heat conductor.",
+            "E) higher density of liquid water than solid water (ice)."
+        ],
+        "back": "C",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Which type of bond must be broken for water to vaporize?",
+        "options": [
+            "A) ionic bonds",
+            "B) both hydrogen bonds and ionic bonds",
+            "C) polar covalent bonds",
+            "D) hydrogen bonds",
+            "E) both polar covalent bonds and hydrogen bonds"
+        ],
+        "back": "D",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Temperature usually increases when water condenses. Which behavior of water is most directly responsible for this phenomenon?",
+        "options": [
+            "A) the change in density when it condenses to form a liquid or solid",
+            "B) reactions with other atmospheric compounds",
+            "C) the release of heat by the formation of hydrogen bonds",
+            "D) the release of heat by the breaking of hydrogen bonds",
+            "E) the high surface tension of water"
+        ],
+        "back": "C",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Why does evaporation of water from a surface cause cooling of the surface?",
+        "options": [
+            "A) The breaking of bonds between water molecules absorbs heat.",
+            "B) The water molecules with the most heat energy evaporate more readily.",
+            "C) The solute molecules left behind absorb heat.",
+            "D) Water molecules absorb heat from the surface in order to acquire enough energy to evaporate.",
+            "E) The expansion of water vapor extracts heat from the surface."
+        ],
+        "back": "B",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Why does ice float in liquid water?",
+        "options": [
+            "A) The high surface tension of liquid water keeps the ice on top.",
+            "B) The ionic bonds between the molecules in ice prevent the ice from sinking.",
+            "C) Ice always has air bubbles that keep it afloat.",
+            "D) Hydrogen bonds stabilize and keep the molecules of ice farther apart than the water molecules of liquid water.",
+            "E) The crystalline lattice of ice causes it to be denser than liquid water."
+        ],
+        "back": "D",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Hydrophobic substances such as vegetable oil are",
+        "options": [
+            "A) nonpolar substances that repel water molecules.",
+            "B) nonpolar substances that have an attraction for water molecules.",
+            "C) polar substances that repel water molecules.",
+            "D) polar substances that have an affinity for water.",
+            "E) charged molecules that hydrogen-bond with water molecules."
+        ],
+        "back": "A",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "One mole (mol) of glucose (molecular mass = 180 daltons) is",
+        "options": [
+            "A) 180 × 10²³ molecules of glucose.",
+            "B) 1 kg of glucose dissolved in 1 L of solution.",
+            "C) the largest amount of glucose that can be dissolved in 1 L of solution.",
+            "D) 180 kilograms of glucose.",
+            "E) both 180 grams of glucose and 6.02 × 10²³ molecules of glucose."
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "How many molecules of glucose (C₆H₁₂O₆ molecular mass = 180 daltons) would be present in 90 grams of glucose?",
+        "options": [
+            "A) 90 × 10²³",
+            "B) (6.02/180) × 10²³",
+            "C) (6.02/90) × 10²³",
+            "D) (90 x 6.02) × 10²³",
+            "E) (90/180) × 6.02 × 10²³"
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "How many molecules of glycerol (C₃H₈O₃; molecular mass = 92) would be present in 1 L of a 1 M glycerol solution?",
+        "options": [
+            "A) 1 × 10⁶",
+            "B) 14 × 6.02 × 10²³",
+            "C) 92 × 6.02 × 10²³",
+            "D) 6.02 × 10²⁶",
+            "E) 6.02 × 10²³"
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "When an ionic compound such as sodium chloride (NaCl) is placed in water, the component atoms of the NaCl crystal dissociate into individual sodium ions (Na⁺) and chloride ions (Cl⁻). In contrast, the atoms of covalently bonded molecules (e.g., glucose, sucrose, glycerol) do not generally dissociate when placed in aqueous solution. Which of the following solutions would be expected to contain the greatest number of solute particles (molecules or ions)?",
+        "options": [
+            "A) 1 L of 0.5 M NaCl",
+            "B) 1 L of 0.5 M glucose",
+            "C) 1 L of 1.0 M NaCl",
+            "D) 1 L of 1.0 M glucose",
+            "E) 1 L of 1.0 M NaCl and 1 L of 1.0 M glucose will contain equal numbers of solute particles."
+        ],
+        "back": "C",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 M solution of glucose?",
+        "options": [
+            "A) Dissolve 1 g of glucose in 1 L of water.",
+            "B) Dissolve 180 g of glucose in 1 L of water.",
+            "C) Dissolve 180 g of glucose in 180 g of water.",
+            "D) Dissolve 180 milligrams (mg) of glucose in 1 L of water.",
+            "E) Dissolve 180 g of glucose in 0.8 L of water, and then add more water until the total volume of the solution is 1 L."
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "The molar mass of glucose (C₆H₁₂O₆) is 180 g/mol. Which of the following procedures should you carry out to make a 0.5 M solution of glucose?",
+        "options": [
+            "A) Dissolve 0.5 g of glucose in a small volume of water, and then add more water until the total volume of solution is 1 L.",
+            "B) Dissolve 90 g of glucose in a small volume of water, and then add more water until the total volume of the solution is 1 L.",
+            "C) Dissolve 180 g of glucose in a small volume of water, and then add more water until the total volume of the solution is 1 L.",
+            "D) Dissolve 0.5 g of glucose in 1 L of water.",
+            "E) Dissolve 180 g of glucose in 0.5 L of water."
+        ],
+        "back": "B",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "You have a freshly prepared 0.1 M solution of glucose in water. Each liter of this solution contains how many glucose molecules?",
+        "options": [
+            "A) 6.02 × 10²³",
+            "B) 3.01 × 10²³",
+            "C) 6.02 × 10²⁴",
+            "D) 12.04 × 10²³",
+            "E) 6.02 × 10²²"
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "The molecular weight of water is 18 daltons. What is the molarity of 1 liter of pure water? (Hint: What is the mass of 1 liter of pure water?)",
+        "options": [
+            "A) 55.6 M",
+            "B) 18 M",
+            "C) 37 M",
+            "D) 0.66 M",
+            "E) 1.0 M"
+        ],
+        "back": "A",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "You have a freshly prepared 1 M solution of glucose in water. You carefully pour out a 100 mL sample of that solution. How many glucose molecules are included in that 100 mL sample?",
+        "options": [
+            "A) 6.02 × 10²³",
+            "B) 3.01 × 10²³",
+            "C) 6.02 × 10²⁴",
+            "D) 12.04 × 10²³",
+            "E) 6.02 × 10²²"
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "A strong acid like HCl",
+        "options": [
+            "A) ionizes completely in an aqueous solution.",
+            "B) increases the pH when added to an aqueous solution.",
+            "C) reacts with strong bases to create a buffered solution.",
+            "D) is a strong buffer at low pH.",
+            "E) both ionizes completely in aqueous solutions and is a strong buffer at low pH."
+        ],
+        "back": "A",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Which of the following ionizes completely in solution and is considered to be a strong base (alkali)?",
+        "options": [
+            "A) NaCl",
+            "B) HCl",
+            "C) NH₃",
+            "D) H₂CO₃",
+            "E) NaOH"
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "A 0.01 M solution of a substance has a pH of 2. What can you conclude about this substance?",
+        "options": [
+            "A) It is a strong acid that ionizes completely in water.",
+            "B) It is a strong base that ionizes completely in water.",
+            "C) It is a weak acid.",
+            "D) It is a weak base.",
+            "E) It is neither an acid nor a base."
+        ],
+        "back": "A",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "A given solution contains 0.0001(10⁻⁴) moles of hydrogen ions [H⁺] per liter. Which of the following best describes this solution?",
+        "options": [
+            "A) acidic: will accept H⁺ from both strong and weak acids",
+            "B) basic: will accept H⁺ from both strong and weak acids",
+            "C) acidic: will give H⁺ to weak acids, but accept H+ from strong acids",
+            "D) basic: will give H⁺ to weak acids, but accept H⁺ from weak acids",
+            "E) acidic: will give H⁺ to both strong and weak acids"
+        ],
+        "back": "C",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "A solution contains 0.0000001(10⁻⁷) moles of hydroxyl ions [OH⁻] per liter. Which of the following best describes this solution?",
+        "options": [
+            "A) acidic: H⁺ acceptor",
+            "B) basic: H⁺ acceptor",
+            "C) acidic: H⁺ donor",
+            "D) basic: H⁺ donor",
+            "E) neutral"
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "What is the pH of a solution with a hydroxyl ion [OH⁻] concentration of 10⁻¹² M?",
+        "options": [
+            "A) pH 2",
+            "B) pH 4",
+            "C) pH 10",
+            "D) pH 12",
+            "E) pH 14"
+        ],
+        "back": "A",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "What is the pH of a 1 millimolar NaOH solution?",
+        "options": [
+            "A) pH 3",
+            "B) pH 8",
+            "C) pH 9",
+            "D) pH 10",
+            "E) pH 11"
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Which of the following solutions would require the greatest amount of base to be added to bring the solution to neutral pH?",
+        "options": [
+            "A) gastric juice at pH 2",
+            "B) vinegar at pH 3",
+            "C) tomato juice at pH 4",
+            "D) black coffee at pH 5",
+            "E) household bleach at pH 12"
+        ],
+        "back": "A",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "What is the hydrogen ion [H⁺] concentration of a solution of pH 8?",
+        "options": [
+            "A) 8 M",
+            "B) 8 x 10⁻⁶ M",
+            "C) 0.01 M",
+            "D) 10⁻⁸ M",
+            "E) 10⁻⁶ M"
+        ],
+        "back": "D",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "If the pH of a solution is decreased from 9 to 8, it means that the",
+        "options": [
+            "A) concentration of H⁺ has decreased to one-tenth (1/10) what it was at pH 9.",
+            "B) concentration of H⁺ has increased tenfold (10X) compared to what it was at pH 9.",
+            "C) concentration of OH⁻ has increased tenfold (10X) compared to what it was at pH 9.",
+            "D) concentration of OH⁻ has decreased to one-tenth (1/10) what it was at pH 9.",
+            "E) concentration of H⁺ has increased tenfold (10X) and the concentration of OH⁻ has decreased to one-tenth (1/10) what they were at pH 9."
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "If the pH of a solution is increased from pH 5 to pH 7, it means that the",
+        "options": [
+            "A) concentration of H⁺ is twice (2X) what it was at pH 5.",
+            "B) concentration of H⁺ is one-half (1/2) what it was at pH 5.",
+            "C) concentration of OH⁻ is 100 times greater than what it was at pH 5.",
+            "D) concentration of OH⁻ is one-hundredth (0.01X) what it was at pH 5.",
+            "E) concentration of H⁺ is 100 times greater and the concentration of OH⁻ is one-hundredth what they were at pH 5."
+        ],
+        "back": "C",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "One liter of a solution of pH 2 has how many more hydrogen ions (H⁺) than 1 L of a solution of pH 6?",
+        "options": [
+            "A) 4 times more",
+            "B) 16 times more",
+            "C) 40,000 times more",
+            "D) 10,000 times more",
+            "E) 100,000 times more"
+        ],
+        "back": "D",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "One liter of a solution of pH 9 has how many more hydroxyl ions (OH⁻) than 1 L of a solution of pH 4?",
+        "options": [
+            "A) 5 times more",
+            "B) 32 times more",
+            "C) 50,000 times more",
+            "D) 10,000 times more",
+            "E) 100,000 times more"
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Which of the following statements is true about buffer solutions?",
+        "options": [
+            "A) They maintain a constant pH when bases are added to them but not when acids are added to them.",
+            "B) They maintain a constant pH when acids are added to them but not when bases are added to them.",
+            "C) They maintain a relatively constant pH of approximately 7 when either acids or bases are added to them.",
+            "D) They maintain a relatively constant pH when either acids or bases are added to them.",
+            "E) They are found only in living systems and biological fluids."
+        ],
+        "back": "D",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Buffers are substances that help resist shifts in pH by",
+        "options": [
+            "A) releasing H⁺ to a solution when acids are added.",
+            "B) donating H⁺ to a solution when bases are added.",
+            "C) releasing OH⁻ to a solution when bases are added.",
+            "D) accepting H⁺ from a solution when acids are added.",
+            "E) both donating H⁺ to a solution when bases are added, and accepting H⁺ when acids are added."
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "One of the buffers that contribute to pH stability in human blood is carbonic acid (H₂CO₃). Carbonic acid is a weak acid that dissociates into a bicarbonate ion (HCO₃⁻) and a hydrogen ion (H⁺). Thus, H₂CO₃ ↔ HCO₃⁻ + H⁺ If the pH of the blood drops, one would expect",
+        "options": [
+            "A) a decrease in the concentration of H₂CO₃ and an increase in the concentration of HCO₃⁻.",
+            "B) the concentration of hydroxide ion (OH⁻) to increase.",
+            "C) the concentration of bicarbonate ion (HCO₃⁻) to increase.",
+            "D) the HCO₃⁻ to act as a base and remove excess H⁺ with the formation of H₂CO₃.",
+            "E) the HCO₃⁻ to act as an acid and remove excess H⁺ with the formation of H₂CO₃."
+        ],
+        "back": "D",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "One of the buffers that contribute to pH stability in human blood is carbonic acid (H₂CO₃). Carbonic acid is a weak acid that, when placed in an aqueous solution, dissociates into a bicarbonate ion (HCO₃⁻ and a hydrogen ion (H⁺). Thus, H₂CO₃ ↔ HCO₃⁻ + H⁺ If the pH of the blood increases, one would expect",
+        "options": [
+            "A) a decrease in the concentration of H₂CO₃ and an increase in the concentration of HCO₃⁻.",
+            "B) an increase in the concentration of H₂CO₃ and a decrease in the concentration of HCO₃⁻.",
+            "C) a decrease in the concentration of HCO₃⁻ and an increase in the concentration of H⁺.",
+            "D) an increase in the concentration of HCO₃⁻ and a decrease in the concentration of OH⁻.",
+            "E) a decrease in the concentration of HCO₃⁻ and an increase in the concentration of both HH₂CO₃ and H⁺."
+        ],
+        "back": "A",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Assume that acid rain has lowered the pH of a particular lake to pH 4.0. What is the hydroxyl ion concentration of this lake?",
+        "options": [
+            "A) 1 × 10⁻¹⁰ mol of hydroxyl ion per liter of lake water",
+            "B) 1 × 10⁻⁴ mol of hydroxyl ion per liter of lake water",
+            "C) 10.0 M with regard to hydroxyl ion concentration",
+            "D) 4.0 M with regard to hydroxyl ion concentration",
+            "E) 1 × 10⁻⁴ mol of hydroxyl ion per liter of lake water and 4.0 M with regard to hydrogen ion concentration"
+        ],
+        "back": "A",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Research indicates that acid precipitation can damage living organisms by",
+        "options": [
+            "A) buffering aquatic systems such as lakes and streams.",
+            "B) decreasing the H⁺ concentration of lakes and streams.",
+            "C) increasing the OH⁻ concentration of lakes and streams.",
+            "D) washing away certain mineral ions that help buffer soil solution and are essential nutrients for plant growth.",
+            "E) both decreasing the H⁺ concentration of lakes and streams and increasing the OH⁻ concentration of lakes and streams."
+        ],
+        "back": "D",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Consider two solutions: solution X has a pH of 4; solution Y has a pH of 7. From this information, we can reasonably conclude that",
+        "options": [
+            "A) solution Y has no free hydrogen ions (H⁺).",
+            "B) the concentration of hydrogen ions in solution X is 30 times as great as the concentration of hydrogen ions in solution Y.",
+            "C) the concentration of hydrogen ions in solution Y is 1,000 times as great as the concentration of hydrogen ions in solution X.",
+            "D) the concentration of hydrogen ions in solution X is 3 times as great as the concentration of hydrogen ions in solution Y.",
+            "E) the concentration of hydrogen ions in solution X is 1,000 times as great as the concentration of hydrogen ions in solution Y."
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "If a solution has a pH of 7, this means that",
+        "options": [
+            "A) there are no H⁺ ions in the water.",
+            "B) this is a solution of pure water.",
+            "C) the concentration of H⁺ ions in the water equals the concentration of OH⁻ ions in the water.",
+            "D) this is a solution of pure water, and the concentration of H⁺ ions in the water is 10⁻⁷ M.",
+            "E) this is a solution of pure water, and the concentration of H⁺ ions equals the concentration of OH⁻ ions in the water."
+        ],
+        "back": "C",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Carbon dioxide (CO₂) is readily soluble in water, according to the equation CO₂ + H₂O ↔ H₂CO₃. Carbonic acid (H₂CO₃) is a weak acid. Respiring cells release CO₂ into the bloodstream. What will be the effect on pH of blood as that blood first comes in contact with respiring cells?",
+        "options": [
+            "A) Blood pH will decrease slightly.",
+            "B) Blood pH will increase slightly.",
+            "C) Blood pH will remain unchanged.",
+            "D) Blood pH will first increase, then decrease as CO₂ combines with hemoglobin.",
+            "E) Blood pH will first decrease, then increase sharply as CO₂ combines with hemoglobin."
+        ],
+        "back": "A",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "A beaker contains 100 mL of NaOH solution at pH = 13. A technician carefully pours into the beaker 10 mL of HCl at pH = 1. Which of the following statements correctly describes the results of this mixing?",
+        "options": [
+            "A) The concentration of Na⁺ ion rises.",
+            "B) The concentration of Cl⁻ ion will be 0.1 M.",
+            "C) The concentration of undissociated H₂O molecules remains unchanged.",
+            "D) The pH of the beaker's contents will be neutral.",
+            "E) The pH of the beaker's contents falls."
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Equal volumes (5 mL) of vinegar from a freshly opened bottle are added to each of the following solutions. After complete mixing, which of the mixtures will have the highest pH?",
+        "options": [
+            "A) 100 mL of pure water",
+            "B) 100 mL of freshly brewed coffee",
+            "C) 100 mL of household cleanser containing 0.5 M ammonia",
+            "D) 100 mL of freshly squeezed orange juice",
+            "E) 100 mL of tomato juice"
+        ],
+        "back": "C",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Increased atmospheric CO₂ concentrations might have what effect on seawater?",
+        "options": [
+            "A) Seawater will become more acidic, and bicarbonate concentrations will decrease.",
+            "B) Seawater will become more alkaline, and carbonate concentrations will decrease.",
+            "C) There will be no change in the pH of seawater, because carbonate will turn to bicarbonate.",
+            "D) Seawater will become more acidic, and carbonate concentrations will decrease.",
+            "E) Seawater will become more acidic, and carbonate concentrations will increase."
+        ],
+        "back": "D",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "How would acidification of seawater affect marine organisms?",
+        "options": [
+            "A) Acidification would increase dissolved carbonate concentrations and promote faster growth of corals and shell-building animals.",
+            "B) Acidification would decrease dissolved carbonate concentrations and promote faster growth of corals and shell-building animals.",
+            "C) Acidification would increase dissolved carbonate concentrations and hinder growth of corals and shell-building animals.",
+            "D) Acidification would decrease dissolved carbonate concentrations and hinder growth of corals and shell-building animals.",
+            "E) Acidification would increase dissolved bicarbonate concentrations, and cause increased calcification of corals and shellfish."
+        ],
+        "back": "D",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "One idea to mitigate the effects of burning fossil fuels on atmospheric CO₂ concentrations is to pipe liquid CO₂ into the ocean at depths of 2,500 feet or greater. At the high pressures at such depths, CO₂ is heavier than water. What potential effects might result from implementing such a scheme?",
+        "options": [
+            "A) increased photosynthetic carbon fixation because of the increased dissolved carbon dioxide in the deep water",
+            "B) increased carbonate concentrations in the deep waters",
+            "C) reduced growth of corals from a change in the carbonate—bicarbonate equilibrium",
+            "D) no effect because carbon dioxide is not soluble in water",
+            "E) both increased acidity of the deep waters and changes in the growth of bottom-dwelling organisms with calcium carbonate shells"
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "If the cytoplasm of a cell is at pH 7, and the mitochondrial matrix is at pH 8, this means that",
+        "options": [
+            "A) the concentration of H⁺ ions is tenfold higher in the cytoplasm than in the mitochondrial matrix.",
+            "B) the concentration of H⁺ ions is tenfold higher in the mitochondrial matrix than in the cytoplasm.",
+            "C) the concentration of H⁺ ions in the cytoplasm is 7/8 the concentration in the mitochondrial matrix.",
+            "D) the mitochondrial matrix is more acidic than the cytoplasm.",
+            "E) the concentration of H⁺ ions in the cytoplasm is 8/7 the concentration in the mitochondrial matrix."
+        ],
+        "back": "A",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Based on your knowledge of the polarity of water molecules, the solute molecule depicted here is most likely",
+        "options": [
+            "A) positively charged.",
+            "B) negatively charged.",
+            "C) without charge.",
+            "D) hydrophobic.",
+            "E) nonpolar."
+        ],
+        "back": "A",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": [
+            "https://web.archive.org/web/20170710165004im_/http://www.easynotecards.com:80/uploads/495/9/_6da06025_13a2d7978ef__8000_00000063.png"
+        ]
+    },
+    {
+        "front": "How many grams would be equal to 1 mol of the compound shown in the figure above? (carbon = 12, oxygen = 16, hydrogen = 1)",
+        "options": [
+            "A) 29",
+            "B) 30",
+            "C) 60",
+            "D) 150",
+            "E) 342"
+        ],
+        "back": "C",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": [
+            "https://web.archive.org/web/20170710165004im_/http://www.easynotecards.com:80/uploads/496/10/_6da06025_13a2d7978ef__8000_00000064.png"
+        ]
+    },
+    {
+        "front": "How many grams of the compound in the figure above would be required to make 1 L of a 0.5 M solution? (carbon = 12, oxygen = 16, hydrogen = 1)",
+        "options": [
+            "A) 29",
+            "B) 30",
+            "C) 60",
+            "D) 150",
+            "E) 342"
+        ],
+        "back": "B",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": [
+            "https://web.archive.org/web/20170710165004im_/http://www.easynotecards.com:80/uploads/496/10/_6da06025_13a2d7978ef__8000_00000064.png"
+        ]
+    },
+    {
+        "front": "How many grams of the compound in the figure above would be required to make 2.5 L of a 1 M solution? (carbon = 12, oxygen = 16, hydrogen = 1)",
+        "options": [
+            "A) 29",
+            "B) 30",
+            "C) 60",
+            "D) 150",
+            "E) 342"
+        ],
+        "back": "D",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": [
+            "https://web.archive.org/web/20170710165004im_/http://www.easynotecards.com:80/uploads/496/10/_6da06025_13a2d7978ef__8000_00000064.png"
+        ]
+    },
+    {
+        "front": "A small birthday candle is weighed, then lighted and placed beneath a metal can containing 100 mL of water. Careful records are kept as the temperature of the water rises. Data from this experiment are shown on the graph. What amount of heat energy is released in the burning of candle wax?",
+        "options": [
+            "A) 0.5 kilocalories per gram of wax burned",
+            "B) 5 kilocalories per gram of wax burned",
+            "C) 10 kilocalories per gram of wax burned",
+            "D) 20 kilocalories per gram of wax burned",
+            "E) 50 kilocalories per gram of wax burned"
+        ],
+        "back": "A",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": [
+            "https://web.archive.org/web/20170710165004im_/http://www.easynotecards.com:80/uploads/499/13/_6da06025_13a2d7978ef__8000_00000067.png"
+        ]
+    },
+    {
+        "front": "You have two beakers. One contains pure water, the other contains pure methanol (wood alcohol). The covalent bonds of methanol molecules are nonpolar, so there are no hydrogen bonds among methanol molecules. You pour crystals of table salt (NaCl) into each beaker. Predict what will happen.",
+        "options": [
+            "A) Equal amounts of NaCl crystals will dissolve in both water and methanol.",
+            "B) NaCl crystals will NOT dissolve in either water or methanol.",
+            "C) NaCl crystals will dissolve readily in water but will not dissolve in methanol.",
+            "D) NaCl crystals will dissolve readily in methanol but will not dissolve in water.",
+            "E) When the first crystals of NaCl are added to water or to methanol, they will not dissolve; but as more crystals are added, the crystals will begin to dissolve faster and faster."
+        ],
+        "back": "C",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "You have two beakers. One contains a solution of HCl at pH = 1.0. The other contains a solution of NaOH at pH = 13. Into a third beaker, you slowly and cautiously pour 20 mL of the HCl and 20 mL of the NaOH. After complete stirring, the pH of the mixture will be",
+        "options": [
+            "A) 2.0.",
+            "B) 12.0.",
+            "C) 7.0.",
+            "D) 5.0.",
+            "E) 9.0."
+        ],
+        "back": "C",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Many mammals control their body temperature by sweating. Which property of water is most directly responsible for the ability of sweat to lower body temperature?",
+        "options": [
+            "A) water's change in density when it condenses",
+            "B) water's ability to dissolve molecules in the air",
+            "C) the release of heat by the formation of hydrogen bonds",
+            "D) the absorption of heat by the breaking of hydrogen bonds",
+            "E) water's high surface tension"
+        ],
+        "back": "D",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "The bonds that are broken when water vaporizes are",
+        "options": [
+            "A) ionic bonds.",
+            "B) hydrogen bonds between water molecules.",
+            "C) covalent bonds between atoms within water molecules.",
+            "D) polar covalent bonds.",
+            "E) nonpolar covalent bonds."
+        ],
+        "back": "B",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Which of the following is a hydrophobic material?",
+        "options": [
+            "A) paper",
+            "B) table salt",
+            "C) wax",
+            "D) sugar",
+            "E) pasta"
+        ],
+        "back": "C",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "We can be sure that a mole of table sugar and a mole of vitamin C are equal in their",
+        "options": [
+            "A) mass in daltons.",
+            "B) mass in grams.",
+            "C) volume.",
+            "D) number of atoms.",
+            "E) number of molecules."
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Measurements show that the pH of a particular lake is 4.0. What is the hydrogen ion concentration of the lake?",
+        "options": [
+            "A) 4.0 M",
+            "B) 10⁻¹⁰ M",
+            "C) 10⁻⁴ M",
+            "D) 10⁴ M",
+            "E) 4%"
+        ],
+        "back": "C",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "Measurements show that the pH of a particular lake is 4.0. What is the hydroxide ion concentration of the lake?",
+        "options": [
+            "A) 10⁻¹⁰ M",
+            "B) 10⁻⁴ M",
+            "C) 10⁻⁷ M",
+            "D) 10⁻¹⁴ M",
+            "E) 10 M"
+        ],
+        "back": "A",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "A slice of pizza has 500 kcal. If we could burn the pizza and use all the heat to warm a 50-L container of cold water, what would be the approximate increase in the temperature of the water? (Note: A liter of cold water weighs about 1 kg.)",
+        "options": [
+            "A) 50°C",
+            "B) 5°C",
+            "C) 1°C",
+            "D) 100°C",
+            "E) 10°C"
+        ],
+        "back": "E",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    },
+    {
+        "front": "How many grams of acetic acid (C₂H₄O₂) would you use to make 10 L of a 0.1 M aqueous solution of acetic acid? (Note: The atomic masses, in daltons, are approximately 12 for carbon, 1 for hydrogen, and 16 for oxygen.)",
+        "options": [
+            "A) 10 g",
+            "B) 0.1 g",
+            "C) 6.0 g",
+            "D) 60 g",
+            "E) 0.6 g"
+        ],
+        "back": "D",
+        "unit": "Chapter 3",
+        "chapter": "Chapter 3",
+        "images": []
+    }
+]
