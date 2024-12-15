@@ -1,0 +1,1514 @@
+[
+    {
+        "front": "1) All of the following may function in signal transduction in plants except",
+        "options": [
+            "A) calcium ions.",
+            "B) nonrandom mutations.",
+            "C) receptor proteins.",
+            "D) phytochrome.",
+            "E) secondary messengers."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "2) External stimuli would be received most quickly by a plant cell if the receptors for signal transduction were located in the",
+        "options": [
+            "A) plasma membrane.",
+            "B) cytoplasmic matrix.",
+            "C) endoplasmic reticulum.",
+            "D) nuclear membrane.",
+            "E) nucleoplasm."
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "3) What would happen if the secondary messenger cGMP was blocked in the de-etiolation pathway?",
+        "options": [
+            "A) Specific protein kinase 1 would be activated, and greening would occur.",
+            "B) Ca2+ channels would not open, and no greening would occur.",
+            "C) Ca2+ channels could open, and specific protein kinase 2 could still be produced.",
+            "D) No transcription of genes that function in de-etiolation would occur.",
+            "E) Transcription of de-etiolation genes in the nucleus would not be affected."
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "4) If protein synthesis was blocked in etiolated cells, what would be necessary for the \"greening\" of these cells?",
+        "options": [
+            "A) reception of light by phytochrome",
+            "B) activation of protein kinase 1 by cAMP",
+            "C) activation of protein kinase 2 by Ca2+",
+            "D) post-translational modification of existing proteins",
+            "E) 100-fold decrease in cytosolic Ca2+ levels"
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "5) The detector of light during de-etiolation (greening) of a tomato plant is (are)",
+        "options": [
+            "A) carotenoids.",
+            "B) xanthophylls.",
+            "C) phytochrome.",
+            "D) chlorophyll.",
+            "E) auxin."
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "6) Charles and Francis Darwin concluded from their experiments on phototropism by grass seedlings that the part of the seedling that detects the direction of light is the",
+        "options": [
+            "A) tip of the coleoptile.",
+            "B) part of the coleoptile that bends during the response.",
+            "C) base of the coleoptile.",
+            "D) cotyledon.",
+            "E) phytochrome in the leaves."
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "7) Plants growing in a partially dark environment will grow toward light in a response called phototropism. Which of the following statements is true regarding phototropism?",
+        "options": [
+            "A) It is caused by an electrical signal.",
+            "B) One chemical involved is ethylene.",
+            "C) Auxin causes a growth increase on one side of the stem.",
+            "D) Auxin causes a decrease in growth on the side of the stem exposed to light.",
+            "E) Removing the apical meristem enhances phototropism."
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "8) Which of the following conclusions is supported by the research of both Went and Charles and Francis Darwin on shoot responses to light?",
+        "options": [
+            "A) When shoots are exposed to light, a chemical substance migrates toward the light.",
+            "B) Agar contains a chemical substance that mimics a plant hormone.",
+            "C) A chemical substance involved in shoot bending is produced in shoot tips.",
+            "D) Once shoot tips have been cut, normal growth cannot be induced.",
+            "E) Light stimulates the synthesis of a plant hormone that responds to light."
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "9) We know from the experiments of the past that plants bend toward light because",
+        "options": [
+            "A) they need sunlight energy for photosynthesis.",
+            "B) the sun stimulates stem growth.",
+            "C) cell expansion is greater on the dark side of the stem.",
+            "D) auxin is inactive on the dark side of the stem.",
+            "E) phytochrome stimulates florigen production."
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "10) Which of the following is a major mechanism whereby hormones control plant development?",
+        "options": [
+            "A) cell respiration via regulation of the citric acid cycle",
+            "B) cell division via the cell cycle",
+            "C) cell elongation through production of cellulase",
+            "D) cell differentiation through altered spliceosome activity",
+            "E) cell synthesis of proteins via altered gene expression"
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "11) Evidence for phototropism due to the asymmetric distribution of auxin moving down the stem",
+        "options": [
+            "A) was first demonstrated in the coleoptiles of monocots.",
+            "B) has been found in all monocots and most eudicots.",
+            "C) has been shown to involve only IAA stimulation of cell elongation on the dark side of the stem.",
+            "D) can be demonstrated with unilateral red light, but not blue light.",
+            "E) is now thought by most plant scientists not to involve the shoot tip."
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "12) According to modern ideas about phototropism in plants,",
+        "options": [
+            "A) light causes auxin to accumulate on the shaded side of a plant stem.",
+            "B) auxin indirectly inhibits elongation of plant stem cells.",
+            "C) auxin is produced by the apical meristem of the coleoptile and moves downward.",
+            "D) all hormones move downward via the xylem.",
+            "E) cytokinins are more directly involved than auxins."
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "13) A plant seedling bends toward sunlight because",
+        "options": [
+            "A) auxin migrates to the lower part of the stem due to gravity.",
+            "B) there is more auxin on the light side of the stem.",
+            "C) auxin is destroyed more quickly on the dark side of the stem.",
+            "D) auxin is found in greatest abundance on the dark side of the stem.",
+            "E) gibberellins produced at the stem tip cause phototropism."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "14) The apical bud of a shoot produces ________, resulting in the inhibition of lateral bud growth.",
+        "options": [
+            "A) abscisic acid",
+            "B) ethylene",
+            "C) cytokinin",
+            "D) gibberellin",
+            "E) auxin"
+        ],
+        "back": "E",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "15) After some time, the tip of a plant that has been forced into a horizontal position grows upward. This phenomenon is related to",
+        "options": [
+            "A) calcium release from the endoplasmic reticulum of shaded cells.",
+            "B) whether the plant is in the northern or southern hemisphere.",
+            "C) gibberellin production by stems.",
+            "D) auxin production in cells receiving red light.",
+            "E) auxin movement toward the lower side of the stem."
+        ],
+        "back": "E",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "16) Gravitropism in plant shoots and roots differ in that",
+        "options": [
+            "A) only shoots depend upon auxin distribution.",
+            "B) only shoots depend upon the aggregation of statoliths.",
+            "C) only roots exhibit rapid elongation of specific cells.",
+            "D) only roots sense gravity at the tips.",
+            "E) the threshold and response time is much less in shoots than in roots."
+        ],
+        "back": "E",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "17) The ripening of fruit and the dropping of leaves and fruit are principally controlled by",
+        "options": [
+            "A) auxins.",
+            "B) cytokinins.",
+            "C) indole acetic acid.",
+            "D) ethylene.",
+            "E) carbon dioxide concentration (in air)."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "18) Which plant hormones would likely be found in high amounts in a sprouting vegetative stem?",
+        "options": [
+            "A) auxins, gibberellins, cytokinins",
+            "B) gibberellins, brassinosteroids, cytokinins",
+            "C) auxins, abscisic acid, ethylene",
+            "D) auxins, phytochrome, brassinosteroids",
+            "E) gibberellins, cytokinins, abscisic acid"
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "19) Which of the following plant hormones would be found in very low amounts in a mature, water-stressed tomato plant?",
+        "options": [
+            "A) auxins, abscisic acid, brassinosteroids",
+            "B) auxins, gibberellins, cytokinins",
+            "C) gibberellins, cytokinins, ethylene",
+            "D) phytochrome, cytokinins, abscisic acid",
+            "E) brassinosteroids, ethylene, phytochrome"
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "20) The plant hormone involved in aging and ripening of fruit is",
+        "options": [
+            "A) auxin.",
+            "B) ethylene.",
+            "C) florigen.",
+            "D) abscisic acid.",
+            "E) gibberellin."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "21) When growing plants in culture, IAA is used to stimulate cell enlargement. Which plant growth regulator has to now be added to stimulate cell division?",
+        "options": [
+            "A) ethylene",
+            "B) indoleacetic acid",
+            "C) gibberellin",
+            "D) cytokinin",
+            "E) abscisic acid"
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "22) Why do coleoptiles grow toward light?",
+        "options": [
+            "A) Auxin is destroyed by light.",
+            "B) Gibberellins are destroyed by light.",
+            "C) Auxin synthesis is stimulated in the dark.",
+            "D) Auxin moves away from the light to the shady side.",
+            "E) Gibberellins move away from the light to the shady side."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "23) Which of the following statements applies to plant growth regulators?",
+        "options": [
+            "A) They only act by altering gene expression.",
+            "B) They often have a multiplicity of effects.",
+            "C) They function independently of other hormones.",
+            "D) They directly control plant protein synthesis and assembly.",
+            "E) They affect the division and elongation, but not the differentiation, of cells."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "24) Plant hormones produce their effects by",
+        "options": [
+            "A) altering the expression of genes.",
+            "B) modifying the permeability of the plasma membrane.",
+            "C) modifying the structure of the nuclear envelope membrane.",
+            "D) altering the expression of genes and modifying the permeability of the plasma membrane.",
+            "E) modifying the permeability of the plasma membrane and modifying the structure of the nuclear envelope membrane."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "25) Why might animal hormones function differently than plant hormones?",
+        "options": [
+            "A) Animal receptors are very different than plant receptors.",
+            "B) Plant cells have a cell wall that blocks passage of many hormones.",
+            "C) Plants must have more precise timing of their reproductive activities.",
+            "D) Plants are much more variable in their morphology and development than animals.",
+            "E) Animal receptors are more hydrophobic than plant receptors."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "26) Which of the following hormones would never be found in high concentrations in a dormant overwintering flower bud?",
+        "options": [
+            "A) auxin",
+            "B) cytokinins",
+            "C) abscisic acid",
+            "D) ethylene",
+            "E) gibberellins"
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "27) Plant hormones can have different effects at different concentrations. This explains how",
+        "options": [
+            "A) some plants are long-day plants and others are short-day plants.",
+            "B) signal transduction pathways in plants are different from those in animals.",
+            "C) plant genes recognize pathogen genes.",
+            "D) auxin can stimulate cell elongation in apical meristems, yet will inhibit the growth of axillary buds.",
+            "E) gibberellin concentration can both induce and break dormancy."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "28) Auxins (IAA) in plants are known to affect all of the following phenomena except",
+        "options": [
+            "A) geotropism of shoots.",
+            "B) maintenance of dormancy.",
+            "C) phototropism of shoots.",
+            "D) inhibition of lateral buds.",
+            "E) fruit development."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "29) How does indoleacetic acid affect fruit development?",
+        "options": [
+            "A) by preventing pollination",
+            "B) by inhibiting formation of the ovule",
+            "C) by promoting gene expression in cambial tissue",
+            "D) by promoting rapid growth of the ovary",
+            "E) by inducing the formation of brassinosteroids"
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "30) Oat seedlings are sometimes used to study auxins because",
+        "options": [
+            "A) they are a readily accessible monocot, and auxins affect only monocots.",
+            "B) they have a stiff coleoptile.",
+            "C) they green rapidly in the light.",
+            "D) their coleoptile exhibits a strong positive phototropism.",
+            "E) monocots inactivate synthetic auxins."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "31) Auxin triggers the acidification of cell walls, which results in rapid growth, but also stimulates sustained, long-term cell elongation. What best explains how auxin brings about this dual growth response?",
+        "options": [
+            "A) Auxin binds to different receptors in different cells.",
+            "B) Different concentrations of auxin have different effects.",
+            "C) Auxin causes second messengers to activate both proton pumps on the plasma membrane and certain genes within the same cells.",
+            "D) The dual effects are due to two different types of auxins that are produced by different genes.",
+            "E) Other antagonistic hormones modify auxin's effects."
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "32) If a farmer wanted more loosely packed clusters of grapes, he would most likely spray the immature bunches with",
+        "options": [
+            "A) auxin.",
+            "B) gibberellins.",
+            "C) cytokinins.",
+            "D) abscisic acid.",
+            "E) ethylene."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "33) Which of the following plant hormones are most likely to act synergistically if expressed or applied to a drought-stricken plant?",
+        "options": [
+            "A) auxin and ethylene",
+            "B) phytochrome and gibberellins",
+            "C) gibberellins and abscisic acid",
+            "D) abscisic acid and ethylene",
+            "E) brassinosteroids and cytokinins"
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "34) Which of the following statements best summarizes the acid growth hypothesis in an actively growing shoot?",
+        "options": [
+            "A) Auxin stimulates proton pumps in the plasma membrane and tonoplast.",
+            "B) Auxin-activated proton pumps lower the pH of the cell wall, which breaks bonds and makes the walls more flexible",
+            "C) Auxins and gibberellins together act as a lubricant to help stretch cellulose microfibrils.",
+            "D) Auxins activate aquaporins that increase turgor pressure in the cells.",
+            "E) Auxins and gibberellins are transported to the vacuoles to build up turgor pressure."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "35) According to the acid growth hypothesis, auxin works by",
+        "options": [
+            "A) dissolving sieve plates, permitting more rapid transport of nutrients.",
+            "B) dissolving the cell membranes temporarily, permitting cells that were on the verge of dividing to divide more rapidly.",
+            "C) changing the pH within the cell, which would permit the electron transport chain to operate more efficiently.",
+            "D) increasing wall plasticity and allowing the affected cell walls to elongate.",
+            "E) greatly increasing the rate of deposition of cell wall material."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "36) Which of the following hormones would be most useful in promoting the rooting of plant cuttings?",
+        "options": [
+            "A) oligosaccharins",
+            "B) abscisic acid",
+            "C) cytokinins",
+            "D) gibberellins",
+            "E) auxins"
+        ],
+        "back": "E",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "37) Which of the following plant hormones would most likely be found in high concentrations in a mature, slightly overripe fruit?",
+        "options": [
+            "A) auxins and cytokinins",
+            "B) auxins and abscisic acid",
+            "C) gibberellins and cytokinins",
+            "D) cytokinins and ethylene",
+            "E) abscisic acid and ethylene"
+        ],
+        "back": "E",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "38) The aleurone layer is stimulated to release ________ and ________ as a result of giberrellin release from the embryo.",
+        "options": [
+            "A) proteins; amino acids",
+            "B) carbohydrates; sugars",
+            "C) auxins; cytokinins",
+            "D) amylase; protease",
+            "E) RNAase; DNAase"
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "39) Which of the following field treatments would be most likely to result in a wheat or corn field with most of the plants of uniform height?",
+        "options": [
+            "A) auxin spray early in the season",
+            "B) gibberellin spray early in the season",
+            "C) abscisic acid spray late in the season",
+            "D) auxin spray late in the season",
+            "E) auxin and gibberellin spray late in the season"
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "40) If you were shipping green bananas to a supermarket thousands of miles away, which of the following chemicals would you want to eliminate from the plants' environment?",
+        "options": [
+            "A) CO₂",
+            "B) cytokinins",
+            "C) ethylene",
+            "D) auxin",
+            "E) gibberellic acids"
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "41) Which of the following is currently the most powerful method of research on plant hormones?",
+        "options": [
+            "A) comparing photoperiodic responses",
+            "B) comparing tropisms with turgor movements",
+            "C) subjecting plants to various abiotic stresses",
+            "D) studying plant/animal interactions",
+            "E) analyzing mutant plants"
+        ],
+        "back": "E",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "42) We tend to think of plants as immobile when, in fact, they can move in many ways. Which of the following is a legitimate way in which plants move?",
+        "options": [
+            "A) stretching or shrinking movements up or down in response to light",
+            "B) folding and unfolding of leaves using muscle-like tissues",
+            "C) growth movements toward or away from light",
+            "D) cessation of plant growth in response to wind or touch",
+            "E) rapid responses using action potentials from nervous tissue cells similar to those found in the nervous tissue of animals"
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "43) Which of the following plant growth responses is primarily due to the action of auxins?",
+        "options": [
+            "A) leaf abscission",
+            "B) fruit development",
+            "C) cell division",
+            "D) the detection of photoperiod",
+            "E) cell elongation"
+        ],
+        "back": "E",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "44) Experiments on the positive phototropic response of plants indicate that",
+        "options": [
+            "A) light destroys auxin.",
+            "B) auxin moves down the plant apoplastically.",
+            "C) auxin is synthesized in the area where the stem bends.",
+            "D) auxin can move to the shady side of the stem.",
+            "E) auxin is only of secondary importance in the process."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "45) Why are lateral buds often inhibited from sprouting even though a stem may be actively elongating?",
+        "options": [
+            "A) The cells of lateral buds are more sensitive to auxin than stem cells.",
+            "B) Lateral buds are high in abscisic acid that prevents elongation.",
+            "C) Lateral buds are low in gibberellins.",
+            "D) Stem cells lack receptors for auxin.",
+            "E) Stem cells can overcome auxin inhibition with high levels of gibberellins."
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "46) The synthesis of which of the following hormones would be a logical first choice in an attempt to produce normal growth in mutant dwarf plants?",
+        "options": [
+            "A) indoleacetic acid",
+            "B) cytokinin",
+            "C) gibberellin",
+            "D) abscisic acid",
+            "E) ethylene"
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "47) Incandescent light bulbs, which have high output of red light, are least effective in promoting",
+        "options": [
+            "A) photosynthesis.",
+            "B) seed germination.",
+            "C) phototropism.",
+            "D) flowering.",
+            "E) entrainment of circadian rhythms."
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "48) Both red and blue light are involved in",
+        "options": [
+            "A) stem elongation.",
+            "B) photoperiodism.",
+            "C) positive phototropism.",
+            "D) tracking seasons.",
+            "E) all of the above."
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "49) Seed packets give a recommended planting depth for the enclosed seeds. The most likely reason some seeds are to be covered with only 1/4 inch of soil is that the",
+        "options": [
+            "A) seedlings do not produce a hypocotyl.",
+            "B) seedlings do not have an etiolation response.",
+            "C) seeds require light to germinate.",
+            "D) seeds require a higher temperature to germinate.",
+            "E) seeds are very sensitive to waterlogging."
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "50) A short-day plant will flower only when",
+        "options": [
+            "A) days are shorter than nights.",
+            "B) days are shorter than a certain critical value.",
+            "C) nights are shorter than a certain critical value.",
+            "D) nights are longer than a certain critical value.",
+            "E) days and nights are of equal length."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "51) A flash of red light followed by a flash of far-red light given during the middle of the night to a short-day plant will likely",
+        "options": [
+            "A) cause increased flower production.",
+            "B) have no effect upon flowering.",
+            "C) inhibit flowering.",
+            "D) stimulate flowering.",
+            "E) convert florigen to the active form."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "52) Many plants flower in response to day-length cues. Which of the following statements best summarizes this phenomenon?",
+        "options": [
+            "A) As a rule, short-day plants flower in the summer.",
+            "B) As a rule, long-day plants flower in the spring or fall.",
+            "C) Long-day plants flower in response to long days, not short nights.",
+            "D) Flowering in day-neutral plants is only influenced by day length if there is an exceptionally warm spring.",
+            "E) Flowering in short-day and long-day plants is controlled by phytochrome."
+        ],
+        "back": "E",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "53) Which of the following treatments would enhance the level of the Pfr form of phytochrome?",
+        "options": [
+            "A) exposure to far-red light",
+            "B) exposure to red light",
+            "C) long dark period",
+            "D) inhibition of protein synthesis",
+            "E) synthesis of phosphorylating enzymes"
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "54) Most plants close their stomata at night. What color of light would be most effective in promoting stomatal opening in the middle of the night?",
+        "options": [
+            "A) red",
+            "B) far-red",
+            "C) blue",
+            "D) red followed by far-red",
+            "E) far-red followed by blue"
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "55) The houseplants in a windowless room with only fluorescent lights begin to grow tall and leggy. Which of the following treatments would promote more normal growth?",
+        "options": [
+            "A) Leave the lights on at night as well as during the day.",
+            "B) Add additional fluorescent tubes to increase the light output.",
+            "C) Add some incandescent bulbs to increase the amount of red light.",
+            "D) Set a timer to turn on the lights for 5 minutes during the night.",
+            "E) Turn off the lights for 5 minutes during the day."
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "56) In legumes, it has been shown that \"sleep\" (nastic) movements are correlated with",
+        "options": [
+            "A) positive thigmotropisms.",
+            "B) rhythmic opening and closing of K+ channels in motor cell membranes.",
+            "C) senescence (the aging process in plants).",
+            "D) flowering and fruit development.",
+            "E) ABA-stimulated closing of guard cells caused by loss of K+."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "57) Which of the following statements is correct with regards to a \"circadian rhythm\" in plants?",
+        "options": [
+            "A) It may have the same signal transduction pathway in all organisms.",
+            "B) Once set, it cannot be changed.",
+            "C) It works independently of photoperiodic responses.",
+            "D) Once set, it is independent of external signals.",
+            "E) It can be changed to a longer or shorter period by altering the light quality."
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "58) The biological clock controlling circadian rhythms must ultimately",
+        "options": [
+            "A) depend on environmental cues.",
+            "B) affect gene transcription.",
+            "C) stabilize on a 24-hour cycle.",
+            "D) speed up or slow down with increasing or decreasing temperature.",
+            "E) do all of the above."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "59) Plants often use changes in day length (photoperiod) to trigger events such as dormancy and flowering. It is logical that plants have evolved this mechanism because photoperiod changes",
+        "options": [
+            "A) are more predictable than air temperature changes.",
+            "B) alter the amount of energy available to the plant.",
+            "C) are modified by soil temperature changes.",
+            "D) can reset the biological clock.",
+            "E) are correlated with moisture availability."
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "60) If the range of a species of plants expands to a higher latitude, which of the following processes is the most likely to be modified by natural selection?",
+        "options": [
+            "A) circadian rhythm",
+            "B) photoperiodic response",
+            "C) phototropic response",
+            "D) biological clock",
+            "E) thigmomorphogenesis"
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "61) What does a short-day plant require in order to flower?",
+        "options": [
+            "A) a burst of red light in the middle of the night",
+            "B) a burst of far-red light in the middle of the night",
+            "C) a day that is longer than a certain length",
+            "D) a night that is longer than a certain length",
+            "E) a higher ratio of Pr to Pfr"
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "62) If a short-day plant has a critical night length of 15 hours, then which of the following 24-hour cycles will prevent flowering?",
+        "options": [
+            "A) 8 hours light/16 hours dark",
+            "B) 4 hours light/20 hours dark",
+            "C) 6 hours light/2 hours dark/light flash/16 hours dark",
+            "D) 8 hours light/8 hours dark/light flash/8 hours dark",
+            "E) 2 hours light/20 hours dark/2 hours light"
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "63) A long-day plant will flower if",
+        "options": [
+            "A) the duration of continuous light exceeds a critical length.",
+            "B) the duration of continuous light is less than a critical length.",
+            "C) the duration of continuous darkness exceeds a critical length.",
+            "D) the duration of continuous darkness is less than a critical length.",
+            "E) it is kept in continuous far-red light."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "64) Plants that have their flowering inhibited by being exposed to bright lights at night are",
+        "options": [
+            "A) day-neutral plants.",
+            "B) short-night plants.",
+            "C) devoid of phytochrome.",
+            "D) short-day plants.",
+            "E) long-day plants."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "65) Classic experiments suggested that a floral stimulus, florigen, could move across a graft from an induced plant to a noninduced plant and trigger flowering. Recent evidence using Arabidopsis has recently shown that florigen is probably",
+        "options": [
+            "A) a phytochrome molecule that is activated by red light.",
+            "B) a protein that is synthesized in leaves, travels to the shoot apical meristems, and initiates flowering.",
+            "C) a membrane signal that travels through the symplast from leaves to buds.",
+            "D) a second messenger that induces Ca++ ions to change membrane potential.",
+            "E) a transcription factor that controls the activation of florigen-specific genes."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "66) A short-day plant exposed to nights longer than the minimum for flowering but interrupted by short flashes of light",
+        "options": [
+            "A) never flower.",
+            "B) might flower depending upon the duration of the light flash.",
+            "C) will not be affected and will flower.",
+            "D) might flower depending upon the wavelengths of the light flashes.",
+            "E) will still flower if ethylene is administered."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "<p>67) A long-day plant will flower <br>A) in the late fall. <br>B) when the night is shorter than a critical value. <br>C) only under artificial light in the summer. <br>D) during short days with proper fertilization. <br>E) regardless of the photoperiod imposed.</p> <p>67) A long-day plant will flower <br>A) in the late fall. <br>B) when the night is shorter than a critical value. <br>C) only under artificial light in the summer. <br>D) during short days with proper fertilization. <br>E) regardless of the photoperiod imposed.</p> &nbsp;",
+        "options": [],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "68) What do the results of research on gravitropic responses of roots and stems show?",
+        "options": [
+            "A) Different tissues have the same response to auxin.",
+            "B) The effect of a plant hormone can depend on the tissue.",
+            "C) Some responses of plants require no hormones at all.",
+            "D) Light is required for the gravitropic response.",
+            "E) Cytokinin can only function in the presence of auxin."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "69) Which of the following best describes positive gravitropism exhibited by plant roots?",
+        "options": [
+            "A) It is mediated by auxin similar to the phototropism responses in shoots.",
+            "B) It depends on an inhibition of elongation of some cells.",
+            "C) Gravity causes gibberellins to accumulate on the lower side of roots.",
+            "D) The phenomenon depends upon inhibition of cell elongation of certain root cells by abscisic acid.",
+            "E) All of the above are correct."
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "70) Vines in tropical rain forests must grow toward large trees before being able to grow toward the sun. To reach a large tree, the most useful kind of growth movement for a tropical vine presumably would be the opposite of",
+        "options": [
+            "A) positive thigmotropism.",
+            "B) positive phototropism.",
+            "C) positive gravitropism.",
+            "D) sleep movements.",
+            "E) circadian rhythms."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "71) A botanist discovers a plant that lacks the ability to form starch grains in root cells, yet the roots still grow downward. This evidence refutes the long-standing hypothesis that",
+        "options": [
+            "A) falling statoliths trigger gravitropism.",
+            "B) starch accumulation triggers the negative phototropic response of roots.",
+            "C) starch grains block the acid growth response in roots.",
+            "D) starch is converted to auxin, which causes the downward bending in roots.",
+            "E) starch and downward movement are necessary for thigmotropism."
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "72) Which of the following watering regimens will be most effective at keeping a lawn green during the hot, dry summer months?",
+        "options": [
+            "A) daily sprinkling to soak the soil to 0.5 inch",
+            "B) sprinkling every other day to soak the soil to 1.0 inch",
+            "C) sprinkling every third day to soak the soil to 2.0 inches",
+            "D) daily sprinkling to soak the soil to 0.5 inch or sprinkling every other day to soak the soil to 1.0 inch",
+            "E) sprinkling every other day to soak the soil to 1.0 inch or sprinkling every third day to soak the soil to 2.0 inches"
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "73) You are part of a desert plant research team trying to discover crops that will be productive in arid climates. You discover a plant that produces a hormone under water-deficit conditions that triggers a suite of drought responses. Most likely the hormone is",
+        "options": [
+            "A) ABA.",
+            "B) GA.",
+            "C) IAA.",
+            "D) 2, 4-D.",
+            "E) salicylic acid."
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "74) If you wanted to genetically engineer a plant to be more resistant to drought, increasing amounts of which of the following hormones might be a good first attempt?",
+        "options": [
+            "A) abscisic acid",
+            "B) brassinosteroids",
+            "C) gibberellins",
+            "D) cytokinins",
+            "E) auxin"
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "75) Plant cells begin synthesizing large quantities of heat-shock proteins",
+        "options": [
+            "A) after the induction of chaperone proteins.",
+            "B) in response to the lack of CO₂ following the closing of stomata by ethylene.",
+            "C) when desert plants are quickly removed from high temperatures.",
+            "D) when they are subjected to moist heat (steam) followed by electric shock.",
+            "E) whenever the external temperature exceeds the threshold where photosynthesis is negatively impacted."
+        ],
+        "back": "E",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "76) Most scientists agree that global warming is underway; thus, it is important to know how plants respond to heat stress. Which of the following would be a useful line of inquiry to try and improve plant response and survival to heat stress?",
+        "options": [
+            "A) the production of heat-stable carbohydrates",
+            "B) increased production of heat-shock proteins",
+            "C) the opening of stomata to increase evaporational heat loss",
+            "D) protoplast fusion experiments with xerophytic plants",
+            "E) all of the above"
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "77) In extremely cold regions, woody species may survive freezing temperatures by",
+        "options": [
+            "A) emptying water from the vacuoles to prevent freezing.",
+            "B) decreasing the numbers of phospholipids in cell membranes.",
+            "C) decreasing the fluidity of all cellular membranes.",
+            "D) producing canavanine as a natural antifreeze.",
+            "E) increasing cytoplasmic levels of specific solute concentrations, such as sugars."
+        ],
+        "back": "E",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "78) Which of the following is a likely response of plants to cold stress?",
+        "options": [
+            "A) the production of a specific solute \"plant coagulant \" that reduces water loss",
+            "B) reducing the size of ice crystals",
+            "C) conversion of the fluid mosaic cell membrane to a solid mosaic one",
+            "D) an increase in sterol concentration of membrane lipids so that the membranes remain flexible",
+            "E) increasing the proportion of unsaturated fatty acids in the membranes"
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "79) Bald cypress and loblolly pine are both gymnosperm trees native to the southern United States. The cypress grows in swamps; the pine grows in sandy soil. How do you think their anatomies differ?",
+        "options": [
+            "A) There are larger intercellular spaces in the roots of the cypress than in the roots of the pine.",
+            "B) Water-conducting cells are larger in the stems of the cypress than in the stems of the pine.",
+            "C) The springwood and summerwood are more distinct in the cypress.",
+            "D) There is less parenchyma in the roots of the cypress than in the pine roots.",
+            "E) There are no major anatomical differences between these species because they're both gymnosperms."
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "80) The initial response of the root cells of a tomato plant watered with seawater would be to",
+        "options": [
+            "A) rapidly produce organic solutes in the cytoplasm.",
+            "B) rapidly expand until the cells burst.",
+            "C) begin to plasmolyze as water is lost.",
+            "D) actively transport water from the cytoplasm into the vacuole.",
+            "E) actively absorb salts from the seawater."
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "81) Which of the following best explains both the growth of a vine up the trunk of a tree as well as the directional growth of a houseplant toward a window?",
+        "options": [
+            "A) nastic movement",
+            "B) taxic movement",
+            "C) tropism response",
+            "D) morphological response",
+            "E) acclimation"
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "82) The rapid leaf movements resulting from a response to touch (thigmotropism) primarily involve",
+        "options": [
+            "A) rapid growth response.",
+            "B) potassium channels.",
+            "C) nervous tissue.",
+            "D) aquaporins.",
+            "E) stress proteins."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "83) Which of the following is the most likely plant response to an attack by herbivores?",
+        "options": [
+            "A) leaf abscission to prevent further loss",
+            "B) early flowering to try and reproduce before being eaten",
+            "C) production of chemical compounds for defense or to attract predators",
+            "D) production of physical defenses, such as thorns",
+            "E) production of thicker bark and cuticle to make it more difficult to eat"
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "84) In order for a plant to initiate chemical responses to herbivory,",
+        "options": [
+            "A) the plant must be directly attacked by an herbivore.",
+            "B) volatile \"signal\" compounds must be perceived.",
+            "C) gene-for-gene recognition must occur.",
+            "D) phytoalexins must be released.",
+            "E) it must be past a certain developmental age."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "85) Plants are affected by an array of pathogens. Which of the following is a likely plant defense/response against disease?",
+        "options": [
+            "A) cells near the point of infection destroying themselves to prevent the spread of the infection",
+            "B) production of chemicals that repel pathogens",
+            "C) transcriptional level recognition followed by production of stress proteins",
+            "D) thickening the cuticle so that pathogens have trouble penetrating the tissues",
+            "E) stopping all xylem and phloem movement within infected tissues"
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "86) A pathogenic fungus invades a plant. What does the infected plant produce in response to the attack?",
+        "options": [
+            "A) antisense RNA",
+            "B) phytoalexins",
+            "C) phytochrome",
+            "D) statoliths",
+            "E) thickened cellulose microfibrils in the cell wall"
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "87) Which of the following would be the most effective way to prevent herbivory in a non-woody plant?",
+        "options": [
+            "A) production of the amino acid analog canavanine",
+            "B) release of insect pheromones",
+            "C) production of foul-tasting compounds",
+            "D) thickened cuticle",
+            "E) enhanced levels of salicylic acid"
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "88) The transduction pathway that activates systemic acquired resistance in plants is initially signaled by",
+        "options": [
+            "A) antisense RNA.",
+            "B) Pfr phytochrome.",
+            "C) salicylic acid.",
+            "D) abscisic acid.",
+            "E) red, but not far-red, light."
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "89) Which of the following would only be activated or upregulated after a plant has already been infected by a pathogen?",
+        "options": [
+            "A) phytochrome",
+            "B) salicylic acid",
+            "C) molecular chaperones",
+            "D) stress proteins",
+            "E) brassinosteroids"
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "90) A plant will recognize a pathogenic invader",
+        "options": [
+            "A) if it has many specific plant disease resistance (R) genes.",
+            "B) when the pathogen has an R gene complementary to the plant's antivirulence (Avr) gene.",
+            "C) only if the pathogen and the plant have the same R genes.",
+            "D) if it has the specific R gene that corresponds to the pathogen molecule encoded by an Avr gene.",
+            "E) when the pathogen secretes Avr protein."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "91) What is the probable role of salicylic acid in the defense responses of plants?",
+        "options": [
+            "A) to destroy pathogens directly",
+            "B) to activate systemic acquired resistance of plants",
+            "C) to close stomata, thus preventing the entry of pathogens",
+            "D) to activate heat-shock proteins",
+            "E) to sacrifice infected tissues by hydrolyzing cells"
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "92) When an arborist prunes a limb off a valuable tree, he or she usually paints the cut surface. The primary purpose of the paint is to",
+        "options": [
+            "A) minimize water loss by evaporation from the cut surface.",
+            "B) improve the appearance of the cut surface.",
+            "C) stimulate growth of the cork cambium to \"heal\" the wound.",
+            "D) block entry of pathogens through the wound.",
+            "E) induce the production of phytoalexins."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "93) Plant hormonal control differs from animal hormonal control in that",
+        "options": [
+            "A) there are no separate hormone-producing organs in plants as there are in animals.",
+            "B) all production of hormones is local in plants with little long-distance transport.",
+            "C) plants do not exhibit feedback mechanisms like animals.",
+            "D) only animal hormone concentrations are developmentally regulated.",
+            "E) only animal hormones may have either external or internal receptors."
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "94) Unlike animal hormones, plant hormones are mainly",
+        "options": [
+            "A) hydrophobic molecules.",
+            "B) products of stresses in the environment.",
+            "C) small, easily transportable molecules.",
+            "D) unable to cross membranes.",
+            "E) direct products of photosynthesis."
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "95) In cases where plants exhibit generalized defense responses in organs distant from the infection site, this is termed",
+        "options": [
+            "A) hyperactive responses.",
+            "B) systemic acquired resistance.",
+            "C) pleiotropy.",
+            "D) hyperplasia.",
+            "E) general systemic response."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "96) The heavy line in Figure 39.1 illustrates the relationship between auxin concentration and cell growth in stem tissues. If the same range of concentrations were applied to lateral buds, what curve(s) would probably be produced?",
+        "options": [
+            "A) I",
+            "B) II",
+            "C) III",
+            "D) II or III",
+            "E) I or III"
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": [
+            "https://www.easynotecards.com/uploads/1031/14/529b2f21_15b151f543c__8000_00001164.jpg"
+        ]
+    },
+    {
+        "front": "97) The results of this experiment, shown on the left of the graph (area A), may be used to",
+        "options": [
+            "A) show that these plants can live without gibberellin.",
+            "B) show that gibberellin is necessary in positive gravitropism.",
+            "C) show that taller plants with more gibberellin produce fruit (pods).",
+            "D) show a correlation between plant height and gibberellin concentration.",
+            "E) study phytoalexins in plants."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": [
+            "https://i.gyazo.com/6b81bb6a04f78ac24cd53d83cd37a85a.png"
+        ]
+    },
+    {
+        "front": "98) This experiment suggests that the unknown amount of gibberellin in the experimental plant (B) is approximately",
+        "options": [
+            "A) zero.",
+            "B) 0.01 μg/mL.",
+            "C) 0.1 μg/mL.",
+            "D) 1.0 μg/mL.",
+            "E) equal to the amount of gibberellin in the shortest plant."
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": [
+            "https://www.easynotecards.com/uploads/1032/15/529b2f21_15b151f543c__8000_00001166.jpg"
+        ]
+    },
+    {
+        "front": "99) In nature, poinsettias bloom in early March. Research has shown that the flowering process is triggered three months before blooming occurs. In order to make poinsettias bloom in December, florists change the length of the light-dark cycle in September. Given the information and clues above, which of the following is a correct statement about poinsettias?",
+        "options": [
+            "A) They are short-day plants.",
+            "B) They require a light period longer than some set minimum.",
+            "C) They require a shorter dark period than is available in September.",
+            "D) The dark period can be interrupted without affecting flowering.",
+            "E) They will flower even if there are brief periods of far-red illumination during the nighttime."
+        ],
+        "back": "A",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "100) A botanist exposed two groups of the same plant species to two photoperiods–one with 14 hours of light and 10 hours of dark and the other with 10 hours of light and 14 hours of dark. Under the first set of conditions, the plants flowered, but they failed to flower under the second set of conditions. Which of the following conclusions would be consistent with these results?",
+        "options": [
+            "A) The critical night length is 14 hours.",
+            "B) The plants are short-day plants.",
+            "C) The critical day length is 10 hours.",
+            "D) The plants can convert phytochrome to florigen.",
+            "E) The plants flower in the late spring."
+        ],
+        "back": "E",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "101) The hormone that helps plants respond to drought is",
+        "options": [
+            "A) auxin.",
+            "B) gibberellin.",
+            "C) cytokinin.",
+            "D) ethylene.",
+            "E) abscisic acid."
+        ],
+        "back": "E",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "102) Auxin enhances cell elongation in all of the these ways except",
+        "options": [
+            "A) increased uptake of solutes.",
+            "B) gene activation.",
+            "C) acid-induced denaturation of cell wall proteins.",
+            "D) increased activity of plasma membrane proton pumps.",
+            "E) cell wall loosening."
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "103) Charles and Francis Darwin discovered that",
+        "options": [
+            "A) auxin is responsible for phototropic curvature.",
+            "B) auxin can pass through agar.",
+            "C) light destroys auxin.",
+            "D) light is perceived by the tips of coleoptiles.",
+            "E) red light is most effective in shoot phototropism."
+        ],
+        "back": "D",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "104) How may a plant respond to severe heat stress?",
+        "options": [
+            "A) by reorienting leaves to increase evaporative cooling",
+            "B) by creating air tubes for ventilation",
+            "C) by initiating a systemic acquired resistance response",
+            "D) by increasing the proportion of unsaturated fatty acids in cell membranes, reducing their fluidity",
+            "E) by producing heat-shock proteins, which may protect the plant's proteins from denaturing"
+        ],
+        "back": "E",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "105) The signaling molecule for flowering might be released earlier than usual in a long-day plant exposed to flashes of",
+        "options": [
+            "A) far-red light during the night.",
+            "B) red light during the night.",
+            "C) red light followed by far-red light during the night.",
+            "D) far-red light during the day.",
+            "E) red light during the day."
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "106) If a long-day plant has a critical night length of 9 hours, which 24-hour cycle would prevent flowering?",
+        "options": [
+            "A) 16 hours light/8 hours dark",
+            "B) 14 hours light/10 hours dark",
+            "C) 15.5 hours light/8.5 hours dark",
+            "D) 4 hours light/8 hours dark/4 hours light/8 hours dark",
+            "E) 8 hours light/8 hours dark/light flash/8 hours dark"
+        ],
+        "back": "B",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "107) A plant mutant that shows normal gravitropic bending but does not store starch in its plastids would require a reevaluation of the role of ________ in gravitropism.",
+        "options": [
+            "A) auxin",
+            "B) calcium",
+            "C) statoliths",
+            "D) light",
+            "E) differential growth"
+        ],
+        "back": "C",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    },
+    {
+        "front": "108) Which type of mutant would be most likely to produce a bushier phenotype?",
+        "options": [
+            "A) auxin overproducer",
+            "B) strigolactone overproducer",
+            "C) cytokinin underproducer",
+            "D) gibberellin overproducer",
+            "E) strigolactone underproducer"
+        ],
+        "back": "E",
+        "unit": "Unit 39",
+        "chapter": "Chapter 39",
+        "images": []
+    }
+]

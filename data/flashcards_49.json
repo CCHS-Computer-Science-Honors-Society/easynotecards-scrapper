@@ -1,0 +1,919 @@
+[
+    {
+        "front": "1) Although an exact count is not available, it is likely that the human brain has as many as",
+        "options": [
+            "A) 10,000 neurons.",
+            "B) 500,000 neurons.",
+            "C) 1 million neurons.",
+            "D) 10 million neurons.",
+            "E) 100 billion neurons."
+        ],
+        "back": "E",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "2) The central nervous system is lacking in animals that have",
+        "options": [
+            "A) a complete gut.",
+            "B) bilateral symmetry.",
+            "C) radial symmetry.",
+            "D) a closed circulatory system.",
+            "E) excitable membranes."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "3) Cephalization, the clustering of neurons and interneurons in the anterior part of the animal, is apparent in",
+        "options": [
+            "A) Hydra.",
+            "B) cnidarians.",
+            "C) Planaria.",
+            "D) sea stars.",
+            "E) invertebrate animals with radial symmetry."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "4) An organism that lacks integration centers",
+        "options": [
+            "A) cannot receive stimuli.",
+            "B) will not have a nervous system.",
+            "C) will not be able to interpret stimuli.",
+            "D) can be expected to lack myelinated neurons."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "5) In the human knee-jerk reflex, as the calf is raised from the vertical toward the horizontal, the muscles of the quadriceps (flexors on the ventral side of the thighs) and the muscles of the hamstring (extensors on the dorsal side of the thighs) are",
+        "options": [
+            "A) both excited and contracting.",
+            "B) both inhibited and relaxed.",
+            "C) excited and inhibited, respectively.",
+            "D) inhibited and excited, respectively."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "6) The stretch receptors of the sensory neurons in the human knee-jerk reflex are located in the",
+        "options": [
+            "A) gastrocnemius muscle, in the calf.",
+            "B) cartilage of the knee.",
+            "C) quadriceps, the flexor muscles on the ventral side of the thighs.",
+            "D) hamstring, the extensor muscles on the dorsal side of the thighs.",
+            "E) brain, the sensorimotor relay."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "7) Choose the correct match of glial cell type and function.",
+        "options": [
+            "A) astrocytesmetabolize neurotransmitters and modulate synaptic effectiveness",
+            "B) oligodendrocytesproduce the myelin sheaths of myelinated neurons in the peripheral nervous system",
+            "C) microgliaproduce the myelin sheaths of myelinated neurons in the central nervous system",
+            "D) radial gliathe source of immunoprotection against pathogens.",
+            "E) Schwann cellsprovide nutritional support to non-myelinated neurons"
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "8) The cerebrospinal fluid is",
+        "options": [
+            "A) a filtrate of the blood.",
+            "B) a secretion of glial cells.",
+            "C) a secretion of interneurons.",
+            "D) cytosol secreted from ependymal cells.",
+            "E) secreted by the hypothalamus."
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "9) The human knee-jerk reflex requires an intact",
+        "options": [
+            "A) spinal cord.",
+            "B) hypothalamus.",
+            "C) corpus callosum.",
+            "D) cerebellum.",
+            "E) medulla."
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "10) The blood-brain barrier",
+        "options": [
+            "A) is formed by tight junctions.",
+            "B) is formed by oligodendrocytes.",
+            "C) tightly regulates the intracellular environment of the CNS.",
+            "D) uses chemical signals to communicate with the spinal cord.",
+            "E) provides support to the brain tissue."
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "11) Myelinated neurons are especially abundant in the",
+        "options": [
+            "A) gray matter of the brain and the white matter of the spinal cord.",
+            "B) white matter of the brain and the gray matter of the spinal cord.",
+            "C) gray matter of the brain and the gray matter of the spinal cord.",
+            "D) white matter in the brain and the white matter in the spinal cord.",
+            "E) all areas of the brain and spinal cord."
+        ],
+        "back": "D",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "12) An amino acid neurotransmitter that operates at inhibitory synapses in the brain is",
+        "options": [
+            "A) acetylcholine.",
+            "B) epinephrine.",
+            "C) endorphin.",
+            "D) serotonin.",
+            "E) gamma-aminobutyric acid, GABA."
+        ],
+        "back": "E",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "13) Cerebrospinal fluid can be described as all of the following except",
+        "options": [
+            "A) functioning in transport of nutrients and hormones through the brain.",
+            "B) a product of the filtration of blood in the brain.",
+            "C) formed from layers of connective tissue.",
+            "D) functioning to cushion the brain.",
+            "E) filling cavities in the brain called ventricles."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "14) The divisions of the nervous system that have antagonistic, or opposing, actions are",
+        "options": [
+            "A) motor and sensory systems.",
+            "B) sympathetic and parasympathetic systems.",
+            "C) presynaptic and postsynaptic membranes.",
+            "D) forebrain and hindbrain.",
+            "E) central nervous system and peripheral nervous system."
+        ],
+        "back": "B",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "15) Preparation for the fight-or-flight response includes activation of the ________ nervous system.",
+        "options": [
+            "A) sympathetic",
+            "B) somatic",
+            "C) central",
+            "D) visceral",
+            "E) parasympathetic"
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "16) Exercise and emergency reactions include",
+        "options": [
+            "A) increased activity in all parts of the peripheral nervous system.",
+            "B) increased activity in the sympathetic, and decreased activity in the parasympathetic branches.",
+            "C) decreased activity in the sympathetic, and increased activity in the parasympathetic branches.",
+            "D) increased activity in the enteric nervous system.",
+            "E) reduced heart rate and blood pressure."
+        ],
+        "back": "B",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "17) Increased activity in the sympathetic nervous system leads to",
+        "options": [
+            "A) decreased heart rate.",
+            "B) increased secretion by the pancreas.",
+            "C) increased secretion by the gallbladder.",
+            "D) increased contraction of the stomach.",
+            "E) relaxation of the airways in the lungs."
+        ],
+        "back": "E",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "18) The activation of the parasympathetic branch of the autonomic nervous system is associated with",
+        "options": [
+            "A) resting and digesting.",
+            "B) release of epinephrine into the blood.",
+            "C) increased metabolic rate.",
+            "D) fight-or-flight responses.",
+            "E) intensive aerobic exercise."
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "19) In a cephalized invertebrate, the system that transmits \"efferent\" impulses from the anterior ganglion to distal segments is the",
+        "options": [
+            "A) central nervous system.",
+            "B) peripheral nervous system.",
+            "C) autonomic nervous system.",
+            "D) parasympathetic nervous system.",
+            "E) sympathetic nervous system."
+        ],
+        "back": "B",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "20) Afferent neuronal systems include the",
+        "options": [
+            "A) sensory systems.",
+            "B) peripheral nervous system.",
+            "C) autonomic nervous system.",
+            "D) parasympathetic nervous system.",
+            "E) sympathetic nervous system."
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "21) Cranial nerves originate in the brain and are thus part of the",
+        "options": [
+            "A) central nervous system.",
+            "B) peripheral nervous system.",
+            "C) autonomic nervous system.",
+            "D) parasympathetic nervous system.",
+            "E) sympathetic nervous system."
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "22) The system that modulates excitation and inhibition of smooth and cardiac muscles of the digestive, cardiovascular, and excretory systems is the",
+        "options": [
+            "A) central nervous system.",
+            "B) peripheral nervous system.",
+            "C) autonomic nervous system.",
+            "D) parasympathetic nervous system.",
+            "E) sympathetic nervous system."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "23) Calculation, contemplation, and cognition are human activities associated with increased activity in the",
+        "options": [
+            "A) pituitary gland.",
+            "B) hypothalamus.",
+            "C) cerebrum.",
+            "D) cerebellum.",
+            "E) spinal cord."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "24) Central coordination of vertebrate biological rhythms in physiology and behavior reside in the",
+        "options": [
+            "A) pituitary gland.",
+            "B) hypothalamus.",
+            "C) cerebrum.",
+            "D) cerebellum.",
+            "E) thalamus."
+        ],
+        "back": "B",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "25) The endogenous nature of biological rhythms is based on the observations that animals isolated from light and dark cues",
+        "options": [
+            "A) continue to have cycles of exactly 24 hours' duration.",
+            "B) continue to have cycles of approximately 24 hours' duration; some more rapid, some slower.",
+            "C) synchronize activity with whatever lighting cycle is imposed on them.",
+            "D) cease having any rhythms.",
+            "E) are independent of any genetic determinants."
+        ],
+        "back": "B",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "26) Bottlenose dolphins breathe air but can sleep in the ocean because",
+        "options": [
+            "A) they cease breathing while sleeping and remain underwater.",
+            "B) they sleep for only 30 minutes at a time, which is the maximum interval they can cease breathing.",
+            "C) they fill their swim bladder with air to keep their blowholes above the surface of the water while they sleep.",
+            "D) they move to shallow water to sleep, so they do not need to swim to keep their blowholes above the surface of the water.",
+            "E) they alternate which half of their brains is asleep and which half is awake."
+        ],
+        "back": "E",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "27) The limbic system in the central nervous system sustains many vegetative functions in mammals and is closely associated with structures that process cues about",
+        "options": [
+            "A) gustation.",
+            "B) olfaction.",
+            "C) vision.",
+            "D) audition.",
+            "E) mechanosensation."
+        ],
+        "back": "B",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "28) The telencephalon region of the developing brain of a mammal",
+        "options": [
+            "A) develops as the neural tube differentiates.",
+            "B) develops from the midbrain.",
+            "C) is the brain region most like that of ancestral vertebrates.",
+            "D) gives rise to the cerebrum.",
+            "E) divides further into the metencephalon and myelencephalon."
+        ],
+        "back": "D",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "29) Increases and decreases of the heart rate result from changes in the activity of the",
+        "options": [
+            "A) corpus callosum.",
+            "B) medulla oblongata.",
+            "C) thalamus.",
+            "D) pituitary.",
+            "E) cerebellum."
+        ],
+        "back": "B",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "30) The unconscious control of respiration and circulation are associated with the",
+        "options": [
+            "A) thalamus.",
+            "B) cerebellum.",
+            "C) medulla oblongata.",
+            "D) corpus callosum.",
+            "E) cerebrum."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "31) Which of the following structures are correctly paired?",
+        "options": [
+            "A) forebrain and medulla oblongata",
+            "B) forebrain and cerebellum",
+            "C) midbrain and cerebrum",
+            "D) hindbrain and cerebellum",
+            "E) brainstem and anterior pituitary gland"
+        ],
+        "back": "D",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "32) Hormones that are secreted by the posterior pituitary gland are made in the",
+        "options": [
+            "A) cerebrum.",
+            "B) cerebellum.",
+            "C) thalamus.",
+            "D) hypothalamus.",
+            "E) medulla oblongata."
+        ],
+        "back": "D",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "33) The coordination of groups of skeletal muscles is driven by activity in the",
+        "options": [
+            "A) cerebrum.",
+            "B) cerebellum.",
+            "C) thalamus.",
+            "D) hypothalamus.",
+            "E) medulla oblongata."
+        ],
+        "back": "B",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "34) The regulation of body temperature derives from the activity of the",
+        "options": [
+            "A) cerebrum.",
+            "B) cerebellum.",
+            "C) thalamus.",
+            "D) hypothalamus.",
+            "E) medulla oblongata."
+        ],
+        "back": "D",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "35) The regulatory centers for the respiratory and circulatory systems are found in the",
+        "options": [
+            "A) cerebrum.",
+            "B) cerebellum.",
+            "C) thalamus.",
+            "D) hypothalamus.",
+            "E) medulla oblongata."
+        ],
+        "back": "E",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "36) Food and water appetites are under the regulatory influence of the",
+        "options": [
+            "A) cerebrum.",
+            "B) cerebellum.",
+            "C) thalamus.",
+            "D) hypothalamus.",
+            "E) medulla oblongata."
+        ],
+        "back": "D",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "37) Which processes in animals are regulated by circadian rhythms?",
+        "options": [
+            "A) sleep cycles",
+            "B) hormone release",
+            "C) sex drive",
+            "D) sleep cycles and hormone release only",
+            "E) sleep cycles, hormone release, and sex drive"
+        ],
+        "back": "E",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "38) The motor cortex is part of the",
+        "options": [
+            "A) cerebrum.",
+            "B) cerebellum.",
+            "C) spinal cord.",
+            "D) midbrain.",
+            "E) medulla oblongata."
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "39) The suprachiasmatic nuclei are found in the",
+        "options": [
+            "A) thalamus.",
+            "B) hypothalamus.",
+            "C) epithalamus.",
+            "D) amygdala.",
+            "E) Broca's area."
+        ],
+        "back": "B",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "40) In mammals, advanced cognition is usually correlated with a large and very convoluted neocortex, but birds are capable of sophisticated cognition because they have",
+        "options": [
+            "A) a more advanced cerebellum.",
+            "B) a cerebellum with several flat layers.",
+            "C) a pallium with neurons clustered into nuclei.",
+            "D) microvilli to increase the brain's surface area."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "41) Wernicke's and Broca's regions of the brain affect",
+        "options": [
+            "A) olfaction.",
+            "B) vision.",
+            "C) speech.",
+            "D) memory.",
+            "E) hearing."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "42) Which of the following shows a brain structure correctly paired with one of its primary functions?",
+        "options": [
+            "A) frontal lobedecision making",
+            "B) occipital lobecontrol of skeletal muscles",
+            "C) temporal lobevisual processing",
+            "D) cerebellumlanguage comprehension",
+            "E) occipital lobespeech production"
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "43) If you were writing an essay, the part of your brain that would be actively involved in this task is the",
+        "options": [
+            "A) temporal and frontal lobes.",
+            "B) parietal lobe.",
+            "C) Broca's area.",
+            "D) Wernicke's area.",
+            "E) occipital lobe."
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "44) The establishment and expression of emotions involves the",
+        "options": [
+            "A) frontal lobes and limbic system.",
+            "B) frontal lobes and parietal lobes.",
+            "C) parietal lobes and limbic system.",
+            "D) frontal and occipital lobes.",
+            "E) occipital lobes and limbic system."
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "45) Our understanding of mental illness has been most advanced by discoveries involving",
+        "options": [
+            "A) the degree of convolutions in the brain's surface.",
+            "B) the evolution of the telencephalon.",
+            "C) the sequence of developmental specialization.",
+            "D) the chemicals involved in brain communications.",
+            "E) the nature of the blood-brain barrier."
+        ],
+        "back": "D",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "46) Wernicke's area",
+        "options": [
+            "A) is active when speech is heard and comprehended.",
+            "B) is active during the generation of speech.",
+            "C) coordinates the response to olfactory sensation.",
+            "D) is active when you are reading silently.",
+            "E) is found on the left side of the brain."
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "47) Failure of an embryonic neuron to establish a synaptic connection to another cell",
+        "options": [
+            "A) converts that neuron to an ependymal cell.",
+            "B) causes the neuron to migrate to another part of the brain.",
+            "C) converts that neuron to a glial cell.",
+            "D) leads to Alzheimer's disease.",
+            "E) results in the apoptosis of that neuron."
+        ],
+        "back": "E",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "48) Short-term memory information processing usually causes changes in the",
+        "options": [
+            "A) brainstem.",
+            "B) medulla.",
+            "C) hypothalamus.",
+            "D) hippocampus.",
+            "E) cranial nerves."
+        ],
+        "back": "D",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "49) Learning a new language during adulthood alters activity in the brain's language processing locations by",
+        "options": [
+            "A) altering synaptic effectiveness in these locations.",
+            "B) increasing the rate of mitosis in these locations.",
+            "C) inhibiting synapses that work in the previously learned language.",
+            "D) causing established neurons to produce different neurotransmitter molecules.",
+            "E) forming electrical synapses between cells."
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "50) Forming new long-term memories is strikingly disrupted after damage to the",
+        "options": [
+            "A) thalamus.",
+            "B) hypothalamus.",
+            "C) hippocampus.",
+            "D) somatosensory cortex.",
+            "E) primary motor cortex."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "51) Bipolar disorder is similar to schizophrenia in that researchers suspect that both include trouble with the neurotransmitter",
+        "options": [
+            "A) dopamine.",
+            "B) acetylcholine.",
+            "C) norepinephrine.",
+            "D) nitric oxide.",
+            "E) ethanol."
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "52) Bipolar disorder differs from schizophrenia in that",
+        "options": [
+            "A) schizophrenia results in hallucinations.",
+            "B) schizophrenia results in both manic and depressive states.",
+            "C) schizophrenia results in decreased dopamine.",
+            "D) bipolar disorder involves both genes and environment.",
+            "E) bipolar disorder increases biogenic amines."
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "Refer to the following illustration of the limbic system to help answer the next question 53) In the figure, which letter points to the amygdala?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "D",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": [
+            "https://web.archive.org/web/20170731210823im_/http://www.easynotecards.com:80/uploads/467/92/_39367d51_13ab9201884__8000_00000186.jpg"
+        ]
+    },
+    {
+        "front": "Refer to the following illustration of the limbic system to help answer the next question 54) In the figure, which letter points to the thalamus?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": [
+            "https://web.archive.org/web/20170731210823im_/http://www.easynotecards.com:80/uploads/467/92/_39367d51_13ab9201884__8000_00000186.jpg"
+        ]
+    },
+    {
+        "front": "Refer to the following illustration of the limbic system to help answer the next question 55) In the figure, which letter points to the olfactory bulb?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": [
+            "https://web.archive.org/web/20170731210823im_/http://www.easynotecards.com:80/uploads/467/92/_39367d51_13ab9201884__8000_00000186.jpg"
+        ]
+    },
+    {
+        "front": "Refer to the following illustration of the limbic system to help answer the next question 56) In the figure, which letter points to the hippocampus?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "E",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": [
+            "https://web.archive.org/web/20170731210823im_/http://www.easynotecards.com:80/uploads/467/92/_39367d51_13ab9201884__8000_00000186.jpg"
+        ]
+    },
+    {
+        "front": "Refer to the following illustration of the limbic system to help answer the next question 57) In the figure, which letter points to the hypothalamus?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "B",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": [
+            "https://web.archive.org/web/20170731210823im_/http://www.easynotecards.com:80/uploads/467/92/_39367d51_13ab9201884__8000_00000186.jpg"
+        ]
+    },
+    {
+        "front": "58) Imagine you are resting comfortably on a sofa after dinner. This could be described as a state with",
+        "options": [
+            "A) increased activity in the sympathetic, parasympathetic, and enteric nervous systems.",
+            "B) decreased activity in the sympathetic, parasympathetic, and enteric nervous systems.",
+            "C) decreased activity in the sympathetic nervous system, and increased activity in the parasympathetic and enteric nervous systems.",
+            "D) increased activity in the sympathetic nervous system, and decreased activity in the parasympathetic and enteric nervous systems.",
+            "E) increased activity in the sympathetic nervous system, decreased activity in the parasympathetic nervous system, and increased activity in the enteric nervous system."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "59) When Phineas Gage had a metal rod driven into his frontal lobe, or when someone had a frontal lobotomy, they would",
+        "options": [
+            "A) lose the ability to reason.",
+            "B) lose all short-term memory.",
+            "C) have greatly altered emotional responses.",
+            "D) lose all long-term memory.",
+            "E) lose their sense of balance."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "60) Wakefulness is regulated by the reticular formation, which is present in the",
+        "options": [
+            "A) basal nuclei.",
+            "B) cerebral cortex.",
+            "C) brainstem.",
+            "D) limbic system.",
+            "E) spinal cord."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "61) Which of the following structures or regions is incorrectly paired with its function?",
+        "options": [
+            "A) limbic systemmotor control of speech",
+            "B) medulla oblongatahomeostatic control",
+            "C) cerebellumcoordination of movement and balance",
+            "D) corpus callosumcommunication between the left and right cerebral cortices",
+            "E) amygdalaemotional memory"
+        ],
+        "back": "A",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "62) Patients with damage to Wernicke's area have difficulty",
+        "options": [
+            "A) coordinating limb movement.",
+            "B) generating speech.",
+            "C) recognizing faces.",
+            "D) understanding language.",
+            "E) experiencing emotion."
+        ],
+        "back": "D",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "63) The cerebral cortex plays a major role in all of the following except",
+        "options": [
+            "A) short-term memory.",
+            "B) long-term memory.",
+            "C) circadian rhythm.",
+            "D) foot-tapping rhythm.",
+            "E) breath holding."
+        ],
+        "back": "C",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "64) After suffering a stroke, a patient can see objects anywhere in front of him but pays attention only to objects in his right field of vision. When asked to describe these objects, he has difficulty judging their size and distance. What part of the brain was likely damaged by the stroke?",
+        "options": [
+            "A) the left frontal lobe",
+            "B) the right frontal lobe",
+            "C) the left parietal lobe",
+            "D) the right parietal lobe",
+            "E) the corpus callosum"
+        ],
+        "back": "D",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    },
+    {
+        "front": "65) Injury localized to the hypothalamus would most likely disrupt",
+        "options": [
+            "A) short-term memory.",
+            "B) coordination during locomotion.",
+            "C) executive functions, such as decision making.",
+            "D) sorting of sensory information.",
+            "E) regulation of body temperature."
+        ],
+        "back": "E",
+        "unit": "Unit 49",
+        "chapter": "Chapter 49",
+        "images": []
+    }
+]

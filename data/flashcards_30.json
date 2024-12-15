@@ -1,0 +1,1421 @@
+[
+    {
+        "front": "1) Which group is noted for the independence of gametophyte and sporophyte generations from each other?",
+        "options": [
+            "A) ferns",
+            "B) mosses, hornworts, and liverworts",
+            "C) charophytes",
+            "D) angiosperms",
+            "E) gymnosperms"
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "2) All of the following cellular structures are functionally important in cells of the gametophytes of both angiosperms and gymnosperms except",
+        "options": [
+            "A) haploid nuclei.",
+            "B) mitochondria.",
+            "C) cell walls.",
+            "D) chloroplasts.",
+            "E) peroxisomes."
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "3) The seed coat's most important function is to provide",
+        "options": [
+            "A) a nonstressful environment for the megasporangium.",
+            "B) the means for dispersal.",
+            "C) dormancy.",
+            "D) a nutrient supply for the embryo.",
+            "E) desiccation resistance."
+        ],
+        "back": "E",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "4) In addition to seeds, which of the following characteristics are unique to the seed-producing plants?",
+        "options": [
+            "A) sporopollenin",
+            "B) lignin present in cell walls",
+            "C) pollen",
+            "D) use of air currents as a dispersal agent",
+            "E) megaphylls"
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "5) Suppose that the cells of seed plants, like the skin cells of humans, produce a pigment upon increased exposure to UV radiation. Rank the following cells, from greatest to least, in terms of the likelihood of producing this pigment. 1. cells of sporangium 2. cells in the interior of a subterranean root 3. epidermal cells of sporophyte megaphylls 4. cells of a gametophyte",
+        "options": [
+            "A) 3, 4, 1, 2",
+            "B) 3, 4, 2, 1",
+            "C) 3, 1, 4, 2",
+            "D) 3, 2, 1, 4",
+            "E) 3, 1, 2, 4"
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "6) Arrange the following in the correct sequence, from earliest to most recent, in which these plant traits originated. 1. sporophyte dominance, gametophyte independence 2. sporophyte dominance, gametophyte dependence 3. gametophyte dominance, sporophyte dependence",
+        "options": [
+            "A) 1 → 2 → 3",
+            "B) 2 → 3 → 1",
+            "C) 2 → 1 → 3",
+            "D) 3 → 2 → 1",
+            "E) 3 → 1 → 2"
+        ],
+        "back": "E",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "7) In seed plants, which of the following is part of a pollen grain and has a function most like that of the seed coat?",
+        "options": [
+            "A) sporophyll",
+            "B) male gametophyte",
+            "C) sporopollenin",
+            "D) stigma",
+            "E) sporangium"
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "8) In terms of alternation of generations, the internal parts of the pollen grains of seed-producing plants are most similar to a",
+        "options": [
+            "A) moss sporophyte.",
+            "B) moss gametophyte bearing both male and female gametangia.",
+            "C) fern sporophyte.",
+            "D) hermaphroditic fern gametophyte.",
+            "E) fern gametophyte bearing only antheridia."
+        ],
+        "back": "E",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "9) Which of the following is most important in making the typical seed more resistant to adverse conditions than the typical spore?",
+        "options": [
+            "A) a different type of sporopollenin",
+            "B) an internal reservoir of liquid water",
+            "C) integument(s)",
+            "D) ability to be dispersed",
+            "E) waxy cuticle"
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "10) A researcher has developed two stains for use with seed plants. One stains sporophyte tissue blue; the other stains gametophyte tissue red. If the researcher exposes pollen grains to both stains, and then rinses away the excess stain, what should occur?",
+        "options": [
+            "A) The pollen grains will be pure red.",
+            "B) The pollen grains will be pure blue.",
+            "C) The pollen grains will have red interiors and blue exteriors.",
+            "D) The pollen grains will have blue interiors and red exteriors.",
+            "E) Insofar as the pollen grains are independent of the plant that produced them, they will not absorb either stain."
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "11) Gymnosperms differ from both extinct and extant (living) ferns because they",
+        "options": [
+            "A) are woody.",
+            "B) have macrophylls.",
+            "C) have pollen.",
+            "D) have sporophylls.",
+            "E) have spores."
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "12) Generally, wind pollination is most likely to be found in seed plants that grow",
+        "options": [
+            "A) close to the ground.",
+            "B) in dense, single-species stands.",
+            "C) in relative isolation from other members of the same species.",
+            "D) along coastlines where prevailing winds blow from the land out to sea.",
+            "E) in well-drained soils."
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "13) Which of the following statements correctly describes a portion of the pine life cycle?",
+        "options": [
+            "A) Female gametophytes use mitosis to produce eggs.",
+            "B) Seeds are produced in pollen-producing cones.",
+            "C) Pollen grains contain female gametophytes.",
+            "D) A pollen tube slowly digests its way through the triploid endosperm."
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "14) Which of the following statements is true of the pine life cycle?",
+        "options": [
+            "A) Cones are homologous to the capsules of moss plants.",
+            "B) The pine tree is a gametophyte.",
+            "C) Male and female gametophytes are in close proximity during gamete synthesis.",
+            "D) Conifer pollen grains contain male gametophytes.",
+            "E) Double fertilization is a relatively common phenomenon."
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "15) Within a gymnosperm megasporangium, what is the correct sequence in which the following should appear during development, assuming that fertilization occurs? 1. sporophyte embryo 2. female gametophyte 3. egg cell 4. megaspore",
+        "options": [
+            "A) 4 → 3 → 2 → 1",
+            "B) 4 → 2 → 3 → 1",
+            "C) 4 → 1 → 2 → 3",
+            "D) 1 → 4 → 3 → 2",
+            "E) 1 → 4 → 2 → 3"
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "16) Which of the following can be found in gymnosperms?",
+        "options": [
+            "A) nonfertile flower parts",
+            "B) triploid endosperm",
+            "C) fruits",
+            "D) pollen",
+            "E) carpels"
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "17) Arrange the following structures, which can be found on male pine trees, from the largest structure to the smallest structure (or from most inclusive to least inclusive). 1. sporophyte 2. microspores 3. microsporangia 4. pollen cone 5. pollen nuclei",
+        "options": [
+            "A) 1, 4, 3, 2, 5",
+            "B) 1, 4, 2, 3, 5",
+            "C) 1, 2, 3, 5, 4",
+            "D) 4, 1, 2, 3, 5",
+            "E) 4, 3, 2, 5, 1"
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "18) Which trait(s) is (are) shared by many modern gymnosperms and angiosperms? 1. pollen transported by wind 2. lignified xylem 3. microscopic gametophytes 4. sterile sporophylls, modified to attract pollinators 5. endosperm",
+        "options": [
+            "A) 1 only",
+            "B) 1 and 3",
+            "C) 1, 2, and 3",
+            "D) 1, 3, and 5",
+            "E) 2, 4, and 5"
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "19) Which structure is common to both gymnosperms and angiosperms?",
+        "options": [
+            "A) stigma",
+            "B) carpel",
+            "C) ovule",
+            "D) ovary",
+            "E) anthers"
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "20) A botanist discovers a new species of land plant with a dominant sporophyte, chlorophylls a and b, and cell walls made of cellulose. In assigning this plant to a phylum, which of the following, if present, would be least useful?",
+        "options": [
+            "A) endosperm",
+            "B) seeds",
+            "C) sperm that lack flagella",
+            "D) flowers",
+            "E) spores"
+        ],
+        "back": "E",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "21) What is true of stamens, sepals, petals, carpels, and pinecone scales?",
+        "options": [
+            "A) They are female reproductive parts.",
+            "B) None are capable of photosynthesis.",
+            "C) They are modified leaves.",
+            "D) They are found on flowers.",
+            "E) They are found on angiosperms."
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "22) Reptilian embryos are protected from desiccation by a leathery shell. Similarly, which pair of structures protects seed plants' embryos and male gametophytes, respectively, from desiccation?",
+        "options": [
+            "A) ovuleswaxy cuticle",
+            "B) ovariesfilaments",
+            "C) fruitsstamens",
+            "D) pollen grainswaxy cuticle",
+            "E) integumentssporopollenin"
+        ],
+        "back": "E",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "23) Which of the following sex and generation combinations most directly produces the integument of a pine seed?",
+        "options": [
+            "A) male gametophyte",
+            "B) female gametophyte",
+            "C) male sporophyte",
+            "D) female sporophyte"
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "24) Which of the following sex and generation combinations most directly produces the pollen tube?",
+        "options": [
+            "A) male gametophyte",
+            "B) female gametophyte",
+            "C) male sporophyte",
+            "D) female sporophyte"
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "25) Which of the following sex and generation combinations most directly produces the megasporangium of pine ovules?",
+        "options": [
+            "A) male gametophyte",
+            "B) female gametophyte",
+            "C) male sporophyte",
+            "D) female sporophyte"
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "26) Which of the following sex and generation combinations most directly produces the fruit?",
+        "options": [
+            "A) male gametophyte",
+            "B) female gametophyte",
+            "C) male sporophyte",
+            "D) female sporophyte"
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "27) Given the differences between angiosperms and gymnosperms in the development of the integument(s), which of these statements is the most logical consequence?",
+        "options": [
+            "A) The seed coats of angiosperms should be relatively thicker than those of gymnosperms.",
+            "B) It should be much more difficult for pollen tubes to enter angiosperm ovules than for them to enter gymnosperm ovules.",
+            "C) The female gametophytes of angiosperms should not be as well protected from environmental stress as should those of gymnosperms.",
+            "D) As a direct consequence of such differences, angiosperms should have fruit.",
+            "E) Angiosperm seeds should be more susceptible to desiccation."
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "28) Which of the following is a characteristic of all angiosperms?",
+        "options": [
+            "A) complete reliance on wind as the pollinating agent",
+            "B) double internal fertilization",
+            "C) free-living gametophytes",
+            "D) carpels that contain microsporangia",
+            "E) ovules that are not contained within ovaries"
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "29) Which of the following is true concerning flowering plants?",
+        "options": [
+            "A) The flower includes sporophyte tissue.",
+            "B) The gametophyte generation is dominant.",
+            "C) The gametophyte generation is what we see when looking at a large plant.",
+            "D) The sporophyte generation is not photosynthetic.",
+            "E) The sporophyte generation consists of relatively few cells within the flower."
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "30) What adaptations should one expect of the seed coats of angiosperm species whose seeds are dispersed by frugivorous (fruit-eating) animals, as opposed to angiosperm species whose seeds are dispersed by other means? 1. The exterior of the seed coat should have barbs or hooks. 2. The seed coat should contain secondary compounds that irritate the lining of the animal's mouth. 3. The seed coat should be able to withstand low pH's. 4. The seed coat, upon its complete digestion, should provide vitamins or nutrients to animals. 5. The seed coat should be resistant to the animals' digestive enzymes.",
+        "options": [
+            "A) 4 only",
+            "B) 1 and 2",
+            "C) 2 and 3",
+            "D) 3 and 5",
+            "E) 3, 4, and 5"
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "31) The seeds of orchids are among the smallest known, with virtually no endosperm and with miniscule seed leaves. Consequently, what should one expect to be true of such seeds?",
+        "options": [
+            "A) They require extensive periods of dormancy during which the embryo develops.",
+            "B) They are surrounded by brightly colored, sweet fruit.",
+            "C) They germinate very soon after being released from the ovary.",
+            "D) The developing embryo within is dependent upon the gametophyte for nutrition.",
+            "E) The sporophytes that produce such seeds are wind-pollinated."
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "32) Which of the following are structures of angiosperm gametophytes?",
+        "options": [
+            "A) immature ovules",
+            "B) pollen tubes",
+            "C) ovaries",
+            "D) stamens",
+            "E) sepals"
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "33) Which of the following statements is true of monocots?",
+        "options": [
+            "A) They are currently thought to be polyphyletic.",
+            "B) The veins of their leaves form a netlike pattern.",
+            "C) They, along with the eudicots, magnoliids, and basal angiosperms, are currently placed in the phylum Anthophyta.",
+            "D) Each possesses multiple cotyledons.",
+            "E) They are in the clade that includes most of our crops, except the cereal grains."
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "34) Carpels and stamens are",
+        "options": [
+            "A) sporophyte plants in their own right.",
+            "B) gametophyte plants in their own right.",
+            "C) gametes.",
+            "D) spores.",
+            "E) modified sporophylls."
+        ],
+        "back": "E",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "35) Which of the following is a true statement about angiosperm carpels?",
+        "options": [
+            "A) Carpels are features of the gametophyte generation.",
+            "B) Carpels consist of anther and stamen.",
+            "C) Carpels are structures that directly produce male gametes.",
+            "D) Carpels surround and nourish the female gametophyte.",
+            "E) Carpels consist of highly modified microsporangia."
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "36) The generative cell of male angiosperm gametophytes is haploid. This cell divides to produce two haploid sperm cells. What type of cell division does the generative cell undergo to produce these sperm cells?",
+        "options": [
+            "A) binary fission",
+            "B) mitosis",
+            "C) meiosis",
+            "D) mitosis without subsequent cytokinesis",
+            "E) meiosis without subsequent cytokinesis"
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "37) Angiosperm double fertilization is so-called because it features the formation of",
+        "options": [
+            "A) two embryos from one egg and two sperm cells.",
+            "B) one embryo from one egg fertilized by two sperm cells.",
+            "C) two embryos from two sperm cells and two eggs.",
+            "D) one embryo involving one sperm cell and an endosperm involving a second sperm cell.",
+            "E) one embryo from two eggs fertilized by a single sperm cell."
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "38) Among plants known as legumes (beans, peas, alfalfa, clover, etc.) the seeds are contained in a fruit that is itself called a legume, better known as a pod. Upon opening such pods, it is commonly observed that some ovules have become mature seeds, whereas other ovules have not. Thus, which of the following statements is (are) true? 1. The flowers that gave rise to such pods were not pollinated. 2. Pollen tubes did not enter all of the ovules in such pods. 3. There was apparently not enough endosperm to distribute to all of the ovules in such pods. 4. The ovules that failed to develop into seeds were derived from sterile floral parts. 5. Fruit can develop, even if all ovules within have not been fertilized.",
+        "options": [
+            "A) 1 only",
+            "B) 1 and 5",
+            "C) 2 and 4",
+            "D) 2 and 5",
+            "E) 3 and 5"
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "39) How have fruits contributed to the success of angiosperms?",
+        "options": [
+            "A) by nourishing the plants that make them",
+            "B) by facilitating dispersal of seeds",
+            "C) by attracting insects to the pollen inside",
+            "D) by producing sperm and eggs inside a protective coat",
+            "E) by producing triploid cells via double fertilization"
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "40) Arrange the following structures from largest to smallest, assuming that they belong to two generations of the same angiosperm. 1. ovary 2. ovule 3. egg 4. carpel 5. embryo sac",
+        "options": [
+            "A) 4, 2, 1, 5, 3",
+            "B) 4, 5, 2, 1, 3",
+            "C) 5, 4, 3, 1, 2",
+            "D) 5, 1, 4, 2, 3",
+            "E) 4, 1, 2, 5, 3"
+        ],
+        "back": "E",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "41) Which structure(s) must pass through the micropyle for successful fertilization to occur in angiosperms?",
+        "options": [
+            "A) only one sperm nucleus",
+            "B) two sperm nuclei",
+            "C) the pollen tube",
+            "D) Two of the responses above are correct."
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "42) Hypothetically, one of the major benefits of double fertilization in angiosperms is to",
+        "options": [
+            "A) decrease the potential for mutation by insulating the embryo with other cells.",
+            "B) increase the number of fertilization events and offspring produced.",
+            "C) promote diversity in flower shape and color.",
+            "D) coordinate developmental timing between the embryo and its food stores.",
+            "E) emphasize embryonic survival by increasing embryo size."
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "43) Which of the following flower parts develops into a seed?",
+        "options": [
+            "A) ovule",
+            "B) ovary",
+            "C) fruit",
+            "D) stamen"
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "44) Which of the following flower parts develops into the pulp of a fleshy fruit?",
+        "options": [
+            "A) stigma",
+            "B) style",
+            "C) ovule",
+            "D) ovary",
+            "E) micropyle"
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "45) Angiosperms are the most successful terrestrial plants. Which of the following features is unique to them and helps account for their success?",
+        "options": [
+            "A) wind pollination",
+            "B) dominant gametophytes",
+            "C) fruits enclosing seeds",
+            "D) embryos enclosed within seed coats",
+            "E) sperm cells without flagella"
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "46) In a typical angiosperm, what is the sequence of structures encountered by the tip of a growing pollen tube on its way to the egg? 1. micropyle 2. style 3. ovary 4. stigma",
+        "options": [
+            "A) 4 → 2 → 3 → 1",
+            "B) 4 → 3 → 2 → 1",
+            "C) 1 → 4 → 2 → 3",
+            "D) 1 → 3 → 4 → 2",
+            "E) 3 → 2 → 4 → 1"
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "47) Many mammals have skins and mucous membranes that are sensitive to phenolic secretions of plants like poison oak (Rhus). These secondary compounds are primarily adaptations that",
+        "options": [
+            "A) prevent desiccation.",
+            "B) favor pollination.",
+            "C) foster seed dispersal.",
+            "D) decrease competition.",
+            "E) inhibit herbivory."
+        ],
+        "back": "E",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "48) The fruit of the mistletoe, a parasitic angiosperm, is a one-seeded berry. In members of the genus Viscum, the outside of the seed is viscous (sticky), which permits the seed to adhere to surfaces, such as the branches of host plants or the beaks of birds. What should be expected of the fruit if the viscosity of Viscum seeds is primarily an adaptation for dispersal rather than an adaptation for infecting host plant tissues?",
+        "options": [
+            "A) It should be drab in color.",
+            "B) It should be colored so as to provide it with camouflage.",
+            "C) It should be nutritious.",
+            "D) It should secrete enzymes that can digest bark.",
+            "E) It should contain chemicals that cause birds to fly to the ground and vomit."
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "49) Cutting down rain forests can lead to",
+        "options": [
+            "A) decreased temperatures.",
+            "B) decreased rainfall.",
+            "C) decreased atmospheric carbon dioxide.",
+            "D) increased biodiversity.",
+            "E) more than one of these."
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "50) The cutting and burning of tropical rain forests leads to which of the following? 1. addition of CO₂ to the atmosphere 2. decreased removal of CO₂ from the atmosphere 3. greenhouse effect 4. global warming 5. decreasing sea level",
+        "options": [
+            "A) 1 only",
+            "B) 1 and 2",
+            "C) 1, 2, and 3",
+            "D) 1, 2, 3, and 4",
+            "E) 2, 3, 4, and 5"
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "51) Over human history, which process has been most important in improving the features of plants that have long been used by humans as staple foods?",
+        "options": [
+            "A) genetic engineering",
+            "B) artificial selection",
+            "C) natural selection",
+            "D) sexual selection",
+            "E) pesticide and herbicide application"
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "52) What is the greatest threat to plant diversity?",
+        "options": [
+            "A) insects",
+            "B) grazing and browsing by animals",
+            "C) pathogenic fungi",
+            "D) competition with other plants",
+            "E) human population growth"
+        ],
+        "back": "E",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "53) A botanist was visiting a tropical region for the purpose of discovering plants with medicinal properties. All of the following might be ways of identifying potentially useful plants except",
+        "options": [
+            "A) observing which plants sick animals seek out.",
+            "B) observing which plants are the most used food plants.",
+            "C) observing which plants animals do not eat.",
+            "D) collecting plants and subjecting them to chemical analysis.",
+            "E) asking local people which plants they use as medicine."
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The following questions refer to the generalized life cycle for land plants shown in Figure 30.1. Each number within a circle or square represents a specific plant or plant part, and each number over an arrow represents either meiosis, mitosis, or fertilization. Figure 30.1 54) In Figure 30.1, which number represents the mature gametophyte?",
+        "options": [
+            "A) 1",
+            "B) 3",
+            "C) 5",
+            "D) 7",
+            "E) 11"
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": [
+            "https://web.archive.org/web/20170726073841im_/http://www.easynotecards.com:80/uploads/338/62/_39367d51_13ab9201884__8000_00000052.jpg"
+        ]
+    },
+    {
+        "front": "The following questions refer to the generalized life cycle for land plants shown in Figure 30.1. Each number within a circle or square represents a specific plant or plant part, and each number over an arrow represents either meiosis, mitosis, or fertilization. Figure 30.1 55) In Figure 30.1, which number represents an embryo?",
+        "options": [
+            "A) 1",
+            "B) 3",
+            "C) 7",
+            "D) 9",
+            "E) 11"
+        ],
+        "back": "E",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": [
+            "https://web.archive.org/web/20170726073841im_/http://www.easynotecards.com:80/uploads/338/62/_39367d51_13ab9201884__8000_00000052.jpg"
+        ]
+    },
+    {
+        "front": "The following questions refer to the generalized life cycle for land plants shown in Figure 30.1. Each number within a circle or square represents a specific plant or plant part, and each number over an arrow represents either meiosis, mitosis, or fertilization. Figure 30.1 56) Meiosis is most likely to be represented by which number(s) in Figure 30.1?",
+        "options": [
+            "A) 2",
+            "B) 4",
+            "C) 2 and 8",
+            "D) 4 and 8",
+            "E) 10 and 12"
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": [
+            "https://web.archive.org/web/20170726073841im_/http://www.easynotecards.com:80/uploads/338/62/_39367d51_13ab9201884__8000_00000052.jpg"
+        ]
+    },
+    {
+        "front": "The following questions refer to the generalized life cycle for land plants shown in Figure 30.1. Each number within a circle or square represents a specific plant or plant part, and each number over an arrow represents either meiosis, mitosis, or fertilization. Figure 30.1 57) Which number represents a megaspore mother cell in Figure 30.1?",
+        "options": [
+            "A) 1",
+            "B) 3",
+            "C) 5",
+            "D) 7",
+            "E) 11"
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": [
+            "https://web.archive.org/web/20170726073841im_/http://www.easynotecards.com:80/uploads/338/62/_39367d51_13ab9201884__8000_00000052.jpg"
+        ]
+    },
+    {
+        "front": "The following questions refer to the generalized life cycle for land plants shown in Figure 30.1. Each number within a circle or square represents a specific plant or plant part, and each number over an arrow represents either meiosis, mitosis, or fertilization. Figure 30.1 58) In Figure 30.1, the process labeled \"6\" involves",
+        "options": [
+            "A) nuclear fission.",
+            "B) mitosis.",
+            "C) meiosis.",
+            "D) fertilization.",
+            "E) binary fission."
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": [
+            "https://web.archive.org/web/20170726073841im_/http://www.easynotecards.com:80/uploads/338/62/_39367d51_13ab9201884__8000_00000052.jpg"
+        ]
+    },
+    {
+        "front": "The following questions refer to the generalized life cycle for land plants shown in Figure 30.1. Each number within a circle or square represents a specific plant or plant part, and each number over an arrow represents either meiosis, mitosis, or fertilization. Figure 30.1 59) The embryo sac of an angiosperm flower is best represented by which number in Figure 30.1?",
+        "options": [
+            "A) 1",
+            "B) 3",
+            "C) 7",
+            "D) 9",
+            "E) 11"
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": [
+            "https://web.archive.org/web/20170726073841im_/http://www.easynotecards.com:80/uploads/338/62/_39367d51_13ab9201884__8000_00000052.jpg"
+        ]
+    },
+    {
+        "front": "The following questions refer to the generalized life cycle for land plants shown in Figure 30.1. Each number within a circle or square represents a specific plant or plant part, and each number over an arrow represents either meiosis, mitosis, or fertilization. Figure 30.1 60) In angiosperms, which number in Figure 30.1 most nearly represents the event that initiates the formation of endosperm?",
+        "options": [
+            "A) 4",
+            "B) 6",
+            "C) 8",
+            "D) 10",
+            "E) 12"
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": [
+            "https://web.archive.org/web/20170726073841im_/http://www.easynotecards.com:80/uploads/338/62/_39367d51_13ab9201884__8000_00000052.jpg"
+        ]
+    },
+    {
+        "front": "The cycads, a mostly tropical phylum of gymnosperms, evolved about 300 million years ago and were dominant forms during the Age of the Dinosaurs. Though their sperm are flagellated, their ovules are pollinated by beetles. These beetles get nutrition (they eat pollen) and shelter from the microsporophylls. Upon visiting megasporophylls, the beetles transfer pollen to the exposed ovules. In cycads, pollen cones and seed cones are borne on different plants. Cycads synthesize neurotoxins, especially in the seeds, that are effective against most animals, including humans. 61) Which feature of cycads distinguishes them from most other gymnosperms? 1. They have exposed ovules. 2. They have flagellated sperm. 3. They are pollinated by animals.",
+        "options": [
+            "A) 1 only",
+            "B) 2 only",
+            "C) 3 only",
+            "D) 2 and 3",
+            "E) 1, 2, and 3"
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The cycads, a mostly tropical phylum of gymnosperms, evolved about 300 million years ago and were dominant forms during the Age of the Dinosaurs. Though their sperm are flagellated, their ovules are pollinated by beetles. These beetles get nutrition (they eat pollen) and shelter from the microsporophylls. Upon visiting megasporophylls, the beetles transfer pollen to the exposed ovules. In cycads, pollen cones and seed cones are borne on different plants. Cycads synthesize neurotoxins, especially in the seeds, that are effective against most animals, including humans. 62) Which feature of cycads makes them similar to many angiosperms? 1. They have exposed ovules. 2. They have flagellated sperm. 3. They are pollinated by animals.",
+        "options": [
+            "A) 1 only",
+            "B) 2 only",
+            "C) 3 only",
+            "D) 2 and 3",
+            "E) 1, 2, and 3"
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The cycads, a mostly tropical phylum of gymnosperms, evolved about 300 million years ago and were dominant forms during the Age of the Dinosaurs. Though their sperm are flagellated, their ovules are pollinated by beetles. These beetles get nutrition (they eat pollen) and shelter from the microsporophylls. Upon visiting megasporophylls, the beetles transfer pollen to the exposed ovules. In cycads, pollen cones and seed cones are borne on different plants. Cycads synthesize neurotoxins, especially in the seeds, that are effective against most animals, including humans. 63) If the beetles survive by consuming cycad pollen, then whether the beetles should be considered mutualists with, or parasites of, the cycads depends upon",
+        "options": [
+            "A) the extent to which their overall activities affect cycad reproduction.",
+            "B) the extent to which the beetles are affected by the neurotoxins.",
+            "C) the extent to which the beetles damage the cycad flowers.",
+            "D) the distance the beetles must travel between cycad microsporophylls and cycad megasporophylls."
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The cycads, a mostly tropical phylum of gymnosperms, evolved about 300 million years ago and were dominant forms during the Age of the Dinosaurs. Though their sperm are flagellated, their ovules are pollinated by beetles. These beetles get nutrition (they eat pollen) and shelter from the microsporophylls. Upon visiting megasporophylls, the beetles transfer pollen to the exposed ovules. In cycads, pollen cones and seed cones are borne on different plants. Cycads synthesize neurotoxins, especially in the seeds, that are effective against most animals, including humans. 64) On the Pacific island of Guam, large herbivorous bats called \"flying foxes\" commonly feed on cycad seeds, a potent source of neurotoxins. The flying foxes do not visit male cones. Consequently, what should be true?",
+        "options": [
+            "A) The flying foxes are attracted to cycad fruit, and eat the enclosed seeds only by accident.",
+            "B) Flying foxes are highly susceptible to the effects of the neurotoxins.",
+            "C) The flying foxes assist the beetles as important pollinating agents of the cycads.",
+            "D) Flying foxes can be dispersal agents of cycad seeds if the seeds sometimes get swallowed whole (in other words, without getting chewed)."
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The cycads, a mostly tropical phylum of gymnosperms, evolved about 300 million years ago and were dominant forms during the Age of the Dinosaurs. Though their sperm are flagellated, their ovules are pollinated by beetles. These beetles get nutrition (they eat pollen) and shelter from the microsporophylls. Upon visiting megasporophylls, the beetles transfer pollen to the exposed ovules. In cycads, pollen cones and seed cones are borne on different plants. Cycads synthesize neurotoxins, especially in the seeds, that are effective against most animals, including humans. 65) If one were to erect a new taxon of plants that included all plants that are pollinated by animals, and only plants that are pollinated by animals, then this new taxon would be",
+        "options": [
+            "A) monophyletic.",
+            "B) paraphyletic.",
+            "C) polyphyletic.",
+            "D) identical in composition to the phylum Anthophyta.",
+            "E) identical in composition to the phylum Cycadophyta."
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "In onions (Allium), cells of the sporophyte have 16 chromosomes within each nucleus. Match the number of chromosomes present in each of the following onion tissues. 66) How many chromosomes should be in a tube cell nucleus?",
+        "options": [
+            "A) 4",
+            "B) 8",
+            "C) 16",
+            "D) 24",
+            "E) 32"
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "In onions (Allium), cells of the sporophyte have 16 chromosomes within each nucleus. Match the number of chromosomes present in each of the following onion tissues. 67) How many chromosomes should be in an endosperm nucleus?",
+        "options": [
+            "A) 4",
+            "B) 8",
+            "C) 16",
+            "D) 24",
+            "E) 32"
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "In onions (Allium), cells of the sporophyte have 16 chromosomes within each nucleus. Match the number of chromosomes present in each of the following onion tissues. 68) How many chromosomes should be in a generative cell nucleus?",
+        "options": [
+            "A) 4",
+            "B) 8",
+            "C) 16",
+            "D) 24",
+            "E) 32"
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "In onions (Allium), cells of the sporophyte have 16 chromosomes within each nucleus. Match the number of chromosomes present in each of the following onion tissues. 69) How many chromosomes should be in an embryo sac nucleus?",
+        "options": [
+            "A) 4",
+            "B) 8",
+            "C) 16",
+            "D) 24",
+            "E) 32"
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "In onions (Allium), cells of the sporophyte have 16 chromosomes within each nucleus. Match the number of chromosomes present in each of the following onion tissues. 70) How many chromosomes should be in an embryo nucleus?",
+        "options": [
+            "A) 4",
+            "B) 8",
+            "C) 16",
+            "D) 24",
+            "E) 32"
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "In onions (Allium), cells of the sporophyte have 16 chromosomes within each nucleus. Match the number of chromosomes present in each of the following onion tissues. 71) How many chromosomes should be in a megasporangium nucleus?",
+        "options": [
+            "A) 4",
+            "B) 8",
+            "C) 16",
+            "D) 24",
+            "E) 32"
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "Oviparous (egg-laying) animals have internal fertilization (sperm cells encounter eggs within the female's body). Yolk and/or albumen is (are) provided to the embryo, and a shell is then deposited around the embryo and its food source. Eggs are subsequently deposited in an environment that promotes their further development, or are incubated by one or both parents. 72) The yolk and/or albumen of an animal egg is what type of angiosperm analog?",
+        "options": [
+            "A) endosperm",
+            "B) pollen tube and sperm nuclei",
+            "C) carpels",
+            "D) fruit",
+            "E) integuments"
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "Oviparous (egg-laying) animals have internal fertilization (sperm cells encounter eggs within the female's body). Yolk and/or albumen is (are) provided to the embryo, and a shell is then deposited around the embryo and its food source. Eggs are subsequently deposited in an environment that promotes their further development, or are incubated by one or both parents. 73) The shell of an animal egg is what type of angiosperm analog?",
+        "options": [
+            "A) endosperm",
+            "B) pollen tube and sperm nuclei",
+            "C) carpels",
+            "D) fruit",
+            "E) integuments"
+        ],
+        "back": "E",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "Oviparous (egg-laying) animals have internal fertilization (sperm cells encounter eggs within the female's body). Yolk and/or albumen is (are) provided to the embryo, and a shell is then deposited around the embryo and its food source. Eggs are subsequently deposited in an environment that promotes their further development, or are incubated by one or both parents. 74) The internal fertilization that occurs prior to shell deposition is what type of angiosperm analog?",
+        "options": [
+            "A) endosperm",
+            "B) pollen tube and sperm nuclei",
+            "C) carpels",
+            "D) fruit",
+            "E) integuments"
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "Oviparous (egg-laying) animals have internal fertilization (sperm cells encounter eggs within the female's body). Yolk and/or albumen is (are) provided to the embryo, and a shell is then deposited around the embryo and its food source. Eggs are subsequently deposited in an environment that promotes their further development, or are incubated by one or both parents. 75) The dispersal and/or nurture of young after hatching from the egg is what type of angiosperm analog?",
+        "options": [
+            "A) endosperm",
+            "B) pollen tube and sperm nuclei",
+            "C) carpels",
+            "D) fruit",
+            "E) integuments"
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "Harold and Kumar are pre-med and pre-pharmacy students, respectively. They complain to their biology professor that they should not have to study about plants because plants have little relevance to their chosen professions. 76) It would be best for these students, and for society in the long run, if their biology professor responds by",
+        "options": [
+            "A) acknowledging their concern, and promising not to hold them responsible for any material on plants.",
+            "B) chiding them for their careerist attitudes, and advising them to whine less and study more.",
+            "C) offering extra credit for a research paper on plants that harm humans, as well as plants that heal humans.",
+            "D) lowering the stress level by providing them with the relevant test questions from the upcoming test so they can research the answers ahead of time."
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "Harold and Kumar are pre-med and pre-pharmacy students, respectively. They complain to their biology professor that they should not have to study about plants because plants have little relevance to their chosen professions. 77) From reading their biology textbook, what would Harold and Kumar discover?",
+        "options": [
+            "A) About one-quarter of all prescription drugs come from seed plants.",
+            "B) Prescription drugs that enter the water table are responsible for the extinction of many plants.",
+            "C) Much of what was once rain forest has been replanted with fields of medicinally valuable plants.",
+            "D) All rain forest plants contain at least one chemical useful as a medicine."
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "Harold and Kumar are pre-med and pre-pharmacy students, respectively. They complain to their biology professor that they should not have to study about plants because plants have little relevance to their chosen professions. 78) Kumar, especially, might be well advised to learn more about",
+        "options": [
+            "A) cell wall components, such as lignins and pectins.",
+            "B) secondary metabolites.",
+            "C) accessory photosynthetic pigments.",
+            "D) sporopollenin.",
+            "E) the wax of cuticles."
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "Harold and Kumar are pre-med and pre-pharmacy students, respectively. They complain to their biology professor that they should not have to study about plants because plants have little relevance to their chosen professions. 79) Which adaptation(s) of land plants is (are) likely to provide Harold with future patients?",
+        "options": [
+            "A) sporophyte dominance",
+            "B) defenses against herbivory",
+            "C) those for using wind to disperse male gametophytes",
+            "D) All three of the responses above are potentially medically significant.",
+            "E) Two of the responses above are potentially medically significant."
+        ],
+        "back": "E",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 80) Animals that consume Brazil nuts are deriving nutrition mostly from tissue whose nuclei have how many chromosomes?",
+        "options": [
+            "A) 17",
+            "B) 34",
+            "C) 51",
+            "D) 68",
+            "E) There is not enough information to say."
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 81) The agouti (Dasyprocta spp.), a cat-sized rodent, is the only animal with teeth strong enough to crack the hard wall of Brazil nut fruits. It typically eats some of the seeds, buries others, and leaves still others behind inside the fruit, which moisture can now enter. The uneaten seeds may subsequently germinate. Consequently, which terms describe the relationship between the Brazil nut tree and the agouti? 1. parasitic 2. commensalistic 3. symbiotic 4. endosymbiotic 5. mutualistic",
+        "options": [
+            "A) 1 and 3",
+            "B) 2 and 4",
+            "C) 2 and 5",
+            "D) 3 and 5",
+            "E) 4 and 5"
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 82) Entrepreneurs attempted, but failed, to harvest nuts from plantations grown in Southeast Asia. Attempts to grow Brazil nut trees in South American plantations also failed. In both cases, the trees grew vigorously, produced healthy flowers in profusion, but set no fruit. Consequently, what is the likely source of the problem?",
+        "options": [
+            "A) poor sporophyte viability",
+            "B) poor sporophyte fertility",
+            "C) failure to produce fertile ovules",
+            "D) failure to produce pollen",
+            "E) pollination failure"
+        ],
+        "back": "E",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 83) The agouti is most directly involved with the Brazil nut tree's dispersal of",
+        "options": [
+            "A) male gametophytes.",
+            "B) female gametophytes.",
+            "C) sporophyte embryos.",
+            "D) sporophyte megaspores.",
+            "E) female gametes."
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 84) The harpy eagle, Harpia harpyja, is the largest, most powerful raptor in the Americas. It nests only in trees taller than 25 meters. It is a \"sloth specialist,\" but will also take agouti. Thus, if these eagles capture too many agoutis from a particular locale, they might contribute to their own demise by",
+        "options": [
+            "A) having too many offspring.",
+            "B) increasing habitat loss.",
+            "C) decreasing atmospheric CO2.",
+            "D) increasing the number of sloths."
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 85) Brazil nut trees begin producing fruit at the age of 10 years, reach final height at about 120 years, and can live for over 500 years. A landowner can earn more by felling a Brazil nut tree and selling it for lumber than from several seasons' worth of Brazil nut harvests from the same tree. Thus, it makes greater financial sense in the long run to harvest",
+        "options": [
+            "A) all of the Brazil nut trees and sell them for lumber.",
+            "B) all of the nuts, and only then harvest all of the trees.",
+            "C) the nuts for many seasons.",
+            "D) remove no resources from the forest."
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 86) Native peoples traditionally use Brazil nuts to treat stomach ache, inflammation, hypersensitivity, and hepatitis. Consequently, a scientist should be interested in promoting",
+        "options": [
+            "A) better education for the native peoples so that they will overcome their old ways.",
+            "B) clear-cutting forests containing Brazil nut trees to make way for crops with proven medical benefits.",
+            "C) an increase in the living standards of the native peoples so that they might be able to purchase modern pharmaceuticals.",
+            "D) the evaluation of Brazil nut chemicals for use as potential drugs.",
+            "E) that free, FDA-approved medicines be provided to the impoverished natives."
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 87) To help ensure a prosperous future for the largest number of people, developed countries should",
+        "options": [
+            "A) help underdeveloped countries to more effectively exploit and market their natural resources.",
+            "B) apply sanctions on developing countries that fail to curtail their rates of growth and development.",
+            "C) conserve at home and exploit resources abroad.",
+            "D) reuse, recycle, and reduce at home, while encouraging the same abroad.",
+            "E) work for the removal of indigenous peoples from endangered habitats, so as to better preserve limited resources in those habitats."
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 88) In the long run, harvesting Brazil nut trees for their lumber is most likely to benefit",
+        "options": [
+            "A) harpy eagles.",
+            "B) later generations of humans.",
+            "C) agoutis.",
+            "D) orchid bees.",
+            "E) sloths."
+        ],
+        "back": "E",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 89) People who attempted to plant Brazil nuts in hopes of establishing plantations of Brazil nut trees played roles most similar to those of",
+        "options": [
+            "A) agoutis.",
+            "B) orchid bees.",
+            "C) pollen tubes.",
+            "D) harpy eagles."
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 90) The same bees that pollinate the flowers of the Brazil nut trees pollinate orchids, which are epiphytes (in other words, plants that grow on other plants); however, orchids cannot grow on Brazil nut trees. These observations explain",
+        "options": [
+            "A) the coevolution of Brazil nut trees and orchids.",
+            "B) why Brazil nut trees do not set fruit in plantations.",
+            "C) why male orchid bees do not pollinate Brazil nut tree flowers.",
+            "D) why male orchid bees are smaller than female orchid bees.",
+            "E) the importance of orchid and Brazil nut tree flowers for the production of orchid bee honey."
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 91) If a female orchid bee has just left a Brazil nut tree with nectar in her stomach, and if she visits only other flowers on the same tree, the result should be",
+        "options": [
+            "A) pollination.",
+            "B) more nectar in her stomach.",
+            "C) more pollen in her pollen basket.",
+            "D) Three of the responses above are correct.",
+            "E) Two of the responses above are correct."
+        ],
+        "back": "E",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 92) If a female orchid bee has just left a Brazil nut tree with nectar in her stomach, and if she visits another flower on a different Brazil nut tree, what is the sequence in which the following events should occur? 1. double fertilization 2. pollen tube emerges from pollen grain 3. pollen tube enters micropyle 4. pollination",
+        "options": [
+            "A) 4, 2, 3, 1",
+            "B) 4, 2, 1, 3",
+            "C) 4, 3, 2, 1",
+            "D) 2, 4, 3, 1",
+            "E) 2, 4, 1, 3"
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 93) Orchid bees are to Brazil nut trees as ________ are to pine trees.",
+        "options": [
+            "A) breezes",
+            "B) rain droplets",
+            "C) seed-eating birds",
+            "D) squirrels",
+            "E) both seed-eating birds and squirrels"
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 94) The taller a Brazil nut tree is, 1. the more valuable it is as a source of lumber. 2. the less useful it is to harpy eagles. 3. the greater its photosynthetic rate relative to neighboring plants.",
+        "options": [
+            "A) 1 only",
+            "B) 1 and 2",
+            "C) 1 and 3",
+            "D) 2 and 3"
+        ],
+        "back": "C",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 95) Ecologists often build models to depict the relationships between organisms. In such models, an arrow is used to link two organisms in a relationship. The arrowhead is next to the organism that is affected. If the effect is positive, the arrow is labeled with (+), and if negative, then the label is (-). Which of the following models best illustrates the relationship of the Brazil nut tree and the other organisms associated with it? A. SEE IMAGE B. SEE IMAGE C. SEE IMAGE D. SEE IMAGE",
+        "options": [],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": [
+            "https://web.archive.org/web/20170726073841im_/http://www.easynotecards.com:80/uploads/345/69/_39367d51_13ab9201884__8000_00000060.jpg"
+        ]
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 96) If all agoutis are permanently removed from the rain forest, what will be the result?",
+        "options": [
+            "A) swift extinction of harpy eagles",
+            "B) eventual extinction of Brazil nut trees",
+            "C) eventual extinction of orchid bees",
+            "D) swift extinction of orchids",
+            "E) swift extinction of sloths"
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "The Brazil nut tree, Bertholletia excels (n = 17), is native to tropical rain forests of South America. It is a hardwood tree that can grow to over 50 meters, is a source of high-quality lumber, and is a favorite nesting site for harpy eagles. As the rainy season ends, tough-walled fruits, each containing 825 seeds (Brazil nuts), fall to the forest floor. About $50 million worth of nuts are harvested each year. Scientists have discovered that the pale yellow, self-incompatible flowers of Brazil nut trees admit only female orchid bees as pollinators. 97) Ecologists often build models to depict the relationships between organisms. In such models, an arrow is used to link two organisms in a relationship. The arrowhead is next to the organism that is affected. If the effect is positive, the arrow is labeled with (+), and if negative, then the label is (-). Capuchin monkeys have been known to use rocks to smash open the fruits of Brazil nut trees. On the rare occasions this has been observed, the monkeys consume all of the Brazil nuts. Thus, which of the following correctly depicts the relationship between capuchin monkeys and Brazil nut trees? A. SEE IMAGE B. SEE IMAGE C. SEE IMAGE D. SEE IMAGE",
+        "options": [],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": [
+            "https://web.archive.org/web/20170726073841im_/http://www.easynotecards.com:80/uploads/346/70/_39367d51_13ab9201884__8000_00000061.jpg"
+        ]
+    },
+    {
+        "front": "98) Where in an angiosperm would you find a megasporangium?",
+        "options": [
+            "A) in the style of a flower",
+            "B) inside the tip of a pollen tube",
+            "C) enclosed in the stigma of a flower",
+            "D) within an ovule contained within an ovary of a flower",
+            "E) packed into pollen sacs within the anthers found on a stamen"
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "99) A fruit is most commonly",
+        "options": [
+            "A) a mature ovary.",
+            "B) a thickened style.",
+            "C) an enlarged ovule.",
+            "D) a modified root.",
+            "E) a mature female gametophyte."
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "100) With respect to angiosperms, which of the following is incorrectly paired with its chromosome count?",
+        "options": [
+            "A) egg–n",
+            "B) megaspore–2n",
+            "C) microspore–n",
+            "D) zygote–2n",
+            "E) sperm–n"
+        ],
+        "back": "B",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "101) Which of the following is not a characteristic that distinguishes gymnosperms and angiosperms from other plants?",
+        "options": [
+            "A) alternation of generations",
+            "B) ovules",
+            "C) integuments",
+            "D) pollen",
+            "E) dependent gametophytes"
+        ],
+        "back": "A",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    },
+    {
+        "front": "102) Gymnosperms and angiosperms have the following in common except",
+        "options": [
+            "A) seeds.",
+            "B) pollen.",
+            "C) vascular tissue.",
+            "D) ovaries.",
+            "E) ovules."
+        ],
+        "back": "D",
+        "unit": "Unit 30",
+        "chapter": "Chapter 30",
+        "images": []
+    }
+]

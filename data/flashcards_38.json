@@ -1,0 +1,1211 @@
+[
+    {
+        "front": "1) The male wasp, Campsoscolia ciliata, transfers pollen from one orchid to another orchid of the same species. What \"reward\" does the male wasp receive from the orchid plants for helping with the orchid pollination?",
+        "options": [
+            "A) a supply of energy-rich nectar",
+            "B) volatile chemical hormones that help the male wasp find a sexually receptive female",
+            "C) no reward; the male wasp is deceived by the flower shape and odor",
+            "D) successful copulation with the flower",
+            "E) a store of nectar that the wasp can use in time of famine"
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "2) Which of the following plant/animal interactions is not a mutually beneficial (mutualistic) relationship?",
+        "options": [
+            "A) honeybees gathering pollen from apple blossoms",
+            "B) butterflies gathering nectar from lily blossoms",
+            "C) beetles feeding on magnolia blossoms",
+            "D) ants protecting and feeding from nectaries of Acacia",
+            "E) wasps such as Campsoscolia ciliata transferring pollen in orchid flowers"
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "3) Which of the following best describes the ploidy level of a fertilized embryo sac?",
+        "options": [
+            "A) All cells are diploid.",
+            "B) All cells are triploid.",
+            "C) All cells are polyploid.",
+            "D) The ploidy level varies among species.",
+            "E) There are haploid, diploid, and triploid cells."
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "4) A flowering plant with a deleterious mutation in microsporogenesis would most likely",
+        "options": [
+            "A) fail to produce sepals.",
+            "B) fail to produce petals.",
+            "C) fail to produce anthers.",
+            "D) fail to produce pollen.",
+            "E) fail to produce ovules."
+        ],
+        "back": "D",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "5) When comparing the mature seeds of a pine tree to an apple tree, which of the following is a correct statement?",
+        "options": [
+            "A) The developmental sequences postfertilization are identical.",
+            "B) Both contain triploid tissue.",
+            "C) The nutritive tissues are both haploid.",
+            "D) Only the apple seed has a diploid seed coat.",
+            "E) Both contain haploid and diploid tissues."
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "6) A mature, unfertilized ovule in an angiosperm is the result of",
+        "options": [
+            "A) a single meiotic division.",
+            "B) a single mitotic division.",
+            "C) both meiotic and mitotic divisions.",
+            "D) mitosis from the megaspore mother cell.",
+            "E) differentiation from the suspensor tissues."
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "7) At the conclusion of meiosis in plants, the end products are always four haploid",
+        "options": [
+            "A) spores.",
+            "B) eggs.",
+            "C) sperm.",
+            "D) seeds.",
+            "E) gametes."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "8) Which of the following is the correct sequence during the alternation of generations life cycle in a flowering plant?",
+        "options": [
+            "A) sporophyte → meiosis → gametophyte → gametes → fertilization → diploid zygote",
+            "B) sporophyte → mitosis → gametophyte → meiosis → sporophyte",
+            "C) haploid gametophyte → gametes → meiosis → fertilization → diploid sporophyte",
+            "D) sporophyte → spores → meiosis → gametophyte → gametes",
+            "E) haploid sporophyte → spores → fertilization → diploid gametophyte"
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "9) Which of the following is true in plants?",
+        "options": [
+            "A) Mitosis occurs in gametophytes to produce gametes.",
+            "B) Meiosis occurs in sporophytes to produce spores.",
+            "C) The gametophyte is within the flower in angiosperms.",
+            "D) Mitosis occurs in gametophytes to produce gametes, and meiosis occurs in sporophytes to produce spores.",
+            "E) Mitosis occurs in gametophytes to produce gametes, meiosis occurs in sporophytes to produce spores, and the gametophyte is within the flower in angiosperms."
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "10) Which of the following are true of most angiosperms?",
+        "options": [
+            "A) They have a triploid endosperm within the seed.",
+            "B) They have an ovary that becomes a fruit.",
+            "C) They have a small (reduced) sporophyte.",
+            "D) They have a triploid endosperm within the seed and an ovary that becomes a fruit.",
+            "E) They have a triploid endosperm within the seed, an ovary that becomes a fruit, and a small (reduced) sporophyte."
+        ],
+        "back": "D",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "11) Based on studies of plant evolution and anatomy, which flower part is least likely to have evolved from a leaf?",
+        "options": [
+            "A) stamen",
+            "B) carpel",
+            "C) petals",
+            "D) sepals",
+            "E) receptacle"
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "12) All of the following floral parts are involved in pollination or fertilization except the",
+        "options": [
+            "A) stamen.",
+            "B) carpel.",
+            "C) petals.",
+            "D) sepals.",
+            "E) receptacle."
+        ],
+        "back": "D",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "13) The ovary is most often located on/in the",
+        "options": [
+            "A) stamen.",
+            "B) carpel.",
+            "C) petals.",
+            "D) sepals.",
+            "E) receptacle."
+        ],
+        "back": "B",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "14) Microsporangia in flowering plants are located in the",
+        "options": [
+            "A) stamen.",
+            "B) carpel.",
+            "C) petals.",
+            "D) sepals.",
+            "E) receptacle."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "15) Which of the following is the correct order of floral organs from the outside to the inside of a complete flower?",
+        "options": [
+            "A) petals → sepals → stamens → carpels",
+            "B) sepals → stamens → petals → carpels",
+            "C) spores → gametes → zygote → embryo",
+            "D) sepals → petals → stamens → carpels",
+            "E) male gametophyte → female gametophyte → sepals → petals"
+        ],
+        "back": "D",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "16) In some angiosperms, other floral parts contribute to what is commonly called the fruit. Which of the following fruits is derived mostly from an enlarged receptacle?",
+        "options": [
+            "A) pea",
+            "B) raspberry",
+            "C) apple",
+            "D) pineapple",
+            "E) peach"
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "17) All of the following are primary functions of flowers except",
+        "options": [
+            "A) pollen production.",
+            "B) photosynthesis.",
+            "C) meiosis.",
+            "D) egg production.",
+            "E) sexual reproduction."
+        ],
+        "back": "B",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "18) Meiosis occurs within all of the following flower parts except the",
+        "options": [
+            "A) ovule.",
+            "B) style.",
+            "C) megasporangium.",
+            "D) anther.",
+            "E) ovary."
+        ],
+        "back": "B",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "19) A perfect flower is fertile, but may be either complete or incomplete. Which of the following correctly describes a perfect flower?",
+        "options": [
+            "A) It has no sepals.",
+            "B) It has fused carpels.",
+            "C) It is on a dioecious plant.",
+            "D) It has no endosperm.",
+            "E) It has both stamens and carpels."
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "20) Carpellate flowers",
+        "options": [
+            "A) are perfect.",
+            "B) are complete.",
+            "C) produce pollen.",
+            "D) are found only on dioecious plants.",
+            "E) develop into fruits."
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "21) Which of the following statements regarding flowering plants is false?",
+        "options": [
+            "A) The sporophyte is the dominant generation.",
+            "B) Female gametophytes develop from megaspores within the anthers.",
+            "C) Pollination is the placing of pollen on the stigma of a carpel.",
+            "D) The food-storing endosperm is derived from the cell that contains two polar nuclei and one sperm nucleus.",
+            "E) Flowers produce fruits within the ovules."
+        ],
+        "back": "B",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "22) Which of the following types of plants are incapable of self-pollination?",
+        "options": [
+            "A) dioecious",
+            "B) monoecious",
+            "C) complete",
+            "D) wind-pollinated",
+            "E) insect-pollinated"
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "23) In flowering plants, pollen is released from the",
+        "options": [
+            "A) anther.",
+            "B) stigma.",
+            "C) carpel.",
+            "D) filament.",
+            "E) pollen tube."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "24) In the life cycle of an angiosperm, which of the following stages is diploid?",
+        "options": [
+            "A) megaspore",
+            "B) generative nucleus of a pollen grain",
+            "C) polar nuclei of the embryo sac",
+            "D) microsporocyte",
+            "E) both megaspore and polar nuclei"
+        ],
+        "back": "D",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "25) Where does meiosis occur in flowering plants?",
+        "options": [
+            "A) megasporocyte",
+            "B) microsporocyte",
+            "C) endosperm",
+            "D) pollen tube",
+            "E) megasporocyte and microsporocyte"
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "26) Which of the following is a correct sequence of processes that takes place when a flowering plant reproduces?",
+        "options": [
+            "A) meiosis → fertilization → ovulation → germination",
+            "B) fertilization → meiosis → nuclear fusion → formation of embryo and endosperm",
+            "C) meiosis → pollination → nuclear fusion → formation of embryo and endosperm",
+            "D) growth of pollen tube → pollination → germination → fertilization",
+            "E) meiosis → mitosis → nuclear fusion → pollen"
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "27) Which of the following is incorrectly paired with its life-cycle generation?",
+        "options": [
+            "A) anther gametophyte",
+            "B) pollen gametophyte",
+            "C) embryo sac gametophyte",
+            "D) stamen sporophyte",
+            "E) embryo sporophyte"
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "28) Which of the following is the correct sequence of events in a pollen sac?",
+        "options": [
+            "A) sporangia → meiosis → two haploid cells → meiosis → two pollen grains per cell",
+            "B) pollen grain → meiosis → two generative cells → two tube cells per pollen grain",
+            "C) two haploid cells → meiosis → generative cell → tube cell-fertilization → pollen grain",
+            "D) pollen grain → mitosis → microspores → meiosis → generative cell plus tube cell",
+            "E) microsporocyte → meiosis → microspores → mitosis → two haploid cells per pollen grain"
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "29) Which of the following occurs in an angiosperm ovule?",
+        "options": [
+            "A) An antheridium forms from the megasporophyte.",
+            "B) A megaspore mother cell undergoes meiosis.",
+            "C) The egg nucleus is usually diploid.",
+            "D) A pollen tube emerges to accept pollen after pollination.",
+            "E) The endosperm surrounds the megaspore mother cell."
+        ],
+        "back": "B",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "30) Where and by which process are sperm cells formed in plants?",
+        "options": [
+            "A) meiosis in pollen grains",
+            "B) meiosis in anthers",
+            "C) mitosis in male gametophyte pollen tube",
+            "D) mitosis in the micropyle",
+            "E) mitosis in the embryo sac"
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "31) In which of the following pairs are the two terms equivalent?",
+        "options": [
+            "A) ovule egg",
+            "B) embryo sac female gametophyte",
+            "C) endosperm male gametophyte",
+            "D) seed zygote",
+            "E) microspore pollen grain"
+        ],
+        "back": "B",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "32) Which of the following is the male gametophyte of a flowering plant?",
+        "options": [
+            "A) ovule",
+            "B) microsporocyte",
+            "C) pollen grain",
+            "D) embryo sac",
+            "E) stamen"
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "33) Which of the following would be considered a multiple fruit?",
+        "options": [
+            "A) apple",
+            "B) strawberry",
+            "C) raspberry",
+            "D) pineapple",
+            "E) corn on the cob"
+        ],
+        "back": "D",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "34) In flowering plants, a mature male gametophyte contains",
+        "options": [
+            "A) two haploid gametes and a diploid pollen grain.",
+            "B) a generative cell and a tube cell.",
+            "C) two sperm nuclei and one tube cell nucleus.",
+            "D) two haploid microspores.",
+            "E) a haploid nucleus and a diploid pollen wall."
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "35) Three mitotic divisions within the female gametophyte of the megaspore produce",
+        "options": [
+            "A) three antipodal cells, two polar nuclei, one egg, and two synergids.",
+            "B) the triple fusion nucleus.",
+            "C) three pollen grains.",
+            "D) two antipodal cells, two polar nuclei, two eggs, and two synergids.",
+            "E) a tube nucleus, a generative cell, and a sperm cell."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "36) What is the difference between pollination and fertilization in flowering plants?",
+        "options": [
+            "A) Fertilization precedes pollination.",
+            "B) Pollination easily occurs between plants of different species, whereas fertilization is within a species.",
+            "C) Pollen is formed within megasporangia so that male and female gametes are near each other.",
+            "D) Pollination is the transfer of pollen from an anther to a stigma. Fertilization is the fusion of haploid nuclei.",
+            "E) If fertilization occurs, pollination is unnecessary."
+        ],
+        "back": "D",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "37) Recent research has shown that pollination requires that carpels recognize pollen grains as \"self or nonself.\" For self-incompatibility, the system requires",
+        "options": [
+            "A) the rejection of nonself cells.",
+            "B) the rejection of self cells.",
+            "C) carpel incompatibility with the egg cells.",
+            "D) that the flowers be incomplete.",
+            "E) the union of genetically identical sperm and egg cells."
+        ],
+        "back": "B",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "38) Genetic incompatibility does not affect the",
+        "options": [
+            "A) attraction of a suitable insect pollinator.",
+            "B) germination of the pollen on the stigma.",
+            "C) growth of the pollen tube in the style.",
+            "D) membrane permeability of cells.",
+            "E) different individuals of the same species."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "39) What effects would occur in a mutant of Arabidopsis that cannot synthesize GABA within its flowers?",
+        "options": [
+            "A) Pollen tube growth would not be directed toward the egg, and fertilization would not occur.",
+            "B) The seeds from the flowers would be unable to break dormancy.",
+            "C) The pollen grain would not form a pollen tube due to incompatibility with the pollen tube.",
+            "D) The length of the style would be increased to the point where the growing pollen tube would be unable to reach the synergids."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "40) As a flower develops, which transition is most likely to occur?",
+        "options": [
+            "A) The microspores become pollen grains.",
+            "B) The ovule becomes a fruit.",
+            "C) The petals are retained.",
+            "D) The vegetative nucleus becomes a sperm nucleus.",
+            "E) The ovules become ovaries."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "41) The primary function of the integument of an ovule is to",
+        "options": [
+            "A) protect against animal predation.",
+            "B) ensure double fertilization.",
+            "C) form a seed coat.",
+            "D) direct development of the endosperm.",
+            "E) produce hormones that ensure successful pollination."
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "42) Which of the following events suggests there is a change in the egg cell membrane after penetration by a sperm?",
+        "options": [
+            "A) The pollen tube grows away from the egg toward the polar nuclei.",
+            "B) CA2+ builds up in the cytoplasm of the egg.",
+            "C) The egg cell plasmolyzes.",
+            "D) Double fertilization occurs.",
+            "E) There is a spike in membrane transport activity."
+        ],
+        "back": "B",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "43) The structure of a mature, functional fruit always includes",
+        "options": [
+            "A) one or more seeds.",
+            "B) extensive vascular connections to the parent plant.",
+            "C) fleshy cells rich in sugars.",
+            "D) brightly colored pigments to attract animal dispersers.",
+            "E) subtending bracts to protect against predators."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "44) Which of the following statements argues for an advantage for flowering plants to maintain an extended gametophyte generation?",
+        "options": [
+            "A) The protection of female gametophytes within ovules keeps them from drying out.",
+            "B) Sperm with flagella can reach the egg faster.",
+            "C) It provides sufficient time for the integument to develop into a seed coat.",
+            "D) It allows for a complex nucleus to develop.",
+            "E) It allows more time for potential pollination."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "45) What is typically the result of double fertilization in angiosperms?",
+        "options": [
+            "A) The endosperm develops into a diploid nutrient tissue.",
+            "B) A triploid zygote is formed.",
+            "C) Both a diploid embryo and triploid endosperm are formed.",
+            "D) Two embryos develop in every seed.",
+            "E) The antipodal cells develop into the seed coat."
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "46) Which of the following statements applies to the endosperm in angiosperms?",
+        "options": [
+            "A) Its nutrients may be absorbed by the cotyledons in the seeds of eudicots.",
+            "B) It develops from a haploid cell.",
+            "C) Its nutrients are digested before embryo development.",
+            "D) It develops from the fertilized egg.",
+            "E) It is only fully developed in monocot seeds."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "47) Which of the following metabolic processes is most likely to still be occurring at low levels in a fully mature, viable, dry seed?",
+        "options": [
+            "A) photosynthesis",
+            "B) respiration",
+            "C) fatty acid synthesis",
+            "D) protein synthesis",
+            "E) DNA replication"
+        ],
+        "back": "B",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "48) Which of the following is a potential advantage of introducing apomixis into hybrid crop species?",
+        "options": [
+            "A) Cultivars would be better able to cope with a rapidly changing environment.",
+            "B) They would have a larger potential genome than inbred crops.",
+            "C) All of the desirable traits of the cultivar would be passed on to offspring.",
+            "D) They would benefit from positive mutations in their DNA.",
+            "E) It would be easier to introduce novel genes."
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "49) Which of the following developmental processes in a seed is the most evolutionarily advantageous for the initial establishment of a viable seedling?",
+        "options": [
+            "A) The emergence of the radical.",
+            "B) The coleoptiles in monocots.",
+            "C) The protective layer of cutin outside of the seed coat.",
+            "D) The emergence of the first photosynthetically active leaves.",
+            "E) The development of a nutrient-rich hypocotyl."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "50) Which of the following \"vegetables\" is botanically a fruit?",
+        "options": [
+            "A) potato",
+            "B) lettuce",
+            "C) radish",
+            "D) celery",
+            "E) green beans"
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "51) The embryo of a grass seed is enclosed by two protective sheaths, a(n) ________, which covers the young shoot, and a(n) ________, which covers the young root.",
+        "options": [
+            "A) cotyledon; radicle",
+            "B) hypocotyl; epicotyl",
+            "C) coleoptile; coleorhiza",
+            "D) scutellum; coleoptile",
+            "E) epicotyl; radicle"
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "52) Which of the following statements is true about fruits?",
+        "options": [
+            "A) Fruits form from megasporangia and integuments.",
+            "B) All fruits contain seeds.",
+            "C) Green beans, corn, tomatoes, and wheat are all vegetables.",
+            "D) Pollination is always required for fruit maturation.",
+            "E) During fruit development, the wall of the ovary becomes the integument."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "53) Fruits develop from",
+        "options": [
+            "A) microsporangia.",
+            "B) receptacles.",
+            "C) fertilized eggs.",
+            "D) ovaries.",
+            "E) ovules."
+        ],
+        "back": "D",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "54) What is the first step in the germination of a seed?",
+        "options": [
+            "A) pollination",
+            "B) fertilization",
+            "C) imbibition",
+            "D) hydrolysis of starch and other food reserves",
+            "E) emergence of the radicle"
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "55) Garden beans and many other eudicots have a hooked hypocotyl during germination. Which of the following is true concerning hypocotyls and/or the hypocotyl hook?",
+        "options": [
+            "A) It is the first structure to emerge from a eudicot seed.",
+            "B) It pushes the cotyledons up through the soil.",
+            "C) It straightens when exposed to sufficient water.",
+            "D) It is stunted in an etiolated seedling.",
+            "E) It emerges after the successful establishment of the radicle."
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "56) Which of the following is an advantage of sexual reproduction as opposed to asexual reproduction?",
+        "options": [
+            "A) increased genetic variation in progeny",
+            "B) enhanced mitosis",
+            "C) more stable populations",
+            "D) rapid increases in population due to high seed production",
+            "E) higher reproductive success"
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "59) Which of the following statements is true for a species that produces seeds by apomixis?",
+        "options": [
+            "A) The seed coat is made of diploid cells derived from the ovule of a flower.",
+            "B) The embryo consists of diploid cells derived from fertilization of a haploid egg by a haploid sperm.",
+            "C) The scutellum is the primary food storage tissue of the embryo.",
+            "D) A haploid embryo is contained within the seed.",
+            "E) The embryo of the seed is genetically distinct from the parent plant."
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "58) Which of the following is a true statement about clonal reproduction in plants?",
+        "options": [
+            "A) Clones of plants do not occur naturally.",
+            "B) Cloning, although achieved in animals, has not been demonstrated in plants.",
+            "C) Making cuttings of ornamental plants is a form of fragmentation.",
+            "D) Reproduction of plants by cloning may be either sexual or asexual.",
+            "E) Viable seeds can result from sexual reproduction only."
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "59) Which of the following statements is true for a species that produces seeds by apomixis?",
+        "options": [
+            "A) The seed coat is made of diploid cells derived from the ovule of a flower.",
+            "B) The embryo consists of diploid cells derived from fertilization of a haploid egg by a haploid sperm.",
+            "C) The scutellum is the primary food storage tissue of the embryo.",
+            "D) A haploid embryo is contained within the seed.",
+            "E) The embryo of the seed is genetically distinct from the parent plant."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "60) Which of the following could be considered an evolutionary advantage of asexual reproduction in plants?",
+        "options": [
+            "A) increased success of progeny in a stable environment.",
+            "B) increased agricultural productivity in a rapidly changing environment.",
+            "C) maintenance and expansion of a large genome.",
+            "D) production of numerous progeny.",
+            "E) increased ability to adapt to a change in the environment."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "61) Under which conditions would asexual plants have the greatest advantage over sexual plants?",
+        "options": [
+            "A) an environment that varies on a regular, predictable basis",
+            "B) an environment with irregular fluctuations of conditions",
+            "C) a relatively constant environment with infrequent disturbances",
+            "D) a fire-maintained ecosystem",
+            "E) an environment with many seed predators"
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "62) Which of the following statements is true of protoplast fusion?",
+        "options": [
+            "A) It occurs when the second sperm nucleus fuses with the polar nuclei in the embryo sac.",
+            "B) It can be used to form new plant varieties by combining genomes from two plants.",
+            "C) It is used to develop gene banks to preserve genetic variability.",
+            "D) It is the method of test-tube cloning that produces whole plants from callus.",
+            "E) It occurs within a callus that is developing in tissue culture."
+        ],
+        "back": "B",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "63) One major potential benefit resulting from protoplast fusion experiments in agriculturally relevant species is",
+        "options": [
+            "A) there is an increased potential of hopeful mutants.",
+            "B) species that are normally sexually incompatible can sometimes be successfully fused. producing offspring with traits of both parent species.",
+            "C) many new species can be produced in a short period of time.",
+            "D) deleterious traits are often removed by this process.",
+            "E) genetically unrelated species can be successfully combined to produce new species with much larger genomes and adaptive potentials."
+        ],
+        "back": "B",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "64) The most immediate potential benefits of introducing genetically modified crops include",
+        "options": [
+            "A) increasing the amount of land suitable for agriculture.",
+            "B) overcoming genetic incompatibility.",
+            "C) increasing the frequency of self-pollination.",
+            "D) increasing crop yield.",
+            "E) decreasing the mutation rate of certain genes."
+        ],
+        "back": "D",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "65) A parent with an S₁S₂ genotype exhibiting sporophytic self-incompatibility can potentially fertilize which of the following plant genotypes of the same species with pollen grains?",
+        "options": [
+            "A) S₁S₃",
+            "B) S₂S₃",
+            "C) S₃S₄",
+            "D) S₁S₄",
+            "E) Half of all the pollen grains could be successful."
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "66) A parent with an S₁S₂ genotype exhibiting gametophytic self-incompatibility could potentially fertilize which of the following plant genotypes of the same species with pollen grains?",
+        "options": [
+            "A) S₁S₃",
+            "B) S₂S₃",
+            "C) S₁S₄",
+            "D) S₂S₄",
+            "E) Half of all the pollen grains could be successful."
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "67) Biofuels are mainly produced by",
+        "options": [
+            "A) the breakdown of cell wall biopolymers into sugars that can be fermented.",
+            "B) plants that convert hemicellulose into gasoline.",
+            "C) the genetic engineering of ethanol-generating genes into plants.",
+            "D) transgenic crops that have cell walls containing ethylene.",
+            "E) plants that are easy to grow in arid environments."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "68) One disadvantage of monoculture is that",
+        "options": [
+            "A) the whole crop ripens at the same time.",
+            "B) genetic uniformity makes a crop more vulnerable to a new pest or disease.",
+            "C) it predominantly uses vegetative propagation.",
+            "D) most grain crops self-pollinate.",
+            "E) it allows for the cultivation of large areas of land."
+        ],
+        "back": "B",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "69) Which of the following is a scientific concern related to creating genetically modified crops?",
+        "options": [
+            "A) Herbicide resistance may spread to weedy species.",
+            "B) Beneficial insects may be harmed by eating pest species.",
+            "C) Their adaptive advantages would allow them to overpower natural ecosystems.",
+            "D) The monetary costs of growing genetically modified plants are significantly greater than traditional breeding techniques.",
+            "E) Genetically modified plants are less stable and may revert back to parental genotypes."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "70) All of the following strategies are being pursued with the goal of preventing transgene escape from genetically modified crops except",
+        "options": [
+            "A) the engineering of male sterility into plants.",
+            "B) the genetic engineering of apomixis into transgenic crops.",
+            "C) the genetic engineering of trangenes into the chloroplast DNA.",
+            "D) the genetic engineering of flowers that develop normally, but fail to open.",
+            "E) hybridization of transgenic crop genes with related wild weeds."
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "71) Which of the following is proving to be the most difficult task for plant breeders regardless of the techniques they use for crop improvement due to the complexity of the metabolic pathways involved?",
+        "options": [
+            "A) insect resistance",
+            "B) nitrogen fixation",
+            "C) herbicide resistance",
+            "D) improved nutritional quality",
+            "E) virus resistance"
+        ],
+        "back": "B",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "72) Which of the following is a successful example of the commercial use of transgenic crops?",
+        "options": [
+            "A) inserting Bt toxin genes into cotton, maize, and potato",
+            "B) developing plants that are resistant to ultraviolet light mutations",
+            "C) producing plants that resist attack by large herbivores",
+            "D) developing plants that produce all the essential amino acids for humans",
+            "E) producing plants that contain genes for making human insulin"
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "The following question refer to the diagram of an embryo sac of an angiosperm shown in Figure 38.1. Figure 38.1 73) Based on Figure 38.1, which cell(s), after fertilization, give(s) rise to the embryo plant?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "B",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": [
+            "https://web.archive.org/web/20170801165309im_/https://www.easynotecards.com/uploads/418/43/_39367d51_13ab9201884__8000_00000136.jpg"
+        ]
+    },
+    {
+        "front": "The following question refer to the diagram of an embryo sac of an angiosperm shown in Figure 38.1. Figure 38.1 74) Based on Figure 38.1, which cell(s) become(s) the triploid endosperm?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": [
+            "https://web.archive.org/web/20170801165309im_/https://www.easynotecards.com/uploads/418/43/_39367d51_13ab9201884__8000_00000136.jpg"
+        ]
+    },
+    {
+        "front": "The following question refer to the diagram of an embryo sac of an angiosperm shown in Figure 38.1. Figure 38.1 75) Based on Figure 38.1, which cell(s) guide(s) the pollen tube to the egg cell?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": [
+            "https://web.archive.org/web/20170801165309im_/https://www.easynotecards.com/uploads/418/43/_39367d51_13ab9201884__8000_00000136.jpg"
+        ]
+    },
+    {
+        "front": "76) You are studying a plant from the Amazon rain forest that shows strong self-incompatibility. To characterize this reproductive mechanism, you would look for",
+        "options": [
+            "A) ribonuclease (RNAase) activity in stigma cells.",
+            "B) RNA in the plants.",
+            "C) pollen grains with very thick walls.",
+            "D) carpels that cannot produce eggs by meiosis.",
+            "E) systems of wind, but not insect, pollination."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "77) Regardless of where in the world a vineyard is located, in order for the winery to produce a Burgundy, it must use varietal grapes that originated in Burgundy, France. The most effective way for a new California grower to plant a vineyard to produce Burgundy is to",
+        "options": [
+            "A) plant seeds obtained from French varietal Burgundy grapes.",
+            "B) transplant varietal Burgundy plants from France.",
+            "C) acquire a tissue culture of varietal Burgundy grapes from France.",
+            "D) cross French Burgundy grapes with native American grapes.",
+            "E) graft varietal Burgundy grape scions onto native (Californian) root stocks."
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "78) A seed develops from",
+        "options": [
+            "A) an ovum.",
+            "B) a pollen grain.",
+            "C) an ovule.",
+            "D) an ovary.",
+            "E) an embryo."
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "79) A fruit is",
+        "options": [
+            "A) a mature ovary.",
+            "B) a mature ovule.",
+            "C) a seed plus its integuments.",
+            "D) a fused carpel.",
+            "E) an enlarged embryo sac."
+        ],
+        "back": "A",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "80) Double fertilization means that",
+        "options": [
+            "A) flowers must be pollinated twice to yield fruits and seeds.",
+            "B) every egg must receive two sperm to produce an embryo.",
+            "C) one sperm is needed to fertilize the egg, and a second sperm is needed to fertilize the polar nuclei.",
+            "D) the egg of the embryo sac is diploid.",
+            "E) every sperm has two nuclei."
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "81) \"Golden Rice\"",
+        "options": [
+            "A) is resistant to various herbicides, making it practical to weed rice fields with those herbicides.",
+            "B) is resistant to a virus that commonly attacks rice fields.",
+            "C) includes bacterial genes that produce a toxin that reduces damage from insect pests.",
+            "D) produces larger, golden grains that increase crop yields.",
+            "E) contains daffodil genes that increase vitamin A content."
+        ],
+        "back": "E",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "82) Which statement concerning grafting is correct?",
+        "options": [
+            "A) Stocks and scions refer to twigs of different species.",
+            "B) Stocks come from vines, but scions come from trees.",
+            "C) Stocks provide root systems for grafting.",
+            "D) Grafting creates new species.",
+            "E) Stocks and scions must come from unrelated species."
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "83) Some dioecious species have the XY genotype for male and XX for female. After double fertilization, what would be the genotypes of the embryos and endosperm nuclei?",
+        "options": [
+            "A) embryo X/endosperm XX or embryo Y/endosperm XY",
+            "B) embryo XX/endosperm XX or embryo XY/endosperm XY",
+            "C) embryo XX/endosperm XXX or embryo XY/endosperm XYY",
+            "D) embryo XX/endosperm XXX or embryo XY/endosperm XXY",
+            "E) embryo XY/endosperm XXX or embryo XX/endosperm XXY"
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "84) A small flower with green petals is most likely",
+        "options": [
+            "A) bee-pollinated.",
+            "B) bird-pollinated.",
+            "C) bat-pollinated.",
+            "D) wind-pollinated.",
+            "E) moth-pollinated."
+        ],
+        "back": "D",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "85) The pollen produced by wind-pollinated plants is often smaller than the pollen produced by animal-pollinated plants. A reason for this might be that",
+        "options": [
+            "A) wind-pollinated plants, in general, are smaller than animal-pollinated plants.",
+            "B) wind-pollinated plants release pollen in the spring, before the plant has stored enough energy to make large pollen grains.",
+            "C) small pollen grains can be carried farther by the wind.",
+            "D) animal pollinators are more facile at picking up large pollen grains.",
+            "E) wind-pollinated flowers don't need large pollen grains because they don't have to attract animal pollinators."
+        ],
+        "back": "C",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    },
+    {
+        "front": "86) The black dots that cover strawberries are actually individual fruits. The fleshy and tasty portion of a strawberry derives from the receptacle of a flower with many separate carpels. Therefore, a strawberry is",
+        "options": [
+            "A) both a multiple fruit and an aggregate fruit.",
+            "B) both a multiple fruit and an accessory fruit.",
+            "C) both a simple fruit and an aggregate fruit.",
+            "D) both an aggregate fruit and an accessory fruit.",
+            "E) a simple fruit with many seeds."
+        ],
+        "back": "D",
+        "unit": "Unit 38",
+        "chapter": "Chapter 38",
+        "images": []
+    }
+]

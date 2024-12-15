@@ -1,0 +1,998 @@
+[
+    {
+        "front": "1) If a horticulturist breeding gardenias succeeds in having a single plant with a particularly desirable set of traits, which of the following would be her most probable and efficient route to establishing a line of such plants?",
+        "options": [
+            "A) Backtrack through her previous experiments to obtain another plant with the same traits.",
+            "B) Breed this plant with another plant with much weaker traits.",
+            "C) Clone the plant asexually to produce an identical one.",
+            "D) Force the plant to self-pollinate to obtain an identical one.",
+            "E) Add nitrogen to the soil of the offspring of this plant so the desired traits continue."
+        ],
+        "back": "C",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "2) The human genome is minimally contained in which of the following?",
+        "options": [
+            "A) every human cell",
+            "B) each human chromosome",
+            "C) the entire DNA of a single human",
+            "D) the entire human population",
+            "E) each human gene"
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "3) In the human species, all somatic cells have 46 chromosomes. Which of the following can also be true?",
+        "options": [
+            "A) A plant species (privet shrubs) has 46 chromosomes per cell.",
+            "B) Some adult humans have 69 chromosomes per cell.",
+            "C) Some adult humans have 23 chromosomes per cell.",
+            "D) A certain fungal species has only one chromosome per cell.",
+            "E) A certain bacterial species has 23 chromosomes."
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "4) Which of the following is a true statement about sexual vs. asexual reproduction?",
+        "options": [
+            "A) Asexual reproduction, but not sexual reproduction, is characteristic of plants and fungi.",
+            "B) In sexual reproduction, individuals transmit 50% of their genes to each of their offspring.",
+            "C) In asexual reproduction, offspring are produced by fertilization without meiosis.",
+            "D) Sexual reproduction requires that parents be diploid.",
+            "E) Asexual reproduction produces only haploid offspring."
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "5) Which of the following defines a genome?",
+        "options": [
+            "A) representation of a complete set of a cell's polypeptides",
+            "B) the complete set of an organism's polypeptides",
+            "C) the complete set of a species' polypeptides",
+            "D) a karyotype",
+            "E) the complete set of an organism's genes"
+        ],
+        "back": "E",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "6) At which stage of mitosis are chromosomes usually photographed in the preparation of a karyotype?",
+        "options": [
+            "A) prophase",
+            "B) metaphase",
+            "C) anaphase",
+            "D) telophase",
+            "E) interphase"
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "7) The human X and Y chromosomes",
+        "options": [
+            "A) are both present in every somatic cell of males and females alike.",
+            "B) are of approximately equal size and number of genes.",
+            "C) are almost entirely homologous, despite their different names.",
+            "D) include genes that determine an individual's sex.",
+            "E) include only genes that govern sex determination."
+        ],
+        "back": "D",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "8) Which of the following is true of a species that has a chromosome number of 2n = 16?",
+        "options": [
+            "A) The species is diploid with 32 chromosomes per cell.",
+            "B) The species has 16 sets of chromosomes per cell.",
+            "C) Each cell has eight homologous pairs.",
+            "D) During the S phase of the cell cycle there will be 32 separate chromosomes.",
+            "E) A gamete from this species has four chromosomes."
+        ],
+        "back": "C",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "9) Eukaryotic sexual life cycles show tremendous variation. Of the following elements, which do all sexual life cycles have in common? I. Alternation of generations II. Meiosis III. Fertilization IV. Gametes V. Spores",
+        "options": [
+            "A) I, IV, and V",
+            "B) I, II, and IV",
+            "C) II, III, and IV",
+            "D) II, IV, and V",
+            "E) I, II, III, IV, and V"
+        ],
+        "back": "C",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "10) Which of these statements is false?",
+        "options": [
+            "A) In humans, each of the 22 maternal autosomes has a homologous paternal chromosome.",
+            "B) In humans, the 23rd pair, the sex chromosomes, determines whether the person is female (XX) or male (XY).",
+            "C) Single, haploid (n) sets of chromosomes in ovum and sperm unite during fertilization, forming a diploid (2n), single-celled zygote.",
+            "D) At sexual maturity, ovaries and testes produce diploid gametes by meiosis.",
+            "E) Sexual life cycles differ with respect to the relative timing of meiosis and fertilization."
+        ],
+        "back": "D",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "11) Referring to a plant's sexual life cycle, which of the following terms describes the process that leads directly to the formation of gametes?",
+        "options": [
+            "A) sporophyte meiosis",
+            "B) gametophyte mitosis",
+            "C) gametophyte meiosis",
+            "D) sporophyte mitosis",
+            "E) alternation of generations"
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "12) Which of the following is an example of alternation of generations?",
+        "options": [
+            "A) A grandparent and grandchild each have dark hair, but the parent has blond hair.",
+            "B) A diploid plant (sporophyte) produces, by meiosis, a spore that gives rise to a multicellular, haploid pollen grain (gametophyte).",
+            "C) A diploid animal produces gametes by meiosis, and the gametes undergo fertilization to produce a diploid zygote.",
+            "D) A haploid mushroom produces gametes by mitosis, and the gametes undergo fertilization, which is immediately followed by meiosis.",
+            "E) A diploid cell divides by mitosis to produce two diploid daughter cells, which then fuse to produce a tetraploid cell."
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "13) The karyotype of one species of primate has 48 chromosomes. In a particular female, cell division goes awry and she produces one of her eggs with an extra chromosome (25). The most probable source of this error would be a mistake in which of the following?",
+        "options": [
+            "A) mitosis in her ovary",
+            "B) metaphase I of one meiotic event",
+            "C) telophase II of one meiotic event",
+            "D) telophase I of one meiotic event",
+            "E) either anaphase I or II"
+        ],
+        "back": "E",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "14) A given organism has 46 chromosomes in its karyotype. We can therefore conclude which of the following?",
+        "options": [
+            "A) It must be human.",
+            "B) It must be a primate.",
+            "C) It must be an animal.",
+            "D) It must be sexually reproducing.",
+            "E) Its gametes must have 23 chromosomes."
+        ],
+        "back": "E",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "15) A triploid cell contains three sets of chromosomes. If a cell of a usually diploid species with 42 chromosomes per cell is triploid, this cell would be expected to have which of the following?",
+        "options": [
+            "A) 63 chromosomes in 31 1/2 pairs",
+            "B) 63 chromosomes in 21 sets of 3",
+            "C) 63 chromosomes, each with three chromatids",
+            "D) 21 chromosome pairs and 21 unique chromosomes"
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "16) A karyotype results from which of the following?",
+        "options": [
+            "A) a natural cellular arrangement of chromosomes in the nucleus",
+            "B) an inherited ability of chromosomes to arrange themselves",
+            "C) the ordering of human chromosome images",
+            "D) the cutting and pasting of parts of chromosomes to form the standard array",
+            "E) the separation of homologous chromosomes at metaphase I of meiosis"
+        ],
+        "back": "C",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "17) Which of the following best describes a karyotype?",
+        "options": [
+            "A) a pictorial representation of all the genes for a species",
+            "B) a display of each of the chromosomes of a single cell",
+            "C) the combination of all the maternal and paternal chromosomes of a species",
+            "D) the collection of all the chromosomes in an individual organism",
+            "E) a photograph of all the cells with missing or extra chromosomes"
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "18) If a cell has completed the first meiotic division and is just beginning meiosis II, which of the following is an appropriate description of its contents?",
+        "options": [
+            "A) It has half the amount of DNA as the cell that began meiosis.",
+            "B) It has the same number of chromosomes but each of them has different alleles than another cell from the same meiosis.",
+            "C) It has half the chromosomes but twice the DNA of the originating cell.",
+            "D) It has one-fourth the DNA and one-half the chromosomes as the originating cell.",
+            "E) It is identical in content to another cell from the same meiosis."
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "19) Which of the following can utilize both mitosis and meiosis in the correct circumstances?",
+        "options": [
+            "A) a haploid animal cell",
+            "B) a diploid cell from a plant stem",
+            "C) any diploid animal cell",
+            "D) a plantlike protist",
+            "E) an archaebacterium"
+        ],
+        "back": "D",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "20) Which of the following might result in a human zygote with 45 chromosomes?",
+        "options": [
+            "A) an error in either egg or sperm meiotic anaphase",
+            "B) failure of the egg nucleus to be fertilized by the sperm",
+            "C) fertilization of a 23 chromosome human egg by a 22 chromosome sperm of a closely related species",
+            "D) an error in the alignment of chromosomes on the metaphase plate",
+            "E) lack of chiasmata in prophase I"
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "21) The somatic cells of a privet shrub each contain 46 chromosomes. To be as different as they are from human cells, which have the same number of chromosomes, which of the following must be true?",
+        "options": [
+            "A) Privet cells cannot reproduce sexually.",
+            "B) Privet sex cells have chromosomes that can synapse with human chromosomes in the laboratory.",
+            "C) Genes of privet chromosomes are significantly different than those in humans.",
+            "D) Privet shrubs must be metabolically more like animals than like other shrubs.",
+            "E) Genes on a particular privet chromosome, such as the X, must be on a different human chromosome, such as number 18."
+        ],
+        "back": "C",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "22) In a human karyotype, chromosomes are arranged in 23 pairs. If we choose one of these pairs, such as pair 14, which of the following do the two chromosomes of the pair have in common?",
+        "options": [
+            "A) Length and position of the centromere only.",
+            "B) Length, centromere position, and staining pattern only.",
+            "C) Length, centromere position, staining pattern, and traits coded for by their genes.",
+            "D) Length, centromere position, staining pattern, and DNA sequences.",
+            "E) They have nothing in common except they are X-shaped."
+        ],
+        "back": "C",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "23) After telophase I of meiosis, the chromosomal makeup of each daughter cell is",
+        "options": [
+            "A) diploid, and the chromosomes are each composed of a single chromatid.",
+            "B) diploid, and the chromosomes are each composed of two chromatids.",
+            "C) haploid, and the chromosomes are each composed of a single chromatid.",
+            "D) haploid, and the chromosomes are each composed of two chromatids.",
+            "E) tetraploid, and the chromosomes are each composed of two chromatids."
+        ],
+        "back": "D",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "24) How do cells at the completion of meiosis compare with cells that have replicated their DNA and are just about to begin meiosis?",
+        "options": [
+            "A) They have twice the amount of cytoplasm and half the amount of DNA.",
+            "B) They have half the number of chromosomes and half the amount of DNA.",
+            "C) They have the same number of chromosomes and half the amount of DNA.",
+            "D) They have half the number of chromosomes and one-fourth the amount of DNA.",
+            "E) They have half the amount of cytoplasm and twice the amount of DNA."
+        ],
+        "back": "D",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "25) When does the synaptonemal complex disappear?",
+        "options": [
+            "A) late prophase of meiosis I",
+            "B) during fertilization or fusion of gametes",
+            "C) early anaphase of meiosis I",
+            "D) mid-prophase of meiosis II",
+            "E) late metaphase of meiosis II"
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "26) Which of the following happens at the conclusion of meiosis I?",
+        "options": [
+            "A) Homologous chromosomes are separated.",
+            "B) The chromosome number per cell is conserved.",
+            "C) Sister chromatids are separated.",
+            "D) Four daughter cells are formed.",
+            "E) The sperm cells elongate to form a head and a tail end."
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "27) A cell divides to produce two daughter cells that are genetically different.",
+        "options": [
+            "A) The statement is true for mitosis only.",
+            "B) The statement is true for meiosis I only.",
+            "C) The statement is true for meiosis II only.",
+            "D) The statement is true for mitosis and meiosis I.",
+            "E) The statement is true for mitosis and meiosis II."
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "28) Chromatids are separated from each other.",
+        "options": [
+            "A) The statement is true for mitosis only.",
+            "B) The statement is true for meiosis I only.",
+            "C) The statement is true for meiosis II only.",
+            "D) The statement is true for mitosis and meiosis I.",
+            "E) The statement is true for mitosis and meiosis II."
+        ],
+        "back": "E",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "29) Independent assortment of chromosomes occurs.",
+        "options": [
+            "A) The statement is true for mitosis only.",
+            "B) The statement is true for meiosis I only.",
+            "C) The statement is true for meiosis II only.",
+            "D) The statement is true for mitosis and meiosis I.",
+            "E) The statement is true for mitosis and meiosis II."
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "30) Which of the following occurs in meiosis but not in mitosis?",
+        "options": [
+            "A) chromosome replication",
+            "B) synapsis of chromosomes",
+            "C) production of daughter cells",
+            "D) alignment of chromosomes at the equator",
+            "E) condensation of chromatin"
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "31) If an organism is diploid and a certain gene found in the organism has 18 known alleles (variants), then any given organism of that species can/must have which of the following?",
+        "options": [
+            "A) at most, 2 alleles for that gene",
+            "B) up to 18 chromosomes with that gene",
+            "C) up to 18 genes for that trait",
+            "D) a haploid number of 9 chromosomes",
+            "E) up to, but not more than, 18 different traits"
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "32) Whether during mitosis or meiosis, sister chromatids are held together by proteins referred to as cohesins. Such molecules must have which of the following properties?",
+        "options": [
+            "A) They must persist throughout the cell cycle.",
+            "B) They must be removed before meiosis can begin.",
+            "C) They must be removed before anaphase can occur.",
+            "D) They must reattach to chromosomes during G₁.",
+            "E) They must be intact for nuclear envelope reformation."
+        ],
+        "back": "C",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "33) Experiments with cohesins have found that",
+        "options": [
+            "A) cohesins are protected from destruction throughout meiosis I and II.",
+            "B) cohesins are cleaved from chromosomes at the centromere before anaphase I.",
+            "C) cohesins are protected from cleavage at the centromere during meiosis I.",
+            "D) a protein cleaves cohesins before metaphase I.",
+            "E) a protein that cleaves cohesins would cause cellular death."
+        ],
+        "back": "C",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "34) A tetrad includes which of the following sets of DNA strands?",
+        "options": [
+            "A) two single-stranded chromosomes that have synapsed",
+            "B) two sets of sister chromatids that have synapsed",
+            "C) four sets of sister chromatids",
+            "D) four sets of unique chromosomes",
+            "E) eight sets of sister chromatids"
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "35) When we see chiasmata under a microscope, that lets us know which of the following has occurred?",
+        "options": [
+            "A) asexual reproduction",
+            "B) meiosis II",
+            "C) anaphase II",
+            "D) prophase I",
+            "E) separation of homologs"
+        ],
+        "back": "D",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "36) To view and analyze human chromosomes in a dividing cell, which of the following is/are required?",
+        "options": [
+            "A) electron microscope",
+            "B) radioactive staining",
+            "C) fluorescent staining",
+            "D) DNA stain and a light microscope",
+            "E) a stain particular to human cells"
+        ],
+        "back": "D",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "37) To visualize and identify meiotic cells at metaphase with a microscope, what would you look for?",
+        "options": [
+            "A) sister chromatids grouped at the poles",
+            "B) individual chromosomes all at the cell's center",
+            "C) an uninterrupted spindle array",
+            "D) the synaptonemal complex",
+            "E) tetrads all aligned at the cell's center"
+        ],
+        "back": "E",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "For the following question, match the key event of meiosis with the stages listed below. I. Prophase I V. Prophase II II. Metaphase I VI. Metaphase II III. Anaphase I VII. Anaphase II IV. Telophase I VIII. Telophase II 38) Tetrads of chromosomes are aligned at the equator of the spindle; alignment determines independent assortment.",
+        "options": [
+            "A) I",
+            "B) II",
+            "C) IV",
+            "D) VI",
+            "E) VIII"
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "For the following question, match the key event of meiosis with the stages listed below. I. Prophase I V. Prophase II II. Metaphase I VI. Metaphase II III. Anaphase I VII. Anaphase II IV. Telophase I VIII. Telophase II 39) Synaptonemal complexes form or are still present.",
+        "options": [
+            "A) I only",
+            "B) I and IV only",
+            "C) I and VIII only",
+            "D) II and VI only",
+            "E) I, II, III, and IV only"
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "For the following question, match the key event of meiosis with the stages listed below. I. Prophase I V. Prophase II II. Metaphase I VI. Metaphase II III. Anaphase I VII. Anaphase II IV. Telophase I VIII. Telophase II 40) Centromeres of sister chromatids disjoin and chromatids separate.",
+        "options": [
+            "A) II",
+            "B) III",
+            "C) IV",
+            "D) V",
+            "E) VII"
+        ],
+        "back": "E",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "The following question refers to the essential steps in meiosis described below. 1. Formation of four new nuclei, each with half the chromosomes present in the parental nucleus 2. Alignment of tetrads at the metaphase plate 3. Separation of sister chromatids 4. Separation of the homologs; no uncoupling of the centromere 5. Synapsis; chromosomes moving to the middle of the cell in pairs 41) Which of the steps takes place in both mitosis and meiosis?",
+        "options": [
+            "A) 2",
+            "B) 3",
+            "C) 5",
+            "D) 2 and 3 only",
+            "E) 2, 3, and 5"
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "42) How does the sexual life cycle increase the genetic variation in a species?",
+        "options": [
+            "A) by allowing crossing over",
+            "B) by allowing fertilization",
+            "C) by increasing gene stability",
+            "D) by conserving chromosomal gene order",
+            "E) by decreasing mutation frequency"
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "43) For a species with a haploid number of 23 chromosomes, how many different combinations of maternal and paternal chromosomes are possible for the gametes?",
+        "options": [
+            "A) 23",
+            "B) 46",
+            "C) 460",
+            "D) 920",
+            "E) about 8 million"
+        ],
+        "back": "E",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "44) Independent assortment of chromosomes is a result of",
+        "options": [
+            "A) the random and independent way in which each pair of homologous chromosomes lines up at the metaphase plate during meiosis I.",
+            "B) the random nature of the fertilization of ova by sperm.",
+            "C) the random distribution of the sister chromatids to the two daughter cells during anaphase II.",
+            "D) the relatively small degree of homology shared by the X and Y chromosomes.",
+            "E) the random and independent way in which each pair of homologous chromosomes lines up at the metaphase plate during meiosis I, the random nature of the fertilization of ova by sperm, the random distribution of the sister chromatids to the two daughter cells during anaphase II, and the relatively small degree of homology shared by the X and Y chromosomes."
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "45) Which of the following best describes the frequency of crossing over in mammals?",
+        "options": [
+            "A) ~50 per chromosome pair",
+            "B) ~2 per meiotic cell",
+            "C) at least 1-2 per chromosome pair",
+            "D) ~1 per pair of sister chromatids",
+            "E) a very rare event among hundreds of cells"
+        ],
+        "back": "C",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "46) When homologous chromosomes crossover, what occurs?",
+        "options": [
+            "A) Two chromatids get tangled, resulting in one re-sequencing its DNA.",
+            "B) Two sister chromatids exchange identical pieces of DNA.",
+            "C) Specific proteins break the two strands and re-join them with their homologs.",
+            "D) Each of the four DNA strands of a tetrad is broken and the pieces are mixed.",
+            "E) Maternal alleles are \"corrected\" to be like paternal alleles and vice versa."
+        ],
+        "back": "C",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "47) Which of the life cycles is typical for animals?",
+        "options": [
+            "A) I only",
+            "B) II only",
+            "C) III only",
+            "D) I and II",
+            "E) I and III"
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": [
+            "https://web.archive.org/web/20170725221547im_/http://www.easynotecards.com:80/uploads/1090/10/69c3b13a_13a8788d737__8000_00000196.jpg"
+        ]
+    },
+    {
+        "front": "48) Which of the life cycles is typical for plants and some algae?",
+        "options": [
+            "A) I only",
+            "B) II only",
+            "C) III only",
+            "D) I and II",
+            "E) I and III"
+        ],
+        "back": "C",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "49) Which of the life cycles is typical for most fungi and some protists?",
+        "options": [
+            "A) I only",
+            "B) II only",
+            "C) III only",
+            "D) I and II",
+            "E) I and III"
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "50) In part III of Figure 13.1, the progression of events corresponds to which of the following series?",
+        "options": [
+            "A) zygote, mitosis, gametophyte, mitosis, fertilization, zygote, mitosis",
+            "B) sporophyte, meiosis, spore, mitosis, gametophyte, mitosis, gametes, fertilization",
+            "C) fertilization, mitosis, multicellular haploid, mitosis, spores, sporophyte",
+            "D) gametophyte, meiosis, zygote, spores, sporophyte, zygote",
+            "E) meiosis, fertilization, zygote, mitosis, adult, meiosis"
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "51) In a life cycle such as that shown in part III of Figure 13.1, if the zygote's chromosome number is 10, which of the following will be true?",
+        "options": [
+            "A) The sporophyte's chromosome number per cell is 10 and the gametophyte's is 5.",
+            "B) The sporophyte's chromosome number per cell is 5 and the gametophyte's is 10.",
+            "C) The sporophyte and gametophyte each have 10 chromosomes per cell.",
+            "D) The sporophyte and gametophyte each have 5 chromosomes per cell.",
+            "E) The sporophyte and gametophyte each have 20 chromosomes per cell."
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "Figure 13.2 of a single pair of homologous chromosomes as they might appear during various stages of either mitosis or meiosis 52) Which diagram represents anaphase I of meiosis?",
+        "options": [
+            "A) I",
+            "B) II",
+            "C) IV",
+            "D) V",
+            "E) VI"
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": [
+            "https://web.archive.org/web/20170725221547im_/http://www.easynotecards.com:80/uploads/1091/11/69c3b13a_13a8788d737__8000_00000197.jpg"
+        ]
+    },
+    {
+        "front": "Figure 13.2 of a single pair of homologous chromosomes as they might appear during various stages of either mitosis or meiosis 53) Which diagram(s) represent anaphase II of meiosis?",
+        "options": [
+            "A) II only",
+            "B) III only",
+            "C) IV only",
+            "D) V only",
+            "E) either II or V"
+        ],
+        "back": "D",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": [
+            "https://web.archive.org/web/20170725221547im_/http://www.easynotecards.com:80/uploads/1091/11/69c3b13a_13a8788d737__8000_00000197.jpg"
+        ]
+    },
+    {
+        "front": "You have isolated DNA from three different cell types of an organism, determined the relative DNA content for each type, and plotted the results on the graph shown in Figure 13.3. Refer to the graph to answer the following questions. 54) Which sample of DNA might be from a nerve cell arrested in G0 of the cell cycle?",
+        "options": [
+            "A) I",
+            "B) II",
+            "C) III",
+            "D) either I or II",
+            "E) either I or III"
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": [
+            "https://web.archive.org/web/20170725221547im_/http://www.easynotecards.com:80/uploads/1093/13/69c3b13a_13a8788d737__8000_00000200.jpg"
+        ]
+    },
+    {
+        "front": "You have isolated DNA from three different cell types of an organism, determined the relative DNA content for each type, and plotted the results on the graph shown in Figure 13.3. Refer to the graph to answer the following questions. 55) Which sample might represent an animal cell in the G2 phase of the cell cycle?",
+        "options": [
+            "A) I",
+            "B) II",
+            "C) III",
+            "D) both I and II",
+            "E) either II or III"
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": [
+            "https://web.archive.org/web/20170725221547im_/http://www.easynotecards.com:80/uploads/1093/13/69c3b13a_13a8788d737__8000_00000200.jpg"
+        ]
+    },
+    {
+        "front": "You have isolated DNA from three different cell types of an organism, determined the relative DNA content for each type, and plotted the results on the graph shown in Figure 13.3. Refer to the graph to answer the following questions. 56) Which sample might represent a zygote?",
+        "options": [
+            "A) I",
+            "B) II",
+            "C) III",
+            "D) either I or II",
+            "E) either II or III"
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": [
+            "https://web.archive.org/web/20170725221547im_/http://www.easynotecards.com:80/uploads/1093/13/69c3b13a_13a8788d737__8000_00000200.jpg"
+        ]
+    },
+    {
+        "front": "A certain (hypothetical) organism is diploid, has either blue or orange wings as the consequence of one of its genes on chromosome 12, and has either long or short antennae as the result of a second gene on chromosome 19, as shown in Figure 13.4. 57) A certain female's number 12 chromosomes both have the blue gene and number 19 chromosomes both have the long gene. As cells in her ovaries undergo meiosis, her resulting eggs (ova) may have which of the following?",
+        "options": [
+            "A) either two number 12 chromosomes with blue genes or two with orange genes",
+            "B) either two number 19 chromosomes with long genes or two with short genes",
+            "C) either one blue or one orange gene in addition to either one long or one short gene",
+            "D) one chromosome 12 with one blue gene and one chromosome 19 with one long gene"
+        ],
+        "back": "D",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": [
+            "https://web.archive.org/web/20170725221547im_/http://www.easynotecards.com:80/uploads/1096/16/69c3b13a_13a8788d737__8000_00000203.jpg"
+        ]
+    },
+    {
+        "front": "A certain (hypothetical) organism is diploid, has either blue or orange wings as the consequence of one of its genes on chromosome 12, and has either long or short antennae as the result of a second gene on chromosome 19, as shown in Figure 13.4. 58) If a female of this species has one chromosome 12 with a blue gene and another chromosome 12 with an orange gene, and has both number 19 chromosomes with short genes, she will produce which of the following egg types?",
+        "options": [
+            "A) only blue short gene eggs",
+            "B) only orange short gene eggs",
+            "C) one-half blue short and one-half orange short gene eggs",
+            "D) three-fourths blue long and one-fourth orange short gene eggs",
+            "E) three-fourths blue short and one-fourth orange short gene eggs"
+        ],
+        "back": "C",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": [
+            "https://web.archive.org/web/20170725221547im_/http://www.easynotecards.com:80/uploads/1096/16/69c3b13a_13a8788d737__8000_00000203.jpg"
+        ]
+    },
+    {
+        "front": "A certain (hypothetical) organism is diploid, has either blue or orange wings as the consequence of one of its genes on chromosome 12, and has either long or short antennae as the result of a second gene on chromosome 19, as shown in Figure 13.4. 59) A female with a paternal set of one orange and one long gene chromosome and a maternal set comprised of one blue and one short gene chromosome is expected to produce which of the following types of eggs after meiosis?",
+        "options": [
+            "A) All eggs will have maternal types of gene combinations.",
+            "B) All eggs will have paternal types of gene combinations.",
+            "C) Half the eggs will have maternal and half will have paternal combinations.",
+            "D) Each egg has a one-fourth chance of having either blue long, blue short, orange long, or orange short combinations.",
+            "E) Each egg has a three-fourths chance of having blue long, one-fourth blue short, three-fourths orange long, or one-fourth orange short combinations."
+        ],
+        "back": "D",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": [
+            "https://web.archive.org/web/20170725221547im_/http://www.easynotecards.com:80/uploads/1096/16/69c3b13a_13a8788d737__8000_00000203.jpg"
+        ]
+    },
+    {
+        "front": "There is a group of invertebrate animals called rotifers, among which a particular group of species reproduces, as far as is known, only asexually. These rotifers, however, have survived a long evolutionary history without evidence of having been overcome by excessive mutations. 60) Since the rotifers develop from eggs, but asexually, what can you predict?",
+        "options": [
+            "A) The eggs and the zygotes are all haploid.",
+            "B) The animals are all hermaphrodites.",
+            "C) While asexual, both males and females are found in nature.",
+            "D) All males can produce eggs.",
+            "E) No males can be found."
+        ],
+        "back": "E",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "There is a group of invertebrate animals called rotifers, among which a particular group of species reproduces, as far as is known, only asexually. These rotifers, however, have survived a long evolutionary history without evidence of having been overcome by excessive mutations. 61) Assuming that the eggs are diploid, tetraploid, or partially tetraploid, what mechanism may still occur without fertilization?",
+        "options": [
+            "A) meiosis in each generation",
+            "B) meiosis in every second generation",
+            "C) independent assortment of maternal and paternal chromosomes",
+            "D) meiosis in times of adverse environmental conditions",
+            "E) crossing over of homologs"
+        ],
+        "back": "E",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "There is a group of invertebrate animals called rotifers, among which a particular group of species reproduces, as far as is known, only asexually. These rotifers, however, have survived a long evolutionary history without evidence of having been overcome by excessive mutations. 62) In these asexual rotifers, how does variation occur without meiosis and fertilization?",
+        "options": [
+            "A) The rotifers have evolved a different mechanism to exchange DNA.",
+            "B) Rotifers must produce haploid spores.",
+            "C) Variation is caused by mutation and maintained by selection.",
+            "D) Some rotifers must selectively lose chromosomes.",
+            "E) Rotifers must live only in specialized environments."
+        ],
+        "back": "C",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "63) How is natural selection related to sexual reproduction as opposed to asexual reproduction?",
+        "options": [
+            "A) Sexual reproduction results in many new gene combinations, some of which will lead to differential reproduction.",
+            "B) Sexual reproduction results in the most appropriate and healthiest balance of two sexes in the population.",
+            "C) Sexual reproduction results in the greatest number of new mutations.",
+            "D) Sexual reproduction allows the greatest number of offspring to be produced.",
+            "E) Sexual reproduction utilizes far less energy than asexual reproduction."
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "64) A human cell containing 22 autosomes and a Y chromosome is",
+        "options": [
+            "A) a sperm.",
+            "B) an egg.",
+            "C) a zygote.",
+            "D) a somatic cell of a male.",
+            "E) a somatic cell of a female."
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "65) Which life cycle stage is found in plants but not animals?",
+        "options": [
+            "A) gamete",
+            "B) zygote",
+            "C) multicellular diploid",
+            "D) multicellular haploid",
+            "E) unicellular diploid"
+        ],
+        "back": "D",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "66) Homologous chromosomes move toward opposite poles of a dividing cell during",
+        "options": [
+            "A) mitosis.",
+            "B) meiosis I.",
+            "C) meiosis II.",
+            "D) fertilization.",
+            "E) binary fission."
+        ],
+        "back": "B",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "67) Meiosis II is similar to mitosis in that",
+        "options": [
+            "A) sister chromatids separate during anaphase.",
+            "B) DNA replicates before the division.",
+            "C) the daughter cells are diploid.",
+            "D) homologous chromosomes synapse.",
+            "E) the chromosome number is reduced."
+        ],
+        "back": "A",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "68) If the DNA content of a diploid cell in the G₁ phase of the cell cycle is x, then the DNA content of the same cell at metaphase of meiosis I would be",
+        "options": [
+            "A) 0.25x.",
+            "B) 0.5x.",
+            "C) x.",
+            "D) 2x.",
+            "E) 4x."
+        ],
+        "back": "D",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "69) If the DNA content of a diploid cell in the G₁ phase of the cell cycle is x, then the DNA content of a single cell at metaphase of meiosis II would be",
+        "options": [
+            "A) 0.25x.",
+            "B) 0.5x.",
+            "C) x.",
+            "D) 2x.",
+            "E) 4x."
+        ],
+        "back": "C",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    },
+    {
+        "front": "70) How many different combinations of maternal and paternal chromosomes can be packaged in gametes made by an organism with a diploid number of 8(2n = 8)?",
+        "options": [
+            "A) 2",
+            "B) 4",
+            "C) 8",
+            "D) 16",
+            "E) 32"
+        ],
+        "back": "D",
+        "unit": "Unit 13",
+        "chapter": "Chapter 13",
+        "images": []
+    }
+]

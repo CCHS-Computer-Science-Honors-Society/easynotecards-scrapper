@@ -1,0 +1,1417 @@
+[
+    {
+        "front": "1) Innate immunity",
+        "options": [
+            "A) is activated immediately upon infection.",
+            "B) depends on a newly infected animal's previous exposure to the same pathogen.",
+            "C) is based on recognition of antigens that are specific to different pathogens.",
+            "D) is found only in vertebrate animals.",
+            "E) utilizes highly specific antigen receptors on B cells."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "2) Acidity in human urine is an example of",
+        "options": [
+            "A) cell-mediated immune responses.",
+            "B) antibody activation.",
+            "C) acquired immunity.",
+            "D) adaptive immunity.",
+            "E) innate immunity."
+        ],
+        "back": "E",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "3) A fruit fly, internally infected by a potentially pathogenic fungus, is protected by",
+        "options": [
+            "A) its plasma cells.",
+            "B) its immunoglobulins.",
+            "C) its antibodies.",
+            "D) its antimicrobial peptides.",
+            "E) its B cells."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "4) Engulfing-phagocytic cells of innate immunity include all of the following except",
+        "options": [
+            "A) neutrophils.",
+            "B) macrophages.",
+            "C) dendritic cells.",
+            "D) natural killer cells."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "5) The lymphatic fluid",
+        "options": [
+            "A) is a filtrate of the blood, as is urine.",
+            "B) is completely separate from the circulatory system for blood.",
+            "C) carries both red and white blood cells.",
+            "D) functions in adaptive immunity but not in innate immunity.",
+            "E) carries a toxic gas that kills cancerous cells."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "6) An inflammation-causing signal released by mast cells at the site of an infection is",
+        "options": [
+            "A) an interferon.",
+            "B) lymphatic fluid.",
+            "C) histamine.",
+            "D) mucus.",
+            "E) sodium ions."
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "7) A systemic inflammatory response that is often life-threatening is",
+        "options": [
+            "A) mild fever.",
+            "B) aches and dull pain.",
+            "C) septic shock.",
+            "D) high blood pressure.",
+            "E) increased white blood cell count."
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "8) The eyes and the respiratory tract are both protected against infections by",
+        "options": [
+            "A) the mucous membranes that cover their surface.",
+            "B) the secretion of complement proteins.",
+            "C) the release of slightly alkaline secretions.",
+            "D) the secretion of lysozyme onto their surfaces.",
+            "E) interferons produced by immune cells."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "9) Salmonella bacterial poisoning can be initiated when",
+        "options": [
+            "A) the microbe survives the acidic environment of the stomach and resists lysosomal degradation in macrophages.",
+            "B) the chemotactic messengers released by the microbe do not attract sufficient neutrophils to entirely destroy the infection.",
+            "C) there is a delay in selection of the population of eosinophils that recognize and fight these microbes.",
+            "D) the microbes release chemical messengers that make them resistant to phagocytosis.",
+            "E) The combination of foods eaten at the meal reduces the pH of the stomach sufficiently so that ingested microbes are not destroyed."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "10) The complement system is",
+        "options": [
+            "A) a set of proteins involved in innate but not acquired immunity.",
+            "B) a set of proteins secreted by cytotoxic T cells and other CD8 cells.",
+            "C) a group of proteins that includes interferons and interleukins.",
+            "D) a group of antimicrobial proteins that act together in a cascade fashion.",
+            "E) a set of proteins that act individually to attack and lyse microbes."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "11) Antihistamine treatment reduces",
+        "options": [
+            "A) blood vessel dilation.",
+            "B) phagocytosis of antigens.",
+            "C) MHC presentation by macrophages.",
+            "D) the secondary immune response.",
+            "E) clonal selection by antigens."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "12) Cave art by early humans recognized the existence of the major signs of inflammation. The most inclusive set of symptoms of inflammation that might appear in such early human art is",
+        "options": [
+            "A) heat, pain, and redness.",
+            "B) pain and whitening of the surrounding tissue.",
+            "C) swelling and pain.",
+            "D) antibody-producing cells.",
+            "E) swelling, heat, redness, and pain."
+        ],
+        "back": "E",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "13) Ancient peoples sought to identify the indicators of inflammation because",
+        "options": [
+            "A) seeing such signs would be cause for their seeking out a healer in their community.",
+            "B) the presence of the signs of inflammation in a patient could be a condemnation of the healer.",
+            "C) the ancients probably knew of plant derivatives that could reduce the pain of inflammation.",
+            "D) the presence of these signs suggests that healing was taking place; otherwise, the patient would likely die.",
+            "E) the signs of inflammation served as a caution to keep people away from the patient."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "14) The cells and signaling molecules that initiate inflammatory responses are",
+        "options": [
+            "A) the phagocytes and the lysozymes.",
+            "B) the phagocytes and the chemokines.",
+            "C) the dendritic cells and the interferons.",
+            "D) the mast cells and the histamines.",
+            "E) the lymphocytes and the interferons."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "15) Inflammatory responses typically include",
+        "options": [
+            "A) clotting proteins migrating away from the site of infection.",
+            "B) increased activity of phagocytes in an inflamed area.",
+            "C) reduced permeability of blood vessels to conserve plasma.",
+            "D) release of substances to decrease the blood supply to an inflamed area.",
+            "E) inhibiting the release of white blood cells from bone marrow."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "16) Bacteria entering the body through a small cut in the skin",
+        "options": [
+            "A) inactivate the erythrocytes.",
+            "B) stimulate apoptosis of nearby body cells.",
+            "C) stimulate release of interferons.",
+            "D) stimulate natural killer cell activity.",
+            "E) activate a group of proteins called complement."
+        ],
+        "back": "E",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "17) An invertebrate, such as an insect, has innate immunity activity in its intestine that likely includes",
+        "options": [
+            "A) complement.",
+            "B) lysozyme.",
+            "C) mucus.",
+            "D) neutrophils.",
+            "E) dendritic cells."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "18) In some insects, such as Drosophila, fungal cell wall elements can activate the protein Toll, which",
+        "options": [
+            "A) acts as a receptor that, when activated, signals synthesis of antimicrobial peptides.",
+            "B) functions directly to attack the fungi presented to it.",
+            "C) produces antimicrobial peptides by interaction with chitin.",
+            "D) secretes special recognition signal molecules that identify specific pathogens.",
+            "E) causes some hemocytes to phagocytize the pathogens."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "19) Mammals have Toll-like receptors (TLRs) that can recognize a kind of macromolecule that is absent from vertebrates but present in/on certain groups of pathogens, including viral",
+        "options": [
+            "A) lipopolysaccharides.",
+            "B) double-stranded DNA.",
+            "C) double-stranded RNA.",
+            "D) glycoproteins.",
+            "E) phospholipids."
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "20) Histamines trigger dilation of nearby blood vessels as well as an increase in their permeability, producing",
+        "options": [
+            "A) redness and heat only.",
+            "B) swelling only.",
+            "C) pain.",
+            "D) redness, heat, and swelling.",
+            "E) all of the signs of a major infection."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "21) Septic shock, a systemic response including high fever and low blood pressure, is a response to",
+        "options": [
+            "A) certain bacterial infections.",
+            "B) specific forms of viruses.",
+            "C) the presence of natural killer cells.",
+            "D) a fever of >103°F in adults.",
+            "E) increased production of neutrophils."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "22) Infection by a bacterium that has elements on its surface that enhance its resistance to lysozyme will likely result in",
+        "options": [
+            "A) destruction of the bacterium by NK cells.",
+            "B) successful reproduction of the bacterium and continued progression of the disease.",
+            "C) removal of the bacterium by dendritic cells and its concentration in lymph nodes.",
+            "D) the infected individual's humoral immunity becoming the only route of infection response.",
+            "E) lymphocytes migrating from the thymus to attack the bacterium."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "23) Adaptive immunity depends on",
+        "options": [
+            "A) traits common to groups of pathogens.",
+            "B) pathogen-specific recognition.",
+            "C) maternal provision of antibodies to offspring.",
+            "D) plants being exposed to new pathogens.",
+            "E) having exhausted all options for innate immunity responses."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "24) Bacterial infection in a previously uninfected house cat would most quickly activate its",
+        "options": [
+            "A) Toll-like receptors that bind to lipopolysaccharides.",
+            "B) memory cells to produce antibodies.",
+            "C) plasma cells to produce antigens.",
+            "D) cytotoxic T cells.",
+            "E) humoral immune responses."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "25) A key part of the humoral immune response is",
+        "options": [
+            "A) the attack of cytotoxic T cells on infected host cells.",
+            "B) the production of antibodies by plasma cells.",
+            "C) perforation of infected host cells by perforin.",
+            "D) the attack of phagocytes on living pathogens.",
+            "E) the initiation of programmed cell death in infected host cells."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "26) The receptors on T cells and B cells bind to",
+        "options": [
+            "A) antibodies.",
+            "B) antigens.",
+            "C) natural killer cells.",
+            "D) double-stranded RNA.",
+            "E) immunoglobulins."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "27) An epitope is",
+        "options": [
+            "A) part of the interferons that penetrate foreign cells.",
+            "B) a protein protruding from the surface of B cells.",
+            "C) two structurally similar antibodies dissolved in the blood plasma.",
+            "D) that part of an antigen that actually binds to an antigen receptor.",
+            "E) a mirror image of an antigen."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "28) B cells have antigen receptors that bind to antigens that are either freely dissolved or present on the surface of invading/foreign cells. T cells have antigen receptors that",
+        "options": [
+            "A) are active only in lymph nodes.",
+            "B) bind only to antigens present on the surface of the invading/foreign cells.",
+            "C) bind only to freely dissolved antigens in the plasma.",
+            "D) bind to antigens presented on major histocompatability complexes by host cells.",
+            "E) bind to antigens that are either freely dissolved or present on the surface of invading/foreign cells."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "29) Within a differentiated B cell, the rearrangement of DNA sequences between variable regions and joining regions is accomplished by",
+        "options": [
+            "A) polyadenylase.",
+            "B) RNA polymerase.",
+            "C) reverse transcriptase.",
+            "D) epitopase.",
+            "E) recombinase."
+        ],
+        "back": "E",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "30) Clonal selection of B cells activated by antigen exposure leads to production of",
+        "options": [
+            "A) large numbers of neutrophils.",
+            "B) large quantities of the antigen initially recognized.",
+            "C) vast numbers of B cells with random antigen-recognition receptors.",
+            "D) long-lived erythrocytes that can later secrete antibodies for the antigen.",
+            "E) short-lived plasma cells that secrete antibodies for the antigen."
+        ],
+        "back": "E",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "31) Antigens are",
+        "options": [
+            "A) proteins found in the blood that cause foreign blood cells to clump.",
+            "B) proteins embedded in B cell membranes.",
+            "C) proteins that consist of two light and two heavy polypeptide chains.",
+            "D) foreign molecules that trigger the generation of antibodies.",
+            "E) proteins released during an inflammatory response."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "32) A newborn who is accidentally given a drug that destroys the thymus would most likely",
+        "options": [
+            "A) lack class I MHC molecules on cell surfaces.",
+            "B) lack humoral immunity.",
+            "C) be unable to genetically rearrange antigen receptors.",
+            "D) be unable to differentiate and mature T cells.",
+            "E) have a reduced number of B cells and be unable to form antibodies."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "33) Clonal selection implies that",
+        "options": [
+            "A) brothers and sisters have similar immune responses.",
+            "B) antigens increase mitosis in specific lymphocytes.",
+            "C) only certain cells can produce interferon.",
+            "D) a B cell has multiple types of antigen receptors.",
+            "E) the body selects which antigens it will respond to."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "34) Clonal selection is an explanation for how",
+        "options": [
+            "A) a single type of stem cell can produce both red blood cells and white blood cells.",
+            "B) V, J, and C gene segments are rearranged.",
+            "C) an antigen can provoke production of high levels of specific antibodies.",
+            "D) HIV can disrupt the immune system.",
+            "E) macrophages can recognize specific T cells and B cells."
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "35) Secondary immune responses upon a second exposure to a pathogen are due to the activation of",
+        "options": [
+            "A) memory cells.",
+            "B) macrophages.",
+            "C) stem cells.",
+            "D) B cells.",
+            "E) T cells."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "36) The MHC is important in a T cell's ability to",
+        "options": [
+            "A) distinguish self from nonself.",
+            "B) recognize specific parasitic pathogens.",
+            "C) identify specific bacterial pathogens.",
+            "D) identify specific viruses.",
+            "E) recognize differences among types of cancer."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "37) A patient who can produce antibodies against some bacterial pathogens, but not against viral infections, probably has a disorder in his",
+        "options": [
+            "A) B cells.",
+            "B) plasma cells.",
+            "C) natural killer cells.",
+            "D) T cells.",
+            "E) macrophages."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "38) The activation of helper T cells is likely",
+        "options": [
+            "A) when an antigen is displayed by a dendritic cell.",
+            "B) when a cytotoxic T cell releases cytokines.",
+            "C) when natural killer (NK) cells come in contact with a tumor cell.",
+            "D) in the bone marrow during the self-tolerance test.",
+            "E) when B cells respond to T-independent antigens."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "39) An immunoglobulin (Ig) molecule, of whatever class, with regions symbolized as C or V, H or L, has a light chain made up of",
+        "options": [
+            "A) one C region and one V region.",
+            "B) three C regions and one V region.",
+            "C) one H region and one L region.",
+            "D) three H regions and one L region.",
+            "E) two C regions and two V regions."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "40) The ability of one person to produce over a million different antibody molecules does not require over a million different genes; rather, this wide range of antibody production is due to",
+        "options": [
+            "A) alternative splicing of exons after transcription.",
+            "B) increased rate of mutation in the RNA molecules.",
+            "C) DNA rearrangements.",
+            "D) rearrangements of cytosolic proteins in the thymus cells.",
+            "E) crossing over between the light and heavy chains of each antibody molecule during meiosis I."
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "41) Immunological memory accounts for",
+        "options": [
+            "A) the human body's ability to distinguish self from nonself.",
+            "B) the observation that some strains of the pathogen that causes dengue fever cause worse disease than others.",
+            "C) the ability of a helper T cell to signal B cells via cytokines.",
+            "D) the ancient observation that someone who had recovered from the plague could safely care for those newly diseased.",
+            "E) the ability of the immune system to present antigen fragments in association with MHC antigens."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "42) The function of antibodies is to",
+        "options": [
+            "A) inject toxins into living pathogens.",
+            "B) secrete cytokines that attract macrophages to infection sites.",
+            "C) release perforins to disrupt infected cells.",
+            "D) act as Toll-like receptors.",
+            "E) mark pathogenic cells for destruction."
+        ],
+        "back": "E",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "43) This type of immunity is present only when a newborn infant is being fed by actively nursing on its mother and ends when nursing ends.",
+        "options": [
+            "A) innate immunity",
+            "B) active immunity",
+            "C) passive immunity",
+            "D) cell-mediated immunity",
+            "E) adaptive immunity"
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "44) Yearly vaccination of humans for influenza viruses is necessary because",
+        "options": [
+            "A) of an increase in immunodeficiency diseases.",
+            "B) flu can generate anaphylactic shock.",
+            "C) surviving the flu one year exhausts the immune system to nonresponsiveness the second year.",
+            "D) rapid mutation in flu viruses alters the surface proteins in infected host cells.",
+            "E) flu leads to autoimmune disorders."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "45) The cell-mediated immunity that destroys virally infected cells involves",
+        "options": [
+            "A) cytotoxic T cells.",
+            "B) natural killer cells.",
+            "C) helper T cells.",
+            "D) macrophages.",
+            "E) B cells."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "46) Which of the following cells are involved in cell-mediated immunity and also respond to class I MHC molecule-antigen complexes?",
+        "options": [
+            "A) cytotoxic T cells",
+            "B) natural killer cells",
+            "C) helper T cells",
+            "D) macrophages",
+            "E) B cells"
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "47) The cells involved in innate immunity, whose absence increases the chances of developing malignant tumors, are",
+        "options": [
+            "A) cytotoxic T cells.",
+            "B) natural killer cells.",
+            "C) helper T cells.",
+            "D) macrophages.",
+            "E) B cells."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "48) Select the pathway that would lead to the activation of cytotoxic T cells.",
+        "options": [
+            "A) B cell contact antigen → helper T cell is activated → clonal selection occurs",
+            "B) body cell becomes infected with a virus → new viral proteins appear → class I MHC molecule-antigen complex displayed on cell surface",
+            "C) self-tolerance of immune cells → B cells contact antigen → cytokines released",
+            "D) complement is secreted → B cell contacts antigen → helper T cell activated → cytokines released",
+            "E) cytotoxic T cells → class II MHC molecule-antigen complex displayed → cytokines released → cell lysis"
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "49) Among the last line of defenses against prolonged exposure to an extracellular pathogen is",
+        "options": [
+            "A) lysozyme production.",
+            "B) phagocytosis by neutrophils.",
+            "C) antibody production by plasma cells.",
+            "D) histamine release by basophils.",
+            "E) lysis by natural killer cells."
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "50) Arrange these components of the mammalian immune system as it first responds to a pathogen in the correct sequence. I. Pathogen is destroyed. II. Lymphocytes secrete antibodies. III. Antigenic determinants from pathogen bind to antigen receptors on lymphocytes. IV. Lymphocytes specific to antigenic determinants from pathogen become numerous. V. Only memory cells remain.",
+        "options": [
+            "A) I → III → II → IV → V",
+            "B) III → II → I → V → IV",
+            "C) II → I → IV → III → V",
+            "D) IV → II → III → I → V",
+            "E) III → IV → II → I → V"
+        ],
+        "back": "E",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "51) A cell type that interacts with both the humoral and cell-mediated immune pathways is a",
+        "options": [
+            "A) plasma cell.",
+            "B) cytotoxic T cell.",
+            "C) natural killer cell.",
+            "D) CD8 cell.",
+            "E) helper T cell."
+        ],
+        "back": "E",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "52) A nonfunctional CD4 protein on a helper T cell would result in the helper T cell being unable to",
+        "options": [
+            "A) respond to T-independent antigens.",
+            "B) lyse tumor cells.",
+            "C) stimulate a cytotoxic T cell.",
+            "D) interact with a class I MHC-antigen complex.",
+            "E) interact with a class II MHC-antigen complex."
+        ],
+        "back": "E",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "53) CD4 and CD8 are",
+        "options": [
+            "A) proteins secreted by antigen-presenting cells.",
+            "B) receptors present on the surface of natural killer (NK) cells.",
+            "C) T-independent antigens.",
+            "D) molecules present on the surface of T cells where they interact with MHC molecules.",
+            "E) molecules on the surface of antigen-presenting cells where they enhance B cell activity."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "54) T cells of the immune system include",
+        "options": [
+            "A) CD4, CD8, and plasma cells.",
+            "B) cytotoxic and helper cells.",
+            "C) plasma, antigen-presenting, and memory cells.",
+            "D) lymphocytes, macrophages, and dendritic cells.",
+            "E) class I MHC, class II MHC, and memory cells."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "55) B cells interacting with helper T cells are stimulated to differentiate when",
+        "options": [
+            "A) B cells produce IgE antibodies.",
+            "B) B cells release cytokines.",
+            "C) helper T cells present the class II MHC molecule-antigen complex on their surface.",
+            "D) helper T cells differentiate into cytotoxic T cells.",
+            "E) helper T cells release cytokines."
+        ],
+        "back": "E",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "56) Normal immune responses can be described as polyclonal because",
+        "options": [
+            "A) blood contains many different antibodies and antigens.",
+            "B) construction of a hybridoma requires multiple types of cells.",
+            "C) multiple immunoglobulins are produced from descendants of a single B cell.",
+            "D) diverse antibodies are produced for different epitopes of a specific antigen.",
+            "E) macrophages, T cells, and B cells all are involved in a normal immune response."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "57) Antibodies of the different classes IgM, IgG, IgA, IgD, and IgE differ from each other",
+        "options": [
+            "A) in the way they are produced.",
+            "B) in their heavy-chain structure.",
+            "C) in the type of cell that produces them.",
+            "D) by the antigenic determinants that they recognize.",
+            "E) by the number of carbohydrate subunits they have."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "58) When antibodies bind antigens, the clumping of antigens results from",
+        "options": [
+            "A) the multivalence of the antibody having at least two binding regions.",
+            "B) disulfide bridges between the antigens.",
+            "C) complement that makes the affected cells sticky.",
+            "D) bonds between class I and class II MHC molecules.",
+            "E) denaturation of the antibodies."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "59) Phagocytosis of microbes by macrophages is enhanced by",
+        "options": [
+            "A) the binding of antibodies to the surface of microbes.",
+            "B) antibody-mediated agglutination of microbes.",
+            "C) the release of cytokines by activated B cells.",
+            "D) the binding of antibodies to the surface of microbes and antibody-mediated agglutination of microbes only.",
+            "E) the binding of antibodies to the surface of microbes, antibody-mediated agglutination of microbes, and the release of cytokines by activated B cells."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "60) The primary function of humoral immunity is",
+        "options": [
+            "A) to defend against fungi and protozoa.",
+            "B) to reject transplanted tissues.",
+            "C) to protect the body against cells that become cancerous.",
+            "D) to protect the body against extracellular pathogens.",
+            "E) to defend against bacteria and viruses that have already infected cells."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "61) Naturally acquired passive immunity results from the",
+        "options": [
+            "A) injection of vaccine.",
+            "B) ingestion of interferon.",
+            "C) placental transfer of antibodies.",
+            "D) absorption of pathogens through mucous membranes.",
+            "E) injection of antibodies."
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "62) In active immunity, but not passive immunity, there is",
+        "options": [
+            "A) acquisition and activation of antibodies.",
+            "B) proliferation of lymphocytes in bone marrow.",
+            "C) the transfer of antibodies from the mother across the placenta.",
+            "D) the requirement for direct exposure to a living or simulated pathogen.",
+            "E) the requirement of secretion of interleukins from macrophages."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "63) Jenner's successful use of cowpox virus as a vaccine against the smallpox virus is due to the fact that",
+        "options": [
+            "A) the immune system responds nonspecifically to antigens.",
+            "B) the cowpox virus made antibodies in response to the presence of smallpox.",
+            "C) cowpox and smallpox are antibodies with similar immunizing properties.",
+            "D) there are some antigenic determinants common to both pox viruses.",
+            "E) cowpox and smallpox are caused by the same virus."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "64) An individual who has been bitten by a poisonous snake that has a fast-acting toxin would likely benefit from",
+        "options": [
+            "A) vaccination with a weakened form of the toxin.",
+            "B) injection of antibodies to the toxin.",
+            "C) injection of interleukin-1.",
+            "D) injection of interleukin-2.",
+            "E) injection of interferon."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "65) For the successful development of a vaccine to be used against a pathogen, it is necessary that",
+        "options": [
+            "A) the surface antigens of the pathogen not change.",
+            "B) a rearrangement of the B cell receptor antibodies takes place.",
+            "C) all of the surface antigens on the pathogen be identified.",
+            "D) the pathogen has only one epitope.",
+            "E) the MHC molecules are heterozygous."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "66) A diseased patient is exposed to an unknown agent while out of the country. The patient's blood is found to have a high proportion of lymphocytes with CD8 surface proteins in her blood, a likely result of",
+        "options": [
+            "A) the patient having encountered a bacterial infection which elicited CD8+ T cells.",
+            "B) the disease having been caused by a multicellular parasite, such as can be encountered in polluted water sources.",
+            "C) the CD8 proteins having been discharged from these lymphocytes to lyse the infected cells.",
+            "D) a viral infection eliciting proliferation of CD8+ cytotoxic T cells.",
+            "E) the CD8 proteins having \"marked\" the surface of cells that accumulate after the infection is over and signal patient recovery."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "67) The switch of one B cell from producing one class of antibody to another antibody class that is responsive to the same antigen is due to",
+        "options": [
+            "A) mutation in the genes of that B cell, induced by exposure to the antigen.",
+            "B) the rearrangement of V region genes in that clone of responsive B cells.",
+            "C) a switch in the kind of antigen-presenting cell that is involved in the immune response.",
+            "D) a patient's reaction to the first kind of antibody made by the plasma cells.",
+            "E) the rearrangement of immunoglobulin heavy-chain C region DNA."
+        ],
+        "back": "E",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "68) The number of MHC protein combinations possible in a given population is enormous. However, an individual in that diverse population has a far more limited array of MHC molecules because",
+        "options": [
+            "A) the MHC proteins are made from several different gene regions that are capable of rearranging in a number of ways.",
+            "B) MHC proteins from one individual can only be of class I or class II.",
+            "C) each of the MHC genes has a large number of alleles, but each individual only inherits two for each gene.",
+            "D) once a B cell has matured in the bone marrow, it is limited to two MHC response categories.",
+            "E) once a T cell has matured in the thymus, it can only respond to two MHC categories."
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "69) A bone marrow transplant may not be appropriate from a given donor (Jane) to a given recipient (Jane's cousin Bob), even though Jane has previously given blood for one of Bob's needed transfusions, because",
+        "options": [
+            "A) even though Jane's blood type is a match to Bob's, her MHC proteins may not be a match.",
+            "B) a blood type match is less stringent than a match required for transplant because blood is more tolerant of change.",
+            "C) for each gene, there is only one blood allele but many tissue alleles.",
+            "D) Jane's class II genes are not expressed in bone marrow.",
+            "E) Bob's immune response has been made inadequate before he receives the transplant."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "70) Infection with HIV typically",
+        "options": [
+            "A) increases the level of helper T cells for the first year after infection.",
+            "B) eliminates all T cells immediately.",
+            "C) leads to an immediate decrease in the number of HIV in the blood.",
+            "D) alters mitochondrial but not genomic DNA sequences.",
+            "E) is found in B cells but not in T cells."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "71) The transfusion of type A blood to a person who has type O blood would result in",
+        "options": [
+            "A) the recipient's B antigens reacting with the donated anti-B antibodies.",
+            "B) the recipient's anti-A antibodies clumping the donated red blood cells.",
+            "C) the recipient's anti-A and anti-O antibodies reacting with the donated red blood cells if the donor was a heterozygote (Ai) for blood type.",
+            "D) no reaction because type O is a universal donor.",
+            "E) no reaction because the O-type individual does not have antibodies."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "72) An immune response to a tissue graft will differ from an immune response to a bacterium because",
+        "options": [
+            "A) MHC molecules of the donor may stimulate rejection of the graft tissue, but bacteria lack MHC molecules.",
+            "B) the tissue graft, unlike the bacterium, is isolated from the circulation and will not enter into an immune response.",
+            "C) a response to the graft will involve B cells and a response to the bacterium will not.",
+            "D) a bacterium cannot escape the immune system by replicating inside normal body cells.",
+            "E) the graft will stimulate an autoimmune response in the recipient."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "73) In the human disease known as lupus, there is an immune reaction against a patient's own DNA from broken or dying cells, which categorizes lupus as",
+        "options": [
+            "A) an allergy.",
+            "B) an immunodeficiency.",
+            "C) an autoimmune disease.",
+            "D) an antigenic variation.",
+            "E) a cancer."
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "74) A patient who undergoes a high level of mast cell degranulation, dilation of blood vessels, and acute drop in blood pressure is likely suffering from",
+        "options": [
+            "A) an autoimmune disease.",
+            "B) a typical allergy that can be treated by antihistamines.",
+            "C) an organ transplant, such as a skin graft.",
+            "D) the effect of exhaustion on the immune system.",
+            "E) anaphylactic shock immediately following exposure to an allergen."
+        ],
+        "back": "E",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "75) An example of a pathogen that undergoes rapid changes resulting in antigenic variation is",
+        "options": [
+            "A) the influenza virus, which expresses alternative envelope proteins.",
+            "B) the strep bacteria, which can be communicated from patient to patient with high efficiency.",
+            "C) human papilloma virus, which can remain latent for several years.",
+            "D) the causative agent of the autoimmune disease known as rheumatoid arthritis.",
+            "E) multiple sclerosis, which attacks the myelinated cells of the nervous system."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "76) The ability of some viruses to remain inactive (latent) for a period of time is exemplified by",
+        "options": [
+            "A) influenza, a particular strain of which returns every 10-20 years.",
+            "B) herpes simplex viruses (oral or genital) whose reproduction is triggered by physiological or emotional stress in the host.",
+            "C) Kaposi's sarcoma, which causes a skin cancer in people with AIDS, but rarely in those not infected by HIV.",
+            "D) the virus that causes a form of the common cold, which recurs in patients many times in their lives.",
+            "E) myasthenia gravis, an autoimmune disease that blocks muscle contraction from time to time."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "77) Most newly emerging diseases result in",
+        "options": [
+            "A) greater severity as there are more and more occurrences of the infection.",
+            "B) major pandemics, spreading the infection far and wide in the population.",
+            "C) the waning of the disease, due to evolutionary selection for resistant hosts and milder pathogens.",
+            "D) a destruction of the host's immune system and eventual cancer.",
+            "E) no discoverable relationship with other pathogens in the same or related species."
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "78) Preventing the appearance of the symptoms of an allergy attack would be the likely result of",
+        "options": [
+            "A) blocking the attachment of the IgE antibodies to the mast cells.",
+            "B) blocking the antigenic determinants of the IgM antibodies.",
+            "C) reducing the number of helper T cells in the body.",
+            "D) reducing the number of cytotoxic cells.",
+            "E) reducing the number of natural killer cells."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "79) A patient complaining of watery, itchy eyes and sneezing after being given a flower bouquet as a birthday gift should first be treated with",
+        "options": [
+            "A) a vaccine.",
+            "B) complement.",
+            "C) sterile pollen.",
+            "D) antihistamines.",
+            "E) monoclonal antibodies."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "80) A patient who has a parasitic worm infection and another patient responding to an allergen such as ragweed pollen have which of the following in common?",
+        "options": [
+            "A) an increase in cytotoxic T cell number",
+            "B) suffering from anaphylactic shock",
+            "C) risking development of an autoimmune disease",
+            "D) suffering from a decreased level of innate immunity",
+            "E) an increase in the levels of IgE"
+        ],
+        "back": "E",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "Mutant fruit flies that make only one antimicrobial peptide were tested for survival after infection with Neurospora crassa fungi or with Micrococcus luteus bacteria. 81) The results shown in the graphs support the hypothesis that",
+        "options": [
+            "A) adding the defensin gene to such mutants protects them from fungal infection.",
+            "B) adding the drosomycin gene to such mutants protects them from fungal infection.",
+            "C) wild-type flies with the full set of genes for antimicrobial peptides are highly susceptible to these infective agents.",
+            "D) the presence of any single antimicrobial peptide protects against both infective agents.",
+            "E) even the wild-type flies rarely, if ever, survive for five days."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": [
+            "https://web.archive.org/web/20170801143000im_/https://www.easynotecards.com/uploads/437/62/_39367d51_13ab9201884__8000_00000155.jpg"
+        ]
+    },
+    {
+        "front": "82) According to the graph, naive B cells will produce effector cells",
+        "options": [
+            "A) between 0 and 7 days.",
+            "B) between 7 and 14 days.",
+            "C) between 28 and 35 days.",
+            "D) between 0 and 7 days and between 7 and 14 days.",
+            "E) between 0 and 7 days and between 28 and 35 days."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": [
+            "https://web.archive.org/web/20170801143000im_/https://www.easynotecards.com/uploads/438/63/_39367d51_13ab9201884__8000_00000156.jpg"
+        ]
+    },
+    {
+        "front": "83) According to the graph, naive memory cells will be produced",
+        "options": [
+            "A) between 0 and 7 days.",
+            "B) between 7 and 14 days.",
+            "C) between 28 and 35 days.",
+            "D) between 35 and 42 days.",
+            "E) both between 0 and 7 days and between 28 and 35 days."
+        ],
+        "back": "E",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": [
+            "https://web.archive.org/web/20170801143000im_/https://www.easynotecards.com/uploads/438/63/_39367d51_13ab9201884__8000_00000156.jpg"
+        ]
+    },
+    {
+        "front": "84) According to the graph, antibodies will be produced",
+        "options": [
+            "A) between 3 and 7 days.",
+            "B) between 14 and 21 days.",
+            "C) between 28 and 35 days.",
+            "D) between 14 and 21 days and between 42 and 56 days.",
+            "E) both between 3 and 7 days and between 28 and 35 days."
+        ],
+        "back": "E",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": [
+            "https://web.archive.org/web/20170801143000im_/https://www.easynotecards.com/uploads/438/63/_39367d51_13ab9201884__8000_00000156.jpg"
+        ]
+    },
+    {
+        "front": "85) Study the table. The mother could exhibit an anti-Rh-factor reaction to the developing fetus in",
+        "options": [
+            "A) Case 1 only.",
+            "B) Case 3 only.",
+            "C) Cases 1 and 2 only.",
+            "D) Cases 1, 2, and 3.",
+            "E) It cannot be determined from the data given."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": [
+            "https://web.archive.org/web/20170801143000im_/https://www.easynotecards.com/uploads/441/66/_39367d51_13ab9201884__8000_00000159.jpg"
+        ]
+    },
+    {
+        "front": "86) In Cases 1 and 2 in the table, the mothers would be able, if needed, to supply blood to the newborn even seven to nine months after birth; the same would not be true for Case 3. This is because",
+        "options": [
+            "A) the fetus in Case 3 would provoke an immune response in the mother that would carry over after the birth.",
+            "B) the newborn in Case 3 would soon be able to make antibodies to the B antigen of the mother.",
+            "C) newborn children, until about age 2, do not make appreciable antibodies, except against Rh+ antigen.",
+            "D) passive immunity would have worn off for the third newborn, but not for the other two.",
+            "E) this difference is based on which of the mothers has been nursing her children, not on blood antigens."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": [
+            "https://web.archive.org/web/20170801143000im_/https://www.easynotecards.com/uploads/441/66/_39367d51_13ab9201884__8000_00000159.jpg"
+        ]
+    },
+    {
+        "front": "87) Study the table. Giving the mother anti-Rh antibodies before delivering her baby would be a wise precaution in",
+        "options": [
+            "A) Case 1 only.",
+            "B) Case 3 only.",
+            "C) Cases 1 and 2 only.",
+            "D) Cases 1, 2, and 3.",
+            "E) It cannot be determined from the data given."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": [
+            "https://web.archive.org/web/20170801143000im_/https://www.easynotecards.com/uploads/441/66/_39367d51_13ab9201884__8000_00000159.jpg"
+        ]
+    },
+    {
+        "front": "88) After a long and cold winter, Jim was excited to start exploring the woods behind his new home. His first adventure included exposure to poison ivy without any reaction. A month later, though, a second walk through the woods was not so great, since two days later Jim had a terrible rash that lasted for weeks. The fact that the rash took two days to develop indicates that this immune response was an example of",
+        "options": [
+            "A) humoral immunity.",
+            "B) cell-mediated immunity.",
+            "C) innate immunity.",
+            "D) the activation of Toll-like receptors.",
+            "E) the activation of the complement system."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": [
+            "https://web.archive.org/web/20170801143000im_/https://www.easynotecards.com/uploads/441/66/_39367d51_13ab9201884__8000_00000159.jpg"
+        ]
+    },
+    {
+        "front": "An otherwise healthy student in your class is infected with EBV, the virus that causes infectious mononucleosis. The same student had already been infected when she was a child, at which time she had merely experienced a mild sore throat and swollen lymph nodes in her neck. This time, though infected, she does not get sick. 89) Her immune system's recognition of the second infection involves the",
+        "options": [
+            "A) helper T cells.",
+            "B) memory B cells.",
+            "C) plasma cells.",
+            "D) cytotoxic T cells.",
+            "E) natural killer cells."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "An otherwise healthy student in your class is infected with EBV, the virus that causes infectious mononucleosis. The same student had already been infected when she was a child, at which time she had merely experienced a mild sore throat and swollen lymph nodes in her neck. This time, though infected, she does not get sick. 90) The EBV antigen fragments will be presented by the virus-infected cells along with",
+        "options": [
+            "A) complement.",
+            "B) antibodies.",
+            "C) class I MHC molecules.",
+            "D) class II MHC molecules.",
+            "E) dendritic cells."
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "Immunodeficiencies can be genetic in origin, and two examples are Bruton's agammaglobulinemia, an X-linked disorder, and DiGeorge syndrome, caused by a deletion from chromosome 22. Bruton's disorder results in underdeveloped B cells, whereas DiGeorge syndrome results in a missing or seriously underdeveloped thymus. 91) Select the description that likely indicates a child with Bruton's disease.",
+        "options": [
+            "A) baby girl Denise, with low level of antibody response to streptococcal infection",
+            "B) baby boy John, with immature T cells, missing CD4 receptors",
+            "C) baby boy Jeff, with no plasma cells following infection by bacterial pneumonia",
+            "D) baby girl Susan, with no evidence of a thymus gland",
+            "E) baby boy Matt, with very low circulating antigens"
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "Immunodeficiencies can be genetic in origin, and two examples are Bruton's agammaglobulinemia, an X-linked disorder, and DiGeorge syndrome, caused by a deletion from chromosome 22. Bruton's disorder results in underdeveloped B cells, whereas DiGeorge syndrome results in a missing or seriously underdeveloped thymus. 92) Bruton's disorder will likely include",
+        "options": [
+            "A) the failure of heavy-chain gene rearrangement in B cells.",
+            "B) the failure to incorporate CD4 receptors into cell membranes.",
+            "C) an underexpression of the gene for the β chain of the T cell receptor.",
+            "D) an underexpression of the gene for the CD8 receptor molecule.",
+            "E) the inability of the bone marrow cells to interact with MHC molecules."
+        ],
+        "back": "A",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "Immunodeficiencies can be genetic in origin, and two examples are Bruton's agammaglobulinemia, an X-linked disorder, and DiGeorge syndrome, caused by a deletion from chromosome 22. Bruton's disorder results in underdeveloped B cells, whereas DiGeorge syndrome results in a missing or seriously underdeveloped thymus. 93) Assume that a DGS-like phenotype was produced in a specific \"gene-knockout\" mouse, one lacking expression of HA3, a Hox gene known to be involved in developmental regulation in the mouse. The phenotype of the HA3 knockout can be ascertained by",
+        "options": [
+            "A) a bone marrow biopsy.",
+            "B) an assay for environmental agents known to cause birth defects.",
+            "C) a chest X-ray.",
+            "D) the measurement of the proportion of CD4 cells to total lymphocytes.",
+            "E) an autopsy examination of the adrenal glands."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "94) Which of these is not part of insect immunity?",
+        "options": [
+            "A) enzyme activation of microbe-killing chemicals",
+            "B) activation of natural killer cells",
+            "C) phagocytosis by hemocytes",
+            "D) production of antimicrobial peptides",
+            "E) a protective exoskeleton"
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "95) An epitope associates with which part of an antigen receptor or antibody?",
+        "options": [
+            "A) the disulfide bridge",
+            "B) the heavy-chain constant regions only",
+            "C) variable regions of a heavy chain and light chain combined",
+            "D) the light-chain constant regions only",
+            "E) the tail"
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "96) Which statement best describes the difference in responses of effector B cells (plasma cells) and cytotoxic T cells?",
+        "options": [
+            "A) B cells confer active immunity; cytotoxic T cells confer passive immunity.",
+            "B) B cells kill pathogens directly; cytotoxic T cells kill host cells.",
+            "C) B cells secrete antibodies against a pathogen; cytotoxic T cells kill pathogen-infected host cells.",
+            "D) B cells carry out the cell-mediated response; cytotoxic T cells carry out the humoral response.",
+            "E) B cells respond the first time a pathogen is present; cytotoxic T cells respond subsequent times."
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "97) Which of the following statements is not true?",
+        "options": [
+            "A) An antibody has more than one antigen-binding site.",
+            "B) An antigen can have different epitopes.",
+            "C) A pathogen makes more than one antigen.",
+            "D) A lymphocyte has receptors for multiple different antigens.",
+            "E) A liver cell makes one class of MHC molecule."
+        ],
+        "back": "D",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "98) Which of the following should be the same in identical twins?",
+        "options": [
+            "A) the set of antibodies produced",
+            "B) the set of MHC molecules produced",
+            "C) the set of T cell antigen receptors produced",
+            "D) the susceptibility to a particular virus",
+            "E) the set of immune cells eliminated as self-reactive"
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "99) Vaccination increases the number of",
+        "options": [
+            "A) different receptors that recognize a pathogen.",
+            "B) lymphocytes with receptors that can bind to the pathogen.",
+            "C) epitopes that the immune system can recognize.",
+            "D) macrophages specific for a pathogen.",
+            "E) MHC molecules that can present an antigen."
+        ],
+        "back": "B",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    },
+    {
+        "front": "100) Which of the following would not help a virus avoid triggering an adaptive immune response?",
+        "options": [
+            "A) having frequent mutations in genes for surface proteins",
+            "B) infecting cells that produce very few MHC molecules",
+            "C) producing proteins very similar to those of other viruses",
+            "D) infecting and killing helper T cells",
+            "E) building the viral shell from host proteins"
+        ],
+        "back": "C",
+        "unit": "Unit 43",
+        "chapter": "Chapter 43",
+        "images": []
+    }
+]

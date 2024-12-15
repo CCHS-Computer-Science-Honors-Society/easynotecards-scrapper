@@ -1,0 +1,1182 @@
+[
+    {
+        "front": "1) Which of the following variations on translation would be most disadvantageous for a cell?",
+        "options": [
+            "A) translating polypeptides directly from DNA",
+            "B) using fewer kinds of tRNA",
+            "C) having only one stop codon",
+            "D) lengthening the half-life of mRNA",
+            "E) having a second codon (besides AUG) as a start codon"
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "2) Garrod hypothesized that \"inborn errors of metabolism\" such as alkaptonuria occur because",
+        "options": [
+            "A) metabolic enzymes require vitamin cofactors, and affected individuals have significant nutritional deficiencies.",
+            "B) enzymes are made of DNA, and affected individuals lack DNA polymerase.",
+            "C) many metabolic enzymes use DNA as a cofactor, and affected individuals have mutations that prevent their enzymes from interacting efficiently with DNA.",
+            "D) certain metabolic reactions are carried out by ribozymes, and affected individuals lack key splicing factors.",
+            "E) genes dictate the production of specific enzymes, and affected individuals have genetic defects that cause them to lack certain enzymes."
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "3) Garrod's information about the enzyme alteration resulting in alkaptonuria led to further elucidation of the same pathway in humans. Phenylketonuria (PKU) occurs when another enzyme in the pathway is altered or missing, resulting in a failure of phenylalanine (phe) to be metabolized to another amino acid: tyrosine. Tyrosine is an earlier substrate in the pathway altered in alkaptonuria. How might PKU affect the presence or absence of alkaptonuria?",
+        "options": [
+            "A) It would have no effect, because PKU occurs several steps away in the pathway.",
+            "B) It would have no effect, because tyrosine is also available from the diet.",
+            "C) Anyone with PKU must also have alkaptonuria.",
+            "D) Anyone with PKU is born with a predisposition to later alkaptonuria.",
+            "E) Anyone with PKU has mild symptoms of alkaptonuria."
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "4) The nitrogenous base adenine is found in all members of which group?",
+        "options": [
+            "A) proteins, triglycerides, and testosterone",
+            "B) proteins, ATP, and DNA",
+            "C) ATP, RNA, and DNA",
+            "D) α glucose, ATP, and DNA",
+            "E) proteins, carbohydrates, and ATP"
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "5) A particular triplet of bases in the template strand of DNA is 5' AGT 3'. The corresponding codon for the mRNA transcribed is",
+        "options": [
+            "A) 3' UCA 5'.",
+            "B) 3' UGA 5'.",
+            "C) 5' TCA 3'.",
+            "D) 3' ACU 5'.",
+            "E) either UCA or TCA, depending on wobble in the first base."
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "6) The genetic code is essentially the same for all organisms. From this, one can logically assume which of the following?",
+        "options": [
+            "A) A gene from an organism can theoretically be expressed by any other organism.",
+            "B) All organisms have experienced convergent evolution.",
+            "C) DNA was the first genetic material.",
+            "D) The same codons in different organisms translate into the different amino acids.",
+            "E) Different organisms have different numbers of different types of amino acids."
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "7) The \"universal\" genetic code is now known to have exceptions. Evidence for this can be found if which of the following is true?",
+        "options": [
+            "A) If UGA, usually a stop codon, is found to code for an amino acid such as tryptophan (usually coded for by UGG only).",
+            "B) If one stop codon, such as UGA, is found to have a different effect on translation than another stop codon, such as UAA.",
+            "C) If prokaryotic organisms are able to translate a eukaryotic mRNA and produce the same polypeptide.",
+            "D) If several codons are found to translate to the same amino acid, such as serine.",
+            "E) If a single mRNA molecule is found to translate to more than one polypeptide when there are two or more AUG sites."
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "8) Which of the following nucleotide triplets best represents a codon?",
+        "options": [
+            "A) a triplet separated spatially from other triplets",
+            "B) a triplet that has no corresponding amino acid",
+            "C) a triplet at the opposite end of tRNA from the attachment site of the amino acid",
+            "D) a triplet in the same reading frame as an upstream AUG",
+            "E) a sequence in tRNA at the 3' end"
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "9) Which of the following provides some evidence that RNA probably evolved before DNA?",
+        "options": [
+            "A) RNA polymerase uses DNA as a template.",
+            "B) RNA polymerase makes a single-stranded molecule.",
+            "C) RNA polymerase does not require localized unwinding of the DNA.",
+            "D) DNA polymerase uses primer, usually made of RNA.",
+            "E) DNA polymerase has proofreading function."
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "10) Which of the following statements best describes the termination of transcription in prokaryotes?",
+        "options": [
+            "A) RNA polymerase transcribes through the polyadenylation signal, causing proteins to associate with the transcript and cut it free from the polymerase.",
+            "B) RNA polymerase transcribes through the terminator sequence, causing the polymerase to separate from the DNA and release the transcript.",
+            "C) RNA polymerase transcribes through an intron, and the snRNPs cause the polymerase to let go of the transcript.",
+            "D) Once transcription has initiated, RNA polymerase transcribes until it reaches the end of the chromosome.",
+            "E) RNA polymerase transcribes through a stop codon, causing the polymerase to stop advancing through the gene and release the mRNA."
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "11) Which of the following does not occur in prokaryotic gene expression, but does in eukaryotic gene expression?",
+        "options": [
+            "A) mRNA, tRNA, and rRNA are transcribed.",
+            "B) RNA polymerase binds to the promoter.",
+            "C) A poly-A tail is added to the 3' end of an mRNA and a cap is added to the 5' end.",
+            "D) Transcription can begin as soon as translation has begun even a little.",
+            "E) RNA polymerase requires a primer to elongate the molecule."
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "12) RNA polymerase in a prokaryote is composed of several subunits. Most of these subunits are the same for the transcription of any gene, but one, known as sigma, varies considerably. Which of the following is the most probable advantage for the organism of such sigma switching?",
+        "options": [
+            "A) It might allow the transcription process to vary from one cell to another.",
+            "B) It might allow the polymerase to recognize different promoters under certain environmental conditions.",
+            "C) It could allow the polymerase to react differently to each stop codon.",
+            "D) It could allow ribosomal subunits to assemble at faster rates.",
+            "E) It could alter the rate of translation and of exon splicing."
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "13) Which of the following is a function of a poly-A signal sequence?",
+        "options": [
+            "A) It adds the poly-A tail to the 3' end of the mRNA.",
+            "B) It codes for a sequence in eukaryotic transcripts that signals enzymatic cleavage ~1035 nucleotides away.",
+            "C) It allows the 3' end of the mRNA to attach to the ribosome.",
+            "D) It is a sequence that codes for the hydrolysis of the RNA polymerase.",
+            "E) It adds a 7-methylguanosine cap to the 3' end of the mRNA."
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "14) In eukaryotes there are several different types of RNA polymerase. Which type is involved in transcription of mRNA for a globin protein?",
+        "options": [
+            "A) ligase",
+            "B) RNA polymerase I",
+            "C) RNA polymerase II",
+            "D) RNA polymerase III",
+            "E) primase"
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "15) Transcription in eukaryotes requires which of the following in addition to RNA polymerase?",
+        "options": [
+            "A) the protein product of the promoter",
+            "B) start and stop codons",
+            "C) ribosomes and tRNA",
+            "D) several transcription factors (TFs)",
+            "E) aminoacyl synthetase"
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "16) A part of the promoter, called the TATA box, is said to be highly conserved in evolution. Which of the following might this illustrate?",
+        "options": [
+            "A) The sequence evolves very rapidly.",
+            "B) The sequence does not mutate.",
+            "C) Any mutation in the sequence is selected against.",
+            "D) The sequence is found in many but not all promoters.",
+            "E) The sequence is transcribed at the start of every gene."
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "17) The TATA sequence is found only several nucleotides away from the start site of transcription. This most probably relates to which of the following?",
+        "options": [
+            "A) the number of hydrogen bonds between A and T in DNA",
+            "B) the triplet nature of the codon",
+            "C) the ability of this sequence to bind to the start site",
+            "D) the supercoiling of the DNA near the start site",
+            "E) the 3-D shape of a DNA molecule"
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "18) What is a ribozyme?",
+        "options": [
+            "A) an enzyme that uses RNA as a substrate",
+            "B) an RNA with enzymatic activity",
+            "C) an enzyme that catalyzes the association between the large and small ribosomal subunits",
+            "D) an enzyme that synthesizes RNA as part of the transcription process",
+            "E) an enzyme that synthesizes RNA primers during DNA replication"
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "19) A transcription unit that is 8,000 nucleotides long may use 1,200 nucleotides to make a protein consisting of approximately 400 amino acids. This is best explained by the fact that",
+        "options": [
+            "A) many noncoding stretches of nucleotides are present in mRNA.",
+            "B) there is redundancy and ambiguity in the genetic code.",
+            "C) many nucleotides are needed to code for each amino acid.",
+            "D) nucleotides break off and are lost during the transcription process.",
+            "E) there are termination exons near the beginning of mRNA."
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "20) During splicing, which molecular component of the spliceosome catalyzes the excision reaction?",
+        "options": [
+            "A) protein",
+            "B) DNA",
+            "C) RNA",
+            "D) lipid",
+            "E) sugar"
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "21) Alternative RNA splicing",
+        "options": [
+            "A) is a mechanism for increasing the rate of transcription.",
+            "B) can allow the production of proteins of different sizes from a single mRNA.",
+            "C) can allow the production of similar proteins from different RNAs.",
+            "D) increases the rate of transcription.",
+            "E) is due to the presence or absence of particular snRNPs."
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "22) In the structural organization of many eukaryotic genes, individual exons may be related to which of the following?",
+        "options": [
+            "A) the sequence of the intron that immediately precedes each exon",
+            "B) the number of polypeptides making up the functional protein",
+            "C) the various domains of the polypeptide product",
+            "D) the number of restriction enzyme cutting sites",
+            "E) the number of start sites for transcription"
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "23) In an experimental situation, a student researcher inserts an mRNA molecule into a eukaryotic cell after he has removed its 5' cap and poly-A tail. Which of the following would you expect him to find?",
+        "options": [
+            "A) The mRNA could not exit the nucleus to be translated.",
+            "B) The cell recognizes the absence of the tail and polyadenylates the mRNA.",
+            "C) The molecule is digested by restriction enzymes in the nucleus.",
+            "D) The molecule is digested by exonucleases since it is no longer protected at the 5' end.",
+            "E) The molecule attaches to a ribosome and is translated, but more slowly."
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "Use the following model of a eukaryotic transcript to answer the next few questions. 5' UTR E₁ I₁ E₂ I₂ E₃ I₃ E₄ UTR 3' 24) Which components of the previous molecule will also be found in mRNA in the cytosol?",
+        "options": [
+            "A) 5' UTR I₁ I₂ I₃ UTR 3'",
+            "B) 5' E₁ E₂ E₃ E₄ 3'",
+            "C) 5' UTR E₁ E₂ E₃ E₄ UTR 3'",
+            "D) 5' I₁ I₂ I₃ 3'",
+            "E) 5' E₁ I₁ E₂ I₂ E₃ I₃ E₄ 3'"
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "Use the following model of a eukaryotic transcript to answer the next few questions. 5' UTR E₁ I₁ E₂ I₂ E₃ I₃ E₄ UTR 3' 25) When the spliceosome binds to elements of this structure, where can it attach?",
+        "options": [
+            "A) to the exons",
+            "B) to the 5' UTR",
+            "C) to the 3' UTR",
+            "D) to an adjacent intron and exon",
+            "E) to the end of an intron"
+        ],
+        "back": "E",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "Use the following model of a eukaryotic transcript to answer the next few questions. 5' UTR E₁ I₁ E₂ I₂ E₃ I₃ E₄ UTR 3' 26) Which of the following is a useful feature of introns for this model?",
+        "options": [
+            "A) They are translated into small polypeptides.",
+            "B) They become parts of snRNPs.",
+            "C) Each intron has enzymatic properties.",
+            "D) Introns allow exon shuffling.",
+            "E) Introns protect exon structure."
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "Use the following model of a eukaryotic transcript to answer the next few questions. 5' UTR E₁ I₁ E₂ I₂ E₃ I₃ E₄ UTR 3' 27) Suppose that exposure to a chemical mutagen results in a change in the sequence that alters the 5' end of intron 1 (I₁). What might occur?",
+        "options": [
+            "A) loss of the gene product",
+            "B) loss of E₁",
+            "C) premature stop to the mRNA",
+            "D) inclusion of I₁ in the mRNA",
+            "E) exclusion of E₂"
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "Use the following model of a eukaryotic transcript to answer the next few questions. 5' UTR E₁ I₁ E₂ I₂ E₃ I₃ E₄ UTR 3' 28) Suppose that an induced mutation removes most of the 5' end of the 5' UTR. What might result?",
+        "options": [
+            "A) Removal of the 5' UTR has no effect because the exons are still maintained.",
+            "B) Removal of the 5' UTR also removes the 5' cap and the mRNA will quickly degrade.",
+            "C) The 3' UTR will duplicate and one copy will replace the 5' end.",
+            "D) The first exon will not be read because I₁ will now serve as the UTR.",
+            "E) Removal of the 5' UTR will result in the strand not binding to tRNAs."
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "29) A particular triplet of bases in the coding sequence of DNA is AAA. The anticodon on the tRNA that binds the mRNA codon is",
+        "options": [
+            "A) TTT.",
+            "B) UUA.",
+            "C) UUU.",
+            "D) AAA.",
+            "E) either UAA or TAA, depending on first base wobble."
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "30) Accuracy in the translation of mRNA into the primary structure of a polypeptide depends on specificity in the",
+        "options": [
+            "A) binding of ribosomes to mRNA.",
+            "B) shape of the A and P sites of ribosomes.",
+            "C) bonding of the anticodon to the codon.",
+            "D) attachment of amino acids to tRNAs.",
+            "E) bonding of the anticodon to the codon and the attachment of amino acids to tRNAs."
+        ],
+        "back": "E",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "31) What is the function of GTP in translation?",
+        "options": [
+            "A) GTP energizes the formation of the initiation complex, using initiation factors.",
+            "B) GTP hydrolyzes to provide phosphate groups for tRNA binding.",
+            "C) GTP hydrolyzes to provide energy for making peptide bonds.",
+            "D) GTP supplies phosphates and energy to make ATP from ADP.",
+            "E) GTP separates the small and large subunits of the ribosome at the stop codon."
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "32) A mutant bacterial cell has a defective aminoacyl synthetase that attaches a lysine to tRNAs with the anticodon AAA instead of the normal phenylalanine. The consequence of this for the cell will be that",
+        "options": [
+            "A) none of the proteins in the cell will contain phenylalanine.",
+            "B) proteins in the cell will include lysine instead of phenylalanine at amino acid positions specified by the codon UUU.",
+            "C) the cell will compensate for the defect by attaching phenylalanine to tRNAs with lysine-specifying anticodons.",
+            "D) the ribosome will skip a codon every time a UUU is encountered.",
+            "E) none of the options will occur; the cell will recognize the error and destroy the tRNA."
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "33) There are 61 mRNA codons that specify an amino acid, but only 45 tRNAs. This is best explained by the fact that",
+        "options": [
+            "A) some tRNAs have anticodons that recognize four or more different codons.",
+            "B) the rules for base pairing between the third base of a codon and tRNA are flexible.",
+            "C) many codons are never used, so the tRNAs that recognize them are dispensable.",
+            "D) the DNA codes for all 61 tRNAs but some are then destroyed.",
+            "E) competitive exclusion forces some tRNAs to be destroyed by nucleases."
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "34) Which of the following is the first event to take place in translation in eukaryotes?",
+        "options": [
+            "A) elongation of the polypeptide",
+            "B) base pairing of activated methionine-tRNA to AUG of the messenger RNA",
+            "C) binding of the larger ribosomal subunit to smaller ribosomal subunits",
+            "D) covalent bonding between the first two amino acids",
+            "E) the small subunit of the ribosome recognizes and attaches to the 5' cap of mRNA"
+        ],
+        "back": "E",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "35) Which of the following is a function of a signal peptide?",
+        "options": [
+            "A) to direct an mRNA molecule into the cisternal space of the ER",
+            "B) to bind RNA polymerase to DNA and initiate transcription",
+            "C) to terminate translation of the messenger RNA",
+            "D) to translocate polypeptides across the ER membrane",
+            "E) to signal the initiation of transcription"
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "36) When translating secretory or membrane proteins, ribosomes are directed to the ER membrane by",
+        "options": [
+            "A) a specific characteristic of the ribosome itself, which distinguishes free ribosomes from bound ribosomes.",
+            "B) a signal-recognition particle that brings ribosomes to a receptor protein in the ER membrane.",
+            "C) moving through a specialized channel of the nucleus.",
+            "D) a chemical signal given off by the ER.",
+            "E) a signal sequence of RNA that precedes the start codon of the message."
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "37) An experimenter has altered the 3' end of the tRNA corresponding to the amino acid methionine in such a way as to remove the 3' AC. Which of the following hypotheses describes the most likely result?",
+        "options": [
+            "A) tRNA will not form a cloverleaf.",
+            "B) The nearby stem end will pair improperly.",
+            "C) The amino acid methionine will not bind.",
+            "D) The anticodon will not bind with the mRNA codon.",
+            "E) The aminoacylsynthetase will not be formed."
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "38) The process of translation, whether in prokaryotes or eukaryotes, requires tRNAs, amino acids, ribosomal subunits, and which of the following?",
+        "options": [
+            "A) polypeptide factors plus ATP",
+            "B) polypeptide factors plus GTP",
+            "C) polymerases plus GTP",
+            "D) SRP plus chaperones",
+            "E) signal peptides plus release factor"
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "39) When the ribosome reaches a stop codon on the mRNA, no corresponding tRNA enters the A site. If the translation reaction were to be experimentally stopped at this point, which of the following would you be able to isolate?",
+        "options": [
+            "A) an assembled ribosome with a polypeptide attached to the tRNA in the P site",
+            "B) separated ribosomal subunits, a polypeptide, and free tRNA",
+            "C) an assembled ribosome with a separated polypeptide",
+            "D) separated ribosomal subunits with a polypeptide attached to the tRNA",
+            "E) a cell with fewer ribosomes"
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "40) What is the function of the release factor (RF)?",
+        "options": [
+            "A) It separates tRNA in the A site from the growing polypeptide.",
+            "B) It binds to the stop codon in the A site in place of a tRNA.",
+            "C) It releases the amino acid from its tRNA to allow the amino acid to form a peptide bond.",
+            "D) It supplies a source of energy for termination of translation.",
+            "E) It releases the ribosome from the ER to allow polypeptides into the cytosol."
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "41) When the function of the newly made polypeptide is to be secreted from the cell where it has been made, what must occur?",
+        "options": [
+            "A) It must be translated by a ribosome that remains free of attachment to the ER.",
+            "B) Its signal sequence must target it to the ER, from which it goes to the Golgi.",
+            "C) It has a signal sequence that must be cleaved off before it can enter the ER.",
+            "D) It has a signal sequence that targets it to the cell's plasma membrane where it causes exocytosis.",
+            "E) Its signal sequence causes it to be encased in a vesicle as soon as it is translated."
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "42) Suppose that a mutation alters the formation of a tRNA such that it still attaches to the same amino acid (phe) but its anticodon loop has the sequence AAU that binds to the mRNA codon UUA (that usually specifies leucine leu).",
+        "options": [
+            "A) The modified tRNA will cause this mRNA to make only nonfunctioning product.",
+            "B) The tRNA-leu will not be able to enter the site of the ribosome to bind to the UUA.",
+            "C) One mutated tRNA molecule will be relatively inconsequential because it will compete with many \"normal\" ones.",
+            "D) The tRNA will be so unstable that it will not participate in translation.",
+            "E) The mutated tRNA will result in an amino acid variant in all copies of the protein."
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "43) Why might a point mutation in DNA make a difference in the level of protein's activity?",
+        "options": [
+            "A) It might result in a chromosomal translocation.",
+            "B) It might exchange one stop codon for another stop codon.",
+            "C) It might exchange one serine codon for a different serine codon.",
+            "D) It might substitute an amino acid in the active site.",
+            "E) It might substitute the N-terminus of the polypeptide for the C-terminus."
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "44) In the 1920s Muller discovered that X-rays caused mutation in Drosophila. In a related series of experiments in the 1940s, Charlotte Auerbach discovered that chemicals–she used nitrogen mustards–have a similar effect. A new chemical food additive is developed by a cereal manufacturer. Why do we test for its ability to induce mutation?",
+        "options": [
+            "A) We worry that it might cause mutation in cereal grain plants.",
+            "B) We want to make sure that it does not emit radiation.",
+            "C) We want to be sure that it increases the rate of mutation sufficiently.",
+            "D) We want to prevent any increase in mutation frequency.",
+            "E) We worry about its ability to cause infection."
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "45) Which of the following types of mutation, resulting in an error in the mRNA just after the AUG start of translation, is likely to have the most serious effect on the polypeptide product?",
+        "options": [
+            "A) a deletion of a codon",
+            "B) a deletion of two nucleotides",
+            "C) a substitution of the third nucleotide in an ACC codon",
+            "D) a substitution of the first nucleotide of a GGG codon",
+            "E) an insertion of a codon"
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "46) What is the effect of a nonsense mutation in a gene?",
+        "options": [
+            "A) It changes an amino acid in the encoded protein.",
+            "B) It has no effect on the amino acid sequence of the encoded protein.",
+            "C) It introduces a premature stop codon into the mRNA.",
+            "D) It alters the reading frame of the mRNA.",
+            "E) It prevents introns from being excised."
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "47) A frameshift mutation could result from",
+        "options": [
+            "A) a base insertion only.",
+            "B) a base deletion only.",
+            "C) a base substitution only.",
+            "D) deletion of three consecutive bases.",
+            "E) either an insertion or a deletion of a base."
+        ],
+        "back": "E",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "48) Which of the following DNA mutations is the most likely to be damaging to the protein it specifies?",
+        "options": [
+            "A) a base-pair deletion",
+            "B) a codon substitution",
+            "C) a substitution in the last base of a codon",
+            "D) a codon deletion",
+            "E) a point mutation"
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "49) Which small-scale mutation would be most likely to have a catastrophic effect on the functioning of a protein?",
+        "options": [
+            "A) a base substitution",
+            "B) a base deletion near the start of a gene",
+            "C) a base deletion near the end of the coding sequence, but not in the terminator codon",
+            "D) deletion of three bases near the start of the coding sequence, but not in the initiator codon",
+            "E) a base insertion near the end of the coding sequence, but not in the terminator codon"
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "50) The most commonly occurring mutation in people with cystic fibrosis is a deletion of a single codon. This results in",
+        "options": [
+            "A) a base-pair substitution.",
+            "B) a nucleotide mismatch.",
+            "C) a frameshift mutation.",
+            "D) a polypeptide missing an amino acid.",
+            "E) a nonsense mutation."
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "51) Which of the following mutations is most likely to cause a phenotypic change?",
+        "options": [
+            "A) a duplication of all or most introns",
+            "B) a large inversion whose ends are each in intergenic regions",
+            "C) a nucleotide substitution in an exon coding for a transmembrane domain",
+            "D) a single nucleotide deletion in an exon coding for an active site",
+            "E) a frameshift mutation one codon away from the 3' end of the nontemplate strand"
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "52) If a protein is coded for by a single gene and this protein has six clearly defined domains, which number of exons below is the gene likely to have?",
+        "options": [
+            "A) 1",
+            "B) 5",
+            "C) 8",
+            "D) 12",
+            "E) 14"
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "53) Which of the following statements is true about protein synthesis in prokaryotes?",
+        "options": [
+            "A) Extensive RNA processing is required before prokaryotic transcripts can be translated.",
+            "B) Translation can begin while transcription is still in progress.",
+            "C) Prokaryotic cells have complicated mechanisms for targeting proteins to the appropriate cellular organelles.",
+            "D) Translation requires antibiotic activity.",
+            "E) Unlike eukaryotes, prokaryotes require no initiation or elongation factors."
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "54) Of the following, which is the most current description of a gene?",
+        "options": [
+            "A) a unit of heredity that causes formation of a phenotypic characteristic",
+            "B) a DNA subunit that codes for a single complete protein",
+            "C) a DNA sequence that is expressed to form a functional product: either RNA or polypeptide",
+            "D) a DNA—RNA sequence combination that results in an enzymatic product",
+            "E) a discrete unit of hereditary information that consists of a sequence of amino acids"
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "55) Gene expression in the domain Archaea in part resembles that of bacteria and in part that of the domain Eukarya. In which way is it most like the domain Eukarya?",
+        "options": [
+            "A) Domain Archaea have numerous transcription factors.",
+            "B) Initiation of translation is like that of domain Eukarya.",
+            "C) There is only one RNA polymerase.",
+            "D) Transcription termination often involves attenuation.",
+            "E) Post-transcriptional splicing is like that of Eukarya."
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "56) Which of the following is true of transcription in domain Archaea?",
+        "options": [
+            "A) It is regulated in the same way as in domain Bacteria.",
+            "B) There is only one kind of RNA polymerase.",
+            "C) It is roughly simultaneous with translation.",
+            "D) Promoters are identical to those in domain Eukarya.",
+            "E) It terminates in a manner similar to bacteria."
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "57) In comparing DNA replication with RNA transcription in the same cell, which of the following is true only of replication?",
+        "options": [
+            "A) It uses RNA polymerase.",
+            "B) It makes a new molecule from its 5' end to its 3' end.",
+            "C) The process is extremely fast once it is initiated.",
+            "D) The process occurs in the nucleus of a eukaryotic cell.",
+            "E) The entire template molecule is represented in the product."
+        ],
+        "back": "E",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "58) In order for a eukaryotic gene to be engineered into a bacterial colony to be expressed, what must be included in addition to the coding exons of the gene?",
+        "options": [
+            "A) the introns",
+            "B) eukaryotic polymerases",
+            "C) a bacterial promoter sequence",
+            "D) eukaryotic ribosomal subunits",
+            "E) eukaryotic tRNAs"
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "59) When the genome of a particular species is said to include 20,000 protein-coding regions, what does this imply?",
+        "options": [
+            "A) There are 20,000 genes.",
+            "B) Each gene codes for one protein.",
+            "C) Any other regions are \"junk\" DNA.",
+            "D) There are also genes for RNAs other than mRNA.",
+            "E) The species is highly evolved."
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "60) According to Beadle and Tatum's hypothesis, how many genes are necessary for this pathway?",
+        "options": [
+            "A) 0",
+            "B) 1",
+            "C) 2",
+            "D) 3",
+            "E) It cannot be determined from the pathway."
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": [
+            "https://web.archive.org/web/20170801111715im_/https://www.easynotecards.com/uploads/1122/42/69c3b13a_13a8788d737__8000_00000234.jpg"
+        ]
+    },
+    {
+        "front": "61) A mutation results in a defective enzyme A. Which of the following would be a consequence of that mutation?",
+        "options": [
+            "A) an accumulation of A and no production of B and C",
+            "B) an accumulation of A and B and no production of C",
+            "C) an accumulation of B and no production of A and C",
+            "D) an accumulation of B and C and no production of A",
+            "E) an accumulation of C and no production of A and B"
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "62) If A, B, and C are all required for growth, a strain that is mutant for the gene-encoding enzyme A would be able to grow on which of the following media?",
+        "options": [
+            "A) minimal medium",
+            "B) minimal medium supplemented with nutrient A only",
+            "C) minimal medium supplemented with nutrient B only",
+            "D) minimal medium supplemented with nutrient C only",
+            "E) minimal medium supplemented with nutrients A and C"
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "63) If A, B, and C are all required for growth, a strain mutant for the gene-encoding enzyme B would be capable of growing on which of the following media?",
+        "options": [
+            "A) minimal medium",
+            "B) minimal medium supplemented with A only",
+            "C) minimal medium supplemented with B only",
+            "D) minimal medium supplemented with C only",
+            "E) minimal medium supplemented with nutrients A and B"
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "64) A possible sequence of nucleotides in the template strand of DNA that would code for the polypeptide sequence phe-leu-ile-val would be",
+        "options": [
+            "A) 5' TTG-CTA-CAG-TAG 3'.",
+            "B) 3' AAC-GAC-GUC-AUA 5'.",
+            "C) 5' AUG-CTG-CAG-TAT 3'.",
+            "D) 3' AAA-AAT-ATA-ACA 5'.",
+            "E) 3' AAA-GAA-TAA-CAA 5'."
+        ],
+        "back": "E",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": [
+            "https://web.archive.org/web/20170801111715im_/https://www.easynotecards.com/uploads/1124/44/69c3b13a_13a8788d737__8000_00000236.jpg"
+        ]
+    },
+    {
+        "front": "65) What amino acid sequence will be generated, based on the following mRNA codon sequence? 5' AUG-UCU-UCG-UUA-UCC-UUG 3'",
+        "options": [
+            "A) met-arg-glu-arg-glu-arg",
+            "B) met-glu-arg-arg-glu-leu",
+            "C) met-ser-leu-ser-leu-ser",
+            "D) met-ser-ser-leu-ser-leu",
+            "E) met-leu-phe-arg-glu-glu"
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": [
+            "https://web.archive.org/web/20170801111715im_/https://www.easynotecards.com/uploads/1124/44/69c3b13a_13a8788d737__8000_00000236.jpg"
+        ]
+    },
+    {
+        "front": "66) A peptide has the sequence NH2-phe-pro-lys-gly-phe-pro-COOH. Which of the following sequences in the coding strand of the DNA could code for this peptide?",
+        "options": [
+            "A) 3' UUU-CCC-AAA-GGG-UUU-CCC",
+            "B) 3' AUG-AAA-GGG-TTT-CCC-AAA-GGG",
+            "C) 5' TTT-CCC-AAA-GGG-TTT-CCC",
+            "D) 5' GGG-AAA-TTT-AAA-CCC-ACT-GGG",
+            "E) 5' ACT-TAC-CAT-AAA-CAT-TAC-UGA"
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": [
+            "https://web.archive.org/web/20170801111715im_/https://www.easynotecards.com/uploads/1124/44/69c3b13a_13a8788d737__8000_00000236.jpg"
+        ]
+    },
+    {
+        "front": "DNA template strand 5' ____________________________ 3' DNA complementary strand 3' ____________________________ 5' 67) Given the locally unwound double strand above, in which direction does the RNA polymerase move?",
+        "options": [
+            "A) 3' → 5' along the template strand",
+            "B) 5' → 3' along the template strand",
+            "C) 3' → 5' along the complementary strand",
+            "D) 5' → 3' along the complementary strand",
+            "E) 5' → 3' along the double-stranded DNA"
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "DNA template strand 5' ____________________________ 3' DNA complementary strand 3' ____________________________ 5' 68) In the transcription event of the previous DNA, where would the promoter be located?",
+        "options": [
+            "A) at the 3' end of the newly made RNA",
+            "B) to the right of the template strand",
+            "C) to the left of the template strand",
+            "D) to the right of the sense strand",
+            "E) to the left of the sense strand"
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "A part of an mRNA molecule with the following sequence is being read by a ribosome: 5' CCG-ACG 3' (mRNA). The following charged transfer RNA molecules (with their anticodons shown in the 3' to 5' direction) are available. Two of them can correctly match the mRNA so that a dipeptide can form. 69) The dipeptide that will form will be",
+        "options": [
+            "A) cysteine-alanine.",
+            "B) proline-threonine.",
+            "C) glycine-cysteine.",
+            "D) alanine-alanine.",
+            "E) threonine-glycine."
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": [
+            "https://web.archive.org/web/20170801111715im_/https://www.easynotecards.com/uploads/1127/47/69c3b13a_13a8788d737__8000_00000239.jpg"
+        ]
+    },
+    {
+        "front": "A part of an mRNA molecule with the following sequence is being read by a ribosome: 5' CCG-ACG 3' (mRNA). The following charged transfer RNA molecules (with their anticodons shown in the 3' to 5' direction) are available. Two of them can correctly match the mRNA so that a dipeptide can form. 70) The anticodon loop of the first tRNA that will complement this mRNA is",
+        "options": [
+            "A) 3' GGC 5'",
+            "B) 5' GGC 3'",
+            "C) 5' ACG 3'",
+            "D) 5' UGC 3'",
+            "E) 3' UGC 5'"
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": [
+            "https://web.archive.org/web/20170801111715im_/https://www.easynotecards.com/uploads/1127/47/69c3b13a_13a8788d737__8000_00000239.jpg"
+        ]
+    },
+    {
+        "front": "71) What type of bonding is responsible for maintaining the shape of the tRNA molecule?",
+        "options": [
+            "A) covalent bonding between sulfur atoms",
+            "B) ionic bonding between phosphates",
+            "C) hydrogen bonding between base pairs",
+            "D) van der Waals interactions between hydrogen atoms",
+            "E) peptide bonding between amino acids"
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": [
+            "https://web.archive.org/web/20170801111715im_/https://www.easynotecards.com/uploads/1130/50/69c3b13a_13a8788d737__8000_00000242.jpg"
+        ]
+    },
+    {
+        "front": "72) The figure represents tRNA that recognizes and binds a particular amino acid (in this instance, phenylalanine). Which codon on the mRNA strand codes for this amino acid?",
+        "options": [
+            "A) UGG",
+            "B) GUG",
+            "C) GUA",
+            "D) UUC",
+            "E) CAU"
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": [
+            "https://web.archive.org/web/20170801111715im_/https://www.easynotecards.com/uploads/1130/50/69c3b13a_13a8788d737__8000_00000242.jpg"
+        ]
+    },
+    {
+        "front": "73) The tRNA shown in the figure has its 3' end projecting beyond its 5' end. What will occur at this 3' end?",
+        "options": [
+            "A) The codon and anticodon complement one another.",
+            "B) The amino acid binds covalently.",
+            "C) The excess nucleotides (ACCA) will be cleaved off at the ribosome.",
+            "D) The small and large subunits of the ribosome will attach to it.",
+            "E) The 5' cap of the mRNA will become covalently bound."
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": [
+            "https://web.archive.org/web/20170801111715im_/https://www.easynotecards.com/uploads/1130/50/69c3b13a_13a8788d737__8000_00000242.jpg"
+        ]
+    },
+    {
+        "front": "The enzyme polynucleotide phosphorylase randomly assembles nucleotides into a polynucleotide polymer. 74) You add polynucleotide phosphorylase to a solution of adenosine triphosphate and guanosine triphosphate. How many artificial mRNA 3 nucleotide codons would be possible?",
+        "options": [
+            "A) 3",
+            "B) 4",
+            "C) 8",
+            "D) 16",
+            "E) 64"
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "The enzyme polynucleotide phosphorylase randomly assembles nucleotides into a polynucleotide polymer. 75) You add polynucleotide phosphorylase to a solution of ATP, GTP, and UTP. How many artificial mRNA 3 nucleotide codons would be possible?",
+        "options": [
+            "A) 3",
+            "B) 6",
+            "C) 9",
+            "D) 27",
+            "E) 81"
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "A transfer RNA (#1) attached to the amino acid lysine enters the ribosome. The lysine binds to the growing polypeptide on the other tRNA (#2) in the ribosome already. 76) Where does tRNA #2 move to after this bonding of lysine to the polypeptide?",
+        "options": [
+            "A) A site",
+            "B) P site",
+            "C) E site",
+            "D) exit tunnel",
+            "E) directly to the cytosol"
+        ],
+        "back": "C",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "A transfer RNA (#1) attached to the amino acid lysine enters the ribosome. The lysine binds to the growing polypeptide on the other tRNA (#2) in the ribosome already. 77) Which component of the complex described enters the exit tunnel through the large subunit of the ribosome?",
+        "options": [
+            "A) tRNA with attached lysine (#1)",
+            "B) tRNA with polypeptide (#2)",
+            "C) tRNA that no longer has attached amino acid",
+            "D) newly formed polypeptide",
+            "E) initiation and elongation factors"
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "78) In eukaryotic cells, transcription cannot begin until",
+        "options": [
+            "A) the two DNA strands have completely separated and exposed the promoter.",
+            "B) several transcription factors have bound to the promoter.",
+            "C) the 5' caps are removed from the mRNA.",
+            "D) the DNA introns are removed from the template.",
+            "E) DNA nucleases have isolated the transcription unit."
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "79) Which of the following is not true of a codon?",
+        "options": [
+            "A) It consists of three nucleotides.",
+            "B) It may code for the same amino acid as another codon.",
+            "C) It never codes for more than one amino acid.",
+            "D) It extends from one end of a tRNA molecule.",
+            "E) It is the basic unit of the genetic code."
+        ],
+        "back": "D",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "80) The anticodon of a particular tRNA molecule is",
+        "options": [
+            "A) complementary to the corresponding mRNA codon.",
+            "B) complementary to the corresponding triplet in rRNA.",
+            "C) the part of tRNA that bonds to a specific amino acid.",
+            "D) changeable, depending on the amino acid that attaches to the tRNA.",
+            "E) catalytic, making the tRNA a ribozyme."
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "81) Which of the following is not true of RNA processing?",
+        "options": [
+            "A) Exons are cut out before mRNA leaves the nucleus.",
+            "B) Nucleotides may be added at both ends of the RNA.",
+            "C) Ribozymes may function in RNA splicing.",
+            "D) RNA splicing can be catalyzed by spliceosomes.",
+            "E) A primary transcript is often much longer than the final RNA molecule that leaves the nucleus."
+        ],
+        "back": "A",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "82) Which component is not directly involved in translation?",
+        "options": [
+            "A) mRNA",
+            "B) DNA",
+            "C) tRNA",
+            "D) ribosomes",
+            "E) GTP"
+        ],
+        "back": "B",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    },
+    {
+        "front": "83) Which of the following mutations would be most likely to have a harmful effect on an organism?",
+        "options": [
+            "A) a nucleotide-pair substitution",
+            "B) a deletion of three nucleotides near the middle of a gene",
+            "C) a single nucleotide deletion in the middle of an intron",
+            "D) a single nucleotide deletion near the end of the coding sequence",
+            "E) a single nucleotide insertion downstream of, and close to, the start of the coding sequence"
+        ],
+        "back": "E",
+        "unit": "Unit 17",
+        "chapter": "Chapter 17",
+        "images": []
+    }
+]

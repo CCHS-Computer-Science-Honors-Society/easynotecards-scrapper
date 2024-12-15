@@ -1,0 +1,872 @@
+[
+    {
+        "front": "1) When Thomas Hunt Morgan crossed his red-eyed F₁ generation flies to each other, the F₂ generation included both red- and white-eyed flies. Remarkably, all the white-eyed flies were male. What was the explanation for this result?",
+        "options": [
+            "A) The gene involved is on the Y chromosome.",
+            "B) The gene involved is on the X chromosome.",
+            "C) The gene involved is on an autosome, but only in males.",
+            "D) Other male-specific factors influence eye color in flies.",
+            "E) Other female-specific factors influence eye color in flies."
+        ],
+        "back": "B",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "2) Sturtevant provided genetic evidence for the existence of four pairs of chromosomes in Drosophila in which of these ways?",
+        "options": [
+            "A) There are four major functional classes of genes in Drosophila.",
+            "B) Drosophila genes cluster into four distinct groups of linked genes.",
+            "C) The overall number of genes in Drosophila is a multiple of four.",
+            "D) The entire Drosophila genome has approximately 400 map units.",
+            "E) Drosophila genes have, on average, four different alleles."
+        ],
+        "back": "B",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "3) Which of the following is the meaning of the chromosome theory of inheritance as expressed in the early 20th century?",
+        "options": [
+            "A) Individuals inherit particular chromosomes attached to genes.",
+            "B) Mendelian genes are at specific loci on the chromosome and in turn segregate during meiosis.",
+            "C) Homologous chromosomes give rise to some genes and crossover chromosomes to other genes.",
+            "D) No more than a single pair of chromosomes can be found in a healthy normal cell.",
+            "E) Natural selection acts on certain chromosome arrays rather than on genes."
+        ],
+        "back": "B",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "4) Thomas Hunt Morgan's choice of Drosophila melanogaster has been proven to be useful even today. Which of the following has/have continued to make it a most useful species? I. its four pairs of chromosomes II. a very large number of visible as well as biochemically mutant phenotypes III. easy and inexpensive maintenance IV. short generation time and large number of offspring",
+        "options": [
+            "A) I and IV only",
+            "B) II and III only",
+            "C) I, II, and III only",
+            "D) II, III, and IV only",
+            "E) I, II, III, IV, and V"
+        ],
+        "back": "E",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "5) A woman is found to have 47 chromosomes, including three X chromosomes. Which of the following describes her expected phenotype?",
+        "options": [
+            "A) masculine characteristics such as facial hair",
+            "B) enlarged genital structures",
+            "C) excessive emotional instability",
+            "D) normal female",
+            "E) sterile female"
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "6) Males are more often affected by sex-linked traits than females because",
+        "options": [
+            "A) male hormones such as testosterone often alter the effects of mutations on the X chromosome.",
+            "B) female hormones such as estrogen often compensate for the effects of mutations on the X chromosome.",
+            "C) X chromosomes in males generally have more mutations than X chromosomes in females.",
+            "D) males are hemizygous for the X chromosome.",
+            "E) mutations on the Y chromosome often worsen the effects of X-linked mutations."
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "7) SRY is best described in which of the following ways?",
+        "options": [
+            "A) a gene present on the X chromosome that triggers female development",
+            "B) an autosomal gene that is required for the expression of genes on the Y chromosome",
+            "C) a gene region present on the Y chromosome that triggers male development",
+            "D) an autosomal gene that is required for the expression of genes on the X chromosome",
+            "E) a gene required for development, and males or females lacking the gene do not survive past early childhood"
+        ],
+        "back": "C",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "8) In cats, black fur color is caused by an X-linked allele; the other allele at this locus causes orange color. The heterozygote is tortoiseshell. What kinds of offspring would you expect from the cross of a black female and an orange male?",
+        "options": [
+            "A) tortoiseshell females; tortoiseshell males",
+            "B) black females; orange males",
+            "C) orange females; orange males",
+            "D) tortoiseshell females; black males",
+            "E) orange females; black males"
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "9) Red-green color blindness is a sex-linked recessive trait in humans. Two people with normal color vision have a color-blind son. What are the genotypes of the parents?",
+        "options": [
+            "A) XcXc and XcY",
+            "B) XcXc and XCY",
+            "C) XCXC and XcY",
+            "D) XCXC and XCY",
+            "E) XCXc and XCY"
+        ],
+        "back": "E",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "10) Cinnabar eyes is a sex-linked recessive characteristic in fruit flies. If a female having cinnabar eyes is crossed with a wild-type male, what percentage of the F₁ males will have cinnabar eyes?",
+        "options": [
+            "A) 0%",
+            "B) 25%",
+            "C) 50%",
+            "D) 75%",
+            "E) 100%"
+        ],
+        "back": "E",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "11) Calico cats are female because",
+        "options": [
+            "A) the males die during embryonic development.",
+            "B) a male inherits only one of the two X-linked genes controlling hair color.",
+            "C) the Y chromosome has a gene blocking orange coloration.",
+            "D) only females can have Barr bodies.",
+            "E) multiple crossovers on the Y chromosome prevent orange pigment production."
+        ],
+        "back": "B",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "12) In birds, sex is determined by a ZW chromosome scheme. Males are ZZ and females are ZW. A recessive lethal allele that causes death of the embryo is sometimes present on the Z chromosome in pigeons. What would be the sex ratio in the offspring of a cross between a male that is heterozygous for the lethal allele and a normal female?",
+        "options": [
+            "A) 2:1 male to female",
+            "B) 1:2 male to female",
+            "C) 1:1 male to female",
+            "D) 4:3 male to female",
+            "E) 3:1 male to female"
+        ],
+        "back": "A",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "13) Sex determination in mammals is due to the SRY region of the Y chromosome. An abnormality of this region could allow which of the following to have a male phenotype?",
+        "options": [
+            "A) Turner syndrome, 45, X",
+            "B) translocation of SRY to an autosome of a 46, XX individual",
+            "C) a person with an extra X chromosome",
+            "D) a person with one normal and one shortened (deleted) X",
+            "E) Down syndrome, 46, XX"
+        ],
+        "back": "B",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "14) In humans, clear gender differentiation occurs, not at fertilization, but after the second month of gestation. What is the first event of this differentiation?",
+        "options": [
+            "A) formation of testosterone in male embryos",
+            "B) formation of estrogens in female embryos",
+            "C) anatomical differentiation of a penis in male embryos",
+            "D) activation of SRY in male embryos and masculinization of the gonads",
+            "E) activation of SRY in females and feminization of the gonads"
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "15) Duchenne muscular dystrophy (DMD) is caused by a gene on the human X chromosome. The patients have muscles that weaken over time because they have absent or decreased dystrophin, a muscle protein. They rarely live past their 20s. How likely is it for a woman to have this condition?",
+        "options": [
+            "A) Women can never have this condition.",
+            "B) One-half of the daughters of an affected man could have this condition.",
+            "C) One-fourth of the children of an affected father and a carrier mother could have this condition.",
+            "D) Very rarely would a woman have this condition; the condition would be due to a chromosome error.",
+            "E) Only if a woman is XXX could she have this condition."
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "16) Women (and all female mammals) have one active X chromosome per cell instead of two. What causes this?",
+        "options": [
+            "A) modification of the XIST gene so that it is active only on one X chromosome, which then becomes inactive",
+            "B) activation of the Barr gene on one of the two X chromosomes that then inactivates",
+            "C) crossover between the XIST gene on one X chromosome and a related gene on an autosome",
+            "D) inactivation of the XIST gene on the X chromosome derived from the male parent",
+            "E) the removal of methyl (CH3) groups from the X chromosome that will remain active"
+        ],
+        "back": "A",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "17) Which of the following statements is true of linkage?",
+        "options": [
+            "A) The closer two genes are on a chromosome, the lower the probability that a crossover will occur between them.",
+            "B) The observed frequency of recombination of two genes that are far apart from each other has a maximum value of 100%.",
+            "C) All of the traits that Mendel studied–seed color, pod shape, flower color, and others–are due to genes linked on the same chromosome.",
+            "D) Linked genes are found on different chromosomes.",
+            "E) Crossing over occurs during prophase II of meiosis."
+        ],
+        "back": "A",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "18) How would one explain a testcross involving F₁ dihybrid flies in which more parental-type offspring than recombinant-type offspring are produced?",
+        "options": [
+            "A) The two genes are closely linked on the same chromosome.",
+            "B) The two genes are linked but on different chromosomes.",
+            "C) Recombination did not occur in the cell during meiosis.",
+            "D) The testcross was improperly performed.",
+            "E) Both of the characters are controlled by more than one gene."
+        ],
+        "back": "A",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "19) What does a frequency of recombination of 50% indicate?",
+        "options": [
+            "A) The two genes are likely to be located on different chromosomes.",
+            "B) All of the offspring have combinations of traits that match one of the two parents.",
+            "C) The genes are located on sex chromosomes.",
+            "D) Abnormal meiosis has occurred.",
+            "E) Independent assortment is hindered."
+        ],
+        "back": "A",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "20) What is the reason that linked genes are inherited together?",
+        "options": [
+            "A) They are located close together on the same chromosome.",
+            "B) The number of genes in a cell is greater than the number of chromosomes.",
+            "C) Chromosomes are unbreakable.",
+            "D) Alleles are paired together during meiosis.",
+            "E) Genes align that way during metaphase I of meiosis."
+        ],
+        "back": "A",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "21) Three genes at three loci are being mapped in a particular species. Each has two phenotypes, one of which is markedly different from the wild type. The unusual allele of the first gene is inherited with either of the others about 50% of the time. However, the unusual alleles of the other two genes are inherited together 14.4% of the time. Which of the following describes what is happening?",
+        "options": [
+            "A) The genes are showing independent assortment.",
+            "B) The three genes are linked.",
+            "C) The first gene is linked but the other two are not.",
+            "D) The first gene is assorting independently from the other two that are linked.",
+            "E) The first gene is located 14.4 units apart from the other two."
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "22) The centimorgan (cM) is a unit named in honor of Thomas Hunt Morgan. To what is it equal?",
+        "options": [
+            "A) the physical distance between two linked genes",
+            "B) 1% frequency of recombination between two genes",
+            "C) 1 nanometer of distance between two genes",
+            "D) the distance between a pair of homologous chromosomes",
+            "E) the recombination frequency between two genes assorting independently"
+        ],
+        "back": "B",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "23) Recombination between linked genes comes about for what reason?",
+        "options": [
+            "A) Mutation on one homolog is different from that on the other homolog.",
+            "B) Independent assortment sometimes fails because Mendel had not calculated appropriately.",
+            "C) When genes are linked they always \"travel\" together at anaphase.",
+            "D) Crossovers between these genes result in chromosomal exchange.",
+            "E) Nonrecombinant chromosomes break and then re-join with one another."
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "24) Why does recombination between linked genes continue to occur?",
+        "options": [
+            "A) Recombination is a requirement for independent assortment.",
+            "B) Recombination must occur or genes will not assort independently.",
+            "C) New allele combinations are acted upon by natural selection.",
+            "D) The forces on the cell during meiosis II always result in recombination.",
+            "E) Without recombination there would be an insufficient number of gametes."
+        ],
+        "back": "C",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "25) Map units on a linkage map cannot be relied upon to calculate physical distances on a chromosome for which of the following reasons?",
+        "options": [
+            "A) The frequency of crossing over varies along the length of the chromosome.",
+            "B) The relationship between recombination frequency and map units is different in every individual.",
+            "C) Physical distances between genes change during the course of the cell cycle.",
+            "D) The gene order on the chromosomes is slightly different in every individual.",
+            "E) Linkage map distances are identical between males and females."
+        ],
+        "back": "A",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "26) Which of the following two genes are closest on a genetic map of Drosophila?",
+        "options": [
+            "A) b and vg",
+            "B) vg and cn",
+            "C) rb and cn",
+            "D) cn and b",
+            "E) b and rb"
+        ],
+        "back": "E",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "27) If nondisjunction occurs in meiosis II during gametogenesis, what will be the result at the completion of meiosis?",
+        "options": [
+            "A) All the gametes will be diploid.",
+            "B) Half of the gametes will be n + 1, and half will be n - 1.",
+            "C) 1/4 of the gametes will be n + 1, 1/4 will be n - 1, and 1/2 will be n.",
+            "D) There will be three extra gametes.",
+            "E) Two of the four gametes will be haploid, and two will be diploid."
+        ],
+        "back": "C",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "28) One possible result of chromosomal breakage is for a fragment to join a nonhomologous chromosome. What is this alteration called?",
+        "options": [
+            "A) deletion",
+            "B) transversion",
+            "C) inversion",
+            "D) translocation",
+            "E) duplication"
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "29) A nonreciprocal crossover causes which of the following products?",
+        "options": [
+            "A) deletion only",
+            "B) duplication only",
+            "C) nondisjunction",
+            "D) deletion and duplication",
+            "E) duplication and nondisjunction"
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "30) In humans, male-pattern baldness is controlled by an autosomal gene that occurs in two allelic forms. Allele Hn determines nonbaldness, and allele Hb determines pattern baldness. In males, because of the presence of testosterone, allele Hb is dominant over Hn. If a man and woman both with genotype HnHb have a son, what is the chance that he will eventually be bald?",
+        "options": [
+            "A) 0%",
+            "B) 25%",
+            "C) 33%",
+            "D) 50%",
+            "E) 75%"
+        ],
+        "back": "E",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "31) Of the following human aneuploidies, which is the one that generally has the most severe impact on the health of the individual?",
+        "options": [
+            "A) 47, +21",
+            "B) 47, XXY",
+            "C) 47, XXX",
+            "D) 47, XYY",
+            "E) 45, X"
+        ],
+        "back": "A",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "32) A phenotypically normal prospective couple seeks genetic counseling because the man knows that he has a translocation of a portion of his chromosome 4 that has been exchanged with a portion of his chromosome 12. Although he is normal because his translocation is balanced, he and his wife want to know the probability that his sperm will be abnormal. What is your prognosis regarding his sperm?",
+        "options": [
+            "A) 1/4 will be normal, 1/4 will have the translocation, and 1/2 will have duplications and deletions.",
+            "B) All will carry the same translocation as the father.",
+            "C) None will carry the translocation since abnormal sperm will die.",
+            "D) His sperm will be sterile and the couple might consider adoption.",
+            "E) 1/2 will be normal and the rest will have the father's translocation."
+        ],
+        "back": "A",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "33) Abnormal chromosomes are frequently found in malignant tumors. Errors such as translocations may place a gene in close proximity to different control regions. Which of the following might then occur to make the cancer worse?",
+        "options": [
+            "A) an increase in nondisjunction",
+            "B) expression of inappropriate gene products",
+            "C) a decrease in mitotic frequency",
+            "D) death of the cancer cells in the tumor",
+            "E) sensitivity of the immune system"
+        ],
+        "back": "B",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "34) An inversion in a human chromosome often results in no demonstrable phenotypic effect in the individual. What else may occur?",
+        "options": [
+            "A) There may be deletions later in life.",
+            "B) Some abnormal gametes may be formed.",
+            "C) There is an increased frequency of mutation.",
+            "D) All inverted chromosomes are deleted.",
+            "E) The individual is more likely to get cancer."
+        ],
+        "back": "B",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "35) What is the source of the extra chromosome 21 in an individual with Down syndrome?",
+        "options": [
+            "A) nondisjunction in the mother only",
+            "B) nondisjunction in the father only",
+            "C) duplication of the chromosome",
+            "D) nondisjunction or translocation in either parent",
+            "E) It is impossible to detect with current technology."
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "36) Down syndrome has a frequency in the U.S. population of ~1/700 live births. In which of the following groups would you expect this frequency to be significantly higher?",
+        "options": [
+            "A) people in Latin or South America",
+            "B) the Inuit and other peoples in very cold habitats",
+            "C) people living in equatorial areas of the world",
+            "D) very small population groups",
+            "E) No groups have such higher frequency."
+        ],
+        "back": "E",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "37) A couple has a child with Down syndrome. The mother is 39 years old at the time of delivery. Which of the following is the most probable cause of the child's condition?",
+        "options": [
+            "A) The woman inherited this tendency from her parents.",
+            "B) One member of the couple carried a translocation.",
+            "C) One member of the couple underwent nondisjunction in somatic cell production.",
+            "D) One member of the couple underwent nondisjunction in gamete production.",
+            "E) The mother had a chromosomal duplication."
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "38) In 1956 Tijo and Levan first successfully counted human chromosomes. What is the reason it took so many years to do so?",
+        "options": [
+            "A) Watson and Crick's structure of DNA was not done until 1953.",
+            "B) Chromosomes were piled up on top of one another in the nucleus.",
+            "C) Chromosomes were not distinguishable during interphase.",
+            "D) A method had not yet been devised to halt mitosis at metaphase.",
+            "E) Chromosomes were piled up on top of one another in the nucleus, chromosomes were not distinguishable during interphase, and a method had not yet been devised to halt mitosis at metaphase."
+        ],
+        "back": "E",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "39) At which phase(s) is it preferable to obtain chromosomes to prepare a karyotype?",
+        "options": [
+            "A) early prophase",
+            "B) late telophase",
+            "C) anaphase",
+            "D) late anaphase or early telophase",
+            "E) late prophase or metaphase"
+        ],
+        "back": "E",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "40) What is a syndrome?",
+        "options": [
+            "A) a characteristic facial appearance",
+            "B) a group of traits, all of which must be present if an aneuploidy is to be diagnosed",
+            "C) a group of traits typically found in conjunction with a particular chromosomal aberration or gene mutation",
+            "D) a characteristic trait usually given the discoverer's name",
+            "E) a characteristic that only appears in conjunction with one specific aneuploidy"
+        ],
+        "back": "C",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "41) Which of the following is known as a Philadelphia chromosome?",
+        "options": [
+            "A) a human chromosome 22 that has had a specific translocation",
+            "B) a human chromosome 9 that is found only in one type of cancer",
+            "C) an animal chromosome found primarily in the mid-Atlantic area of the United States",
+            "D) an imprinted chromosome that always comes from the mother",
+            "E) a chromosome found not in the nucleus but in mitochondria"
+        ],
+        "back": "A",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "42) At what point in cell division is a chromosome lost so that, after fertilization with a normal gamete, the result is an embryo with 45, X? I. an error in anaphase I II. an error in anaphase II III. an error of the first postfertilization mitosis IV. an error in pairing",
+        "options": [
+            "A) I or II only",
+            "B) II or IV only",
+            "C) III or IV only",
+            "D) I, II, or III only",
+            "E) I, II, III, or IV"
+        ],
+        "back": "E",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "43) Which of the following is true of aneuploidies in general?",
+        "options": [
+            "A) A monosomy is more frequent than a trisomy.",
+            "B) 45 X is the only known human live-born monosomy.",
+            "C) Some human aneuploidies have selective advantage in some environments.",
+            "D) Of all human aneuploidies, only Down syndrome is associated with mental retardation.",
+            "E) An aneuploidy resulting in the deletion of a chromosome segment is less serious than a duplication."
+        ],
+        "back": "B",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "44) A gene is considered to be non-Mendelian in its inheritance pattern if it seems to \"violate\" Mendel's laws. Which of the following would be considered Mendelian?",
+        "options": [
+            "A) a gene whose expression varies depending on the gender of the transmitting parent",
+            "B) a gene derived solely from maternal inheritance",
+            "C) a gene transmitted via the cytoplasm or cytoplasmic structures",
+            "D) a gene transmitted to males from the maternal line and from fathers to daughters",
+            "E) a gene transmitted by a virus to egg-producing cells"
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "45) Genomic imprinting is generally due to the addition of methyl (–CH3) groups to C nucleotides in order to silence a given gene. If this depends on the sex of the parent who transmits the gene, which of the following must be true?",
+        "options": [
+            "A) Methylation of C is permanent in a gene.",
+            "B) Genes required for early development stages must not be imprinted.",
+            "C) Methylation of this kind must occur more in males than in females.",
+            "D) Methylation must be reversible in ovarian and testicular cells.",
+            "E) The imprints are transmitted only to gamete-producing cells."
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "46) Correns described that the inheritance of variegated color on the leaves of certain plants was determined by the maternal parent only. What phenomenon does this describe?",
+        "options": [
+            "A) mitochondrial inheritance",
+            "B) chloroplast inheritance",
+            "C) genomic imprinting",
+            "D) infectious inheritance",
+            "E) sex-linkage"
+        ],
+        "back": "B",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "47) Mitochondrial DNA is primarily involved in coding for proteins needed for electron transport. Therefore, in which body systems would you expect most mitochondrial gene mutations to be exhibited?",
+        "options": [
+            "A) the immune system and the blood",
+            "B) the excretory and respiratory systems",
+            "C) the skin and senses",
+            "D) the nervous and muscular systems",
+            "E) the circulation system"
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "48) A certain kind of snail can have a right-handed direction of shell coiling (D) or left-handed coiling (d). If direction of coiling is due to a protein deposited by the mother in the egg cytoplasm, then a Dd egg-producing snail and a dd sperm-producing snail will have offspring of which genotype(s) and phenotype(s)?",
+        "options": [
+            "A) 1/2 Dd:1/2 dd; all right coiling",
+            "B) all Dd; all right coiling",
+            "C) 1/2 Dd:1/2 dd; half right and half left coiling",
+            "D) all Dd; all left coiling",
+            "E) all Dd; half right and half left coiling"
+        ],
+        "back": "A",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "49) Which of the following produces a Mendelian pattern of inheritance?",
+        "options": [
+            "A) genomic imprinting",
+            "B) a mitochondrial gene mutation",
+            "C) a chloroplast gene mutation",
+            "D) viral genomes that inhabit egg cytoplasm",
+            "E) a trait acted upon by many genes"
+        ],
+        "back": "E",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "50) Suppose that a gene on human chromosome 18 can be imprinted in a given pattern in a female parent but not in a male parent. A couple in whom each maternal meiosis is followed by imprinting of this gene have children. What can we expect as a likely outcome?",
+        "options": [
+            "A) All sons but no daughters will bear their mother's imprinting pattern.",
+            "B) All daughters but no sons will bear their mother's imprinting pattern.",
+            "C) All sons and daughters will have a 50% chance of receiving the mother's imprinting pattern.",
+            "D) All the children will bear their mother's imprinting pattern but only daughters will then pass it down.",
+            "E) Each of the children will imprint a different chromosome."
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "This a map of four genes on a chromosome (See Image) 51) Between which two genes would you expect the highest frequency of recombination?",
+        "options": [
+            "A) A and W",
+            "B) W and E",
+            "C) E and G",
+            "D) A and E",
+            "E) A and G"
+        ],
+        "back": "E",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": [
+            "https://www.easynotecards.com/uploads/1049/38/560104ca_14c946a9912__8000_00000394.png"
+        ]
+    },
+    {
+        "front": "52) In a series of mapping experiments, the recombination frequencies for four different linked genes of Drosophila were determined as shown in Figure 15.2. What is the order of these genes on a chromosome map?",
+        "options": [
+            "A) rb-cn-vg-b",
+            "B) vg-b-rb-cn",
+            "C) cn-rb-b-vg",
+            "D) b-rb-cn-vg",
+            "E) vg-cn-b-rb"
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": [
+            "https://www.easynotecards.com/uploads/1050/39/560104ca_14c946a9912__8000_00000398.jpg"
+        ]
+    },
+    {
+        "front": "53) The pedigree in Figure 15.3 shows the transmission of a trait in a particular family. Based on this pattern of transmission, the trait is most likely",
+        "options": [
+            "A) mitochondrial.",
+            "B) autosomal recessive.",
+            "C) sex-linked dominant.",
+            "D) sex-linked recessive.",
+            "E) autosomal dominant."
+        ],
+        "back": "A",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": [
+            "https://www.easynotecards.com/uploads/77/17/5cde6158_14d9e05fff9__8000_00001496.jpg"
+        ]
+    },
+    {
+        "front": "A man who is an achondroplastic dwarf with normal vision marries a color-blind woman of normal height. The man's father was 6 feet tall, and both the woman's parents were of average height. Achondroplastic dwarfism is autosomal dominant, and red-green color blindness is X-linked recessive. 54) How many of their daughters might be expected to be color-blind dwarfs?",
+        "options": [
+            "A) all",
+            "B) none",
+            "C) half",
+            "D) one out of four",
+            "E) three out of four"
+        ],
+        "back": "B",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "A man who is an achondroplastic dwarf with normal vision marries a color-blind woman of normal height. The man's father was 6 feet tall, and both the woman's parents were of average height. Achondroplastic dwarfism is autosomal dominant, and red-green color blindness is X-linked recessive. 55) What proportion of their sons would be color-blind and of normal height?",
+        "options": [
+            "A) none",
+            "B) half",
+            "C) one out of four",
+            "D) three out of four",
+            "E) all"
+        ],
+        "back": "B",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "A man who is an achondroplastic dwarf with normal vision marries a color-blind woman of normal height. The man's father was 6 feet tall, and both the woman's parents were of average height. Achondroplastic dwarfism is autosomal dominant, and red-green color blindness is X-linked recessive. 56) They have a daughter who is a dwarf with normal color vision. What is the probability that she is heterozygous for both genes?",
+        "options": [
+            "A) 0%",
+            "B) 25%",
+            "C) 50%",
+            "D) 75%",
+            "E) 100%"
+        ],
+        "back": "E",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": []
+    },
+    {
+        "front": "A plantlike organism on the planet Pandora can have three recessive genetic traits: bluish leaves, due to an allele (a) of gene A; a feathered stem, due to an allele (b) of gene B; and hollow roots due to an allele (c) of gene C. The three genes are linked and recombine as follows: A geneticist did a testcross with an organism that had been found to be heterozygous for the three recessive traits and she was able to identify progeny of the following phenotypic distribution (+ = wild type): (See Image) 57) Which of the following are the phenotypes of the parents in this cross?",
+        "options": [
+            "A) 2 and 5",
+            "B) 1 and 6",
+            "C) 4 and 8",
+            "D) 3 and 7",
+            "E) 1 and 2"
+        ],
+        "back": "C",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": [
+            "https://www.easynotecards.com/uploads/1051/40/560104ca_14c946a9912__8000_00000402.png"
+        ]
+    },
+    {
+        "front": "A plantlike organism on the planet Pandora can have three recessive genetic traits: bluish leaves, due to an allele (a) of gene A; a feathered stem, due to an allele (b) of gene B; and hollow roots due to an allele (c) of gene C. The three genes are linked and recombine as follows: A geneticist did a testcross with an organism that had been found to be heterozygous for the three recessive traits and she was able to identify progeny of the following phenotypic distribution (+ = wild type): (See Image) 58) In which progeny phenotypes has there been recombination between genes A and B?",
+        "options": [
+            "A) 1, 2, 5, and 6",
+            "B) 1, 3, 6, and 7",
+            "C) 2, 4, 5, and 8",
+            "D) 2, 3, 5, and 7",
+            "E) in all 8 of them"
+        ],
+        "back": "A",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": [
+            "https://www.easynotecards.com/uploads/1051/40/560104ca_14c946a9912__8000_00000402.png"
+        ]
+    },
+    {
+        "front": "A plantlike organism on the planet Pandora can have three recessive genetic traits: bluish leaves, due to an allele (a) of gene A; a feathered stem, due to an allele (b) of gene B; and hollow roots due to an allele (c) of gene C. The three genes are linked and recombine as follows: A geneticist did a testcross with an organism that had been found to be heterozygous for the three recessive traits and she was able to identify progeny of the following phenotypic distribution (+ = wild type): (See Image) 59) If recombination is equal to distance in centimorgans (cM), what is the approximate distance between genes A and B?",
+        "options": [
+            "A) 1.5 cM",
+            "B) 3 cM",
+            "C) 6 cM",
+            "D) 15 cM",
+            "E) 30 cM"
+        ],
+        "back": "B",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": [
+            "https://www.easynotecards.com/uploads/1051/40/560104ca_14c946a9912__8000_00000402.png"
+        ]
+    },
+    {
+        "front": "A plantlike organism on the planet Pandora can have three recessive genetic traits: bluish leaves, due to an allele (a) of gene A; a feathered stem, due to an allele (b) of gene B; and hollow roots due to an allele (c) of gene C. The three genes are linked and recombine as follows: A geneticist did a testcross with an organism that had been found to be heterozygous for the three recessive traits and she was able to identify progeny of the following phenotypic distribution (+ = wild type): (See Image) 60) What is the greatest benefit of having used a testcross for this experiment?",
+        "options": [
+            "A) The homozygous recessive parents are obvious to the naked eye.",
+            "B) The homozygous parents are the only ones whose crossovers make a difference.",
+            "C) Progeny can be scored by their phenotypes alone.",
+            "D) All of the progeny will be heterozygous.",
+            "E) The homozygous recessive parents will be unable to cross over."
+        ],
+        "back": "C",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": [
+            "https://www.easynotecards.com/uploads/1051/40/560104ca_14c946a9912__8000_00000402.png"
+        ]
+    },
+    {
+        "front": "A geneticist did a testcross with an organism that had been found to be heterozygous for the three recessive traits and she was able to identify progeny of the following phenotypic distribution (+ = wild type): (See Image) 61) The greatest distance among the three genes is between a and c. What does this mean?",
+        "options": [
+            "A) Gene a is closest to b.",
+            "B) Genes are in the order: a–b–c.",
+            "C) Gene a is not recombining with c.",
+            "D) Gene a is between b and c.",
+            "E) Distance a–b is equal to distance a–c."
+        ],
+        "back": "D",
+        "unit": "Unit 15",
+        "chapter": "Chapter 15",
+        "images": [
+            "https://www.easynotecards.com/uploads/1051/40/560104ca_14c946a9912__8000_00000402.png"
+        ]
+    }
+]

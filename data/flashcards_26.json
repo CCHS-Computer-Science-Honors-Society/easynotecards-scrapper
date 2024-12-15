@@ -1,0 +1,1047 @@
+[
+    {
+        "front": "1) The legless condition that is observed in several groups of extant reptiles is the result of",
+        "options": [
+            "A) their common ancestor having been legless.",
+            "B) a shared adaptation to an arboreal (living in trees) lifestyle.",
+            "C) several instances of the legless condition arising independently of each other.",
+            "D) individual lizards adapting to a fossorial (living in burrows) lifestyle during their lifetimes."
+        ],
+        "back": "C",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "2) The various taxonomic levels (namely, genera, classes, etc.) of the hierarchical classification system differ from each other on the basis of",
+        "options": [
+            "A) how widely the organisms assigned to each are distributed throughout the environment.",
+            "B) their inclusiveness.",
+            "C) the relative genome sizes of the organisms assigned to each.",
+            "D) morphological characters that are applicable to all organisms."
+        ],
+        "back": "B",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "3) If organisms A, B, and C belong to the same class but to different orders and if organisms D, E, and F belong to the same order but to different families, which of the following pairs of organisms would be expected to show the greatest degree of structural homology?",
+        "options": [
+            "A) A and B",
+            "B) A and C",
+            "C) B and D",
+            "D) C and F",
+            "E) D and F"
+        ],
+        "back": "E",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "4) Linnaeus was a \"fixist\" who believed that species remained fixed in the form in which they had been created. Linnaeus would have been uncomfortable with",
+        "options": [
+            "A) classifying organisms using the morphospecies concept.",
+            "B) the scientific discipline known as taxonomy.",
+            "C) phylogenies.",
+            "D) nested, ever-more inclusive categories of organisms.",
+            "E) a hierarchical classification scheme."
+        ],
+        "back": "C",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "5) Which of the following is (are) problematic when the goal is to construct phylogenies that accurately reflect evolutionary history?",
+        "options": [
+            "A) polyphyletic taxa",
+            "B) paraphyletic taxa",
+            "C) monophyletic taxa",
+            "D) Two of the responses are correct."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "6) Which individual would make the worst systematist? One who is uncomfortable with the",
+        "options": [
+            "A) Linnaean system of classification.",
+            "B) notion of hypothetical phylogenies.",
+            "C) PhyloCode method of classification.",
+            "D) notion of permanent polytomies."
+        ],
+        "back": "B",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "7) The term homoplasy is most applicable to which of the following features?",
+        "options": [
+            "A) the legless condition found in various lineages of extant lizards",
+            "B) the five-digit condition of human hands and bat wings",
+            "C) the β hemoglobin genes of mice and of humans",
+            "D) the fur that covers Australian moles and North American moles",
+            "E) the bones of bat forelimbs and the bones of bird forelimbs"
+        ],
+        "back": "A",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "8) If, someday, an archaean cell is discovered whose rRNA sequence is more similar to that of humans than the sequence of mouse rRNA is to that of humans, the best explanation for this apparent discrepancy would be",
+        "options": [
+            "A) homology.",
+            "B) homoplasy.",
+            "C) common ancestry.",
+            "D) retro-evolution by humans.",
+            "E) coevolution of humans and that archaean."
+        ],
+        "back": "B",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "9) The best classification system is that which most closely",
+        "options": [
+            "A) unites organisms that possess similar morphologies.",
+            "B) conforms to traditional, Linnaean taxonomic practices.",
+            "C) reflects evolutionary history.",
+            "D) reflects the basic separation of prokaryotes from eukaryotes."
+        ],
+        "back": "C",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "10) Which of the following pairs are the best examples of homologous structures?",
+        "options": [
+            "A) bones in the bat wing and bones in the human forelimb",
+            "B) owl wing and hornet wing",
+            "C) bat wing and bird wing",
+            "D) eyelessness in the Australian mole and eyelessness in the North American mole"
+        ],
+        "back": "A",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "11) Some molecular data place the giant panda in the bear family (Ursidae) but place the lesser panda in the raccoon family (Procyonidae). Consequently, the morphological similarities of these two species are probably due to",
+        "options": [
+            "A) inheritance of acquired characteristics.",
+            "B) sexual selection.",
+            "C) inheritance of shared derived characters.",
+            "D) possession of analogous structures.",
+            "E) possession of shared primitive characters."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "12) The importance of computers and of computer software to modern cladistics is most closely linked to advances in",
+        "options": [
+            "A) light microscopy.",
+            "B) radiometric dating.",
+            "C) fossil discovery techniques.",
+            "D) Linnaean classification.",
+            "E) molecular genetics."
+        ],
+        "back": "E",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "13) Which mutation should least require realignment of homologous regions of a gene that is common to several related species?",
+        "options": [
+            "A) three-base insertion",
+            "B) one-base substitution",
+            "C) four-base insertion",
+            "D) one-base deletion",
+            "E) three-base deletion"
+        ],
+        "back": "B",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "14) The common ancestors of birds and mammals were very early (stem) reptiles, which almost certainly possessed three-chambered hearts (two atria, one ventricle). Birds and mammals, however, are alike in having four-chambered hearts (two atria, two ventricles). The four-chambered hearts of birds and mammals are best described as",
+        "options": [
+            "A) structural homologies.",
+            "B) vestiges.",
+            "C) homoplasies.",
+            "D) the result of shared ancestry.",
+            "E) molecular homologies."
+        ],
+        "back": "C",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "15) Which of the following is true of all horizontally oriented phylogenetic trees, where time advances to the right?",
+        "options": [
+            "A) Each branch point represents a point in absolute time.",
+            "B) Organisms represented at the base of such trees are descendants of those represented at higher levels.",
+            "C) The fewer branch points that occur between two taxa, the more divergent their DNA sequences should be.",
+            "D) The common ancestor represented by the rightmost branch point existed more recently in time than the common ancestors represented at branch points located to the left.",
+            "E) The more branch points there are, the fewer taxa are likely to be represented."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "16) When using a cladistic approach to systematics, which of the following is considered most important for classification?",
+        "options": [
+            "A) shared primitive characters",
+            "B) analogous primitive characters",
+            "C) shared derived characters",
+            "D) the number of homoplasies",
+            "E) overall phenotypic similarity"
+        ],
+        "back": "C",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "17) Cladograms (a type of phylogenetic tree) constructed from evidence from molecular systematics are based on similarities in",
+        "options": [
+            "A) morphology.",
+            "B) the pattern of embryological development.",
+            "C) biochemical pathways.",
+            "D) habitat and lifestyle choices.",
+            "E) mutations to homologous genes."
+        ],
+        "back": "E",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "18) There is some evidence that reptiles called cynodonts may have had whisker-like hairs around their mouths. If true, then what can be properly said of hair?",
+        "options": [
+            "A) It is a shared derived character of mammals, even if cynodonts continue to be classified as reptiles.",
+            "B) It is a shared derived character of the amniote clade, and not of the mammal clade.",
+            "C) It is a shared ancestral character of the amniote clade, but only if cynodonts are reclassified as mammals.",
+            "D) It is a shared derived character of the mammals, but only if cynodonts are reclassified as mammals."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "19) A researcher wants to determine the genetic relatedness of several breeds of dog (Canis lupus familiaris). The researcher should compare homologous sequences of this type of biochemical________which can be described as ________.",
+        "options": [
+            "A) fatty acids; highly conserved",
+            "B) lipids; poorly conserved",
+            "C) proteins; highly conserved",
+            "D) amino acids; highly conserved",
+            "E) nucleic acids, poorly conserved"
+        ],
+        "back": "E",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "20) Concerning growth in genome size over evolutionary time, which of these is least associated with the others?",
+        "options": [
+            "A) orthologous genes",
+            "B) gene duplications",
+            "C) paralogous genes",
+            "D) gene families"
+        ],
+        "back": "A",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "21) Nucleic acid sequences that undergo few changes over the course of evolutionary time are said to be conserved. Conserved sequences of nucleic acids",
+        "options": [
+            "A) are found in the most crucial portions of proteins.",
+            "B) include all mitochondrial DNA.",
+            "C) are abundant in ribosomes.",
+            "D) are proportionately more common in eukaryotic introns than in eukaryotic exons.",
+            "E) comprise a larger proportion of pre-mRNA (immature mRNA) than of mature mRNA."
+        ],
+        "back": "C",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "22) Species that are not closely related and that do not share many anatomical similarities can still be placed together on the same phylogenetic tree by comparing their",
+        "options": [
+            "A) plasmids.",
+            "B) mitochondrial genomes.",
+            "C) homologous genes that are poorly conserved.",
+            "D) homologous genes that are highly conserved."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "23) Which kind of DNA should provide the best molecular clock for determining the evolutionary relatedness of several species whose common ancestor became extinct billions of years ago?",
+        "options": [
+            "A) that coding for ribosomal RNA",
+            "B) intronic DNA belonging to a gene whose product performs a crucial function",
+            "C) paralogous DNA that has lost its function (i.e., no longer codes for functional gene product)",
+            "D) mitochondrial DNA",
+            "E) exonic DNA that codes for a noncrucial part of a polypeptide"
+        ],
+        "back": "A",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "24) A phylogenetic tree constructed using sequence differences in mitochondrial DNA would be most valid for discerning the evolutionary relatedness of",
+        "options": [
+            "A) archaeans and bacteria.",
+            "B) fungi and animals.",
+            "C) chimpanzees and humans.",
+            "D) sharks and dolphins.",
+            "E) mosses and ferns."
+        ],
+        "back": "C",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "25) The lakes of northern Minnesota are home to many similar species of damselflies of the genus Enallagma that have apparently undergone speciation from ancestral stock since the last glacial retreat about 10,000 years ago. Sequencing which of the following would probably be most useful in sorting out evolutionary relationships among these closely related species?",
+        "options": [
+            "A) nuclear DNA",
+            "B) mitochondrial DNA",
+            "C) small nuclear RNA",
+            "D) ribosomal RNA",
+            "E) amino acids in proteins"
+        ],
+        "back": "B",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "26) Which statement represents the best explanation for the observation that the nuclear DNA of wolves and domestic dogs has a very high degree of sequence homology?",
+        "options": [
+            "A) Dogs and wolves have very similar morphologies.",
+            "B) Dogs and wolves belong to the same order.",
+            "C) Dogs and wolves are both members of the order Carnivora.",
+            "D) Dogs and wolves shared a common ancestor very recently."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "27) The reason that paralogous genes can diverge from each other within the same gene pool, whereas orthologous genes diverge only after gene pools are isolated from each other, is that",
+        "options": [
+            "A) having multiple copies of genes is essential for the occurrence of sympatric speciation in the wild.",
+            "B) paralogous genes can occur only in diploid species; thus, they are absent from most prokaryotes.",
+            "C) polyploidy is a necessary precondition for the occurrence of sympatric speciation in the wild.",
+            "D) having an extra copy of a gene permits modifications to the copy without loss of the original gene product."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "28) Paralogous genes that have lost the function of coding for any functional gene product are known as \"pseudogenes.\" Which of these is a valid prediction regarding the fate of pseudogenes over evolutionary time?",
+        "options": [
+            "A) They will be preserved by natural selection.",
+            "B) They will be highly conserved.",
+            "C) They will ultimately regain their original function.",
+            "D) They will be transformed into orthologous genes.",
+            "E) They will have relatively high mutation rates."
+        ],
+        "back": "E",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "29) The most important feature that permits a gene to act as a molecular clock is",
+        "options": [
+            "A) having a large number of base pairs.",
+            "B) having a larger proportion of exonic DNA than of intronic DNA.",
+            "C) having a reliable average rate of mutation.",
+            "D) its recent origin by a gene-duplication event.",
+            "E) its being acted upon by natural selection."
+        ],
+        "back": "C",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "30) Neutral theory proposes that",
+        "options": [
+            "A) molecular clocks are more reliable when the surrounding pH is close to 7.0.",
+            "B) most mutations of highly conserved DNA sequences should have no functional effect.",
+            "C) DNA is less susceptible to mutation when it codes for amino acid sequences whose side groups (or R groups) have a neutral pH.",
+            "D) DNA is less susceptible to mutation when it codes for amino acid sequences whose side groups (or R groups) have a neutral electrical charge.",
+            "E) a significant proportion of mutations are not acted upon by natural selection."
+        ],
+        "back": "E",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "31) When it acts upon a gene, which of the following processes consequently makes that gene an accurate molecular clock?",
+        "options": [
+            "A) transcription",
+            "B) directional natural selection",
+            "C) mutation",
+            "D) proofreading",
+            "E) reverse transcription"
+        ],
+        "back": "C",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "32) Which of these would, if it had acted upon a gene, prevent this gene from acting as a reliable molecular clock?",
+        "options": [
+            "A) neutral mutations",
+            "B) genetic drift",
+            "C) mutations within introns",
+            "D) natural selection",
+            "E) most substitution mutations involving an exonic codon's third position"
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "33) What kind of evidence has recently made it necessary to assign the prokaryotes to either of two different domains, rather than assigning all prokaryotes to the same kingdom?",
+        "options": [
+            "A) molecular",
+            "B) behavioral",
+            "C) nutritional",
+            "D) anatomical",
+            "E) ecological"
+        ],
+        "back": "A",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "34) What important criterion was used in the late 1960s to distinguish between the three multicellular eukaryotic kingdoms of the five-kingdom classification system?",
+        "options": [
+            "A) the number of cells present in individual organisms",
+            "B) the geological stratum in which fossils first appear",
+            "C) the nutritional modes they employ",
+            "D) the biogeographic province where each first appears",
+            "E) the features of their embryos"
+        ],
+        "back": "C",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "35) Members of which kingdom have cell walls and are all heterotrophic?",
+        "options": [
+            "A) Plantae",
+            "B) Fungi",
+            "C) Animalia",
+            "D) Protista",
+            "E) Monera"
+        ],
+        "back": "B",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "36) Which kingdom has been replaced with two domains?",
+        "options": [
+            "A) Plantae",
+            "B) Fungi",
+            "C) Animalia",
+            "D) Protista",
+            "E) Monera"
+        ],
+        "back": "E",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "37) Which eukaryotic kingdom is polyphyletic, and therefore unacceptable, based on cladistics?",
+        "options": [
+            "A) Plantae",
+            "B) Fungi",
+            "C) Animalia",
+            "D) Protista",
+            "E) Monera"
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "38) Which eukaryotic kingdom includes members that are the result of endosymbioses that included an ancient proteobacterium and an ancient cyanobacterium?",
+        "options": [
+            "A) Plantae",
+            "B) Fungi",
+            "C) Animalia",
+            "D) Protista",
+            "E) Monera"
+        ],
+        "back": "A",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "39) A large proportion of archaeans are extremophiles, so called because they inhabit extreme environments with high acidity, salinity, and/or temperature. Such environments are thought to have been much more common on the primitive Earth. Thus, modern extremophiles survive only in places that their ancestors became adapted to long ago. Which of the following is, consequently, a valid statement about modern extremophiles, assuming that their habitats have remained relatively unchanged?",
+        "options": [
+            "A) Among themselves, they should share relatively few ancestral traits, especially those that enabled ancestral forms to adapt to extreme conditions.",
+            "B) On a phylogenetic tree whose branch lengths are proportional to the amount of genetic change, the branches of the extremophiles should be shorter than the non-extremophilic archaeans.",
+            "C) They should contain genes that originated in eukaryotes that are the hosts for numerous species of bacteria.",
+            "D) They should currently be undergoing a high level of horizontal gene transfer with non-extremophilic archaeans."
+        ],
+        "back": "B",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "40) Which extinct species should be the best candidate to serve as the outgroup for the clade whose common ancestor occurs at position 2 in Figure 26.1?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "A",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/13/34/2522f4b0_13a997b09fc__8000_00000036.jpg"
+        ]
+    },
+    {
+        "front": "41) If Figure 26.1 is an accurate depiction of relatedness, then which of the following should be correct? 1. The entire tree is based on maximum parsimony. 2. If all species depicted here make up a taxon, this taxon is monophyletic. 3. The last common ancestor of species B and C occurred more recently than the last common ancestor of species D and E. 4. Species A is the direct ancestor of both species B and species C. 5. The species present at position 3 is ancestral to C, D, and E.",
+        "options": [
+            "A) 1 and 3",
+            "B) 3 and 4",
+            "C) 2, 3, and 4",
+            "D) 1, 2, and 3"
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/13/34/2522f4b0_13a997b09fc__8000_00000036.jpg"
+        ]
+    },
+    {
+        "front": "Traditionally, whales and hippopotamuses have been classified in different orders, the Cetacea and the Artiodactyla, respectively. Recent molecular evidence, however, indicates that the whales' closest living relatives are the hippos. This has caused some zoologists to lump the two orders together into a single clade, the Cetartiodactyla. There is no consensus on whether the Cetartiodactyla should be accorded order status or superorder status. This is because it remains unclear whether the whale lineage diverged from the lineage leading to the hippos before or after the other members of the order Artiodactyla (pigs, camels, etc.) diverged (see Figure 26.2). Figure 26.2 contrasts the \"Within the artiodactyls\" origin of the whale lineage with the \"Without the artiodactyls\" origin of the whale lineage 42) Placing whales and hippos in the same clade means",
+        "options": [
+            "A) that these organisms are phenotypically more similar to each other than to any others shown on the trees in Figure 26.2.",
+            "B) that their morphological similarities are probably homoplasies.",
+            "C) that they had a common ancestor.",
+            "D) that all three of the responses are correct.",
+            "E) that two of the responses are correct."
+        ],
+        "back": "C",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/21/42/2522f4b0_13a997b09fc__8000_00000044.jpg"
+        ]
+    },
+    {
+        "front": "Traditionally, whales and hippopotamuses have been classified in different orders, the Cetacea and the Artiodactyla, respectively. Recent molecular evidence, however, indicates that the whales' closest living relatives are the hippos. This has caused some zoologists to lump the two orders together into a single clade, the Cetartiodactyla. There is no consensus on whether the Cetartiodactyla should be accorded order status or superorder status. This is because it remains unclear whether the whale lineage diverged from the lineage leading to the hippos before or after the other members of the order Artiodactyla (pigs, camels, etc.) diverged (see Figure 26.2). Figure 26.2 contrasts the \"Within the artiodactyls\" origin of the whale lineage with the \"Without the artiodactyls\" origin of the whale lineage 43) If it turns out that the whale lineage diverged from the lineage leading to hippos after the divergence of the lineage leading to the pigs and other artiodactyls, and if the whales continue to be classified in the order Cetacea, then what becomes true of the order Artiodactyla?",
+        "options": [
+            "A) It becomes monophyletic.",
+            "B) It becomes paraphyletic.",
+            "C) It becomes polyphyletic.",
+            "D) It is incorporated into the order Cetacea."
+        ],
+        "back": "B",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/21/42/2522f4b0_13a997b09fc__8000_00000044.jpg"
+        ]
+    },
+    {
+        "front": "Traditionally, whales and hippopotamuses have been classified in different orders, the Cetacea and the Artiodactyla, respectively. Recent molecular evidence, however, indicates that the whales' closest living relatives are the hippos. This has caused some zoologists to lump the two orders together into a single clade, the Cetartiodactyla. There is no consensus on whether the Cetartiodactyla should be accorded order status or superorder status. This is because it remains unclear whether the whale lineage diverged from the lineage leading to the hippos before or after the other members of the order Artiodactyla (pigs, camels, etc.) diverged (see Figure 26.2). Figure 26.2 contrasts the \"Within the artiodactyls\" origin of the whale lineage with the \"Without the artiodactyls\" origin of the whale lineage 44) If it turns out that the whale lineage diverged from the lineage leading to hippos after the divergence of the lineage leading to the pigs and other artiodactyls, and if the whales continue to be classified in the order Cetacea, then what becomes true of the taxon Cetartiodactyla?",
+        "options": [
+            "A) It should be considered as one monophyletic order.",
+            "B) It should be considered a superorder that consists of two monophyletic orders.",
+            "C) It should be established as a paraphyletic order.",
+            "D) It should be thrown out or modified by taxonomists if classification is to reflect evolutionary history."
+        ],
+        "back": "A",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/21/42/2522f4b0_13a997b09fc__8000_00000044.jpg"
+        ]
+    },
+    {
+        "front": "Traditionally, whales and hippopotamuses have been classified in different orders, the Cetacea and the Artiodactyla, respectively. Recent molecular evidence, however, indicates that the whales' closest living relatives are the hippos. This has caused some zoologists to lump the two orders together into a single clade, the Cetartiodactyla. There is no consensus on whether the Cetartiodactyla should be accorded order status or superorder status. This is because it remains unclear whether the whale lineage diverged from the lineage leading to the hippos before or after the other members of the order Artiodactyla (pigs, camels, etc.) diverged (see Figure 26.2). Figure 26.2 contrasts the \"Within the artiodactyls\" origin of the whale lineage with the \"Without the artiodactyls\" origin of the whale lineage 45) One morphological feature of modern cetaceans is a vestigial pelvic girdle. If it is determined that cetacean lineage diverged from the artiodactyls' lineage after the divergence of pigs and other artiodactyla, then what should be true of the vestigial pelvic girdle of cetaceans?",
+        "options": [
+            "A) It should be considered a shared ancestral character of the cetartiodactyls.",
+            "B) It should be considered a shared derived character of the cetartiodactyls.",
+            "C) It should be considered a shared ancestral character of the cetaceans.",
+            "D) It should be considered a shared derived character of the cetaceans."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/21/42/2522f4b0_13a997b09fc__8000_00000044.jpg"
+        ]
+    },
+    {
+        "front": "Traditionally, whales and hippopotamuses have been classified in different orders, the Cetacea and the Artiodactyla, respectively. Recent molecular evidence, however, indicates that the whales' closest living relatives are the hippos. This has caused some zoologists to lump the two orders together into a single clade, the Cetartiodactyla. There is no consensus on whether the Cetartiodactyla should be accorded order status or superorder status. This is because it remains unclear whether the whale lineage diverged from the lineage leading to the hippos before or after the other members of the order Artiodactyla (pigs, camels, etc.) diverged (see Figure 26.2). Figure 26.2 contrasts the \"Within the artiodactyls\" origin of the whale lineage with the \"Without the artiodactyls\" origin of the whale lineage 46) If cetaceans are determined to have diverged from the lineage leading to the artiodactyls before the divergence of lineages leading to the modern artiodactyls (including hippos), then the cetaceans can be considered 1. a sister order to the order Artiodactyla. 2. an ingroup of the order Artiodactyla. 3. the common ancestor of the order Artiodactyla.",
+        "options": [
+            "A) 1 only",
+            "B) 3 only",
+            "C) 1 and 2",
+            "D) 1 and 3",
+            "E) 2 and 3"
+        ],
+        "back": "A",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/21/42/2522f4b0_13a997b09fc__8000_00000044.jpg"
+        ]
+    },
+    {
+        "front": "Traditionally, whales and hippopotamuses have been classified in different orders, the Cetacea and the Artiodactyla, respectively. Recent molecular evidence, however, indicates that the whales' closest living relatives are the hippos. This has caused some zoologists to lump the two orders together into a single clade, the Cetartiodactyla. There is no consensus on whether the Cetartiodactyla should be accorded order status or superorder status. This is because it remains unclear whether the whale lineage diverged from the lineage leading to the hippos before or after the other members of the order Artiodactyla (pigs, camels, etc.) diverged (see Figure 26.2). Figure 26.2 contrasts the \"Within the artiodactyls\" origin of the whale lineage with the \"Without the artiodactyls\" origin of the whale lineage 47) It was once thought that cetaceans had evolved from an extinct group of mammals called the mesonychids. If, in the future, it is determined that some organisms currently classified as cetaceans did actually evolve from mesonychids, whereas other cetaceans evolved from artiodactyl stock, then what will be true of the order Cetacea?",
+        "options": [
+            "A) It will be paraphyletic.",
+            "B) It will be polyphyletic.",
+            "C) It will need to be thrown out or modified if classification is to reflect evolutionary history.",
+            "D) Two of the responses are correct."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/21/42/2522f4b0_13a997b09fc__8000_00000044.jpg"
+        ]
+    },
+    {
+        "front": "Traditionally, whales and hippopotamuses have been classified in different orders, the Cetacea and the Artiodactyla, respectively. Recent molecular evidence, however, indicates that the whales' closest living relatives are the hippos. This has caused some zoologists to lump the two orders together into a single clade, the Cetartiodactyla. There is no consensus on whether the Cetartiodactyla should be accorded order status or superorder status. This is because it remains unclear whether the whale lineage diverged from the lineage leading to the hippos before or after the other members of the order Artiodactyla (pigs, camels, etc.) diverged (see Figure 26.2). Figure 26.2 contrasts the \"Within the artiodactyls\" origin of the whale lineage with the \"Without the artiodactyls\" origin of the whale lineage 48) What can be properly inferred from Figure 26.2?",
+        "options": [
+            "A) In the \"Without\" tree, pigs are more distantly related to hippos than is depicted in the \"Within\" tree.",
+            "B) In the \"Without\" tree, pigs are more closely related to hippos than are whales.",
+            "C) In the \"Within\" tree, pigs are more closely related to whales than they are to hippos.",
+            "D) The \"Without\" tree is more consistent with molecular evidence than is the \"Within\" tree.",
+            "E) In the \"Within\" tree, all artiodactyls, including hippos, are more closely related to each other than any are to the whales."
+        ],
+        "back": "B",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/21/42/2522f4b0_13a997b09fc__8000_00000044.jpg"
+        ]
+    },
+    {
+        "front": "Figure 26.3. Morphologically, species A is very similar to four other species, B—E. Yet the nucleotide sequence deep within an intron in a gene shared by all five of these eukaryotic species is quite different in species A compared to that of the other four species when we study the nucleotides present at each position. 49) If the sequence of species A in Figure 26.3 differs from that of the other four species due to simple misalignment, then what should the computer software find when it compares the sequence of species A to those of the other four species?",
+        "options": [
+            "A) The nucleotide at position 1 should be different in species A, but the same in species BE.",
+            "B) The nucleotide sequence of species A should have long sequences that are nearly identical to those of the other species, but offset in terms of position number.",
+            "C) The sequences of species BE, though different from that of species A, should be identical to each other, without exception.",
+            "D) If the software compares the amino acid sequence of the actual protein product rather than the nucleotide sequence, then the amino acid sequences of species BE should be similar to each other, but very different from that of species A.",
+            "E) Computer software is useless in determining sequences of introns; it can only be used with exons."
+        ],
+        "back": "B",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/22/43/2522f4b0_13a997b09fc__8000_00000045.jpg"
+        ]
+    },
+    {
+        "front": "50) Which of the following items does not necessarily exist in a simple linear relationship with the number of gene-duplication events when placed as the label on the vertical axis of the following graph?",
+        "options": [
+            "A) number of genes",
+            "B) number of DNA base pairs",
+            "C) genome size",
+            "D) mass (in picograms) of DNA",
+            "E) phenotypic complexity"
+        ],
+        "back": "E",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/23/44/2522f4b0_13a997b09fc__8000_00000046.jpg"
+        ]
+    },
+    {
+        "front": "The following question refer to this phylogenetic tree, depicting the origins of life and of the three domains. Horizontal lines indicate instances of gene or genome transfer. Figure 26.4. A possible phylogenetic tree for the three domains of life. 51) If the early history of life on Earth is accurately depicted by Figure 26.4, then which statement is least in agreement with the hypothesis proposed by this tree?",
+        "options": [
+            "A) The last universal common ancestor of all extant species is better described as a community of organisms, rather than an individual species.",
+            "B) The origin of the three domains appears as a polytomy.",
+            "C) Archaean genomes should contain genes that originated in bacteria, and vice versa.",
+            "D) Eukaryotes are more closely related to archaeans than to bacteria."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/24/45/2522f4b0_13a997b09fc__8000_00000047.jpg"
+        ]
+    },
+    {
+        "front": "The following question refer to this phylogenetic tree, depicting the origins of life and of the three domains. Horizontal lines indicate instances of gene or genome transfer. Figure 26.4. A possible phylogenetic tree for the three domains of life. 52) Which of these processes can be included among those responsible for the horizontal components of Figure 26.4?",
+        "options": [
+            "A) endosymbiosis",
+            "B) mitosis",
+            "C) binary fission",
+            "D) point mutations",
+            "E) S phase of the cell cycle"
+        ],
+        "back": "A",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/24/45/2522f4b0_13a997b09fc__8000_00000047.jpg"
+        ]
+    },
+    {
+        "front": "The following question refer to this phylogenetic tree, depicting the origins of life and of the three domains. Horizontal lines indicate instances of gene or genome transfer. Figure 26.4. A possible phylogenetic tree for the three domains of life. 53) Which portion of Figure 26.4 may ultimately be better depicted as a \"ring\"?",
+        "options": [
+            "A) the bacterial lineage",
+            "B) the archaean lineage",
+            "C) the eukaryotic lineage",
+            "D) the trunk of the tree",
+            "E) the part corresponding to the first living cell on Earth"
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/24/45/2522f4b0_13a997b09fc__8000_00000047.jpg"
+        ]
+    },
+    {
+        "front": "Figure 26.5. Humans, chimpanzees, gorillas, and orangutans are members of a clade called the great apes, which shared a common ancestor about 18 million years ago (Figure 26.4). Gibbons and siamangs comprise a clade called the lesser apes. Tree-branch lengths indicate elapsed time. 54) The great apes comprise the family Hominidae, whereas the lesser apes comprise the family Hylobatidae. If the extant organisms on the far right side of Figure 26.5 comprise the next-most exclusive (i.e., specific) taxon, then they comprise different",
+        "options": [
+            "A) subspecies.",
+            "B) species.",
+            "C) genuses.",
+            "D) genera.",
+            "E) orders."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/27/48/2522f4b0_13a997b09fc__8000_00000050.jpg"
+        ]
+    },
+    {
+        "front": "Figure 26.5. Humans, chimpanzees, gorillas, and orangutans are members of a clade called the great apes, which shared a common ancestor about 18 million years ago (Figure 26.4). Gibbons and siamangs comprise a clade called the lesser apes. Tree-branch lengths indicate elapsed time. 55) Together, the lesser apes and great apes shared a common ancestor most recently with other members of their",
+        "options": [
+            "A) order.",
+            "B) class.",
+            "C) subclass.",
+            "D) subfamily.",
+            "E) family."
+        ],
+        "back": "A",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/27/48/2522f4b0_13a997b09fc__8000_00000050.jpg"
+        ]
+    },
+    {
+        "front": "Figure 26.5. Humans, chimpanzees, gorillas, and orangutans are members of a clade called the great apes, which shared a common ancestor about 18 million years ago (Figure 26.4). Gibbons and siamangs comprise a clade called the lesser apes. Tree-branch lengths indicate elapsed time. 56) From Figure 26.5, to which of the extant apes are orangutans most closely related?",
+        "options": [
+            "A) gibbons and siamangs",
+            "B) Dryopithecus and Ouranopithecus",
+            "C) gorillas",
+            "D) chimps",
+            "E) chimps, gorillas, and humans"
+        ],
+        "back": "E",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/27/48/2522f4b0_13a997b09fc__8000_00000050.jpg"
+        ]
+    },
+    {
+        "front": "Figure 26.5. Humans, chimpanzees, gorillas, and orangutans are members of a clade called the great apes, which shared a common ancestor about 18 million years ago (Figure 26.4). Gibbons and siamangs comprise a clade called the lesser apes. Tree-branch lengths indicate elapsed time. 57) Assuming chimps and gorillas are humans' closest relatives, removing humans from the great ape clade and placing them in a different clade has the effect of making the phylogenetic tree of the great apes",
+        "options": [
+            "A) polyphyletic.",
+            "B) paraphyletic.",
+            "C) monophyletic.",
+            "D) conform with Linnaeus' view of great ape phylogeny."
+        ],
+        "back": "B",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/27/48/2522f4b0_13a997b09fc__8000_00000050.jpg"
+        ]
+    },
+    {
+        "front": "Figure 26.5. Humans, chimpanzees, gorillas, and orangutans are members of a clade called the great apes, which shared a common ancestor about 18 million years ago (Figure 26.4). Gibbons and siamangs comprise a clade called the lesser apes. Tree-branch lengths indicate elapsed time. 58) What is true of the phylogeny in Figure 26.5? 1.It is rooted. 2. The gibbons and siamangs represent an outgroup of the great apes. 3. Chimps and humans are the closest extant sister taxa depicted here. 4. It is absolute, meaning free of error. 5. The last common ancestor of the great apes lived about 14 million years ago.",
+        "options": [
+            "A) 1, 2, and 3",
+            "B) 1, 2, and 5",
+            "C) 1, 2, 3, and 4",
+            "D) 1, 2, 3, and 5",
+            "E) 2, 3, 4, and 5"
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/27/48/2522f4b0_13a997b09fc__8000_00000050.jpg"
+        ]
+    },
+    {
+        "front": "Figure 26.5. Humans, chimpanzees, gorillas, and orangutans are members of a clade called the great apes, which shared a common ancestor about 18 million years ago (Figure 26.4). Gibbons and siamangs comprise a clade called the lesser apes. Tree-branch lengths indicate elapsed time. 59) From Figure 26.5, what is true of Dryopithecus and Ouranopithecus? 1. They were great apes. 2. They shared a common ancestor more recently with the orangutans than with the other great apes. 3. They appear to be part of a polytomy. 4. Their closest common ancestor with all of the extant great apes is the one they share with the orangutans. 5. They were about as different from each other genetically as humans are different from chimps.",
+        "options": [
+            "A) 1, 2, and 4",
+            "B) 1, 3, and 4",
+            "C) 2, 4, and 5",
+            "D) 1, 2, 3, and 4",
+            "E) 2, 3, 4, and 5"
+        ],
+        "back": "B",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/27/48/2522f4b0_13a997b09fc__8000_00000050.jpg"
+        ]
+    },
+    {
+        "front": "Figure 26.5. Humans, chimpanzees, gorillas, and orangutans are members of a clade called the great apes, which shared a common ancestor about 18 million years ago (Figure 26.4). Gibbons and siamangs comprise a clade called the lesser apes. Tree-branch lengths indicate elapsed time. 60) From Figure 26.5, which other event occurred closest in time to the divergence of gorillas from the lineage that led to humans and chimps?",
+        "options": [
+            "A) the divergence of chimps and humans",
+            "B) the divergence of Dryopithecus and Ouranopithecus",
+            "C) the divergence of gibbons and siamangs",
+            "D) could be either the divergence of chimps and humans OR of Dryopithecus and Ouranopithecus",
+            "E) could be either the divergence of chimps and humans OR of gibbons and siamangs"
+        ],
+        "back": "E",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/27/48/2522f4b0_13a997b09fc__8000_00000050.jpg"
+        ]
+    },
+    {
+        "front": "Figure 26.5. Humans, chimpanzees, gorillas, and orangutans are members of a clade called the great apes, which shared a common ancestor about 18 million years ago (Figure 26.4). Gibbons and siamangs comprise a clade called the lesser apes. Tree-branch lengths indicate elapsed time. 61) Which of these can be properly inferred from the phylogeny in Figure 26.5?",
+        "options": [
+            "A) Chimps and humans evolved from gorillas.",
+            "B) The lesser apes are genetically more distinct from each other than the members of the great apes are from each other.",
+            "C) Orangutans have existed for about 14 million years.",
+            "D) Chimps and humans should share more homoplasies than should chimps and gorillas.",
+            "E) Together, the lesser apes and great apes form a clade."
+        ],
+        "back": "E",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/27/48/2522f4b0_13a997b09fc__8000_00000050.jpg"
+        ]
+    },
+    {
+        "front": "Traditionally, zoologists have placed birds in their own class, Aves. More recently, molecular evidence has shown that birds are more closely related to reptiles than their anatomy reveals. Genetically, birds are more closely related to crocodiles than crocodiles are to turtles. Thus, bird anatomy has become highly modified as they have adapted to flight, without their genes having undergone nearly as much change. 62) Taxonomically, what should be done with the birds?",
+        "options": [
+            "A) The traditional stance is correct. Such dramatic morphological change as undergone by birds merits that the birds be placed in their own order, separate from the reptiles.",
+            "B) The birds should be reclassified, and their new taxon should be the subclass Aves. Genetic similarity trumps morphological dissimilarity.",
+            "C) The rest of the reptiles should be reclassified as a subclass within the class Aves.",
+            "D) Science is consensual. Taxonomy is a science. Variant classification schemes involving the birds should be tolerated until consensus is reached."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "Traditionally, zoologists have placed birds in their own class, Aves. More recently, molecular evidence has shown that birds are more closely related to reptiles than their anatomy reveals. Genetically, birds are more closely related to crocodiles than crocodiles are to turtles. Thus, bird anatomy has become highly modified as they have adapted to flight, without their genes having undergone nearly as much change. 63) Traditional zoologists have long agreed that birds evolved from dinosaurs. What keeps such zoologists from agreeing that birds, like dinosaurs, should be considered reptiles?",
+        "options": [
+            "A) There is not yet enough evidence to be sure.",
+            "B) Stubbornness, insofar as they are unwilling to change their thinking when new data warrants it.",
+            "C) They deny the validity of genetic molecular data.",
+            "D) They differ in what they consider to be important traits for assigning organisms to the class Reptilia."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "Traditionally, zoologists have placed birds in their own class, Aves. More recently, molecular evidence has shown that birds are more closely related to reptiles than their anatomy reveals. Genetically, birds are more closely related to crocodiles than crocodiles are to turtles. Thus, bird anatomy has become highly modified as they have adapted to flight, without their genes having undergone nearly as much change. 64) For a proponent of PhyloCode classification, what is true of the reptile clade if birds are not included in it?",
+        "options": [
+            "A) It becomes paraphyletic and, thus, an invalid reflection of evolutionary history.",
+            "B) It becomes a subclass, instead of a class.",
+            "C) It becomes a superclass, whereas the birds remain a class.",
+            "D) PhyloCode does not concern itself with what is, or is not, a clade."
+        ],
+        "back": "A",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "The next question refer to the following table, which compares the % sequence homology of four different parts (two introns and two exons) of a gene that is found in five different eukaryotic species. Each part is numbered to indicate its distance from the promoter (e.g., Intron I is the one closest to the promoter). The data reported for species A were obtained by comparing DNA from one member of species A to another member of species A. 65) Based on the tabular data, and assuming that time advances vertically, which cladogram (a type of phylogenetic tree) is the most likely depiction of the evolutionary relationships among these five species? A. SEE IMAGE B. SEE IMAGE C. SEE IMAGE D. SEE IMAGE",
+        "options": [],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/35/56/2522f4b0_13a997b09fc__8000_00000059.jpg"
+        ]
+    },
+    {
+        "front": "The next question refer to the following table, which compares the % sequence homology of four different parts (two introns and two exons) of a gene that is found in five different eukaryotic species. Each part is numbered to indicate its distance from the promoter (e.g., Intron I is the one closest to the promoter). The data reported for species A were obtained by comparing DNA from one member of species A to another member of species A. 66) Which of the following is the best explanation for the high degree of sequence homology observed in Exon I among these five species?",
+        "options": [
+            "A) It is the most-upstream exon of this gene.",
+            "B) Due to alternative gene splicing, this exon is often treated as an intron.",
+            "C) It codes for a polypeptide domain that has a crucial function.",
+            "D) These five species must actually constitute a single species.",
+            "E) This exon is rich in G-C base pairs; thus, it is more stable."
+        ],
+        "back": "C",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/37/58/2522f4b0_13a997b09fc__8000_00000061.jpg"
+        ]
+    },
+    {
+        "front": "The next question refer to the following table, which compares the % sequence homology of four different parts (two introns and two exons) of a gene that is found in five different eukaryotic species. Each part is numbered to indicate its distance from the promoter (e.g., Intron I is the one closest to the promoter). The data reported for species A were obtained by comparing DNA from one member of species A to another member of species A. 67) Regarding these sequence homology data, the principle of maximum parsimony would be applicable in",
+        "options": [
+            "A) distinguishing introns from exons.",
+            "B) determining degree of sequence homology.",
+            "C) selecting appropriate genes for comparison among species.",
+            "D) inferring evolutionary relatedness from the number of sequence differences."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/37/58/2522f4b0_13a997b09fc__8000_00000061.jpg"
+        ]
+    },
+    {
+        "front": "The next question refer to the following table, which compares the % sequence homology of four different parts (two introns and two exons) of a gene that is found in five different eukaryotic species. Each part is numbered to indicate its distance from the promoter (e.g., Intron I is the one closest to the promoter). The data reported for species A were obtained by comparing DNA from one member of species A to another member of species A. 68) Which of these four gene parts should allow the construction of the most accurate phylogenetic tree, assuming that this is the only part of the gene that has acted as a reliable molecular clock?",
+        "options": [
+            "A) Intron I",
+            "B) Exon I",
+            "C) Intron VI",
+            "D) Exon V"
+        ],
+        "back": "C",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/37/58/2522f4b0_13a997b09fc__8000_00000061.jpg"
+        ]
+    },
+    {
+        "front": "69) Three living species X, Y, and Z share a common ancestor T, as do extinct species U and V. A grouping that consists of species T, X, Y, and Z (but not U or V) makes up",
+        "options": [
+            "A) a valid taxon.",
+            "B) a monophyletic clade.",
+            "C) an ingroup, with species U as the outgroup.",
+            "D) a paraphyletic group.",
+            "E) a polyphyletic group."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "70) In a comparison of birds and mammals, having four limbs is",
+        "options": [
+            "A) a shared ancestral character.",
+            "B) a shared derived character.",
+            "C) a character useful for distinguishing birds from mammals.",
+            "D) an example of analogy rather than homology.",
+            "E) a character useful for sorting bird species."
+        ],
+        "back": "A",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "71) To apply parsimony to constructing a phylogenetic tree,",
+        "options": [
+            "A) choose the tree that assumes all evolutionary changes are equally probable.",
+            "B) choose the tree in which the branch points are based on as many shared derived characters as possible.",
+            "C) base phylogenetic trees only on the fossil record, as this provides the simplest explanation for evolution.",
+            "D) choose the tree that represents the fewest evolutionary changes, either in DNA sequences or morphology.",
+            "E) choose the tree with the fewest branch points."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    },
+    {
+        "front": "72) Based on this tree, which statement is not correct?",
+        "options": [
+            "A) The salamander lineage is a basal taxon.",
+            "B) Salamanders are a sister group to the group containing lizards, goats, and humans.",
+            "C) Salamanders are as closely related to goats as to humans.",
+            "D) Lizards are more closely related to salamanders than to humans."
+        ],
+        "back": "D",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": [
+            "https://web.archive.org/web/20170801150122im_/https://www.easynotecards.com/uploads/39/60/2522f4b0_13a997b09fc__8000_00000063.jpg"
+        ]
+    },
+    {
+        "front": "73) If you were using cladistics to build a phylogenetic tree of cats, which of the following would be the best outgroup?",
+        "options": [
+            "A) lion",
+            "B) domestic cat",
+            "C) wolf",
+            "D) leopard",
+            "E) tiger"
+        ],
+        "back": "C",
+        "unit": "Unit 26",
+        "chapter": "Chapter 26",
+        "images": []
+    }
+]

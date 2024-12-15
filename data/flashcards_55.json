@@ -1,0 +1,1149 @@
+[
+    {
+        "front": "1) How do the Taylor Glacier bacteria produce their energy?",
+        "options": [
+            "A) photosynthesis",
+            "B) heterotrophism",
+            "C) chemoautotrophism",
+            "D) thermophobism",
+            "E) chemosynthesis"
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "2) In ecosystems, why is the term cycling used to describe material transfer, whereas the term flow is used for energy exchange?",
+        "options": [
+            "A) Materials are repeatedly used, but energy flows through and out of ecosystems.",
+            "B) Both material and energy are recycled and are then transferred to other ecosystems as in a flow.",
+            "C) Materials are cycled into ecosystems from other ecosystems, but energy constantly flows within the ecosystem.",
+            "D) Both material and energy flow in a never-ending stream within an ecosystem.",
+            "E) None of the choices is correct."
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "3) Which statement most accurately describes how matter and energy are used in ecosystems?",
+        "options": [
+            "A) Matter is cycled through ecosystems; energy is not.",
+            "B) Energy is cycled through ecosystems; matter is not.",
+            "C) Energy can be converted into matter; matter cannot be converted into energy.",
+            "D) Matter can be converted into energy; energy cannot be converted into matter.",
+            "E) Matter is used in ecosystems; energy is not."
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "4) The law of conservation of matter states that matter cannot be created, yet matter is sometimes gained or lost to an ecosystem. What is the reason for this seeming contradiction?",
+        "options": [
+            "A) Chemoautotrophic organisms can convert matter to energy.",
+            "B) Matter can be moved in/out of an ecosystem from/to another ecosystem.",
+            "C) Photosynthetic organisms convert solar energy to sugars.",
+            "D) Detrivores convert matter to energy.",
+            "E) Heterotrophs convert heat to energy."
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "5) Photosynthetic organisms are unique to most ecosystems because they",
+        "options": [
+            "A) synthesize organic compounds they obtain from decaying heterotrophs.",
+            "B) synthesize inorganic compounds from organic compounds.",
+            "C) use light energy to synthesize organic compounds.",
+            "D) use chemical energy to synthesize organic compounds.",
+            "E) convert light energy into matter."
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "6) A cow's herbivorous diet indicates that it is a(n)",
+        "options": [
+            "A) primary consumer.",
+            "B) secondary consumer.",
+            "C) decomposer.",
+            "D) autotroph.",
+            "E) producer."
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "7) To recycle nutrients, an ecosystem must have, at a minimum,",
+        "options": [
+            "A) producers.",
+            "B) producers and decomposers.",
+            "C) producers, primary consumers, and decomposers.",
+            "D) producers, primary consumers, secondary consumers, and decomposers.",
+            "E) producers, primary consumers, secondary consumers, top carnivores, and decomposers."
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "8) Which of the following terms encompasses all of the others?",
+        "options": [
+            "A) heterotrophs",
+            "B) herbivores",
+            "C) carnivores",
+            "D) primary consumers",
+            "E) secondary consumers"
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "9) Many homeowners mow their lawns during the summer and collect the clippings, which are then hauled to the local landfill. Which of the following actions would most benefit the suburban ecosystem?",
+        "options": [
+            "A) Allow sheep to graze the lawn and then collect the sheep's feces to be delivered to the landfill.",
+            "B) Collect the lawn clippings and burn them.",
+            "C) Collect the lawn clippings and add them to a compost pile, don't collect the clippings and let them decompose into the lawn, or apply composted clippings to the lawn.",
+            "D) Collect the clippings and wash them into the nearest storm sewer that feeds into the local lake.",
+            "E) Dig up the lawn and cover the yard with asphalt."
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "10) Which of the following is an example of an ecosystem?",
+        "options": [
+            "A) All of the brook trout in a 500 hectare² river drainage system.",
+            "B) The plants, animals, and decomposers that inhabit an alpine meadow.",
+            "C) A pond and all of the plant and animal species that live in it.",
+            "D) The intricate interactions of the various plant and animal species on a savanna during a drought.",
+            "E) Interactions between all of the organisms and their physical environment in a tropical rain forest."
+        ],
+        "back": "E",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "11) If the sun were to suddenly stop providing energy to Earth, most ecosystems would vanish. Which of the following ecosystems would likely survive the longest after this hypothetical disaster?",
+        "options": [
+            "A) tropical rain forest",
+            "B) tundra",
+            "C) benthic ocean",
+            "D) grassland",
+            "E) desert"
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "12) Which of the following is true of detrivores?",
+        "options": [
+            "A) They recycle chemical elements directly back to primary consumers.",
+            "B) They synthesize organic molecules that are used by primary producers.",
+            "C) They convert organic materials from all trophic levels to inorganic compounds usable by primary producers.",
+            "D) They secrete enzymes that convert the organic molecules of detritus into CO₂ and H₂O.",
+            "E) Some species are autotrophic, while others are heterotrophic."
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "13) The major role of detrivores in ecosystems is to",
+        "options": [
+            "A) provide a nutritional resource for heterotrophs.",
+            "B) recycle chemical nutrients to a form capable of being used by autotrophs.",
+            "C) prevent the buildup of the organic remains of organisms, feces, and so on.",
+            "D) return energy lost to the ecosystem by other organisms."
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "14) Approximately 1% of the solar radiation that strikes a plant is converted into the chemical bond energy of sugars. Why is this amount so low?",
+        "options": [
+            "A) Approximately 99% of the solar radiation is converted to heat energy.",
+            "B) Only 1% of the wavelengths of visible light are absorbed by photosynthetic pigments.",
+            "C) Most solar energy strikes water and land surfaces.",
+            "D) Approximately 99% of the solar radiation is reflected.",
+            "E) Only the green wavelengths are absorbed by plants for photosynthesis."
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "15) What percentage of solar radiation striking a plant is converted into chemical energy?",
+        "options": [
+            "A) 1%",
+            "B) 10%",
+            "C) 25%",
+            "D) 50%",
+            "E) 100%"
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "16) Subtraction of which of the following will convert gross primary productivity into net primary productivity?",
+        "options": [
+            "A) the energy contained in the standing crop",
+            "B) the energy used by heterotrophs in respiration",
+            "C) the energy used by autotrophs in respiration",
+            "D) the energy fixed by photosynthesis",
+            "E) all solar energy"
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "17) Which of these ecosystems accounts for the largest amount of Earth's net primary productivity?",
+        "options": [
+            "A) tundra",
+            "B) savanna",
+            "C) salt marsh",
+            "D) open ocean",
+            "E) tropical rain forest"
+        ],
+        "back": "D",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "18) Which of these ecosystems has the highest net primary productivity per square meter?",
+        "options": [
+            "A) savanna",
+            "B) open ocean",
+            "C) boreal forest",
+            "D) tropical rain forest",
+            "E) temperate forest"
+        ],
+        "back": "D",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "19) Which data is most useful to measure primary productivity in a terrestrial ecosystem?",
+        "options": [
+            "A) temperature readings",
+            "B) potential evapotranspiration",
+            "C) intensity of solar radiation",
+            "D) annual precipitation",
+            "E) amount of carbon fixed"
+        ],
+        "back": "D",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "20) Which of the following is a true statement regarding mineral nutrients in soils and their implication for primary productivity?",
+        "options": [
+            "A) Globally, phosphorous availability is most limiting to primary productivity.",
+            "B) Adding a nonlimiting nutrient will stimulate primary productivity.",
+            "C) Adding more of a limiting nutrient will increase primary productivity, indefinitely.",
+            "D) Phosphorous is sometimes unavailable to producers due to leaching.",
+            "E) Alkaline soils are more productive than acidic soils."
+        ],
+        "back": "D",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "21) The total biomass of photosynthetic autotrophs present in an ecosystem is known as",
+        "options": [
+            "A) gross primary productivity.",
+            "B) standing crop.",
+            "C) net primary productivity.",
+            "D) secondary productivity.",
+            "E) trophic efficiency."
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "22) How is it that the open ocean produces the highest net primary productivity of Earth's ecosystems, yet net primary productivity per square meter is relatively low?",
+        "options": [
+            "A) Oceans contain greater concentrations of nutrients compared to other ecosystems.",
+            "B) Oceans receive a lesser amount of solar energy per unit area.",
+            "C) Oceans have the largest area of all the ecosystems on Earth.",
+            "D) Ocean ecosystems have less species diversity.",
+            "E) Oceanic producers are generally much smaller than oceanic consumers."
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "23) Why is net primary production (NPP) a more useful measurement to an ecosystem ecologist than gross primary production (GPP)?",
+        "options": [
+            "A) NPP can be expressed in energy/unit of area/unit of time.",
+            "B) NPP can be expressed in terms of carbon fixed by photosynthesis for an entire ecosystem.",
+            "C) NPP represents the stored chemical energy that is available to consumers in the ecosystem.",
+            "D) NPP is the same as the standing crop.",
+            "E) NPP shows the rate at which the standing crop is utilized by consumers."
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "24) How is net ecosystem production (NEP) typically estimated in ecosystems?",
+        "options": [
+            "A) the ratio of producers to consumers",
+            "B) the amount of heat energy released by the ecosystem",
+            "C) the net flux of CO₂ or O₂ in or out of an ecosystem",
+            "D) the rate of decomposition by detrivores",
+            "E) the annual total of incoming solar radiation per unit of area"
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "25) Aquatic primary productivity is most limited by which of the following?",
+        "options": [
+            "A) light and nutrient availability",
+            "B) predation by primary consumers",
+            "C) increased pressure with depth",
+            "D) pollution",
+            "E) temperature"
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "26) Aquatic ecosystems are least likely to be limited by which of the following nutrients?",
+        "options": [
+            "A) nitrogen",
+            "B) carbon",
+            "C) phosphorus",
+            "D) iron",
+            "E) zinc"
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "27) What is the primary limiting factor for aquatic productivity?",
+        "options": [
+            "A) pressure",
+            "B) lack of nutrients",
+            "C) light availability",
+            "D) herbivores",
+            "E) competition"
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "28) Which of the following ecosystems would likely have a larger net primary productivity/hectare and why?",
+        "options": [
+            "A) open ocean because of the total biomass of photosynthetic autotrophs",
+            "B) grassland because of the small standing crop biomass that results from consumption by herbivores and rapid decomposition",
+            "C) tropical rain forest because of the massive standing crop biomass and species diversity",
+            "D) cave due to the lack of photosynthetic autotrophs",
+            "E) tundra because of the incredibly rapid period of growth during the summer season"
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "29) How is it that satellites can detect differences in primary productivity on Earth?",
+        "options": [
+            "A) Photosynthetic organisms absorb more visible light in the 350—750 wavelengths.",
+            "B) Satellite instruments can detect reflectance patterns of the photosynthetic organisms of different ecosystems.",
+            "C) Sensitive satellite instruments can measure the amount of NADPH produced in the summative light reactions of different ecosystems.",
+            "D) Satellites detect differences by comparing the wavelengths of light captured and reflected by photoautotrophs to the amount of light reaching different ecosystems.",
+            "E) Satellites detect differences by measuring the amount of water vapor emitted by transpiring producers."
+        ],
+        "back": "D",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "30) Which of the following lists of organisms is ranked in correct order from lowest to highest percent in production efficiency?",
+        "options": [
+            "A) mammals, fish, insects",
+            "B) insects, fish, mammals",
+            "C) fish, insects, mammals",
+            "D) insects, mammals, fish",
+            "E) mammals, insects, fish"
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "31) A 3-hectare lake in the American Midwest suddenly has succumbed to an algal bloom. What is the likely cause of eutrophication in freshwater ecosystems, such as this one?",
+        "options": [
+            "A) increased solar radiation",
+            "B) introduction of non-native tertiary consumer fish",
+            "C) nutrient runoff",
+            "D) accidental introduction of a prolific culture of algae",
+            "E) iron dust blowing into the lake"
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "32) The amount of chemical energy in consumers' food that is converted to their own new biomass during a given time period is known as which of the following?",
+        "options": [
+            "A) biomass",
+            "B) standing crop",
+            "C) biomagnification",
+            "D) primary production",
+            "E) secondary production"
+        ],
+        "back": "E",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "33) What is secondary production?",
+        "options": [
+            "A) energy converted by secondary consumers from primary consumers",
+            "B) solar energy that is converted to chemical energy by photosynthesis",
+            "C) food that is converted to new biomass by consumers",
+            "D) energy that is not used by consumers for growth and reproduction",
+            "E) growth that takes place during the second year of life in consumers"
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "34) How does inefficient transfer of energy among trophic levels result in the typically high endangerment status of many top-level predators?",
+        "options": [
+            "A) Top-level predators are destined to have small populations that are sparsely distributed.",
+            "B) Predators have relatively large population sizes.",
+            "C) Predators are more disease-prone than animals at lower trophic levels.",
+            "D) Predators have short life spans and short reproductive periods.",
+            "E) Top-level predators are more likely to be stricken with parasites."
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "35) Trophic efficiency is",
+        "options": [
+            "A) the ratio of net secondary production to assimilation of primary production.",
+            "B) the percentage of production transferred from one trophic level to the next.",
+            "C) a measure of how nutrients are cycled from one trophic level to the next.",
+            "D) usually greater than production efficiencies.",
+            "E) about 90% in most ecosystems."
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "36) Owls eat rats, mice, shrews, and small birds. Assume that, over a period of time, an owl consumes 5,000 J of animal material. The owl loses 2,300 J in feces and owl pellets and uses 2,500 J for cellular respiration. What is the primary efficiency of this owl?",
+        "options": [
+            "A) 0.02%",
+            "B) 1%",
+            "C) 4%",
+            "D) 10%",
+            "E) 40%"
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "37) Why does a vegetarian leave a smaller ecological footprint than an omnivore?",
+        "options": [
+            "A) Fewer animals are slaughtered for human consumption.",
+            "B) There is an excess of plant biomass in all terrestrial ecosystems.",
+            "C) Vegetarians need to ingest less chemical energy than omnivores.",
+            "D) Vegetarians require less protein than do omnivores.",
+            "E) Eating meat is an inefficient way of acquiring photosynthetic productivity."
+        ],
+        "back": "E",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "38) For most terrestrial ecosystems, pyramids of numbers, biomass, and energy are essentially the samethey have a broad base and a narrow top. The primary reason for this pattern is that",
+        "options": [
+            "A) secondary consumers and top carnivores require less energy than producers.",
+            "B) at each step, energy is lost from the system as a result of keeping the organisms alive.",
+            "C) as matter passes through ecosystems, some of it is lost to the environment.",
+            "D) biomagnification of toxic materials limits the secondary consumers and top carnivores.",
+            "E) top carnivores and secondary consumers have a more general diet than primary producers."
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "39) Which of the following is primarily responsible for limiting the number of trophic levels in most ecosystems?",
+        "options": [
+            "A) Many primary and higher-order consumers are opportunistic feeders.",
+            "B) Decomposers compete with higher-order consumers for nutrients and energy.",
+            "C) Nutrient cycles involve both abiotic and biotic components of ecosystems.",
+            "D) Nutrient cycling rates tend to be limited by decomposition.",
+            "E) Energy transfer between tropic levels is in almost all cases less than 20% efficient."
+        ],
+        "back": "E",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "40) Which trophic level is most vulnerable to extinction?",
+        "options": [
+            "A) producer level",
+            "B) primary consumer level",
+            "C) secondary consumer level",
+            "D) tertiary consumer level",
+            "E) decomposer level"
+        ],
+        "back": "D",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "41) Secondary consumers that can eat only primary consumers receive what percent of the energy fixed by primary producers in a typical field ecosystem?",
+        "options": [
+            "A) 0.1%",
+            "B) 1%",
+            "C) 10%",
+            "D) 20%",
+            "E) 80%"
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "42) Which statement best describes what ultimately happens to the chemical energy that is not converted to new biomass in the process of energy transfer between trophic levels in an ecosystem?",
+        "options": [
+            "A) It is undigested and winds up in the feces and is not passed on to higher trophic levels.",
+            "B) It is used by organisms to maintain their life processes through the reactions of cellular respiration.",
+            "C) Heat produced by cellular respiration is used by heterotrophs to thermoregulate.",
+            "D) It is eliminated as feces or is dissipated into space as heat in accordance with the second law of thermodynamics.",
+            "E) It is recycled by decomposers to a form that is once again usable by primary producers."
+        ],
+        "back": "D",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "43) Consider the food chain grass → grasshopper → mouse → snake → hawk. How much of the chemical energy fixed by photosynthesis of the grass (100%) is available to the hawk?",
+        "options": [
+            "A) 0.01%",
+            "B) 0.1%",
+            "C) 1%",
+            "D) 10%",
+            "E) 60%"
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "44) If the flow of energy in an arctic ecosystem goes through a simple food chain, perhaps involving humans, starting from phytoplankton to zooplankton to fish to seals to polar bears, then which of the following could be true?",
+        "options": [
+            "A) Polar bears can provide more food for humans than seals can.",
+            "B) The total biomass of the fish is lower than that of the seals.",
+            "C) Seal meat probably contains the highest concentrations of fat-soluble toxins.",
+            "D) Seal populations are larger than fish populations.",
+            "E) The fish can potentially provide more food for humans than the seal meat can."
+        ],
+        "back": "E",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "45) Nitrogen is available to plants only in the form of",
+        "options": [
+            "A) N2 in the atmosphere.",
+            "B) nitrite ions in the soil.",
+            "C) uric acid from animal excretions.",
+            "D) amino acids from decomposing plant and animal proteins.",
+            "E) nitrate ions in the soil."
+        ],
+        "back": "E",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "46) Which of the following locations is the reservoir for nitrogen in the nitrogen cycle?",
+        "options": [
+            "A) atmosphere",
+            "B) sedimentary bedrock",
+            "C) fossilized plant and animal remains (coal, oil, and natural gas)",
+            "D) plant and animal biomass",
+            "E) soil"
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "47) Which of the following locations is the reservoir for carbon for the carbon cycle?",
+        "options": [
+            "A) atmosphere",
+            "B) sediments and sedimentary rocks",
+            "C) fossilized plant and animal remains (coal, oil, and natural gas)",
+            "D) plant and animal biomass",
+            "E) all of the above"
+        ],
+        "back": "E",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "48) In the nitrogen cycle, the bacteria that replenish the atmosphere with N2 are",
+        "options": [
+            "A) Rhizobium bacteria.",
+            "B) nitrifying bacteria.",
+            "C) denitrifying bacteria.",
+            "D) methanogenic protozoans.",
+            "E) nitrogen-fixing bacteria."
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "49) How does phosphorus normally enter ecosystems?",
+        "options": [
+            "A) cellular respiration",
+            "B) photosynthesis",
+            "C) rock weathering",
+            "D) vulcanism",
+            "E) atmospheric phosphorous gas"
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "50) Which of the following is an example of a local biogeochemical cycle?",
+        "options": [
+            "A) O₂ released by oak trees in a forest",
+            "B) CO₂ absorbed by phytoplankton in the open ocean",
+            "C) excess NO₃- converted to N₂ by denitrifying soil bacteria",
+            "D) phosphorous being absorbed from the soil by a corn plant",
+            "E) organic carbon remains of a leaf being converted to CO₂ by a fungus"
+        ],
+        "back": "D",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "51) Which of the following statements is correct about biogeochemical cycling?",
+        "options": [
+            "A) The phosphorus cycle involves the recycling of atmospheric phosphorus.",
+            "B) The phosphorus cycle involves the weathering of rocks.",
+            "C) The carbon cycle is a localized cycle that primarily involves the burning of fossil fuels.",
+            "D) The carbon cycle has maintained a constant atmospheric concentration of CO₂ for the past million years.",
+            "E) The nitrogen cycle involves movement of diatomic nitrogen between the biotic and abiotic components of the ecosystem."
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "52) Which of the following properly links the nutrient to its reservoir?",
+        "options": [
+            "A) nitrogenionic nitrogen in the soil",
+            "B) wateratmospheric water vapor",
+            "C) carbondissolved CO₂ in aquatic ecosystems",
+            "D) phosphoroussedimentary rocks",
+            "E) All of the options are correct."
+        ],
+        "back": "D",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "53) In terms of nutrient cycling, why does timber harvesting in a temperate forest cause less ecological devastation than timber harvesting in tropical rain forests?",
+        "options": [
+            "A) Trees are generally less numerous in temperate forests, so fewer nutrients will be removed from the temperate forest ecosystem during a harvest.",
+            "B) Temperate forest tree species require fewer nutrients to survive than their tropical counterpart species, so a harvest removes fewer nutrients from the temperate ecosystem.",
+            "C) The warmer temperatures in the tropics influence rain forest species to assimilate nutrients more slowly, so tropical nutrient absorption is much slower than in temperate forests.",
+            "D) There are far fewer decomposers in tropical rain forests, so turning organic matter into usable nutrients is a slower process than in temperate forest ecosystems.",
+            "E) Typical harvests remove up to 75% of the nutrients in the woody trunks of tropical rain forest trees, leaving nutrient-impoverished soils behind."
+        ],
+        "back": "E",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "54) Why do logged tropical rain forest soils typically have nutrient-poor soils?",
+        "options": [
+            "A) Tropical bedrock contains little phosphorous.",
+            "B) Logging results in soil temperatures that are lethal to nitrogen-fixing bacteria.",
+            "C) Most of the nutrients in the ecosystem are removed in the harvested timber.",
+            "D) The cation exchange capacity of the soil is reversed as a result of logging.",
+            "E) Nutrients evaporate easily into the atmosphere in the post-logged forest."
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "55) What is the first step in ecosystem restoration?",
+        "options": [
+            "A) to restore the physical structure",
+            "B) to restore native species that have been extirpated due to disturbance",
+            "C) to remove competitive invasive species",
+            "D) to identify the limiting factors of the producers",
+            "E) to remove toxic pollutants"
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "56) What is the goal of restoration ecology?",
+        "options": [
+            "A) to replace a ruined ecosystem with a more suitable ecosystem for that area",
+            "B) to speed up the restoration of a degraded ecosystem",
+            "C) to completely restore a disturbed ecosystem to its former undisturbed state",
+            "D) to prevent further degradation by protecting an area with park status",
+            "E) to manage competition between species in human-altered ecosystems"
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "57) Which of the following statements is true?",
+        "options": [
+            "A) An ecosystem's trophic structure determines the rate at which energy cycles within the system.",
+            "B) At any point in time, it is impossible for consumers to outnumber producers in an ecosystem.",
+            "C) Chemoautotrophic prokaryotes near deep-sea vents are primary producers.",
+            "D) There has been a well-documented increase in atmospheric nitrogen over the past several decades.",
+            "E) The reservoir of ecosystem phosphorous is the atmosphere."
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "58) In a typical grassland community, which of the following has the smallest biomass?",
+        "options": [
+            "A) hawk",
+            "B) snake",
+            "C) shrew",
+            "D) grasshopper",
+            "E) grass"
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "59) In a typical grassland community, which of the following is the primary consumer?",
+        "options": [
+            "A) hawk",
+            "B) snake",
+            "C) shrew",
+            "D) grasshopper",
+            "E) grass"
+        ],
+        "back": "D",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "60) When levels of CO₂ are experimentally increased in a typical grassland community, C₃ plants generally respond with a greater increase in productivity than C₄ plants. This is because",
+        "options": [
+            "A) C₃ plants are more efficient in their use of CO₂.",
+            "B) C₃ plants are able to obtain the same amount of CO₂ by keeping their stomata open for shorter periods of time.",
+            "C) C₄ plants don't use CO₂ as their source of carbon.",
+            "D) C₃ plants are more limited by CO₂ availability because they lack mechanisms to prevent transpirational water loss.",
+            "E) C₃ plants have special adaptations for CO₂ uptake, such as larger stomata."
+        ],
+        "back": "D",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "Food web for a particular terrestrial ecosystem (arrows represent energy flow and letters represent species) 61) Examine this food web for a particular terrestrial ecosystem. Which species is autotrophic?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": [
+            "https://web.archive.org/web/20170718103403im_/http://www.easynotecards.com:80/uploads/526/52/_39367d51_13ab9201884__8000_00000247.jpg"
+        ]
+    },
+    {
+        "front": "Food web for a particular terrestrial ecosystem (arrows represent energy flow and letters represent species) 62) Examine this food web for a particular terrestrial ecosystem. Which species is most likely a decomposer on this food web?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "E",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": [
+            "https://web.archive.org/web/20170718103403im_/http://www.easynotecards.com:80/uploads/528/54/_39367d51_13ab9201884__8000_00000249.jpg"
+        ]
+    },
+    {
+        "front": "Food web for a particular terrestrial ecosystem (arrows represent energy flow and letters represent species) 63) Examine this food web for a particular terrestrial ecosystem. Species C is toxic to predators. Which species is most likely to benefit from being a mimic of C?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": [
+            "https://web.archive.org/web/20170718103403im_/http://www.easynotecards.com:80/uploads/528/54/_39367d51_13ab9201884__8000_00000249.jpg"
+        ]
+    },
+    {
+        "front": "Food web for a particular terrestrial ecosystem (arrows represent energy flow and letters represent species) 64) Examine this food web for a particular terrestrial ecosystem. Which pair of species could be omnivores?",
+        "options": [
+            "A) A and B",
+            "B) A and D",
+            "C) B and C",
+            "D) C and D",
+            "E) C and E"
+        ],
+        "back": "E",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": [
+            "https://web.archive.org/web/20170718103403im_/http://www.easynotecards.com:80/uploads/528/54/_39367d51_13ab9201884__8000_00000249.jpg"
+        ]
+    },
+    {
+        "front": "Diagram of a food web (arrows represent energy flow and letters represent species) 65) If the figure above represents a terrestrial food web, the combined biomass of C + D would probably be",
+        "options": [
+            "A) greater than the biomass of A.",
+            "B) less than the biomass of H.",
+            "C) greater than the biomass of B.",
+            "D) less than the biomass of A + B.",
+            "E) less than the biomass of E."
+        ],
+        "back": "D",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": [
+            "https://web.archive.org/web/20170718103403im_/http://www.easynotecards.com:80/uploads/530/56/_39367d51_13ab9201884__8000_00000251.jpg"
+        ]
+    },
+    {
+        "front": "Diagram of a food web (arrows represent energy flow and letters represent species) 66) If the figure above represents a marine food web, the smallest organism might be",
+        "options": [
+            "A) A.",
+            "B) F.",
+            "C) C.",
+            "D) I.",
+            "E) E."
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": [
+            "https://web.archive.org/web/20170718103403im_/http://www.easynotecards.com:80/uploads/530/56/_39367d51_13ab9201884__8000_00000251.jpg"
+        ]
+    },
+    {
+        "front": "67) On the diagram of the nitrogen cycle, which number represents nitrite (NO₂)?",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": [
+            "https://web.archive.org/web/20170718103403im_/http://www.easynotecards.com:80/uploads/532/58/_39367d51_13ab9201884__8000_00000253.jpg"
+        ]
+    },
+    {
+        "front": "68) On the diagram of the nitrogen cycle, which number represents ammonia (NH₄+)?",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "back": "D",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": [
+            "https://web.archive.org/web/20170718103403im_/http://www.easynotecards.com:80/uploads/532/58/_39367d51_13ab9201884__8000_00000253.jpg"
+        ]
+    },
+    {
+        "front": "69) On the diagram of the nitrogen cycle, which number represents nitrogen-fixing bacteria?",
+        "options": [
+            "A) 5",
+            "B) 6",
+            "C) 7"
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": [
+            "https://web.archive.org/web/20170718103403im_/http://www.easynotecards.com:80/uploads/532/58/_39367d51_13ab9201884__8000_00000253.jpg"
+        ]
+    },
+    {
+        "front": "70) On the diagram of the nitrogen cycle, which number represents nitrifying bacteria?",
+        "options": [
+            "A) 5",
+            "B) 6",
+            "C) 7"
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": [
+            "https://web.archive.org/web/20170718103403im_/http://www.easynotecards.com:80/uploads/532/58/_39367d51_13ab9201884__8000_00000253.jpg"
+        ]
+    },
+    {
+        "front": "71) Suppose you are studying the nitrogen cycling in a pond ecosystem over the course of a month. While you are collecting data, a flock of 100 Canada geese lands and spends the night during a fall migration. What could you do to eliminate error in your study as a result of this event?",
+        "options": [
+            "A) Find out how much nitrogen is consumed in plant material by a Canada goose over about a 12-hour period, multiply this number by 100, and add that amount to the total nitrogen in the ecosystem.",
+            "B) Find out how much nitrogen is eliminated by a Canada goose over about a 12-hour period, multiply this number by 100, and subtract that amount from the total nitrogen in the ecosystem.",
+            "C) Find out how much nitrogen is consumed and eliminated by a Canada goose over about a 12-hour period and multiply this number by 100; enter this +/- value into the nitrogen budget of the ecosystem.",
+            "D) Do nothing. The Canada geese visitation to the lake would have negligible impact on the nitrogen budget of the pond.",
+            "E) Put a net over the pond so that no more migrating flocks can land on the pond and alter the nitrogen balance of the pond."
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "72) As big as it is, the ocean is nutrient-limited. If you wanted to investigate this, one reasonable approach would be to",
+        "options": [
+            "A) follow whale migrations in order to determine where most nutrients are located.",
+            "B) observe Antarctic Ocean productivity from year to year to see if it changes.",
+            "C) experimentally enrich some areas of the ocean and compare their productivity to that of untreated areas.",
+            "D) compare nutrient concentrations between the photic zone and the benthic zone in various marine locations.",
+            "E) contrast nutrient uptake by autotrophs in marine locations that are different temperatures."
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "73) A porcupine eats 3,000 J of plant material. Of this, 2,100 J is indigestible and is eliminated as feces, 800 J are used in cellular respiration, and 100 J are used for growth and reproduction. What is the approximate production efficiency of this animal?",
+        "options": [
+            "A) 0.03%",
+            "B) 3%",
+            "C) 10%",
+            "D) 27%",
+            "E) 33%"
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "74) Which of the following organisms is incorrectly paired with its trophic level?",
+        "options": [
+            "A) cyanobacteriumprimary producer",
+            "B) grasshopperprimary consumer",
+            "C) zooplanktonprimary producer",
+            "D) eagletertiary consumer",
+            "E) fungusdetritivore"
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "75) Which of these ecosystems has the lowest net primary production per square meter?",
+        "options": [
+            "A) a salt marsh",
+            "B) an open ocean",
+            "C) a coral reef",
+            "D) a grassland",
+            "E) a tropical rain forest"
+        ],
+        "back": "B",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "76) The discipline that applies ecological principles to returning degraded ecosystems to a more natural state is known as",
+        "options": [
+            "A) population viability analysis.",
+            "B) landscape ecology.",
+            "C) conservation ecology.",
+            "D) restoration ecology.",
+            "E) resource conservation."
+        ],
+        "back": "D",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "77) Nitrifying bacteria participate in the nitrogen cycle mainly by",
+        "options": [
+            "A) converting nitrogen gas to ammonia.",
+            "B) releasing ammonium from organic compounds, thus returning it to the soil.",
+            "C) converting ammonia to nitrogen gas, which returns to the atmosphere.",
+            "D) converting ammonium to nitrate, which plants absorb.",
+            "E) incorporating nitrogen into amino acids and organic compounds."
+        ],
+        "back": "D",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "78) Which of the following has the greatest effect on the rate of chemical cycling in an ecosystem?",
+        "options": [
+            "A) the ecosystem's rate of primary production",
+            "B) the production efficiency of the ecosystem's consumers",
+            "C) the rate of decomposition in the ecosystem",
+            "D) the trophic efficiency of the ecosystem",
+            "E) the location of the nutrient reservoirs in the ecosystem"
+        ],
+        "back": "C",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "79) The Hubbard Brook watershed deforestation experiment yielded all of the following results except:",
+        "options": [
+            "A) Most minerals were recycled within a forest ecosystem.",
+            "B) The flow of minerals out of a natural watershed was offset by minerals flowing in.",
+            "C) Deforestation increased water runoff.",
+            "D) The nitrate concentration in waters draining the deforested area became dangerously high.",
+            "E) Calcium levels remained high in the soil of deforested areas."
+        ],
+        "back": "E",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "80) Which of the following would be considered an example of bioremediation?",
+        "options": [
+            "A) adding nitrogen-fixing microorganisms to a degraded ecosystem to increase nitrogen availability",
+            "B) using a bulldozer to regrade a strip mine",
+            "C) dredging a river bottom to remove contaminated sediments",
+            "D) reconfiguring the channel of a river",
+            "E) adding seeds of a chromium-accumulating plant to soil contaminated by chromium"
+        ],
+        "back": "A",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    },
+    {
+        "front": "81) If you applied a fungicide to a cornfield, what would you expect to happen to the rate of decomposition and net ecosystem production (NEP)?",
+        "options": [
+            "A) Both decomposition rate and NEP would decrease.",
+            "B) Both decomposition rate and NEP would increase.",
+            "C) Neither would change.",
+            "D) Decomposition rate would increase and NEP would decrease.",
+            "E) Decomposition rate would decrease and NEP would increase."
+        ],
+        "back": "E",
+        "unit": "Unit 55",
+        "chapter": "Chapter 55",
+        "images": []
+    }
+]

@@ -1,0 +1,1044 @@
+[
+    {
+        "front": "1) The structural integrity of bacteria is to peptidoglycan as the structural integrity of plant spores is to",
+        "options": [
+            "A) lignin.",
+            "B) cellulose.",
+            "C) secondary compounds.",
+            "D) sporopollenin."
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "2) All of the following are common to both charophytes and land plants except",
+        "options": [
+            "A) sporopollenin.",
+            "B) lignin.",
+            "C) chlorophyll a.",
+            "D) cellulose.",
+            "E) chlorophyll b."
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "3) In animal cells and in the meristem cells of land plants, the nuclear envelope disintegrates during mitosis. This disintegration does not occur in the cells of most protists and fungi. According to our current knowledge of plant evolution, which group of organisms should feature mitosis most similar to that of land plants?",
+        "options": [
+            "A) unicellular green algae",
+            "B) cyanobacteria",
+            "C) charophytes",
+            "D) red algae",
+            "E) multicellular green algae"
+        ],
+        "back": "C",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "4) On a field trip, a student in a marine biology class collects an organism that has differentiated organs, cell walls of cellulose, and chloroplasts with chlorophyll a. Based on this description, the organism could be a brown alga, a red alga, a green alga, a charophyte recently washed into the ocean from a freshwater or brackish water source, or a land plant washed into the ocean. The presence of which of the following features would definitively identify this organism as a land plant?",
+        "options": [
+            "A) alternation of generations",
+            "B) sporopollenin",
+            "C) rings of cellulose-synthesizing complexes",
+            "D) flagellated sperm",
+            "E) embryos"
+        ],
+        "back": "E",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "5) Some green algae exhibit alternation of generations. All land plants exhibit alternation of generations. No charophytes exhibit alternation of generations. Keeping in mind the recent evidence from molecular systematics, the correct interpretation of these observations is that",
+        "options": [
+            "A) charophytes are not related to either green algae or land plants.",
+            "B) plants evolved alternation of generations independently of green algae.",
+            "C) alternation of generations cannot be beneficial to charophytes.",
+            "D) land plants evolved directly from the green algae that perform alternation of generations.",
+            "E) scientists have no evidence to indicate whether or not land plants evolved from any kind of alga."
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "6) Which taxon is essentially equivalent to the \"embryophytes\"?",
+        "options": [
+            "A) Viridiplantae",
+            "B) Plantae",
+            "C) Pterophyta",
+            "D) Bryophyta",
+            "E) Charophycea"
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "7) A student encounters a pondweed which, judging from its appearance, seems to be a charophyte. She brings a sample back to her biology lab. Using only a compound light microscope to study the sample, which of the following features should help her to determine whether the sample comes from a charophyte or from some other type of green alga? 1. molecular structure of enzymes inside peroxisomes 2. structure of sperm cells 3. presence of phragmoplasts 4. rings of cellulose-synthesizing complexes",
+        "options": [
+            "A) 1 and 3",
+            "B) 1 and 4",
+            "C) 2 and 3",
+            "D) 1, 3, and 4",
+            "E) 2, 3, and 4"
+        ],
+        "back": "E",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "8) Given its composition and location, the phragmoplast should be directly involved in the",
+        "options": [
+            "A) segregation of daughter chromosomes during anaphase.",
+            "B) poleward migration of centrosomes during prophase.",
+            "C) synthesis of sporopollenin during G1 and G2 phases.",
+            "D) construction of the cell plate during cytokinesis.",
+            "E) reinforcement of the nuclear envelope during S phase."
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "9) Structurally, phragmoplasts should be most similar to",
+        "options": [
+            "A) the nuclear lamina.",
+            "B) the myofilaments of muscle cells.",
+            "C) the internal support structures of microvilli.",
+            "D) the cytoskeletal elements that produce cytoplasmic streaming and amoeboid motion.",
+            "E) spindle fibers."
+        ],
+        "back": "E",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "10) What is true of charophytes?",
+        "options": [
+            "A) They are the ancestors of green algae.",
+            "B) They are examples of seedless vascular plants.",
+            "C) They are the closest living algal relatives of land plants.",
+            "D) They share some features in common with land plants, namely spores surrounded by sporopollenin and alternation of generations."
+        ],
+        "back": "C",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "11) The functional role of sporopollenin is primarily to",
+        "options": [
+            "A) comprise spore surface structures that catch the wind and assist in spore dispersal.",
+            "B) reduce dehydration.",
+            "C) make spores less dense and able to disperse more readily.",
+            "D) repel toxic chemicals.",
+            "E) provide nutrients to spores."
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "12) If the kingdom Plantae is someday expanded to include the charophytes, then the shared derived characteristics of the kingdom will include 1. rings of cellulose-synthesizing complexes. 2. chlorophylls a and b. 3. alternation of generations. 4. cell walls of cellulose. 5. ability to synthesize sporopollenin.",
+        "options": [
+            "A) 1 and 5",
+            "B) 1, 2, and 3",
+            "C) 1, 3, and 5",
+            "D) 1, 4, and 5",
+            "E) 1, 2, 4, and 5"
+        ],
+        "back": "A",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "13) Which of the following were probably factors that permitted early plants to successfully colonize land? 1. the relative number of potential predators (herbivores) 2. the relative number of competitors 3. the relative availability of symbiotic partners 4. air's relative lack of support, compared to water's support",
+        "options": [
+            "A) 1 and 2",
+            "B) 2 and 3",
+            "C) 3 and 4",
+            "D) 1, 2, and 3",
+            "E) 1, 2, and 4"
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "14) Which of the following was not a challenge for survival of the first land plants?",
+        "options": [
+            "A) sources of water",
+            "B) sperm transfer",
+            "C) desiccation",
+            "D) animal predation",
+            "E) absorbing enough light"
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "15) The following are all adaptations to life on land except",
+        "options": [
+            "A) rings of cellulose-synthesizing complexes.",
+            "B) cuticles.",
+            "C) tracheids.",
+            "D) reduced gametophyte generation.",
+            "E) seeds."
+        ],
+        "back": "A",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "16) Mitotic activity by the apical meristem of a root makes which of the following more possible?",
+        "options": [
+            "A) increase of the aboveground stem.",
+            "B) decreased absorption of mineral nutrients.",
+            "C) increased absorption of COâ‚‚.",
+            "D) increased number of chloroplasts in roots.",
+            "E) effective lateral growth of the stem."
+        ],
+        "back": "A",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "17) Which event during the evolution of land plants probably made the synthesis of secondary compounds most beneficial?",
+        "options": [
+            "A) the greenhouse effect present throughout the Devonian period",
+            "B) the reverse-greenhouse effect during the Carboniferous period",
+            "C) the association of the roots of land plants with fungi",
+            "D) the rise of herbivory",
+            "E) the rise of wind pollination"
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "18) Which of the following statements is true of archegonia?",
+        "options": [
+            "A) They are the sites where male gametes are produced.",
+            "B) They may temporarily contain sporophyte embryos.",
+            "C) They are the same as sporangia.",
+            "D) They are the ancestral versions of animal gonads.",
+            "E) They are asexual reproductive structures."
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "19) Which of the following is a true statement about plant reproduction?",
+        "options": [
+            "A) Embryophytes are small because they are in an early developmental stage.",
+            "B) Both male and female bryophytes produce gametangia.",
+            "C) Gametangia protect gametes from excess water.",
+            "D) Eggs and sperm of bryophytes swim toward one another.",
+            "E) Bryophytes are limited to asexual reproduction."
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "20) Assuming that they all belong to the same plant, arrange the following structures from largest to smallest. 1. antheridia 2. gametes 3. gametophytes 4. gametangia",
+        "options": [
+            "A) 1, 4, 3, 2",
+            "B) 3, 1, 2, 4",
+            "C) 3, 4, 2, 1",
+            "D) 3, 4, 1, 2",
+            "E) 4, 3, 1, 2"
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "21) The leaflike appendages of moss gametophytes may be one to two cell layers thick. Consequently, which of the following is least likely to be found associated with such appendages?",
+        "options": [
+            "A) cuticle",
+            "B) rings of cellulose-synthesizing complexes",
+            "C) stomata",
+            "D) peroxisomes",
+            "E) phenolics"
+        ],
+        "back": "C",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "22) Considering that the mature sporophytes of true mosses get their nutrition from the gametophytes on which they grow, and considering these generations as individual plants, what is true of the relationship between true moss sporophytes and gametophytes?",
+        "options": [
+            "A) Sporophytes are endosymbionts of gametophytes.",
+            "B) Sporophytes are mutualists of gametophytes.",
+            "C) Sporophytes are commensalists of gametophytes.",
+            "D) Sporophytes are parasites of gametophytes."
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "23) As is true of the gametophytes of all land plants, the gametophytes of true mosses lack stomata. Yet, the feather moss Pleurozium harbors nitrogen-fixing cyanobacteria. Which of the following is a feature of moss gametophytes that is most important for the continued survival of these cyanobacteria in the tissues of the feather moss gametophyte?",
+        "options": [
+            "A) lack of cuticle",
+            "B) lack of vascular tissues",
+            "C) lack of true leaves or roots",
+            "D) lack of an independent sporophyte",
+            "E) lack of multiple cell layers in \"leaves\" of \"buds\""
+        ],
+        "back": "E",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "24) Which of the following is true of the life cycle of mosses?",
+        "options": [
+            "A) The haploid generation grows on the sporophyte generation.",
+            "B) Spores are primarily distributed by water currents.",
+            "C) Antheridia and archegonia are produced by gametophytes.",
+            "D) The sporophyte generation is dominant.",
+            "E) The growing embryo gives rise to the gametophyte."
+        ],
+        "back": "C",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "25) Beginning with the germination of a moss spore, what is the sequence of structures that develop after germination? 1. embryo 2. gametes 3. sporophyte 4. protonema 5. gametophore",
+        "options": [
+            "A) 4, 1, 3, 5,2",
+            "B) 4, 3, 5, 2, 1",
+            "C) 4, 5, 2, 1, 3",
+            "D) 3, 4, 5, 2, 1",
+            "E) 3, 1, 4, 5, 2"
+        ],
+        "back": "C",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "26) At some time during their existence, bryophytes may feature",
+        "options": [
+            "A) microphylls.",
+            "B) true roots.",
+            "C) true leaves.",
+            "D) sporangia.",
+            "E) umbilical cells."
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "27) Two small, poorly drained lakes lie close to each other in a northern forest. The basins of both lakes are composed of the same geologic substratum. One lake is surrounded by a dense Sphagnum mat; the other is not. Compared to the pond with Sphagnum, the pond lacking the moss mat should have",
+        "options": [
+            "A) lower numbers of bacteria.",
+            "B) reduced rates of decomposition.",
+            "C) reduced oxygen content.",
+            "D) less-acidic water."
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "28) If you are looking for structures that transfer water and nutrients from a bryophyte gametophyte to a bryophyte sporophyte, then on which part of the sporophyte should you focus your attention?",
+        "options": [
+            "A) spores",
+            "B) seta",
+            "C) foot",
+            "D) sporangium",
+            "E) peristome"
+        ],
+        "back": "C",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "29) In which of the following taxa does the mature sporophyte depend completely on the gametophyte for nutrition?",
+        "options": [
+            "A) Pterophyta",
+            "B) Bryophyta",
+            "C) horsetail (Equisetum)",
+            "D) Pterophyta, Bryophyta, and horsetail (Equisetum)",
+            "E) Pterophyta and Bryophyta"
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "30) You are hiking in a forest and happen upon a plant featuring a central stemlike structure from which sprout many, tiny, leaflike structures. Which of the following would be the most certain means of distinguishing whether it was a true moss or a club moss?",
+        "options": [
+            "A) its color",
+            "B) its height",
+            "C) if seeds are present",
+            "D) if conducting tissues are present",
+            "E) the appearance of its spore-producing structures"
+        ],
+        "back": "E",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "31) Which of the following characteristics helped seedless plants better adapt to life on land?",
+        "options": [
+            "A) a dominant gametophyte",
+            "B) photosystem II",
+            "C) a chitinous cuticle",
+            "D) stomata on leaves",
+            "E) an unbranched sporophyte"
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "32) A botanist discovers a new species of plant in a tropical rain forest. After observing its anatomy and life cycle, he notes the following characteristics: flagellated sperm, xylem with tracheids, separate gametophyte and sporophyte generations with the sporophyte dominant, and no seeds. This plant is probably most closely related to",
+        "options": [
+            "A) mosses.",
+            "B) charophytes.",
+            "C) ferns.",
+            "D) gymnosperms.",
+            "E) flowering plants."
+        ],
+        "back": "C",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "33) You are hiking in a forest and come upon a mysterious plant, which you determine is either a lycophyte sporophyte or a pterophyte sporophyte. Which of the following would be most helpful in determining the correct classification of the plant?",
+        "options": [
+            "A) whether or not it has true leaves",
+            "B) whether it has microphylls or megaphylls",
+            "C) whether or not it has seeds",
+            "D) its height",
+            "E) whether or not it has chlorophyll a"
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "34) Sporophylls can be found in which of the following?",
+        "options": [
+            "A) mosses",
+            "B) liverworts",
+            "C) hornworts",
+            "D) pterophytes",
+            "E) charophytes"
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "35) If a fern gametophyte is a hermaphrodite (that is, has both male and female gametangia on the same plant), then it",
+        "options": [
+            "A) belongs to a species that is homosporous.",
+            "B) must be diploid.",
+            "C) has lost the need for a sporophyte generation.",
+            "D) has antheridia and archegonia combined into a single sex organ.",
+            "E) is actually not a fern, because fern gametophytes are always either male or female."
+        ],
+        "back": "A",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "36) Assuming that they all belong to the same plant, arrange the following structures from largest to smallest (or from most inclusive to least inclusive). 1. spores 2. sporophylls 3. sporophytes 4. sporangia",
+        "options": [
+            "A) 2, 4, 3, 1",
+            "B) 2, 3, 4, 1",
+            "C) 3, 1, 4, 2",
+            "D) 3, 4, 2, 1",
+            "E) 3, 2, 4, 1"
+        ],
+        "back": "E",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "37) If humans had been present to build log structures during the Carboniferous period (they weren't), which plant types would have been suitable sources of logs?",
+        "options": [
+            "A) whisk ferns and epiphytes",
+            "B) horsetails and bryophytes",
+            "C) lycophytes and bryophytes",
+            "D) ferns, horsetails, and lycophytes",
+            "E) charophytes, bryophytes, and gymnosperms"
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "38) Which of the following is true of seedless vascular plants?",
+        "options": [
+            "A) Extant seedless vascular plants are larger than the extinct varieties.",
+            "B) Whole forests were dominated by large, seedless vascular plants during the Carboniferous period.",
+            "C) They produce many spores, which are really the same as seeds.",
+            "D) The gametophyte is the dominant generation.",
+            "E) Sphagnum is an economically and ecologically important example."
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "39) Which of the following are land plants that use the same means of getting sperm to egg that algae use?",
+        "options": [
+            "A) true mosses, hornworts, and liverworts",
+            "B) ferns, whisk ferns, and horsetails",
+            "C) all land plants",
+            "D) Two of the responses above are correct."
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "40) Arrange the following terms from most inclusive to least inclusive. 1. embryophytes 2. green plants 3. seedless vascular plants 4. ferns 5. tracheophytes",
+        "options": [
+            "A) 1, 2, 5, 3, 4",
+            "B) 2, 1, 5, 3, 4",
+            "C) 2, 5, 1, 3, 4",
+            "D) 1, 4, 2, 5, 3",
+            "E) 2, 1, 5, 4, 3"
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "41) Evidence indicates that plants increase the number of stomata in their leaves as atmospheric COâ‚‚ levels decline. Increasing the number of stomata per unit surface area should have the effect of doing which of the following? 1. increasing dehydration of leaf tissues 2. decreasing dehydration of leaf tissues 3. countering the effect of declining COâ‚‚ on photosynthesis 4. reinforcing the effect of declining COâ‚‚ on photosynthesis 5. decreasing the Oâ‚‚ content of air next to the leaves lower than it would otherwise be 6. increasing the Oâ‚‚ content of air next to the leaves higher than it would otherwise be",
+        "options": [
+            "A) 1, 3, and 5",
+            "B) 1, 3, and 6",
+            "C) 1, 4, and 5",
+            "D) 2, 3, and 6",
+            "E) 2, 4, and 5"
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "42) Increasing the number of stomata per unit surface area of a leaf when atmospheric COâ‚‚ levels decline is most analogous to a human",
+        "options": [
+            "A) breathing faster as atmospheric COâ‚‚ levels increase.",
+            "B) putting more red blood corpuscles (RBCs) into circulation when atmospheric Oâ‚‚ levels decline.",
+            "C) removing RBCs from circulation when atmospheric Oâ‚‚ levels increase.",
+            "D) breathing more slowly as atmospheric Oâ‚‚ levels increase."
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "43) Which of the following should have had gene sequences most similar to the charophyte that was the common ancestor of the land plants?",
+        "options": [
+            "A) early angiosperms",
+            "B) early bryophytes",
+            "C) early gymnosperms",
+            "D) early lycophytes",
+            "E) early pterophytes"
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "44) Of the following list, flagellated (swimming) sperm are generally present in which groups? 1. Lycophyta 2. Bryophyta 3. Angiosperms 4. Chlorophyta 5. Pterophyta",
+        "options": [
+            "A) 1, 2, and 3",
+            "B) 1, 2, 4, and 5",
+            "C) 1, 3, 4, and 5",
+            "D) 2, 3, and 5",
+            "E) 2, 3, 4, and 5"
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "45) If intelligent extraterrestrials visited Earth 475 million years ago, and then again 300 million years ago (at the close of the Carboniferous period), what trends would they have noticed in Earth's terrestrial vegetation over this period? 1.a trend from dominant gametophytes to dominant sporophytes 2. a trend from sporangia borne on modified leaves (sporophylls) to sporangia borne on stalks (seta) 3. a trend from no true leaves, to microphylls, to megaphylls 4. a trend from soil-surface-hugging plants to \"overtopping\" plants 5. a trend toward increased lignification of conducting systems",
+        "options": [
+            "A) 1 and 3",
+            "B) 3, 4, and 5",
+            "C) 1, 2, 4, and 5",
+            "D) 1, 3, 4, and 5",
+            "E) 2, 3, 4, and 5"
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "46) If you were faced with the choice of eliminating all mutualistic symbioses involving plants and other organisms (besides humans), with the goal being to preserve the most plant biomass, which of the following would you save from elimination?",
+        "options": [
+            "A) the dispersal of seeds in or on animals",
+            "B) the dispersal of male gametophytes by animals",
+            "C) plants harboring nitrogen-fixing bacteria",
+            "D) associations between soil fungi and roots or rhizoids"
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "47) During glacial periods in the early evolution of land plants, which of the following would have been a beneficial adaptation regarding the number of stomata per unit surface area, and what accounts for it?",
+        "options": [
+            "A) increased numbers of stomata, to maximize absorption of increasing levels of atmospheric COâ‚‚",
+            "B) increased numbers of stomata, to maximize ability to absorb low levels of atmospheric COâ‚‚",
+            "C) decreased numbers of stomata, to retain COâ‚‚ produced by the chloroplasts",
+            "D) decreased numbers of stomata, to maximize absorption of low levels of atmospheric COâ‚‚"
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "48) What is thought to be the correct sequence of the following events during the Carboniferous period? 1. vascular plants become more prevalent 2. megaphylls with large surface areas become more prevalent 3. atmospheric COâ‚‚ levels decline by a factor of five 4. global cooling occurs, leading to widespread glaciations",
+        "options": [
+            "A) 1, 2 ,3, 4",
+            "B) 2, 1, 3, 4",
+            "C) 2, 1, 4, 3",
+            "D) 1, 2, 4, 3",
+            "E) 3, 4, 1, 2"
+        ],
+        "back": "A",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "Researchers tested nitrogen loss from soil where the moss Polytrichum was growing, and compared it to soil from which Polytrichum had been removed. The data are presented below. Figure 29.1 49) Loss of soil nitrogen via \"gaseous emission\" was found to be negligible. Rather, most loss of soil nitrogen was due to water erosion of the soil. Which of these hypotheses is least likely to account for the observed results?",
+        "options": [
+            "A) If rhizoids had helped stabilize the soil, then less erosion and less loss of nitrogen would occur.",
+            "B) If protonemata had absorbed, and stored, nitrogen from the soil, then they would have reduced loss of nitrogen by erosion.",
+            "C) If the overlying mat of gametophores had slowed the entry of water into the soil, then it would have reduced water's ability to erode the soil and carry away its nitrogen.",
+            "D) If sporophyte stomata had absorbed nitrogen from the soil, then they would have reduced loss of nitrogen by erosion."
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": [
+            "https://web.archive.org/web/20170801125243im_/https://www.easynotecards.com/uploads/329/53/_39367d51_13ab9201884__8000_00000042.jpg"
+        ]
+    },
+    {
+        "front": "Researchers decided to test the hypothesis that if the 2-m tall Polytrichum gametophyte-sporophyte plants had acted as a physical buffer, then they would have reduced water's ability to erode the soil and carry away its nitrogen. They began with four equal-sized areas where Polytrichum mosses grew to a height of 2 m above the soil surface. One of the four areas was not modified. In the second area, the mosses were trimmed to a height of 1 m above the soil surface. In the third area, the mosses were trimmed to a height of 0.5 m above the soil surface. In the fourth area, the mosses were trimmed all the way to the ground, leaving only the rhizoids. Water, simulating rainfall, was then added in a controlled fashion to all plots over the course of one year. Figure 29.2 presents four graphs that depict potential results of this experiment. 50) Which graph of soil nitrogen loss over time in Figure 29.2 most strongly supports the hypothesis that if the 2-m tall Polytrichum gametophyte-sporophyte plants had acted as a physical buffer, then they would have reduced water's ability to erode the soil and carry away its nitrogen?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D"
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": [
+            "https://web.archive.org/web/20170801125243im_/https://www.easynotecards.com/uploads/330/54/_39367d51_13ab9201884__8000_00000043.jpg"
+        ]
+    },
+    {
+        "front": "Researchers decided to test the hypothesis that if the 2-m tall Polytrichum gametophyte-sporophyte plants had acted as a physical buffer, then they would have reduced water's ability to erode the soil and carry away its nitrogen. They began with four equal-sized areas where Polytrichum mosses grew to a height of 2 m above the soil surface. One of the four areas was not modified. In the second area, the mosses were trimmed to a height of 1 m above the soil surface. In the third area, the mosses were trimmed to a height of 0.5 m above the soil surface. In the fourth area, the mosses were trimmed all the way to the ground, leaving only the rhizoids. Water, simulating rainfall, was then added in a controlled fashion to all plots over the course of one year. Figure 29.2 presents four graphs that depict potential results of this experiment. 51) If the actual results most closely resembled those in Figure 29.2(A), then a further question arising from these data is: \"Do the Polytrichum rhizoids have to be alive in order to reduce soil nitrogen loss, or do dead rhizoids have the same effect?\" Arrange the following steps in the correct sequence to test this hypothesis. 1. Add metabolic poison to the soil of the experimental plot of mosses. 2. Apply water equally to the experimental and control plots. 3. Measure initial soil nitrogen contents of control and experimental plots. 4. Determine nitrogen loss from soil of control and experimental plots. 5. Establish two identical plots of Polytrichum mosses; one as a control, the other as the experimental treatment.",
+        "options": [
+            "A) 5, 1, 3, 2, 4",
+            "B) 5, 2, 3, 1, 4",
+            "C) 5, 3, 1, 2, 4",
+            "D) 4, 5, 1, 3, 2",
+            "E) 5, 3, 2, 1, 4"
+        ],
+        "back": "C",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": [
+            "https://web.archive.org/web/20170801125243im_/https://www.easynotecards.com/uploads/331/55/_39367d51_13ab9201884__8000_00000045.jpg"
+        ]
+    },
+    {
+        "front": "Researchers decided to test the hypothesis that if the 2-m tall Polytrichum gametophyte-sporophyte plants had acted as a physical buffer, then they would have reduced water's ability to erode the soil and carry away its nitrogen. They began with four equal-sized areas where Polytrichum mosses grew to a height of 2 m above the soil surface. One of the four areas was not modified. In the second area, the mosses were trimmed to a height of 1 m above the soil surface. In the third area, the mosses were trimmed to a height of 0.5 m above the soil surface. In the fourth area, the mosses were trimmed all the way to the ground, leaving only the rhizoids. Water, simulating rainfall, was then added in a controlled fashion to all plots over the course of one year. Figure 29.2 presents four graphs that depict potential results of this experiment. 52) Which of these potential results of applying a metabolic poison to the rhizoids of Polytrichum should interfere the least with the ability to draw valid conclusions from this experiment?",
+        "options": [
+            "A) If, upon dying, the rhizoids leak nitrogenous compounds into the soil before final nitrogen content is measured.",
+            "B) If, upon dying, decomposition of the rhizoids introduces nitrogenous compounds to the soil before final nitrogen content is measured.",
+            "C) If the metabolic poison is hydrogen cyanide (HCN) or sodium azide (NaN3), and much of the poison remains in the soil.",
+            "D) If the metabolic poison acts against the mitochondria of the rhizoid cells.",
+            "E) If the metabolic poison absorbs nitrogen and strongly adheres to soil particles, acting as a sort of glue."
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": [
+            "https://web.archive.org/web/20170801125243im_/https://www.easynotecards.com/uploads/331/55/_39367d51_13ab9201884__8000_00000045.jpg"
+        ]
+    },
+    {
+        "front": "Researchers decided to test the hypothesis that if the 2-m tall Polytrichum gametophyte-sporophyte plants had acted as a physical buffer, then they would have reduced water's ability to erode the soil and carry away its nitrogen. They began with four equal-sized areas where Polytrichum mosses grew to a height of 2 m above the soil surface. One of the four areas was not modified. In the second area, the mosses were trimmed to a height of 1 m above the soil surface. In the third area, the mosses were trimmed to a height of 0.5 m above the soil surface. In the fourth area, the mosses were trimmed all the way to the ground, leaving only the rhizoids. Water, simulating rainfall, was then added in a controlled fashion to all plots over the course of one year. Figure 29.2 presents four graphs that depict potential results of this experiment. 53) Why should we expect the soil's nitrogen not to be contained solely within the rhizoids of the Polytrichum mosses?",
+        "options": [
+            "A) Rhizoids are associated with fungi that inhibit mineral transfer from soil to rhizoids.",
+            "B) Rhizoids are not absorptive structures.",
+            "C) Rhizoids consist of single, tubular cells or of filaments of cells.",
+            "D) Rhizoids lack direct attachment to the moss sporophytes."
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": [
+            "https://web.archive.org/web/20170801125243im_/https://www.easynotecards.com/uploads/331/55/_39367d51_13ab9201884__8000_00000045.jpg"
+        ]
+    },
+    {
+        "front": "Researchers decided to test the hypothesis that if the 2-m tall Polytrichum gametophyte-sporophyte plants had acted as a physical buffer, then they would have reduced water's ability to erode the soil and carry away its nitrogen. They began with four equal-sized areas where Polytrichum mosses grew to a height of 2 m above the soil surface. One of the four areas was not modified. In the second area, the mosses were trimmed to a height of 1 m above the soil surface. In the third area, the mosses were trimmed to a height of 0.5 m above the soil surface. In the fourth area, the mosses were trimmed all the way to the ground, leaving only the rhizoids. Water, simulating rainfall, was then added in a controlled fashion to all plots over the course of one year. Figure 29.2 presents four graphs that depict potential results of this experiment. 54) The 2-m height attainable by Polytrichum moss is at the upper end of the size range reached by mosses. What accounts for the relative tallness of Polytrichum?",
+        "options": [
+            "A) the cuticle that is found along the ridges of \"leaves\"",
+            "B) \"leaves\" that are more than one cell layer thick",
+            "C) high humidity of surrounding air which provides support against gravity",
+            "D) reduced size, mass, and persistence of the sporophytes which allows gametophores to grow taller",
+            "E) the presence of conducting tissues in the \"stem\""
+        ],
+        "back": "E",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": [
+            "https://web.archive.org/web/20170801125243im_/https://www.easynotecards.com/uploads/331/55/_39367d51_13ab9201884__8000_00000045.jpg"
+        ]
+    },
+    {
+        "front": "55) What is true of the phylogenetic tree in Figure 29.3? 1. It depicts uncertainty about whether the bryophytes or the vascular plants evolved first. 2. It is hypothetical. 3. It includes polytomies. 4. It shows that ferns (phylum Pterophyta) are the closest living relatives to the seed plants. 5. It indicates that seeds are a shared ancestral character of all vascular plants.",
+        "options": [
+            "A) 1 and 2",
+            "B) 2 and 3",
+            "C) 1, 2, and 3",
+            "D) 1, 2, and 4",
+            "E) 2, 3, and 5"
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": [
+            "https://web.archive.org/web/20170801125243im_/https://www.easynotecards.com/uploads/335/59/_39367d51_13ab9201884__8000_00000049.jpg"
+        ]
+    },
+    {
+        "front": "56) The resolution of the relationships indicated by dashed lines in Figure 29.3 will most probably come from",
+        "options": [
+            "A) more whole-genome analyses of extant (living) species.",
+            "B) more-detailed analyses of the morphologies of extant species.",
+            "C) the discovery of more fossils of extinct taxa from the time of seed-plant origins.",
+            "D) more-detailed analyses of the life cycles of extant species.",
+            "E) more molecular analyses of the types and structures of photosynthetic pigments present in extant species."
+        ],
+        "back": "A",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": [
+            "https://web.archive.org/web/20170801125243im_/https://www.easynotecards.com/uploads/335/59/_39367d51_13ab9201884__8000_00000049.jpg"
+        ]
+    },
+    {
+        "front": "57) Which of the following should be most helpful in distinguishing the clades depicted on the tree in Figure 29.3 from each other?",
+        "options": [
+            "A) the types of conducting tissues that are present",
+            "B) the types of photosynthetic pigments that are present",
+            "C) the details of reproduction",
+            "D) the concentration of stomata present on leaves of the saprophyte generation",
+            "E) whether it is the sporophyte generation or the gametophyte generation that is dominant"
+        ],
+        "back": "C",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": [
+            "https://web.archive.org/web/20170801125243im_/https://www.easynotecards.com/uploads/335/59/_39367d51_13ab9201884__8000_00000049.jpg"
+        ]
+    },
+    {
+        "front": "A biology student hiking in a forest happens upon an erect, 15-cm-tall plant that bears microphylls and a strobilus at its tallest point. When disturbed, the cone emits a dense cloud of brownish dust. A pocket magnifying glass reveals the dust to be composed of tiny spheres with a high oil content. 58) This student has probably found a(n)",
+        "options": [
+            "A) immature pine tree.",
+            "B) bryophyte sporophyte.",
+            "C) fern sporophyte.",
+            "D) horsetail gametophyte.",
+            "E) lycophyte sporophyte."
+        ],
+        "back": "E",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "A biology student hiking in a forest happens upon an erect, 15-cm-tall plant that bears microphylls and a strobilus at its tallest point. When disturbed, the cone emits a dense cloud of brownish dust. A pocket magnifying glass reveals the dust to be composed of tiny spheres with a high oil content. 59) Besides oil, what other chemical should be detected in substantial amounts upon chemical analysis of these small spheres?",
+        "options": [
+            "A) sporopollenins",
+            "B) phenolics",
+            "C) waxes",
+            "D) lignins",
+            "E) terpenes"
+        ],
+        "back": "A",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "A biology student hiking in a forest happens upon an erect, 15-cm-tall plant that bears microphylls and a strobilus at its tallest point. When disturbed, the cone emits a dense cloud of brownish dust. A pocket magnifying glass reveals the dust to be composed of tiny spheres with a high oil content. 60) This organism probably belongs to the same phylum as the",
+        "options": [
+            "A) ferns, horsetails, and whisk ferns.",
+            "B) club mosses, quillworts, and spike mosses.",
+            "C) mosses, hornworts, and liverworts.",
+            "D) conifers.",
+            "E) charophytes."
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "A biology student hiking in a forest happens upon an erect, 15-cm-tall plant that bears microphylls and a strobilus at its tallest point. When disturbed, the cone emits a dense cloud of brownish dust. A pocket magnifying glass reveals the dust to be composed of tiny spheres with a high oil content. 61) A dissection of the interior of this organism's stem should reveal",
+        "options": [
+            "A) lignified vascular tissues.",
+            "B) cuticle.",
+            "C) gametangia.",
+            "D) that it is composed of only a single, long cell.",
+            "E) a relatively high proportion of dead, water-filled cells."
+        ],
+        "back": "A",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "Big Bend National Park in Texas is mostly Chihuahuan desert, where rainfall averages about 10 inches per year. Yet, it is not uncommon when hiking in this bone-dry desert to encounter mosses and ferns. One such plant is called \"flower of stone.\" It is not a flowering plant, nor does it produce seeds. Under arid conditions, its leaflike structures curl up. However, when it rains, it unfurls its leaves, which form a bright green rosette on the desert floor. Consequently, it is sometimes called the \"resurrection plant.\" At first glance, it could be a fern, a true moss, or a spike moss. 62) What feature of both true mosses and ferns makes it most surprising that they can survive for many generations in dry deserts?",
+        "options": [
+            "A) flagellated sperm",
+            "B) lack of vascular tissues",
+            "C) lack of true roots",
+            "D) lack of cuticle",
+            "E) a gametophyte generation that is dominant"
+        ],
+        "back": "A",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "Big Bend National Park in Texas is mostly Chihuahuan desert, where rainfall averages about 10 inches per year. Yet, it is not uncommon when hiking in this bone-dry desert to encounter mosses and ferns. One such plant is called \"flower of stone.\" It is not a flowering plant, nor does it produce seeds. Under arid conditions, its leaflike structures curl up. However, when it rains, it unfurls its leaves, which form a bright green rosette on the desert floor. Consequently, it is sometimes called the \"resurrection plant.\" At first glance, it could be a fern, a true moss, or a spike moss. 63) Which of the following features is most important in order for true mosses and ferns to survive and reproduce in the desert?",
+        "options": [
+            "A) that the sporophytes occupy only permanently shady, north-facing habitats",
+            "B) that the sporophytes hug the ground, growing no taller than a couple of inches",
+            "C) either that their gametophytes grow close together, or that they be hermaphroditic",
+            "D) that the sporophytes have highly lignified vascular tissues"
+        ],
+        "back": "C",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "Big Bend National Park in Texas is mostly Chihuahuan desert, where rainfall averages about 10 inches per year. Yet, it is not uncommon when hiking in this bone-dry desert to encounter mosses and ferns. One such plant is called \"flower of stone.\" It is not a flowering plant, nor does it produce seeds. Under arid conditions, its leaflike structures curl up. However, when it rains, it unfurls its leaves, which form a bright green rosette on the desert floor. Consequently, it is sometimes called the \"resurrection plant.\" At first glance, it could be a fern, a true moss, or a spike moss. 64) Which of the following characteristics is (are) possessed in common by true mosses, ferns, and spike mosses, and therefore becomes useless at helping to determine to which of these groups flower of stone belongs? 1. a sporophyte generation that is dominant 2. true leaves and roots 3. flagellated sperm 4. strobili 5. alternation of generations",
+        "options": [
+            "A) 5 only",
+            "B) 1 and 5",
+            "C) 2 and 3",
+            "D) 3 and 5",
+            "E) 2, 4, and 5"
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "Big Bend National Park in Texas is mostly Chihuahuan desert, where rainfall averages about 10 inches per year. Yet, it is not uncommon when hiking in this bone-dry desert to encounter mosses and ferns. One such plant is called \"flower of stone.\" It is not a flowering plant, nor does it produce seeds. Under arid conditions, its leaflike structures curl up. However, when it rains, it unfurls its leaves, which form a bright green rosette on the desert floor. Consequently, it is sometimes called the \"resurrection plant.\" At first glance, it could be a fern, a true moss, or a spike moss. 65) Upon closer inspection of the leaves of flower of stone, one can observe tiny, cone-like structures. Each cone-like structure emits spores of two different sizes. Based on this information, which of the following can be properly inferred about flower of stone? 1. It is heterosporous. 2. It is a fern. 3. The cone-like structures are sori. 4. It is a lycophyte. 5. It has separate male and female gametophytes.",
+        "options": [
+            "A) 1 and 5",
+            "B) 2 and 3",
+            "C) 1, 2, and 3",
+            "D) 1, 4, and 5",
+            "E) 1, 2, 3, and 5"
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "Big Bend National Park in Texas is mostly Chihuahuan desert, where rainfall averages about 10 inches per year. Yet, it is not uncommon when hiking in this bone-dry desert to encounter mosses and ferns. One such plant is called \"flower of stone.\" It is not a flowering plant, nor does it produce seeds. Under arid conditions, its leaflike structures curl up. However, when it rains, it unfurls its leaves, which form a bright green rosette on the desert floor. Consequently, it is sometimes called the \"resurrection plant.\" At first glance, it could be a fern, a true moss, or a spike moss. 66) Upon closer inspection of the leaves of flower of stone, one can observe tiny, cone-like structures. Each cone-like structure emits spores of two different sizes. Consequently, which of the following is the closest living relative of flower of stone?",
+        "options": [
+            "A) true moss",
+            "B) club moss",
+            "C) hornwort",
+            "D) liverwort",
+            "E) fern"
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "Big Bend National Park in Texas is mostly Chihuahuan desert, where rainfall averages about 10 inches per year. Yet, it is not uncommon when hiking in this bone-dry desert to encounter mosses and ferns. One such plant is called \"flower of stone.\" It is not a flowering plant, nor does it produce seeds. Under arid conditions, its leaflike structures curl up. However, when it rains, it unfurls its leaves, which form a bright green rosette on the desert floor. Consequently, it is sometimes called the \"resurrection plant.\" At first glance, it could be a fern, a true moss, or a spike moss. 67) Upon closer inspection of the leaves of flower of stone, one can observe tiny, cone-like structures. Each cone-like structure emits spores of two different sizes. Consequently, flower of stone should be expected to possess which other characteristics? 1. a gametophyte generation that is dominant 2. lignified vascular tissues 3. microphylls 4. filamentous rhizoids, but not true roots 5. spores that are diploid when mature",
+        "options": [
+            "A) 1 and 2",
+            "B) 1 and 5",
+            "C) 2 and 3",
+            "D) 2, 3, and 4",
+            "E) 3, 4, and 5"
+        ],
+        "back": "C",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "Big Bend National Park in Texas is mostly Chihuahuan desert, where rainfall averages about 10 inches per year. Yet, it is not uncommon when hiking in this bone-dry desert to encounter mosses and ferns. One such plant is called \"flower of stone.\" It is not a flowering plant, nor does it produce seeds. Under arid conditions, its leaflike structures curl up. However, when it rains, it unfurls its leaves, which form a bright green rosette on the desert floor. Consequently, it is sometimes called the \"resurrection plant.\" At first glance, it could be a fern, a true moss, or a spike moss. 68) In which combination of locations would one who is searching for the gametophytes of flower of stone have the best chance of finding them? 1. moist soil 2. underground, nourished there by symbiotic fungi 3. south- or west-facing slopes 4. permanently shady places 5. far from any flower of stone sporophytes",
+        "options": [
+            "A) 1 only",
+            "B) 1 and 2",
+            "C) 1, 2, and 4",
+            "D) 1, 2, and 5",
+            "E) 1, 3, 4, and 5"
+        ],
+        "back": "C",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "69) Which of the following is not evidence that charophytes are the closest algal relatives of plants?",
+        "options": [
+            "A) similar sperm structure",
+            "B) the presence of chloroplasts",
+            "C) similarities in cell wall formation during cell division",
+            "D) genetic similarities in chloroplasts",
+            "E) similarities in proteins that synthesize cellulose"
+        ],
+        "back": "B",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "70) Which of the following characteristics of plants is absent in their closest relatives, the charophyte algae?",
+        "options": [
+            "A) chlorophyll b",
+            "B) cellulose in cell walls",
+            "C) formation of a cell plate during cytokinesis",
+            "D) sexual reproduction",
+            "E) alternation of multicellular generations"
+        ],
+        "back": "E",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "71) In plants, which of the following are produced by meiosis?",
+        "options": [
+            "A) haploid sporophytes",
+            "B) haploid gametes",
+            "C) diploid gametes",
+            "D) haploid spores",
+            "E) diploid spores"
+        ],
+        "back": "D",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "72) Microphylls are found in which plant group?",
+        "options": [
+            "A) mosses",
+            "B) liverworts",
+            "C) lycophytes",
+            "D) ferns",
+            "E) hornworts"
+        ],
+        "back": "C",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "73) Which of the following is a land plant that has flagellated sperm and a sporophyte-dominated life cycle?",
+        "options": [
+            "A) fern",
+            "B) moss",
+            "C) liverwort",
+            "D) charophyte",
+            "E) hornwort"
+        ],
+        "back": "A",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    },
+    {
+        "front": "74) Suppose an efficient conducting system evolved in a moss that could transport water and other materials as high as a tall tree. Which of the following statements about \"trees\" of such a species would not be true?",
+        "options": [
+            "A) Fertilization would probably be more difficult.",
+            "B) Spore dispersal distances would probably increase.",
+            "C) Females could produce only one archegonium.",
+            "D) Unless its body parts were strengthened, such a \"tree\" would probably flop over.",
+            "E) Individuals would probably compete more effectively for access to light."
+        ],
+        "back": "C",
+        "unit": "Unit 29",
+        "chapter": "Chapter 29",
+        "images": []
+    }
+]

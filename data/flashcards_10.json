@@ -630,6 +630,14 @@
         "images": []
     },
     {
+        "front": "ap bio makes me wanna die",
+        "options": [],
+        "back": "",
+        "unit": "Unit 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
         "front": "Which of the following statements best represents the relationships between the light reactions and the Calvin cycle?",
         "options": [
             "A) The light reactions provide ATP and NADPH to the Calvin cycle, and the cycle returns ADP, Pi, and NADP⁺ to the light reactions.",
@@ -812,6 +820,20 @@
         "images": []
     },
     {
+        "front": "If atmospheric CO₂ concentrations increase twofold or more, how will plants be affected, disregarding any changes in climate?",
+        "options": [
+            "A) All plants will experience increased rates of photosynthesis.",
+            "B) C₃ plants will have faster growth; C₄ plants will be minimally affected.",
+            "C) C₄ plants will have faster growth; C₃ plants will be minimally affected.",
+            "D) C₃ plants will have faster growth; C₄ plants will have slower growth.",
+            "E) Plant growth will not be affected because atmospheric CO₂ concentrations are never limiting for plant growth."
+        ],
+        "back": "B",
+        "unit": "Unit 10",
+        "chapter": "Chapter 10",
+        "images": []
+    },
+    {
         "front": "Plants photosynthesize only in the light. Plants respire",
         "options": [
             "A) in the dark only.",
@@ -824,134 +846,6 @@
         "unit": "Unit 10",
         "chapter": "Chapter 10",
         "images": []
-    },
-    {
-        "front": "Figure 10.1 shows the absorption spectrum for chlorophyll a and the action spectrum for photosynthesis. Why are they different?",
-        "options": [
-            "A) Green and yellow wavelengths inhibit the absorption of red and blue wavelengths.",
-            "B) Bright sunlight destroys photosynthetic pigments.",
-            "C) Oxygen given off during photosynthesis interferes with the absorption of light.",
-            "D) Other pigments absorb light in addition to chlorophyll a.",
-            "E) Aerobic bacteria take up oxygen, which changes the measurement of the rate of photosynthesis."
-        ],
-        "back": "D",
-        "unit": "Unit 10",
-        "chapter": "Chapter 10",
-        "images": [
-            "https://web.archive.org/web/20170730010127im_/http://www.easynotecards.com:80/uploads/823/40/73f8d0c4_13a509a985f__8000_00000132.png"
-        ]
-    },
-    {
-        "front": "What wavelength of light in the figure is most effective in driving photosynthesis?",
-        "options": [
-            "A) 420 mm",
-            "B) 475 mm",
-            "C) 575 mm",
-            "D) 625 mm",
-            "E) 730 mm"
-        ],
-        "back": "A",
-        "unit": "Unit 10",
-        "chapter": "Chapter 10",
-        "images": [
-            "https://web.archive.org/web/20170730010127im_/http://www.easynotecards.com:80/uploads/823/40/73f8d0c4_13a509a985f__8000_00000132.png"
-        ]
-    },
-    {
-        "front": "If ATP used by this plant is labeled with radioactive phosphorus, which molecule or molecules of the Calvin cycle will be radioactively labeled first?",
-        "options": [
-            "A) B only",
-            "B) B and C only",
-            "C) B, C, and D only",
-            "D) B and E only",
-            "E) B, C, D, and E"
-        ],
-        "back": "D",
-        "unit": "Unit 10",
-        "chapter": "Chapter 10",
-        "images": [
-            "https://web.archive.org/web/20170730010127im_/http://www.easynotecards.com:80/uploads/854/71/73f8d0c4_13a509a985f__8000_00000151.png"
-        ]
-    },
-    {
-        "front": "If the carbon atom of the incoming CO₂ molecule is labeled with a radioactive isotope of carbon, which organic molecules will be radioactively labeled after one cycle?",
-        "options": [
-            "A) C only",
-            "B) B, C, D, and E",
-            "C) C, D, and E only",
-            "D) B and C only",
-            "E) B and D only"
-        ],
-        "back": "B",
-        "unit": "Unit 10",
-        "chapter": "Chapter 10",
-        "images": [
-            "https://web.archive.org/web/20170730010127im_/http://www.easynotecards.com:80/uploads/854/71/73f8d0c4_13a509a985f__8000_00000151.png"
-        ]
-    },
-    {
-        "front": "Which molecule(s) of the Calvin cycle is (are) also found in glycolysis?",
-        "options": [
-            "A) B, C, E, and 3-phosphoglycerate",
-            "B) B, C, and E only",
-            "C) 3-phosphoglycerate only",
-            "D) B, C, D, and 3-phosphoglycerate only",
-            "E) E only"
-        ],
-        "back": "D",
-        "unit": "Unit 10",
-        "chapter": "Chapter 10",
-        "images": [
-            "https://web.archive.org/web/20170730010127im_/http://www.easynotecards.com:80/uploads/854/71/73f8d0c4_13a509a985f__8000_00000151.png"
-        ]
-    },
-    {
-        "front": "To identify the molecule that accepts CO₂, Calvin and Benson manipulated the carbon-fixation cycle by either cutting off CO₂ or cutting off light from cultures of photosynthetic algae. They then measured the concentrations of various metabolites immediately following the manipulation. How would these experiments help identify the CO₂ acceptor? Study Figure 10.2 to help you in determining the correct answer.",
-        "options": [
-            "A) The CO₂ acceptor concentration would decrease when either the CO₂ or light are cut off.",
-            "B) The CO₂ acceptor concentration would increase when either the CO₂ or light are cut off.",
-            "C) The CO₂ acceptor concentration would increase when the CO₂ is cut off, but decrease when the light is cut off.",
-            "D) The CO₂ acceptor concentration would decrease when the CO₂ is cut off, but increase when the light is cut off.",
-            "E) The CO₂ acceptor concentration would stay the same regardless of the CO₂ or light."
-        ],
-        "back": "C",
-        "unit": "Unit 10",
-        "chapter": "Chapter 10",
-        "images": [
-            "https://web.archive.org/web/20170730010127im_/http://www.easynotecards.com:80/uploads/854/71/73f8d0c4_13a509a985f__8000_00000151.png"
-        ]
-    },
-    {
-        "front": "Which of the following statements is true concerning Figure 10.3?",
-        "options": [
-            "A) It represents cell processes involved in C₄ photosynthesis.",
-            "B) It represents the type of cell structures found in CAM plants.",
-            "C) It represents an adaptation that maximizes photorespiration.",
-            "D) It represents a C₃ photosynthetic system.",
-            "E) It represents a relationship between plant cells that photosynthesize and those that cannot."
-        ],
-        "back": "A",
-        "unit": "Unit 10",
-        "chapter": "Chapter 10",
-        "images": [
-            "https://web.archive.org/web/20170730010127im_/http://www.easynotecards.com:80/uploads/856/73/73f8d0c4_13a509a985f__8000_00000153.png"
-        ]
-    },
-    {
-        "front": "Referring to Figure 10.3, oxygen would inhibit the CO₂ fixation reactions in",
-        "options": [
-            "A) cell I only.",
-            "B) cell II only.",
-            "C) neither cell I nor cell II.",
-            "D) both cell I and cell II.",
-            "E) cell I during the night and cell II during the day."
-        ],
-        "back": "B",
-        "unit": "Unit 10",
-        "chapter": "Chapter 10",
-        "images": [
-            "https://web.archive.org/web/20170730010127im_/http://www.easynotecards.com:80/uploads/856/73/73f8d0c4_13a509a985f__8000_00000153.png"
-        ]
     },
     {
         "front": "A gardener is concerned that her greenhouse is getting too hot from too much light, and seeks to shade her plants with colored translucent plastic sheets. What color should she use to reduce overall light energy, but still maximize plant growth?",
@@ -1072,7 +966,7 @@
             "B) Both types of plants make sugar without the Calvin cycle.",
             "C) In both cases, rubisco is not used to fix carbon initially.",
             "D) Both types of plants make most of their sugar in the dark.",
-            "E) In both cases, thylakoids are not involved in photosynthesis."
+            "E) In both cases, thylakoids are not involved in photosynthesis"
         ],
         "back": "C",
         "unit": "Unit 10",

@@ -1,0 +1,1046 @@
+[
+    {
+        "front": "1) Which of the following factors weaken(s) the hypothesis of abiotic synthesis of organic monomers in early Earth's atmosphere? 1. the relatively short time between intense meteor bombardment and the appearance of the first life-forms 2. the lack of experimental evidence that organic monomers can form by abiotic synthesis 3. uncertainty about which gases comprised early Earth's atmosphere",
+        "options": [
+            "A) 1 only",
+            "B) 2 only",
+            "C) 1 and 2",
+            "D) 1 and 3",
+            "E) 2 and 3"
+        ],
+        "back": "D",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "2) How were conditions on the early Earth of more than 3 billion years ago different from those on today's Earth?",
+        "options": [
+            "A) Only early Earth was intensely bombarded by large space debris.",
+            "B) Only early Earth had an oxidizing atmosphere.",
+            "C) Less ultraviolet radiation penetrated early Earth's atmosphere.",
+            "D) Early Earth's atmosphere had significant quantities of ozone."
+        ],
+        "back": "A",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "3) What is true of the amino acids that might have been delivered to Earth within carbonaceous chondrites?",
+        "options": [
+            "A) They had the same proportion of L and D isomers as Earth does today.",
+            "B) Their abundance would have been dramatically reduced upon passage through early Earth's oxidizing atmosphere.",
+            "C) There were more kinds of amino acids on the chondrites than are found in living organisms today.",
+            "D) They were delivered in the form of polypeptides."
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "4) Which of the following is the correct sequence of events in the origin of life? I. formation of protobionts II. synthesis of organic monomers III. synthesis of organic polymers IV. formation of DNA-based genetic systems",
+        "options": [
+            "A) I, II, III, IV",
+            "B) I, III, II, IV",
+            "C) II, III, I, IV",
+            "D) II, III, IV, I"
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "5) Which of the following is a defining characteristic that all protobionts had in common?",
+        "options": [
+            "A) the ability to synthesize enzymes",
+            "B) a surrounding membrane or membrane-like structure",
+            "C) RNA genes",
+            "D) the ability to replicate RNA"
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "6) The first genes on Earth were probably",
+        "options": [
+            "A) DNA produced by reverse transcriptase from abiotically produced RNA.",
+            "B) DNA molecules whose information was transcribed to RNA and later translated in polypeptides.",
+            "C) auto-catalytic RNA molecules.",
+            "D) oligopeptides located within protobionts."
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "7) The synthesis of new DNA requires the prior existence of oligonucleotides to serve as primers. On Earth, these primers are small RNA molecules. This latter observation is evidence in support of the hypothesized existence of",
+        "options": [
+            "A) a snowball Earth.",
+            "B) earlier genetic systems than those based on DNA.",
+            "C) the abiotic synthesis of organic monomers.",
+            "D) the delivery of organic matter to Earth by meteors and comets.",
+            "E) the endosymbiotic origin of mitochondria and chloroplasts."
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "8) Several scientific laboratories across the globe are involved in research concerning the origin of life on Earth. Which of these questions is currently the most problematic and would have the greatest impact on our understanding if we were able to answer it?",
+        "options": [
+            "A) How can amino acids, simple sugars, and nucleotides be synthesized abiotically?",
+            "B) How can RNA molecules catalyze reactions?",
+            "C) How did RNA sequences come to carry the code for amino acid sequences?",
+            "D) How could polymers involving lipids and/or proteins form membranes in aqueous environments?",
+            "E) How can RNA molecules act as templates for the synthesis of complementary RNA molecules?"
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "9) If natural selection in a particular environment favored genetic systems that permitted the production of daughter \"cells\" that were genetically dissimilar from the mother \"cells,\" then one should expect selection for which of the following? I. polynucleotide polymerase with low mismatch error rates II. polynucleotide polymerases without proofreading capability III. batteries of efficient polynucleotide repair enzymes IV. polynucleotide polymerases with proofreading capability V. polynucleotide polymerases with high mismatch error rates",
+        "options": [
+            "A) I only",
+            "B) I and IV",
+            "C) I, III, and IV",
+            "D) II and V",
+            "E) II, III and V"
+        ],
+        "back": "D",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "10) If the half-life of carbon-14 is about 5,730 years, then a fossil that has one-sixteenth the normal proportion of carbon-14 to carbon-12 should be about how many years old?",
+        "options": [
+            "A) 1,400",
+            "B) 2,800",
+            "C) 11,200",
+            "D) 16,800",
+            "E) 22,900"
+        ],
+        "back": "E",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "11) Which measurement(s) would help determine absolute dates by radiometric means?",
+        "options": [
+            "A) the accumulation of the daughter isotope",
+            "B) the loss of parent isotopes",
+            "C) the loss of daughter isotopes",
+            "D) Three of the responses above are correct.",
+            "E) Two of the responses above are correct."
+        ],
+        "back": "E",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "12) Approximately how far back in time does the fossil record extend?",
+        "options": [
+            "A) 3.5 million years",
+            "B) 5.0 million years",
+            "C) 3.5 billion years",
+            "D) 5.0 billion years"
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "13) What is true of the fossil record of mammalian origins?",
+        "options": [
+            "A) It is a good example of punctuated equilibrium.",
+            "B) It shows that mammals and birds evolved from the same kind of dinosaur.",
+            "C) It includes transitional forms with progressively specialized teeth.",
+            "D) It indicates that mammals and dinosaurs did not overlap in geologic time.",
+            "E) It includes a series that shows the gradual change of scales into fur."
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "14) If a fossil is encased in a stratum of sedimentary rock without any strata of igneous rock (for example, lava, volcanic ash) nearby, then it should be",
+        "options": [
+            "A) easy to determine the absolute age of the fossil, because the radioisotopes in the sediments will not have been \"reset\" by the heat of the igneous rocks.",
+            "B) easy to determine the absolute age of the fossil, because the igneous rocks will not have physically obstructed the deposition of sediment of a single age next to the fossil.",
+            "C) easy to determine, as long as there is enough metamorphic rock nearby.",
+            "D) difficult to determine the absolute age of the fossil, because the \"marker fossils\" common to igneous rock will be absent.",
+            "E) difficult to determine the absolute age of the fossil, because radiometric dating of sedimentary rock is less accurate than that of igneous rock."
+        ],
+        "back": "E",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "15) An early consequence of the release of oxygen gas by plant and bacterial photosynthesis was to",
+        "options": [
+            "A) generate intense lightning storms.",
+            "B) change the atmosphere from oxidizing to reducing.",
+            "C) make it easier to maintain reduced molecules.",
+            "D) cause iron in ocean water and terrestrial rocks to rust (oxidize).",
+            "E) prevent the formation of an ozone layer."
+        ],
+        "back": "D",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "16) Which of the following statements provides the strongest evidence that prokaryotes evolved before eukaryotes?",
+        "options": [
+            "A) Prokaryotic cells lack nuclei.",
+            "B) The meteorites that have struck Earth contain fossils only of prokaryotes.",
+            "C) Laboratory experiments have produced liposomes abiotically.",
+            "D) Liposomes closely resemble prokaryotic cells.",
+            "E) The oldest fossilized cells resemble prokaryotes."
+        ],
+        "back": "E",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "17) What is true of the Cambrian explosion?",
+        "options": [
+            "A) There are no fossils in geological strata that are older than the Cambrian explosion.",
+            "B) Only the fossils of microorganisms are found in geological strata older than the Cambrian explosion.",
+            "C) The Cambrian explosion is evidence for the instantaneous creation of life on Earth.",
+            "D) The Cambrian explosion marks the appearance of filter-feeding animals in the fossil record.",
+            "E) Recent evidence supports the contention that the Cambrian explosion may not have been as \"explosive\" as was once thought."
+        ],
+        "back": "E",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "18) What is thought to be the correct sequence of these events, from earliest to most recent, in the evolution of life on Earth? 1. origin of mitochondria 2. origin of multicellular eukaryotes 3. origin of chloroplasts 4. origin of cyanobacteria 5. origin of fungal-plant symbioses",
+        "options": [
+            "A) 4, 3, 2, 1, 5",
+            "B) 4, 1, 2, 3, 5",
+            "C) 4, 1, 3, 2, 5",
+            "D) 4, 3, 1, 5, 2",
+            "E) 4, 3, 1, 2, 5"
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "19) If it were possible to conduct sophisticated microscopic and chemical analyses of microfossils found in 3.2-billion-year-old stromatolites, then one should be surprised to observe evidence of which of the following within such microfossils? I. double-stranded DNA II. a nuclear envelope III. a nucleoid IV. a nucleolus V. ribosomes",
+        "options": [
+            "A) II only",
+            "B) III only",
+            "C) II and IV",
+            "D) II, III, and IV",
+            "E) all five of these"
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "20) Recent evidence indicates that the first major diversification of multicellular eukaryotes may have coincided in time with the",
+        "options": [
+            "A) origin of prokaryotes.",
+            "B) switch to an oxidizing atmosphere.",
+            "C) melting that ended the \"snowball Earth\" period.",
+            "D) origin of multicellular organisms.",
+            "E) massive eruptions of deep-sea vents."
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "21) Which of these observations gives the most support to the endosymbiotic theory for the origin of eukaryotic cells?",
+        "options": [
+            "A) the existence of structural and molecular differences between the plasma membranes of prokaryotes and the internal membranes of mitochondria and chloroplasts",
+            "B) the similarity in size between the cytosolic ribosomes of prokaryotes and the ribosomes within mitochondria and chloroplasts",
+            "C) the size disparity between most prokaryotic cells and most eukaryotic cells",
+            "D) the observation that some eukaryotic cells lack mitochondria"
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "22) Which event is nearest in time to the end of the period known as snowball Earth?",
+        "options": [
+            "A) oxygenation of Earth's seas and atmosphere",
+            "B) evolution of mitochondria",
+            "C) Cambrian explosion",
+            "D) evolution of true multicellularity",
+            "E) Permian extinction"
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "23) The snowball Earth hypothesis provides a possible explanation for the",
+        "options": [
+            "A) diversification of animals during the late Proterozoic era.",
+            "B) oxygenation of Earth's seas and atmosphere.",
+            "C) colonization of land by plants and fungi.",
+            "D) origin of oxygen-releasing photosynthesis.",
+            "E) existence of prokaryotes around hydrothermal vents on the ocean floor."
+        ],
+        "back": "A",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "24) Which of the following characteristics should have been possessed by the first animals to colonize land? 1. were probably herbivores (ate photosynthesizers) 2. had four appendages 3. had the ability to resist dehydration 4. had lobe-finned fishes as ancestors 5. were invertebrates",
+        "options": [
+            "A) 3 only",
+            "B) 3 and 5",
+            "C) 1, 3, and 5",
+            "D) 2, 3, and 4",
+            "E) 1, 2, 3, and 4"
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "25) The first terrestrial organisms probably were considered which of the following? 1. burrowers 2. photosynthetic 3. multicellular 4. prokaryotes 5. eukaryotes 6. plants and their associated fungi",
+        "options": [
+            "A) 2 and 4",
+            "B) 3 and 5",
+            "C) 1, 3, and 5",
+            "D) 2, 3, and 6",
+            "E) 2, 3, 5, and 6"
+        ],
+        "back": "A",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "26) If two continents converge and are united, then the collision should cause",
+        "options": [
+            "A) a net loss of intertidal zone and coastal habitat.",
+            "B) the extinction of any species adapted to intertidal and coastal habitats.",
+            "C) an overall decrease in the surface area located in the continental interior.",
+            "D) a decrease in climatic extremes in the interior of the new supercontinent.",
+            "E) the maintenance of the previously existing ocean currents and wind patterns."
+        ],
+        "back": "A",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "27) The major evolutionary episode corresponding most closely in time with the formation of Pangaea was the",
+        "options": [
+            "A) Cambrian explosion.",
+            "B) Permian extinctions.",
+            "C) Pleistocene ice ages.",
+            "D) Cretaceous extinctions."
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "28) On the basis of their morphologies, how might Linnaeus have classified the Hawaiian silverswords?",
+        "options": [
+            "A) He would have placed them all in the same species.",
+            "B) He would have classified them the same way that modern botanists do.",
+            "C) He would have placed them in more species than modern botanists do.",
+            "D) He would have used evolutionary relatedness as the primary criterion for their classification."
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "29) An organism has a relatively large number of Hox genes in its genome. Which of the following is true of this organism?",
+        "options": [
+            "A) These genes are fundamental, and are expressed in all cells of the organism.",
+            "B) The organism must have multiple paired appendages along the length of its body.",
+            "C) The organism has the genetic potential to have a relatively complex anatomy.",
+            "D) Most of its Hox genes owe their existence to gene fusion events.",
+            "E) Its Hox genes cooperate to bring about sexual maturity at the proper stage of development."
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "30) Bagworm moth caterpillars feed on evergreens and carry a silken case or bag around with them in which they eventually pupate. Adult female bagworm moths are larval in appearance; they lack the wings and other structures of the adult male and instead retain the appearance of a caterpillar even though they are sexually mature and can lay eggs within the bag. This is a good example of",
+        "options": [
+            "A) allometric growth.",
+            "B) paedomorphosis.",
+            "C) sympatric speciation.",
+            "D) adaptive radiation.",
+            "E) changes in homeotic genes."
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "31) The loss of ventral spines by modern freshwater sticklebacks is due to natural selection operating on the phenotypic effects of Pitx1 gene",
+        "options": [
+            "A) duplication (gain in number).",
+            "B) elimination (loss).",
+            "C) mutation (change).",
+            "D) silencing (loss of expression)."
+        ],
+        "back": "D",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "32) Larval flies (maggots) express the Ubx gene in all of their segments, and thereby lack appendages. If this same gene continued to be expressed throughout subsequent developmental stages, except in the head region, and if the result was a fit, sexually mature organism that still strongly resembled a maggot, this would be an example of",
+        "options": [
+            "A) paedomorphosis.",
+            "B) homochrony.",
+            "C) heterochrony.",
+            "D) Two of the responses above are correct."
+        ],
+        "back": "D",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "33) How many of the following statements concerning the loss of hind limbs during whale evolution are true? 1. It is well documented by a series of transitional fossils. 2. It explains why modern whales have vestigial pelvic girdles. 3. It involved changes in the sequence or expression of Hox genes. 4. It is an example of macroevolution. 5. It, and the loss of limbs by snakes, are an example of similar adaptations to a similar environment.",
+        "options": [
+            "A) Only one statement is true.",
+            "B) Two statements are true.",
+            "C) Three statements are true.",
+            "D) Four statements are true.",
+            "E) All five statements are true."
+        ],
+        "back": "D",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "34) The existence of the phenomenon of exaptation is most closely associated with which of the following observations that natural selection cannot fashion perfect organisms?",
+        "options": [
+            "A) Natural selection and sexual selection can work at cross-purposes to each other.",
+            "B) Evolution is limited by historical constraints.",
+            "C) Adaptations are often compromises.",
+            "D) Chance events affect the evolutionary history of populations in environments that can change unpredictably."
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "35) One explanation for the evolution of insect wings suggests that wings began as lateral extensions of the body that were used as heat dissipaters for thermoregulation. When they had become sufficiently large, these extensions became useful for gliding through the air, and selection later refined them as flight-producing wings. If this hypothesis is correct, modern insect wings could best be described as",
+        "options": [
+            "A) adaptations.",
+            "B) mutations.",
+            "C) exaptations.",
+            "D) isolating mechanisms.",
+            "E) examples of natural selection's predictive ability."
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "36) If one organ is an exaptation of another organ, then what must be true of these two organs?",
+        "options": [
+            "A) They are both vestigial organs.",
+            "B) They are both homologous organs.",
+            "C) They are undergoing convergent evolution.",
+            "D) They are found together in the same hybrid species.",
+            "E) They have the same function."
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "37) Many species of snakes lay eggs. However, in the forests of northern Minnesota where growing seasons are short, only live-bearing snake species are present. This trend toward species that perform live birth in a particular environment is an example of",
+        "options": [
+            "A) natural selection.",
+            "B) sexual selection.",
+            "C) species selection.",
+            "D) goal direction in evolution.",
+            "E) directed selection."
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "38) In the 5-7 million years that the hominid lineage has been diverging from its common ancestor with the great apes, dozens of hominid species have arisen, often with several species coexisting in time and space. As recently as 30,000 years ago, Homo sapiens coexisted with Homo neanderthalensis. Both species had large brains and advanced intellects. The fact that these traits were common to both species is most easily explained by which of the following?",
+        "options": [
+            "A) species selection",
+            "B) uniformitarianism",
+            "C) sexual selection",
+            "D) convergent evolution"
+        ],
+        "back": "A",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "39) The existence of evolutionary trends, such as increasing body sizes among horse species, is evidence that",
+        "options": [
+            "A) a larger volume-to-surface area ratio is beneficial to all mammals.",
+            "B) an unseen guiding force is at work.",
+            "C) evolution always tends toward increased complexity or increased size.",
+            "D) in particular environments, similar adaptations can be beneficial in more than one species.",
+            "E) evolution generally progresses toward some predetermined goal."
+        ],
+        "back": "D",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "40) Fossil evidence indicates that several kinds of flightless dinosaurs possessed feathers. If some of these feather-bearing dinosaurs incubated clutches of eggs in carefully constructed nests, this might be evidence supporting the claim that",
+        "options": [
+            "A) dinosaurs were as fully endothermal (warm-blooded) as modern birds and mammals.",
+            "B) their feathers originally served as insulation, and only later became flight surfaces.",
+            "C) the earliest reptiles could fly, and the feathers of flightless dinosaurs were vestigial flight surfaces.",
+            "D) the feathers were plucked from the bodies of other adults to provide nest-building materials.",
+            "E) all fossils with feathers are actually some kind of bird."
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "41) Several scientific laboratories across the globe are involved in research concerning the origin of life on Earth. Which graph below, if the results were produced abiotically, would have the greatest promise for revealing important information about the origin of Earth's first genetic system? A. SEE IMAGE B. SEE IMAGE C. SEE IMAGE D. SEE IMAGE",
+        "options": [],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": [
+            "https://web.archive.org/web/20170801121907im_/https://www.easynotecards.com/uploads/1/22/2522f4b0_13a997b09fc__8000_00000023.jpg"
+        ]
+    },
+    {
+        "front": "The figure represents a cross section of the sea floor through a mid-ocean rift valley, with alternating patches of black and white indicating sea floor with reversed magnetic polarities. At the arrow labeled \"I\" (the rift valley), the igneous rock of the sea floor is so young that it can be accurately dated using carbon-14 dating. At the arrow labeled \"III,\" however, the igneous rock is about 1 million years old, and potassium-40 dating is typically used to date such rocks. Note: The horizontal arrows indicate the direction of sea-floor spreading, away from the rift valley. 42) Assuming that the rate of sea-floor spreading was constant during the 1-million-year period depicted above, Earth's magnetic field has undergone reversal at an average rate of once every",
+        "options": [
+            "A) 10,000 years.",
+            "B) 25,000 years.",
+            "C) 100,000 years.",
+            "D) 250,000 years.",
+            "E) 1,000,000 years."
+        ],
+        "back": "D",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": [
+            "https://web.archive.org/web/20170801121907im_/https://www.easynotecards.com/uploads/2/23/2522f4b0_13a997b09fc__8000_00000024.jpg"
+        ]
+    },
+    {
+        "front": "The figure represents a cross section of the sea floor through a mid-ocean rift valley, with alternating patches of black and white indicating sea floor with reversed magnetic polarities. At the arrow labeled \"I\" (the rift valley), the igneous rock of the sea floor is so young that it can be accurately dated using carbon-14 dating. At the arrow labeled \"III,\" however, the igneous rock is about 1 million years old, and potassium-40 dating is typically used to date such rocks. Note: The horizontal arrows indicate the direction of sea-floor spreading, away from the rift valley. 43) Which section of sea-floor crust should have the thickest layer of overlying sediment, assuming a continuous rate of sediment deposition?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "E",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": [
+            "https://web.archive.org/web/20170801121907im_/https://www.easynotecards.com/uploads/2/23/2522f4b0_13a997b09fc__8000_00000024.jpg"
+        ]
+    },
+    {
+        "front": "The figure represents a cross section of the sea floor through a mid-ocean rift valley, with alternating patches of black and white indicating sea floor with reversed magnetic polarities. At the arrow labeled \"I\" (the rift valley), the igneous rock of the sea floor is so young that it can be accurately dated using carbon-14 dating. At the arrow labeled \"III,\" however, the igneous rock is about 1 million years old, and potassium-40 dating is typically used to date such rocks. Note: The horizontal arrows indicate the direction of sea-floor spreading, away from the rift valley. 44) If a particular marine organism is fossilized in the sediments immediately overlying the igneous rock at the arrow labeled \"II,\" at which other location, labeled A—E, would a search be most likely to find more fossils of this organism?",
+        "options": [
+            "A) B only",
+            "B) C only",
+            "C) D only",
+            "D) B and C",
+            "E) C and D"
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": [
+            "https://web.archive.org/web/20170801121907im_/https://www.easynotecards.com/uploads/2/23/2522f4b0_13a997b09fc__8000_00000024.jpg"
+        ]
+    },
+    {
+        "front": "The figure represents a cross section of the sea floor through a mid-ocean rift valley, with alternating patches of black and white indicating sea floor with reversed magnetic polarities. At the arrow labeled \"I\" (the rift valley), the igneous rock of the sea floor is so young that it can be accurately dated using carbon-14 dating. At the arrow labeled \"III,\" however, the igneous rock is about 1 million years old, and potassium-40 dating is typically used to date such rocks. Note: The horizontal arrows indicate the direction of sea-floor spreading, away from the rift valley. 45) How many other bands of sea-floor crust in Figure 25.1 have the same magnetic polarity as the crust that directly straddles the rift valley?",
+        "options": [
+            "A) two bands",
+            "B) four bands",
+            "C) six bands",
+            "D) eight bands",
+            "E) ten bands"
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": [
+            "https://web.archive.org/web/20170801121907im_/https://www.easynotecards.com/uploads/2/23/2522f4b0_13a997b09fc__8000_00000024.jpg"
+        ]
+    },
+    {
+        "front": "The figure represents a cross section of the sea floor through a mid-ocean rift valley, with alternating patches of black and white indicating sea floor with reversed magnetic polarities. At the arrow labeled \"I\" (the rift valley), the igneous rock of the sea floor is so young that it can be accurately dated using carbon-14 dating. At the arrow labeled \"III,\" however, the igneous rock is about 1 million years old, and potassium-40 dating is typically used to date such rocks. Note: The horizontal arrows indicate the direction of sea-floor spreading, away from the rift valley. 46) Assuming that the rate of sea-floor spreading was constant during the 1-million-year period depicted above, what should be the approximate age of marine fossils found in undisturbed sedimentary rock immediately overlying the igneous rock at the arrow labeled \"II\"?",
+        "options": [
+            "A) 10,000 years",
+            "B) 250,000 years",
+            "C) 400,000 years",
+            "D) 1,000,000 years"
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": [
+            "https://web.archive.org/web/20170801121907im_/https://www.easynotecards.com/uploads/2/23/2522f4b0_13a997b09fc__8000_00000024.jpg"
+        ]
+    },
+    {
+        "front": "A sediment core is removed from the floor of an inland sea. The sea has been in existence, off and on, throughout the entire time that terrestrial life has existed. Researchers wish to locate and study the terrestrial organisms fossilized in this core. The core is illustrated as a vertical column, with the top of the column representing the most recent strata and the bottom representing the time when land was first colonized by life. 47) If arrows indicate locations in the column where fossils of a particular type (see key above) first appear, then which core in Figure 25.2 has the most accurate arrangement of fossils?",
+        "options": [
+            "A) core A",
+            "B) core B",
+            "C) core C",
+            "D) core D"
+        ],
+        "back": "A",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": [
+            "https://web.archive.org/web/20170801121907im_/https://www.easynotecards.com/uploads/7/28/2522f4b0_13a997b09fc__8000_00000029.jpg"
+        ]
+    },
+    {
+        "front": "A sediment core is removed from the floor of an inland sea. The sea has been in existence, off and on, throughout the entire time that terrestrial life has existed. Researchers wish to locate and study the terrestrial organisms fossilized in this core. The core is illustrated as a vertical column, with the top of the column representing the most recent strata and the bottom representing the time when land was first colonized by life. 48) Which of the following reasons may explain why the sediment core lacks fossils of dragonflies with 3-feet wingspans? 1. This particular sediment core includes the correct stratum, but the part of the stratum captured by the core lacks such fossils. 2. The sea was not present at this site during the time that 3-feet dragonflies existed. 3. Dragonflies have no hard parts, such as exoskeletons, to fossilize. 4. The sediments containing these fossils at this site may have been eroded away during a time when the sea had receded from this site. 5. Dragonflies are terrestrial; therefore, fossils of terrestrial organisms should not be expected in the sediments of seas.",
+        "options": [
+            "A) 1 only",
+            "B) 3 only",
+            "C) 5 only",
+            "D) 2 or 4",
+            "E) 1, 2, or 4"
+        ],
+        "back": "E",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": [
+            "https://web.archive.org/web/20170801121907im_/https://www.easynotecards.com/uploads/7/28/2522f4b0_13a997b09fc__8000_00000029.jpg"
+        ]
+    },
+    {
+        "front": "49) In order to properly interpret sediment cores, it is necessary to apply the principle of",
+        "options": [
+            "A) catastrophism.",
+            "B) superposition.",
+            "C) punctuated equilibrium.",
+            "D) uniformitarianism.",
+            "E) gradualism."
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "50) Assuming the existence of fossilized markers for each of the following chemicals, what is the sequence in which they should be found in this sediment core, working from ancient sediments to recent sediments? 1. chitin coupled with protein 2. chlorophyll 3. bone 4. cellulose",
+        "options": [
+            "A) 2, 4, 3, 1",
+            "B) 2, 4, 1, 3",
+            "C) 4, 2, 1, 3",
+            "D) 4, 2, 3, 1"
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "51) In order to assign absolute dates to fossils in this sediment core, it would be most helpful if",
+        "options": [
+            "A) we knew the order in which the fossils occurred in the core.",
+            "B) the sediments had not been affected by underwater currents during their deposition.",
+            "C) volcanic ash layers were regularly interspersed between the sedimentary strata.",
+            "D) metamorphic rock strata alternated with sedimentary rock strata.",
+            "E) fossils throughout the column had equal ratios of a parental radioisotope to its daughter isotope."
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "52) According to the theory of sea-floor spreading, oceanic islands, such as the Hawaiian Islands depicted in Figure 25.3, form as oceanic crustal plates move over a stationary \"hot spot\" in the mantle. Currently, the big island of Hawaii is thought to be over a hot spot, which is why it is the only one of the seven islands that has active volcanoes. What should be true of the island of Hawaii? 1. Scientists in search of ongoing speciation events are more likely to find them here than on the other six islands. 2. Its species should be more closely related to those of nearer islands than to those of farther islands. 3. It should have a rich fossil record of terrestrial organisms. 4. There is a good chance of finding endemic species on this island. 5. On average, it should have fewer species per unit surface area than the other six islands.",
+        "options": [
+            "A) 1, 2, and 3",
+            "B) 1, 2, and 5",
+            "C) 1, 2, 3, and 4",
+            "D) 1, 2, 4, and 5",
+            "E) 2, 3, 4, and 5"
+        ],
+        "back": "D",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": [
+            "https://web.archive.org/web/20170801121907im_/https://www.easynotecards.com/uploads/12/33/2522f4b0_13a997b09fc__8000_00000035.jpg"
+        ]
+    },
+    {
+        "front": "53) Hawaii is the most southeastern of the seven islands and is also closest to the sea-floor spreading center from which the Pacific plate originates, which lies about 5,600 km further to the southeast. Assuming equal sedimentation rates, what should be the location of the thickest sediment layer and, thus, the area with the greatest diversity of fossils above the oceanic crust?",
+        "options": [
+            "A) between the island of Hawaii and the sea-floor spreading center",
+            "B) around the base of the island of Hawaii",
+            "C) around the base of Kauai, the oldest of the Hawaiian islands",
+            "D) where the islands are most concentrated (highest number of islands per unit surface area)"
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": [
+            "https://web.archive.org/web/20170801121907im_/https://www.easynotecards.com/uploads/12/33/2522f4b0_13a997b09fc__8000_00000035.jpg"
+        ]
+    },
+    {
+        "front": "54) Soon after the island of Hawaii rose above the sea surface (somewhat less than 1 million years ago), the evolution of life on this new island should have been most strongly influenced by",
+        "options": [
+            "A) genetic bottleneck.",
+            "B) sexual selection.",
+            "C) habitat differentiation.",
+            "D) founder effect."
+        ],
+        "back": "D",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": [
+            "https://web.archive.org/web/20170801121907im_/https://www.easynotecards.com/uploads/12/33/2522f4b0_13a997b09fc__8000_00000035.jpg"
+        ]
+    },
+    {
+        "front": "55) Upon being formed, oceanic islands, such as the Hawaiian Islands, should feature what characteristic, leading to which phenomenon?",
+        "options": [
+            "A) mass extinctions, leading to bottleneck effect",
+            "B) major evolutionary innovations, leading to rafting to nearby continents",
+            "C) a variety of empty ecological niches, leading to adaptive radiation",
+            "D) adaptive radiation, leading to founder effect",
+            "E) overcrowding, leading to rafting to nearby lands"
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": [
+            "https://web.archive.org/web/20170801121907im_/https://www.easynotecards.com/uploads/12/33/2522f4b0_13a997b09fc__8000_00000035.jpg"
+        ]
+    },
+    {
+        "front": "Fossils of Lystrosaurus, a dicynodont therapsid, are most common in parts of modern-day South America, South Africa, Madagascar, India, South Australia, and Antarctica. It apparently lived in arid regions, and was mostly herbivorous. It originated during the mid-Permian period, survived the Permian extinction, and dwindled by the late Triassic, though there is evidence of a relict population in Australia during the Cretaceous period. The dicynodonts had two large tusks, extending down from their upper jaws. The tusks were not used for food gathering, and in some species were limited to males. Food was gathered using an otherwise toothless beak. Judging from the fossil record in sedimentary rocks, these pig-sized organisms were the most common mammal-like reptiles of the Permian. 56) Anatomically, what was true of Lystrosaurus?",
+        "options": [
+            "A) Its jaw would have been hinged the same way as the jaws of the early reptiles were hinged.",
+            "B) It was a tetrapod.",
+            "C) It had skin without scales, typical of modern amphibians.",
+            "D) It would have had no temporal fenestra in its skull."
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "Fossils of Lystrosaurus, a dicynodont therapsid, are most common in parts of modern-day South America, South Africa, Madagascar, India, South Australia, and Antarctica. It apparently lived in arid regions, and was mostly herbivorous. It originated during the mid-Permian period, survived the Permian extinction, and dwindled by the late Triassic, though there is evidence of a relict population in Australia during the Cretaceous period. The dicynodonts had two large tusks, extending down from their upper jaws. The tusks were not used for food gathering, and in some species were limited to males. Food was gathered using an otherwise toothless beak. Judging from the fossil record in sedimentary rocks, these pig-sized organisms were the most common mammal-like reptiles of the Permian. 57) How many of Lystrosaurus' features below can help explain why these organisms fossilized so abundantly? I. the presence of hard parts, such as tusks II. its arid environment III.its persistence across at least two geological eras IV. its widespread geographic distribution V. its mixture of reptilian and mammalian features",
+        "options": [
+            "A) only one of these statements",
+            "B) two of these statements",
+            "C) three of these statements",
+            "D) four of these statements",
+            "E) all five of these statements"
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "Fossils of Lystrosaurus, a dicynodont therapsid, are most common in parts of modern-day South America, South Africa, Madagascar, India, South Australia, and Antarctica. It apparently lived in arid regions, and was mostly herbivorous. It originated during the mid-Permian period, survived the Permian extinction, and dwindled by the late Triassic, though there is evidence of a relict population in Australia during the Cretaceous period. The dicynodonts had two large tusks, extending down from their upper jaws. The tusks were not used for food gathering, and in some species were limited to males. Food was gathered using an otherwise toothless beak. Judging from the fossil record in sedimentary rocks, these pig-sized organisms were the most common mammal-like reptiles of the Permian. 58) Which of the following is the most likely explanation for the modern-day distribution of dicynodont fossils?",
+        "options": [
+            "A) There had been two previous supercontinents that existed at different times long before the Permian period.",
+            "B) The dicynodonts were evenly distributed throughout all of Pangaea.",
+            "C) The dicynodonts were distributed more abundantly throughout Gondwanaland than throughout any other land mass.",
+            "D) The dicynodonts were amphibious and able to swim long distances.",
+            "E) The dicynodonts could survive for periods of months aboard \"rafts\" of vegetation, few of which made their way to the northern hemisphere."
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "Fossils of Lystrosaurus, a dicynodont therapsid, are most common in parts of modern-day South America, South Africa, Madagascar, India, South Australia, and Antarctica. It apparently lived in arid regions, and was mostly herbivorous. It originated during the mid-Permian period, survived the Permian extinction, and dwindled by the late Triassic, though there is evidence of a relict population in Australia during the Cretaceous period. The dicynodonts had two large tusks, extending down from their upper jaws. The tusks were not used for food gathering, and in some species were limited to males. Food was gathered using an otherwise toothless beak. Judging from the fossil record in sedimentary rocks, these pig-sized organisms were the most common mammal-like reptiles of the Permian. 59) If an increase in dicynodont species diversity (in other words, number of species) occurred soon after the Permian extinction, and if it occurred for the same general reason usually given for the increase in mammalian diversity following the Cretaceous extinction, then it should be attributed to",
+        "options": [
+            "A) an innovation among the dicynodonts that allowed them to fill brand-new niches.",
+            "B) the availability of previously occupied niches.",
+            "C) the extinction of the dinosaurs (except the birds).",
+            "D) their outcompetition of many other terrestrial organisms."
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "The following question is based on the observation that several dozen different proteins comprise the prokaryotic flagellum and its attachment to the prokaryotic cell, producing a highly complex structure. 60) If the complex protein assemblage of the prokaryotic flagellum arose by the same general processes as those of the complex eyes of molluscs (such as squids and octopi), then",
+        "options": [
+            "A) natural selection cannot account for the rise of the prokaryotic flagellum.",
+            "B) ancestral versions of this protein assemblage were either less functional or had different functions than modern prokaryotic flagella.",
+            "C) scientists should accept the conclusion that neither eyes nor flagella could have arisen by evolution.",
+            "D) we can conclude that both of these structures must have arisen through the direct action of an \"intelligent designer.\""
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "The following question is based on the observation that several dozen different proteins comprise the prokaryotic flagellum and its attachment to the prokaryotic cell, producing a highly complex structure. 61) Certain proteins of the complex motor that drives bacterial flagella are modified versions of proteins that had previously belonged to plasma membrane pumps. This evidence supports the claim that",
+        "options": [
+            "A) some structures are so complex that natural selection cannot, and will not, explain their origins.",
+            "B) the power of natural selection allows it to act in an almost predictive fashion, producing organs that will be needed in future environments.",
+            "C) the motors of bacterial flagella were originally synthesized abiotically.",
+            "D) natural selection can produce new structures by coupling together parts of other structures.",
+            "E) bacteria that possess flagella must have lost the ability to pump certain chemicals across their plasma membranes."
+        ],
+        "back": "D",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "A female fly, full of fertilized eggs, is swept by high winds to an island far out to sea. She is the first fly to arrive on this island, and the only fly to arrive in this way. Thousands of years later, her numerous offspring occupy the island, but none of them resembles her. There are, instead, several species, each of which eats only a certain type of food. None of the species can fly, for their flight wings are absent, and their balancing organs (in other words, halteres) are now used in courtship displays. The male members of each species bear modified halteres that are unique in appearance to their species. Females bear vestigial halteres. The ranges of all of the daughter species overlap. 62) If these fly species lost the ability to fly independently of each other as a result of separate mutation events in each lineage, then the flightless condition in these species could be an example of",
+        "options": [
+            "A) adaptive radiation.",
+            "B) species selection.",
+            "C) sexual selection.",
+            "D) allometric growth.",
+            "E) habitat differentiation."
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "A female fly, full of fertilized eggs, is swept by high winds to an island far out to sea. She is the first fly to arrive on this island, and the only fly to arrive in this way. Thousands of years later, her numerous offspring occupy the island, but none of them resembles her. There are, instead, several species, each of which eats only a certain type of food. None of the species can fly, for their flight wings are absent, and their balancing organs (in other words, halteres) are now used in courtship displays. The male members of each species bear modified halteres that are unique in appearance to their species. Females bear vestigial halteres. The ranges of all of the daughter species overlap. 63) In each fly species, the entire body segment that gave rise to the original flight wings is missing. The mutation(s) that led to the flightless condition could have",
+        "options": [
+            "A) duplicated all of the Hox genes in these flies' genomes.",
+            "B) altered the nucleotide sequence within a Hox gene.",
+            "C) altered the expression of a Hox gene.",
+            "D) all three of the above responses",
+            "E) two of the above answers are correct"
+        ],
+        "back": "E",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "A female fly, full of fertilized eggs, is swept by high winds to an island far out to sea. She is the first fly to arrive on this island, and the only fly to arrive in this way. Thousands of years later, her numerous offspring occupy the island, but none of them resembles her. There are, instead, several species, each of which eats only a certain type of food. None of the species can fly, for their flight wings are absent, and their balancing organs (in other words, halteres) are now used in courtship displays. The male members of each species bear modified halteres that are unique in appearance to their species. Females bear vestigial halteres. The ranges of all of the daughter species overlap. 64) Fly species W, found in a certain part of the island, produces fertile offspring with species Y. Species W does not produce fertile offspring with species X or Z. If no other species can hybridize, then species W and Y",
+        "options": [
+            "A) have genomes that are still similar enough for successful meiosis to occur in hybrid flies.",
+            "B) have more genetic similarity with each other than either did with the other two species.",
+            "C) may fuse into a single species if their hybrids remain fertile over the course of many generations.",
+            "D) Three of the above statements are correct.",
+            "E) Two of the statements above are correct."
+        ],
+        "back": "D",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "A female fly, full of fertilized eggs, is swept by high winds to an island far out to sea. She is the first fly to arrive on this island, and the only fly to arrive in this way. Thousands of years later, her numerous offspring occupy the island, but none of them resembles her. There are, instead, several species, each of which eats only a certain type of food. None of the species can fly, for their flight wings are absent, and their balancing organs (in other words, halteres) are now used in courtship displays. The male members of each species bear modified halteres that are unique in appearance to their species. Females bear vestigial halteres. The ranges of all of the daughter species overlap. 65) Which of these fly organs, as they exist in current fly populations, best fits the description of an exaptation?",
+        "options": [
+            "A) wings",
+            "B) balancing organs",
+            "C) mouthparts",
+            "D) thoraxes",
+            "E) walking appendages"
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "All animals with eyes or eyespots that have been studied so far share a gene in common. When mutated, the gene Pax-6 causes lack of eyes in fruit flies, tiny eyes in mice, and missing irises (and other eye parts) in humans. The sequence of Pax-6 in humans and mice is identical. There are so few sequence differences with fruit fly Pax-6 that the human/mouse version can cause eye formation in eyeless fruit flies, even though vertebrates and invertebrates last shared a common ancestor more than 500 million years ago. 66) The appearance of Pax-6 in all animals with eyes can be explained in multiple ways. Based on the information above, which explanation is most likely?",
+        "options": [
+            "A) Pax-6 in all of these animals is not homologous; it arose independently in many different animal phyla due to intense selective pressure favoring vision.",
+            "B) The Pax-6 gene is really not \"one\" gene. It is many different genes that, over evolutionary time and due to convergence, have come to have a similar nucleotide sequence and function.",
+            "C) The Pax-6 gene was an innovation of an ancestral animal of the early Cambrian period. Animals with eyes or eyespots are descendants of this ancestor.",
+            "D) The perfectly designed Pax-6 gene appeared instantaneously in all animals created to have eyes or eyespots."
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "All animals with eyes or eyespots that have been studied so far share a gene in common. When mutated, the gene Pax-6 causes lack of eyes in fruit flies, tiny eyes in mice, and missing irises (and other eye parts) in humans. The sequence of Pax-6 in humans and mice is identical. There are so few sequence differences with fruit fly Pax-6 that the human/mouse version can cause eye formation in eyeless fruit flies, even though vertebrates and invertebrates last shared a common ancestor more than 500 million years ago. 67) Fruit fly eyes are of the compound type, which is structurally very different from the camera-type eyes of mammals. Even the camera-type eyes of molluscs, such as octopi, are structurally quite different from those of mammals. Yet, fruit flies, octopi, and mammals possess very similar versions of Pax-6. The fact that the same gene helps produce very different types of eyes is most likely due to",
+        "options": [
+            "A) the few differences in nucleotide sequence among the Pax-6 genes of these organisms.",
+            "B) variations in the number of Pax-6 genes among these organisms.",
+            "C) the independent evolution of this gene at many different times during animal evolution.",
+            "D) differences in the control of Pax-6 expression among these organisms."
+        ],
+        "back": "D",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "All animals with eyes or eyespots that have been studied so far share a gene in common. When mutated, the gene Pax-6 causes lack of eyes in fruit flies, tiny eyes in mice, and missing irises (and other eye parts) in humans. The sequence of Pax-6 in humans and mice is identical. There are so few sequence differences with fruit fly Pax-6 that the human/mouse version can cause eye formation in eyeless fruit flies, even though vertebrates and invertebrates last shared a common ancestor more than 500 million years ago. 68) Pax-6 usually causes the production of a type of light-receptor pigment. In vertebrate eyes, though, a different gene (the rh gene family) is responsible for the light-receptor pigments of the retina. The rh gene, like Pax-6, is ancient. In the marine ragworm, for example, the rh gene causes production of c-opsin, which helps regulate the worm's biological clock. Which of these most likely accounts for vertebrate vision?",
+        "options": [
+            "A) The Pax-6 gene mutated to become the rh gene among early mammals.",
+            "B) During vertebrate evolution, the rh gene for biological clock opsin was co-opted as a gene for visual receptor pigments.",
+            "C) In animals more ancient than ragworms, the rh gene(s) coded for visual receptor pigments; in lineages more recent than ragworms, rh has flip-flopped several times between producing biological clock opsins and visual receptor pigments.",
+            "D) Pax-6 was lost from the mammalian genome, and replaced by the rh gene much later."
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "69) Fossilized stromatolites",
+        "options": [
+            "A) all date from 2.7 billion years ago.",
+            "B) formed around deep-sea vents.",
+            "C) resemble structures formed by bacterial communities that are found today in some warm, shallow, salty bays.",
+            "D) provide evidence that plants moved onto land in the company of fungi around 500 million years ago.",
+            "E) contain the first undisputed fossils of eukaryotes and date from 2.1 billion years ago."
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "70) The oxygen revolution changed Earth's environment dramatically. Which of the following took advantage of the presence of free oxygen in the oceans and atmosphere?",
+        "options": [
+            "A) the evolution of cellular respiration, which used oxygen to help harvest energy from organic molecules",
+            "B) the persistence of some animal groups in anaerobic habitats",
+            "C) the evolution of photosynthetic pigments that protected early algae from the corrosive effects of oxygen",
+            "D) the evolution of chloroplasts after early protists incorporated photosynthetic cyanobacteria",
+            "E) the evolution of multicellular eukaryotic colonies from communities of prokaryotes"
+        ],
+        "back": "A",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "71) Which factor most likely caused animals and plants in India to differ greatly from species in nearby southeast Asia?",
+        "options": [
+            "A) The species have become separated by convergent evolution.",
+            "B) The climates of the two regions are similar.",
+            "C) India is in the process of separating from the rest of Asia.",
+            "D) Life in India was wiped out by ancient volcanic eruptions.",
+            "E) India was a separate continent until 45 million years ago."
+        ],
+        "back": "E",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "72) Adaptive radiations can be a direct consequence of four of the following five factors. Select the exception.",
+        "options": [
+            "A) vacant ecological niches",
+            "B) genetic drift",
+            "C) colonization of an isolated region that contains suitable habitat and few competitor species",
+            "D) evolutionary innovation",
+            "E) an adaptive radiation in a group of organisms (such as plants) that another group uses as food"
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "73) Which of the following steps has not yet been accomplished by scientists studying the origin of life?",
+        "options": [
+            "A) synthesis of small RNA polymers by ribozymes",
+            "B) abiotic synthesis of polypeptides",
+            "C) formation of molecular aggregates with selectively permeable membranes",
+            "D) formation of protocells that use DNA to direct the polymerization of amino acids",
+            "E) abiotic synthesis of organic molecules"
+        ],
+        "back": "D",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "74) A genetic change that caused a certain Hox gene to be expressed along the tip of a vertebrate limb bud instead of farther back helped make possible the evolution of the tetrapod limb. This type of change is illustrative of",
+        "options": [
+            "A) the influence of environment on development.",
+            "B) paedomorphosis.",
+            "C) a change in a developmental gene or its regulation that altered the spatial organization of body parts.",
+            "D) heterochrony.",
+            "E) gene duplication."
+        ],
+        "back": "C",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    },
+    {
+        "front": "75) A swim bladder is a gas-filled sac that helps fish maintain buoyancy. The evolution of the swim bladder from lungs of an ancestral fish is an example of",
+        "options": [
+            "A) an evolutionary trend.",
+            "B) exaptation.",
+            "C) changes in Hox gene expression.",
+            "D) paedomorphosis.",
+            "E) adaptive radiation."
+        ],
+        "back": "B",
+        "unit": "Unit 25",
+        "chapter": "Chapter 25",
+        "images": []
+    }
+]

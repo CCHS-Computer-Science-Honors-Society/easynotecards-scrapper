@@ -1,0 +1,971 @@
+[
+    {
+        "front": "1) A necropsy (postmortem analysis) of a marine sea star that died after it was mistakenly placed in fresh water would likely show that it died because",
+        "options": [
+            "A) it was stressed and needed more time to acclimate to the new conditions.",
+            "B) it was so hyperosmotic to the fresh water that it could not osmoregulate.",
+            "C) the sea star's kidneys could not handle the change in ionic content presented by the fresh water.",
+            "D) its contractile vacuoles ruptured.",
+            "E) its cells dehydrated and lost the ability to metabolize."
+        ],
+        "back": "B",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "2) Organisms categorized as osmoconformers are most likely",
+        "options": [
+            "A) found in freshwater lakes and streams.",
+            "B) marine.",
+            "C) amphibious.",
+            "D) found in arid terrestrial environments.",
+            "E) found in terrestrial environments with adequate moisture."
+        ],
+        "back": "B",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "3) The body fluids of an osmoconformer would be ________ with its ________ environment.",
+        "options": [
+            "A) hyperosmotic; freshwater",
+            "B) isotonic; freshwater",
+            "C) hyperosmotic; saltwater",
+            "D) isoosmotic; saltwater",
+            "E) hypoosmotic; saltwater"
+        ],
+        "back": "D",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "4) Compared to the seawater around them, most marine invertebrates are",
+        "options": [
+            "A) hyperosmotic.",
+            "B) hypoosmotic.",
+            "C) isoosmotic.",
+            "D) hyperosmotic and isoosmotic.",
+            "E) hypoosmotic and isoosmotic."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "5) The fluid with the highest osmolarity is",
+        "options": [
+            "A) distilled water.",
+            "B) plasma in birds.",
+            "C) plasma in mammals.",
+            "D) seawater in a tidal pool.",
+            "E) estuarine water."
+        ],
+        "back": "D",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "6) Birds that live in marine environments and thus lack access to fresh drinking water",
+        "options": [
+            "A) osmoregulate without using a transport epithelium for this purpose.",
+            "B) drink seawater and secrete excess ions through their kidneys only.",
+            "C) drink seawater and secrete excess ions mainly through their nasal salt glands.",
+            "D) have plasma that is isoosmotic to ocean water.",
+            "E) obtain water by eating only osmoregulating prey."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "7) Osmoconforming sharks take in water, as needed,",
+        "options": [
+            "A) by migrating to freshwater rivers to drink fresh water.",
+            "B) via osmosis, as their body cells are slightly hyperosmotic to seawater.",
+            "C) via active transport of water across the cells on their gills.",
+            "D) by water diffusion from seawater, which is hyperosmotic to the fluids in their cells.",
+            "E) by selective transport of water molecules across the wall of the gut."
+        ],
+        "back": "B",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "8) A human who has no access to fresh water but is forced to drink seawater instead",
+        "options": [
+            "A) will thrive under such conditions, as long as he has lived at the ocean most of his life.",
+            "B) will excrete more water molecules than taken in, because of the high load of ion ingestion.",
+            "C) will develop structural changes in the kidneys to accommodate the salt overload.",
+            "D) will find that drinking saltwater satiates his thirst.",
+            "E) will risk becoming overhydrated within 12 hours."
+        ],
+        "back": "B",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "9) Many marine and freshwater bony fish achieve osmoregulation via",
+        "options": [
+            "A) loss of water through the gills.",
+            "B) gain of salt through the gills.",
+            "C) loss of water in the urine.",
+            "D) no drinking of water.",
+            "E) gain of water through food."
+        ],
+        "back": "E",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "10) Unlike most bony fishes, sharks maintain body fluids that are isoosmotic to seawater, so they are considered by many to be osmoconformers. Nonetheless, these sharks osmoregulate at least partially by",
+        "options": [
+            "A) using their gills and kidneys to rid themselves of sea salts.",
+            "B) monitoring dehydration at the cellular level with special gated aquaporins.",
+            "C) tolerating high urea concentrations that balance internal salt concentrations to seawater osmolarity.",
+            "D) synthesizing trimethylamine oxide, a chemical that binds and precipitates salts inside cells.",
+            "E) possessing a special adaptation that allows their cells to operate at an extraordinarily high salt concentration."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "11) The necropsy (postmortem analysis) of a freshwater fish that died after being placed accidentally in saltwater would likely show that",
+        "options": [
+            "A) loss of water by osmosis from cells in vital organs resulted in cell death and organ failure.",
+            "B) high amounts of salt had diffused into the fish's cells, causing them to swell and lyse.",
+            "C) the kidneys were not able to keep up with the water removal necessary in this hyperosmotic environment, creating an irrevocable loss of homeostasis.",
+            "D) the gills became encrusted with salt, resulting in inadequate gas exchange and a resulting asphyxiation.",
+            "E) brain cells lysed as a result of increased osmotic pressure in this hyperosmotic environment, leading to death by loss of autonomic function."
+        ],
+        "back": "A",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "12) Urea is produced in the",
+        "options": [
+            "A) liver from NH₃ and CO₂.",
+            "B) liver from glycogen.",
+            "C) kidneys from glucose.",
+            "D) kidneys from glycerol and fatty acids.",
+            "E) bladder from uric acid and H₂O."
+        ],
+        "back": "A",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "13) Urea is",
+        "options": [
+            "A) insoluble in water.",
+            "B) more toxic to human cells than ammonia.",
+            "C) the primary nitrogenous waste product of humans.",
+            "D) the primary nitrogenous waste product of most birds.",
+            "E) the primary nitrogenous waste product of most aquatic invertebrates."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "14) Which nitrogenous waste has the greatest number of nitrogen atoms?",
+        "options": [
+            "A) ammonia",
+            "B) ammonium ions",
+            "C) urea",
+            "D) uric acid"
+        ],
+        "back": "D",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "15) Ammonia is likely to be the primary nitrogenous waste in living conditions that include",
+        "options": [
+            "A) lots of fresh water flowing across the gills of a fish.",
+            "B) lots of seawater, such as a bird living in a marine environment.",
+            "C) lots of seawater, such as a marine mammal (e.g., a polar bear).",
+            "D) a terrestrial environment, such as that supporting crickets.",
+            "E) a moist system of burrows, such as those of naked mole rats."
+        ],
+        "back": "A",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "16) Among vertebrate animals, urea",
+        "options": [
+            "A) is made in the kidneys and immediately excreted.",
+            "B) is added to the air in the lungs to be exhaled, along with carbon dioxide.",
+            "C) is made in the liver by combining two ammonia molecules with one carbon dioxide.",
+            "D) is made in the pancreas and added to the intestinal contents, along with bile salts, for excretion.",
+            "E) is rarely the nitrogenous waste of choice."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "17) The nitrogenous waste that requires the most energy to produce is",
+        "options": [
+            "A) ammonia.",
+            "B) ammonium.",
+            "C) urea.",
+            "D) uric acid."
+        ],
+        "back": "D",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "18) Excessive formation of uric acid crystals in humans leads to",
+        "options": [
+            "A) a condition called diabetes, where excessive urine formation occurs.",
+            "B) a condition of insatiable thirst and excessive urine formation.",
+            "C) gout, a painful inflammatory disease that primarily affects the joints.",
+            "D) the absence of urea in the urine.",
+            "E) osteoarthritis, an inevitable consequence of aging."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "19) Ammonia",
+        "options": [
+            "A) is soluble in water.",
+            "B) can be stored in the body as a precipitate.",
+            "C) has low toxicity relative to urea.",
+            "D) is metabolically more expensive to synthesize than urea.",
+            "E) is the major nitrogenous waste excreted by insects."
+        ],
+        "back": "A",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "20) The advantage of excreting nitrogenous wastes as urea rather than as ammonia is that",
+        "options": [
+            "A) urea can be exchanged for Na+.",
+            "B) urea is less toxic than ammonia.",
+            "C) urea requires more water for excretion than ammonia.",
+            "D) urea does not affect the osmolar gradient.",
+            "E) less nitrogen is removed from the body."
+        ],
+        "back": "B",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "21) The primary nitrogenous waste excreted by birds is",
+        "options": [
+            "A) ammonia.",
+            "B) nitrate.",
+            "C) nitrite.",
+            "D) urea.",
+            "E) uric acid."
+        ],
+        "back": "E",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "22) Which nitrogenous waste requires hardly any water for its excretion?",
+        "options": [
+            "A) amino acids",
+            "B) urea",
+            "C) uric acid",
+            "D) ammonia",
+            "E) nitrogen gas"
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "23) In animals, nitrogenous wastes are produced mostly from the catabolism of",
+        "options": [
+            "A) starch and cellulose.",
+            "B) triglycerides and steroids.",
+            "C) proteins and nucleic acids.",
+            "D) phospholipids and glycolipids.",
+            "E) fatty acids and glycerol."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "24) Birds secrete uric acid as their nitrogenous waste because uric acid",
+        "options": [
+            "A) is readily soluble in water.",
+            "B) is metabolically less expensive to synthesize than other excretory products.",
+            "C) requires little water for nitrogenous waste disposal, thus reducing body mass.",
+            "D) excretion allows birds to live in desert environments."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "25) Among the following choices, the most concentrated urine is excreted by",
+        "options": [
+            "A) frogs.",
+            "B) kangaroo rats.",
+            "C) humans.",
+            "D) desert tortoises.",
+            "E) birds."
+        ],
+        "back": "B",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "26) Materials are returned to the blood from the filtrate by which of the following processes?",
+        "options": [
+            "A) filtration",
+            "B) ultrafiltration",
+            "C) selective reabsorption",
+            "D) secretion",
+            "E) active transport"
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "27) Excretory structures known as protonephridia are present in",
+        "options": [
+            "A) flatworms.",
+            "B) earthworms.",
+            "C) insects.",
+            "D) vertebrates.",
+            "E) cnidarians."
+        ],
+        "back": "A",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "28) Excretory organs known as Malpighian tubules are present in",
+        "options": [
+            "A) earthworms.",
+            "B) flatworms.",
+            "C) insects.",
+            "D) jellyfish.",
+            "E) sea stars."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "29) The osmoregulatory/excretory system of a freshwater flatworm is based on the operation of",
+        "options": [
+            "A) protonephridia.",
+            "B) metanephridia.",
+            "C) Malpighian tubules.",
+            "D) nephrons.",
+            "E) ananephredia."
+        ],
+        "back": "A",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "30) Freshwater flatworms form a urine that is typically",
+        "options": [
+            "A) of high solute concentration, in order to conserve body fluids.",
+            "B) of very low volume, in order to conserve body fluids.",
+            "C) of high solute concentration and very low volume, in order to conserve body fluids.",
+            "D) of high solute concentration and of high volume, matching their normal fluid uptake.",
+            "E) of low solute concentration and of high volume, matching their normal fluid uptake."
+        ],
+        "back": "E",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "31) The osmoregulatory process called secretion refers to the",
+        "options": [
+            "A) formation of filtrate at an excretory structure.",
+            "B) reabsorption of nutrients from a filtrate.",
+            "C) selective elimination of excess ions and toxins from body fluids.",
+            "D) formation of an osmotic gradient along an excretory structure.",
+            "E) expulsion of urine from the body."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "32) The osmoregulatory/excretory system of an earthworm is based on the operation of",
+        "options": [
+            "A) protonephridia.",
+            "B) metanephridia.",
+            "C) Malpighian tubules.",
+            "D) nephrons.",
+            "E) ananephredia."
+        ],
+        "back": "B",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "33) The osmoregulatory/excretory system of an insect is based on the operation of",
+        "options": [
+            "A) protonephridia.",
+            "B) metanephridia.",
+            "C) Malpighian tubules.",
+            "D) nephrons.",
+            "E) ananephredia."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "34) Which of the following pairs of organisms excrete nitrogenous wastes in the form of uric acid?",
+        "options": [
+            "A) mice and birds",
+            "B) insects and birds",
+            "C) lions and horses",
+            "D) humans and frogs",
+            "E) fish and turtles"
+        ],
+        "back": "B",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "35) Choose a pair that correctly associates the mechanism for osmoregulation or nitrogen removal with the appropriate animal.",
+        "options": [
+            "A) metanephridiumflatworm",
+            "B) Malpighian tubulefrog",
+            "C) kidneyinsect",
+            "D) flame bulbsnake",
+            "E) direct cellular exchangemarine invertebrate"
+        ],
+        "back": "E",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "36) An excretory system that is partly based on the filtration of fluid under high hydrostatic pressure is the",
+        "options": [
+            "A) flame bulb system of flatworms.",
+            "B) protonephridia of rotifers.",
+            "C) metanephridia of earthworms.",
+            "D) Malpighian tubules of insects.",
+            "E) kidneys of vertebrates."
+        ],
+        "back": "E",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "37) The transfer of fluid from the glomerulus to Bowman's capsule",
+        "options": [
+            "A) results from active transport.",
+            "B) transfers large molecules as easily as small ones.",
+            "C) is very selective as to which subprotein-sized molecules are transferred.",
+            "D) is mainly a consequence of blood pressure in the capillaries of the glomerulus.",
+            "E) usually includes the transfer of red blood cells into Bowman's capsule."
+        ],
+        "back": "D",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "38) Within a normally functioning kidney, blood can be found in",
+        "options": [
+            "A) the vasa recta.",
+            "B) Bowman's capsule.",
+            "C) the loop of Henle.",
+            "D) the proximal tubule.",
+            "E) the collecting duct."
+        ],
+        "back": "A",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "39) A person with alkalosis will likely excrete urine that has abnormally high levels of",
+        "options": [
+            "A) bicarbonate ions.",
+            "B) sodium ions.",
+            "C) glucose.",
+            "D) ammonia.",
+            "E) NaOH."
+        ],
+        "back": "B",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "40) The filtrate in the renal pelvis enters directly from",
+        "options": [
+            "A) the loop of Henle.",
+            "B) the collecting duct.",
+            "C) Bowman's capsule.",
+            "D) the proximal tubule.",
+            "E) the glomerulus."
+        ],
+        "back": "B",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "41) Juxtamedullary nephrons can concentrate salt effectively in the renal medulla because of their long",
+        "options": [
+            "A) loops of Henle.",
+            "B) distal convoluted tubules.",
+            "C) Bowman's capsules.",
+            "D) proximal convoluted tubules.",
+            "E) glomeruli."
+        ],
+        "back": "A",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "42) The filtrate in the proximal convoluted tubule of the human does not normally include",
+        "options": [
+            "A) ions.",
+            "B) glucose.",
+            "C) plasma proteins.",
+            "D) amino acids.",
+            "E) dissolved gasses."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "43) Human urine is usually more acidic than most other body fluids because",
+        "options": [
+            "A) hydrogen ions are actively moved into the filtrate.",
+            "B) the sodium transporter exchanges one hydrogen ion for each sodium ion.",
+            "C) excreted plasma proteins are nearly all acidic ions.",
+            "D) excreted amino acids are in abundance.",
+            "E) potassium and sodium exchange generates lots of acidity."
+        ],
+        "back": "A",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "44) The osmolarity of human urine",
+        "options": [
+            "A) can be four times as great as normal osmolarity of human plasma.",
+            "B) is always exactly equal to plasma osmolarity.",
+            "C) is always less than plasma osmolarity.",
+            "D) is always greater than plasma osmolarity.",
+            "E) is determined primarily by the concentration of glucose."
+        ],
+        "back": "A",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "45) A primary reason that the kidneys have one of the highest metabolic rates of all body organs is that",
+        "options": [
+            "A) it stores the body's excess fats.",
+            "B) it has membranes of varying permeability to water.",
+            "C) it operates an extensive set of active-transport ion pumps.",
+            "D) it is the body's only means of shedding excess nutrients.",
+            "E) it has an abundance of myogenic smooth muscle."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "46) Low selectivity of solute movement is a characteristic of",
+        "options": [
+            "A) salt pumping to control osmolarity.",
+            "B) H+ pumping to control pH.",
+            "C) reabsorption mechanisms along the proximal tubule.",
+            "D) filtration from the glomerular capillaries.",
+            "E) secretion along the distal tubule."
+        ],
+        "back": "D",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "47) If ATP production in a human kidney was suddenly halted, urine production would",
+        "options": [
+            "A) come to a complete halt.",
+            "B) decrease, and the urine would be hypoosmotic compared to plasma.",
+            "C) increase, and the urine would be isoosmotic compared to plasma.",
+            "D) increase, and the urine would be hyperosmotic compared to plasma.",
+            "E) decrease, and the urine would be isoosmotic compared to plasma."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "48) Compared to wetland mammals, water conservation in mammals of arid regions is enhanced by having more",
+        "options": [
+            "A) juxtamedullary nephrons.",
+            "B) Bowman's capsules.",
+            "C) ureters.",
+            "D) podocytes.",
+            "E) urinary bladders."
+        ],
+        "back": "A",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "49) Processing of filtrate in the proximal and distal tubules",
+        "options": [
+            "A) achieves the sorting of plasma proteins according to size.",
+            "B) achieves the conversion of toxic ammonia to less toxic urea.",
+            "C) maintains homeostasis of pH in body fluids.",
+            "D) regulates the speed of blood flow through the nephrons.",
+            "E) reabsorbs urea to maintain osmotic balance."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "50) In humans, the transport epithelial cells in the ascending loop of Henle",
+        "options": [
+            "A) are the largest epithelial cells in the body.",
+            "B) are not in contact with interstitial fluid.",
+            "C) have plasma membranes of low permeability to water.",
+            "D) have 50% of their cell mass made of smooth endoplasmic reticulum.",
+            "E) are not affected by high levels of nitrogenous wastes."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "51) The typical osmolarity of human blood is",
+        "options": [
+            "A) 30 mosm/L.",
+            "B) 100 mosm/L.",
+            "C) 200 mosm/L.",
+            "D) 300 mosm/L.",
+            "E) 500 mosm/L."
+        ],
+        "back": "D",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "52) Trauma to the human kidney could result in a urinary filtrate containing an abnormally high level of",
+        "options": [
+            "A) fatty acids.",
+            "B) glucose.",
+            "C) salts.",
+            "D) erythrocytes.",
+            "E) vitamins."
+        ],
+        "back": "D",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "53) When stimulated by aldosterone, the reabsorption of Na+ is increased along",
+        "options": [
+            "A) the loop of Henle.",
+            "B) the collecting duct.",
+            "C) Bowman's capsule.",
+            "D) the proximal tubule.",
+            "E) the distal tubule."
+        ],
+        "back": "E",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "54) Increased ADH secretion is likely after",
+        "options": [
+            "A) drinking lots of pure water.",
+            "B) sweating-induced dehydration increases plasma osmolarity.",
+            "C) ingestion of ethanol (drinking alcoholic drinks).",
+            "D) eating a small sugary snack.",
+            "E) blood pressure is abnormally high."
+        ],
+        "back": "B",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "55) After blood flow is artificially reduced at one kidney, you would expect that kidney to secrete more of the hormone known as",
+        "options": [
+            "A) erythropoietin.",
+            "B) angiotensinogen.",
+            "C) renin.",
+            "D) antidiuretic hormone.",
+            "E) atrial natriuretic peptide."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "56) After drinking alcoholic beverages, increased urine excretion is the result of",
+        "options": [
+            "A) increased aldosterone production.",
+            "B) increased blood pressure.",
+            "C) inhibited secretion of antidiuretic hormone (ADH).",
+            "D) increased reabsorption of water in the proximal tubule.",
+            "E) the osmoregulator cells of the brain increasing their activity."
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "57) Osmoregulatory adjustment via the renin-angiotensin-aldosterone system can be triggered by",
+        "options": [
+            "A) sleeping for one hour.",
+            "B) severe sweating on a hot day.",
+            "C) eating a bag of potato chips.",
+            "D) eating a pizza with olives and pepperoni.",
+            "E) drinking several glasses of water."
+        ],
+        "back": "B",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "58) Antidiuretic hormone (ADH) functions at the cellular level by",
+        "options": [
+            "A) stimulating the reabsorption of glucose through channel proteins.",
+            "B) triggering the synthesis of an enzyme that makes the phospholipid bilayer more permeable to water.",
+            "C) causing membranes to include more phospholipids that have unsaturated fatty acids.",
+            "D) causing an increase in the number of aquaporin molecules of collecting duct cells.",
+            "E) decreasing the speed at which filtrate flows through the nephron, leading to increased reabsorption of water."
+        ],
+        "back": "D",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "59) ADH and RAAS work together in maintaining osmoregulatory homeostasis through which of the following ways?",
+        "options": [
+            "A) ADH regulates the osmolarity of the blood and RAAS regulates the volume of the blood.",
+            "B) ADH regulates the osmolarity of the blood by altering renal reabsorption of water, and RAAS maintains the osmolarity of the blood by stimulating Na+ reabsorption.",
+            "C) ADH and RAAS work antagonistically; ADH stimulates water reabsorption during dehydration and RAAS causes increased excretion of water when it is in excess in body fluids.",
+            "D) both stimulate the adrenal gland to secrete aldosterone, which increases both blood volume and pressure via its receptors in the urinary bladder.",
+            "E) by combining at the receptor sites of proximal tubule cells, where reabsorption of essential nutrients takes place."
+        ],
+        "back": "B",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "Use the following structural formulas to identify the following items 60) Which of the following is excreted readily by aquatic animals because of its high solubility in the respiratory medium?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "A",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": [
+            "https://www.easynotecards.com/uploads/165/3/1c7a7974_150bb922c9b__8000_00000312.jpg"
+        ]
+    },
+    {
+        "front": "Use the following structural formulas to identify the following items 61) Which of the following is synthesized by mammals, most amphibians, sharks, and some bony fishes, and has lower toxicity than its nitrogenous substrate?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "B",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": [
+            "https://www.easynotecards.com/uploads/165/3/1c7a7974_150bb922c9b__8000_00000312.jpg"
+        ]
+    },
+    {
+        "front": "Use the following structural formulas to identify the following items 62) Which of the following is excreted as a paste by land snails, insects, birds, and many reptiles, because of its solubility and toxicity properties?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D",
+            "E) E"
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": [
+            "https://www.easynotecards.com/uploads/165/3/1c7a7974_150bb922c9b__8000_00000312.jpg"
+        ]
+    },
+    {
+        "front": "63) In a laboratory experiment with three groups of students, one group drinks pure water, a second group drinks an equal amount of beer, and a third group drinks an equal amount of concentrated salt solution, all during the same time period. Their urine production is monitored for several hours. Which groups are expected to have the greatest and least amounts of urine, respectively?",
+        "options": [
+            "A) Beer drinkers have the most; salt solution drinkers have the least.",
+            "B) Salt solution drinkers have the most; water drinkers have the least.",
+            "C) Water drinkers have the most; beer drinkers have the least.",
+            "D) Beer drinkers have the most; water drinkers have the least.",
+            "E) There will be no significant difference between these groups."
+        ],
+        "back": "A",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "64) Unlike an earthworm's metanephridia, a mammalian nephron",
+        "options": [
+            "A) is intimately associated with a capillary network.",
+            "B) forms urine by changing fluid composition inside a tubule.",
+            "C) functions in both osmoregulation and excretion.",
+            "D) receives filtrate from blood instead of coelomic fluid.",
+            "E) has a transport epithelium."
+        ],
+        "back": "D",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "65) Which process in the nephron is least selective?",
+        "options": [
+            "A) filtration",
+            "B) reabsorption",
+            "C) active transport",
+            "D) secretion",
+            "E) salt pumping by the loop of Henle"
+        ],
+        "back": "A",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "66) Which of the following animals generally has the lowest volume of urine production?",
+        "options": [
+            "A) a vampire bat",
+            "B) a salmon in fresh water",
+            "C) a marine bony fish",
+            "D) a freshwater bony fish",
+            "E) a shark inhabiting freshwater Lake Nicaragua"
+        ],
+        "back": "C",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "67) The high osmolarity of the renal medulla is maintained by all of the following except",
+        "options": [
+            "A) diffusion of salt from the thin segment of the ascending limb of the loop of Henle.",
+            "B) active transport of salt from the upper region of the ascending limb.",
+            "C) the spatial arrangement of juxtamedullary nephrons.",
+            "D) diffusion of urea from the collecting duct.",
+            "E) diffusion of salt from the descending limb of the loop of Henle."
+        ],
+        "back": "E",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "68) Natural selection should favor the highest proportion of juxtamedullary nephrons in which of the following species?",
+        "options": [
+            "A) a river otter",
+            "B) a mouse species living in a tropical rain forest",
+            "C) a mouse species living in a temperate broadleaf forest",
+            "D) a mouse species living in a desert",
+            "E) a beaver"
+        ],
+        "back": "D",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    },
+    {
+        "front": "69) African lungfish, which are often found in small stagnant pools of fresh water, produce urea as a nitrogenous waste. What is the advantage of this adaptation?",
+        "options": [
+            "A) Urea takes less energy to synthesize than ammonia.",
+            "B) Small stagnant pools do not provide enough water to dilute the toxic ammonia.",
+            "C) The highly toxic urea makes the pool uninhabitable to potential competitors.",
+            "D) Urea forms an insoluble precipitate.",
+            "E) Urea makes lungfish tissue hypoosmotic to the pool."
+        ],
+        "back": "B",
+        "unit": "Unit 44",
+        "chapter": "Chapter 44",
+        "images": []
+    }
+]

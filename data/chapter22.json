@@ -1,0 +1,760 @@
+[
+    {
+        "front": "1) Which of the following statements best describes theories?",
+        "options": [
+            "A) They are nearly the same things as hypotheses.",
+            "B) They are supported by, and make sense of, many observations.",
+            "C) They cannot be tested because the described events occurred only once.",
+            "D) They are predictions of future events."
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "2) Catastrophism, meaning the regular occurrence of geological or meteorological disturbances (catastrophes), was Cuvier's attempt to explain the existence of",
+        "options": [
+            "A) evolution.",
+            "B) the fossil record.",
+            "C) uniformitarianism.",
+            "D) the origin of new species.",
+            "E) natural selection."
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "3) With what other idea of his time was Cuvier's theory of catastrophism most in conflict?",
+        "options": [
+            "A) gradualism",
+            "B) the fixity of species",
+            "C) island biogeography",
+            "D) uniformitarianism",
+            "E) the scala naturae"
+        ],
+        "back": "D",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "4) What was the prevailing belief prior to the time of Lyell and Darwin?",
+        "options": [
+            "A) Earth is a few thousand years old, and populations are unchanging.",
+            "B) Earth is a few thousand years old, and populations gradually change.",
+            "C) Earth is millions of years old, and populations rapidly change.",
+            "D) Earth is millions of years old, and populations are unchanging.",
+            "E) Earth is millions of years old, and populations gradually change."
+        ],
+        "back": "A",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "5) During a study session about evolution, one of your fellow students remarks, \"The giraffe stretched its neck while reaching for higher leaves; its offspring inherited longer necks as a result.\" Which statement is most likely to be helpful in correcting this student's misconception?",
+        "options": [
+            "A) Characteristics acquired during an organism's life are generally not passed on through genes.",
+            "B) Spontaneous mutations can result in the appearance of new traits.",
+            "C) Only favorable adaptations have survival value.",
+            "D) Disuse of an organ may lead to its eventual disappearance.",
+            "E) If the giraffes did not have to compete with each other, longer necks would not have been passed on to the next generation."
+        ],
+        "back": "A",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "6) Which of the following is the most accurate summary of Cuvier's consideration of fossils found in the vicinity of Paris?",
+        "options": [
+            "A) extinction of species yes; evolution of new species yes",
+            "B) extinction of species no; evolution of new species yes",
+            "C) extinction of species yes; evolution of new species no",
+            "D) extinction of species no; evolution of new species yes"
+        ],
+        "back": "C",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "7) In the mid-1900s, the Soviet geneticist Lysenko believed that his winter wheat plants, exposed to ever-colder temperatures, would eventually give rise to ever more cold-tolerant winter wheat. Lysenko's attempts in this regard were most in agreement with the ideas of",
+        "options": [
+            "A) Cuvier.",
+            "B) Hutton.",
+            "C) Lamarck.",
+            "D) Darwin.",
+            "E) Lyell."
+        ],
+        "back": "C",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "8) Charles Darwin was the first person to propose",
+        "options": [
+            "A) that evolution occurs.",
+            "B) a mechanism for how evolution occurs.",
+            "C) that Earth is older than a few thousand years.",
+            "D) a mechanism for evolution that was supported by evidence.",
+            "E) that population growth can outpace the growth of food resources."
+        ],
+        "back": "D",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "9) Which of these conditions should completely prevent the occurrence of natural selection in a population over time?",
+        "options": [
+            "A) All variation between individuals is due only to environmental factors.",
+            "B) The environment is changing at a relatively slow rate.",
+            "C) The population size is large.",
+            "D) The population lives in a habitat where there are no competing species present."
+        ],
+        "back": "A",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "10) Natural selection is based on all of the following except",
+        "options": [
+            "A) genetic variation exists within populations.",
+            "B) the best-adapted individuals tend to leave the most offspring.",
+            "C) individuals who survive longer tend to leave more offspring than those who die young.",
+            "D) populations tend to produce more individuals than the environment can support.",
+            "E) individuals adapt to their environments and, thereby, evolve."
+        ],
+        "back": "E",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "11) Which of the following represents an idea that Darwin learned from the writings of Thomas Malthus?",
+        "options": [
+            "A) Technological innovation in agricultural practices will permit exponential growth of the human population into the foreseeable future.",
+            "B) Populations tend to increase at a faster rate than their food supply normally allows.",
+            "C) Earth changed over the years through a series of catastrophic upheavals.",
+            "D) The environment is responsible for natural selection.",
+            "E) Earth is more than 10,000 years old."
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "12) Given a population that contains genetic variation, what is the correct sequence of the following events, under the influence of natural selection? 1. Well-adapted individuals leave more offspring than do poorly adapted individuals. 2. A change occurs in the environment. 3. Genetic frequencies within the population change. 4. Poorly adapted individuals have decreased survivorship.",
+        "options": [
+            "A) 2 → 4 → 1 → 3",
+            "B) 4 → 2 → 1 → 3",
+            "C) 4 → 1 → 2 → 3",
+            "D) 4 → 2 → 3 → 1",
+            "E) 2 → 4 → 3 → 1"
+        ],
+        "back": "A",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "13) A biologist studied a population of squirrels for 15 years. During that time, the population was never fewer than 30 squirrels and never more than 45. Her data showed that over half of the squirrels born did not survive to reproduce, because of both competition for food and predation. In a single generation, 90% of the squirrels that were born lived to reproduce, and the population increased to 80. Which inference(s) about this population might be true?",
+        "options": [
+            "A) The amount of available food may have increased.",
+            "B) The parental generation of squirrels developed better eyesight due to improved diet; the subsequent squirrel generation inherited better eyesight.",
+            "C) The squirrels of subsequent generations should show greater levels of genetic variation than previous generations, because squirrels that would not have survived in the past will now survive.",
+            "D) Three of the statements above are correct.",
+            "E) Two of the statements above are correct."
+        ],
+        "back": "E",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "14) Which of the following must exist in a population before natural selection can act upon that population?",
+        "options": [
+            "A) genetic variation among individuals",
+            "B) variation among individuals caused by environmental factors",
+            "C) sexual reproduction",
+            "D) Three of the responses are correct.",
+            "E) Two of the responses are correct."
+        ],
+        "back": "A",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "15) Which of Darwin's ideas had the strongest connection to Darwin having read Malthus's essay on human population growth?",
+        "options": [
+            "A) descent with modification",
+            "B) variation among individuals in a population",
+            "C) struggle for existence",
+            "D) the ability of related species to be conceptualized in \"tree thinking\"",
+            "E) that the ancestors of the Galápagos finches had come from the South American mainland"
+        ],
+        "back": "C",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "16) If Darwin had been aware of genes, and of their typical mode of transmission to subsequent generations, with which statement would he most likely have been in agreement?",
+        "options": [
+            "A) If natural selection can change one gene's frequency in a population over the course of generations then, given enough time and enough genes, natural selection can cause sufficient genetic change to produce new species from old ones.",
+            "B) If an individual's somatic cell genes change during its lifetime, making it more fit, then it will be able to pass these genes on to its offspring.",
+            "C) If an individual acquires new genes by engulfing, or being infected by, another organism, then a new genetic species will be the result.",
+            "D) A single mutation in a single gene in a single gamete will, if perpetuated, produce a new species within just two generations."
+        ],
+        "back": "A",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "17) The role that humans play in artificial selection is to",
+        "options": [
+            "A) determine who lives and who dies.",
+            "B) create the genetic variants, which nature then selects.",
+            "C) choose which organisms breed, and which do not.",
+            "D) train organisms to breed more successfully.",
+            "E) perform artificial insemination."
+        ],
+        "back": "C",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "18) Currently, two extant elephant species (X and Y) are placed in the genus Loxodonta, and a third species (Z) is placed in the genus Elephas. Thus, which statement should be true?",
+        "options": [
+            "A) Species X and Y are not related to species Z.",
+            "B) Species X and Y share a greater number of homologies with each other than either does with species Z.",
+            "C) Species X and Y share a common ancestor that is still extant (in other words, not yet extinct).",
+            "D) Species X and Y are the result of artificial selection from an ancestral species Z.",
+            "E) Species X, Y, and Z share a common ancestor, but nothing more can be claimed than this."
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "19) The rise of methicillin-resistant Staphylococcus aureus (MRSA) can be considered to be an example of artificial selection because",
+        "options": [
+            "A) humans purposefully raise MRSA in large fermenters in an attempt to make the bacteria ever-more resistant.",
+            "B) S. aureus is cultivated by humans to replenish the soil with nutrients.",
+            "C) humans synthesize methicillin and create environments in which bacteria frequently come into contact with methicillin.",
+            "D) Humans are becoming resistant to bacteria by taking methicillin."
+        ],
+        "back": "C",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "20) In a hypothetical environment, fishes called pike-cichlids are visual predators of algae-eating fish (in other words, they locate their prey by sight). If a population of algae-eaters experiences predation pressure from pike-cichlids, which of the following is least likely to be observed in the algae-eater population over the course of many generations?",
+        "options": [
+            "A) selection for drab coloration of the algae-eaters",
+            "B) selection for nocturnal algae-eaters (active only at night)",
+            "C) selection for larger female algae-eaters, bearing broods composed of more, and larger, young",
+            "D) selection for algae-eaters that become sexually mature at smaller overall body sizes",
+            "E) selection for algae-eaters that are faster swimmers"
+        ],
+        "back": "C",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "21) DDT was once considered a \"silver bullet\" that would permanently eradicate insect pests. Today, instead, DDT is largely useless against many insects. Which of these would have been required for this pest eradication effort to be successful in the long run?",
+        "options": [
+            "A) Larger doses of DDT should have been applied.",
+            "B) All habitats should have received applications of DDT at about the same time.",
+            "C) The frequency of DDT application should have been higher.",
+            "D) None of the individual insects should have possessed genomes that made them resistant to DDT.",
+            "E) DDT application should have been continual."
+        ],
+        "back": "D",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "22) If the bacterium Staphylococcus aureus experiences a cost for maintaining one or more antibiotic-resistance genes, then what should happen in environments from which antibiotics are missing?",
+        "options": [
+            "A) These genes should continue to be maintained in case the antibiotics ever appear.",
+            "B) These bacteria should be outcompeted and replaced by bacteria that have lost these genes.",
+            "C) The bacteria should try to make the cost worthwhile by locating, and migrating to, microenvironments where traces of antibiotics are present.",
+            "D) The bacteria should start making and secreting their own antibiotics."
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "23) Of the following anatomical structures, which is homologous to the bones in the wing of a bird?",
+        "options": [
+            "A) cartilage in the dorsal fin of a shark",
+            "B) bones in the hind limb of a kangaroo",
+            "C) chitinous struts in the wing of a butterfly",
+            "D) bony rays in the tail fin of a flying fish",
+            "E) bones in the flipper of a whale"
+        ],
+        "back": "E",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "24) If two modern organisms are distantly related in an evolutionary sense, then one should expect that",
+        "options": [
+            "A) they live in very different habitats.",
+            "B) they should share fewer homologous structures than two more closely related organisms.",
+            "C) their chromosomes should be very similar.",
+            "D) they shared a common ancestor relatively recently.",
+            "E) they should be members of the same genus."
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "25) Structures as different as human arms, bat wings, and dolphin flippers contain many of the same bones, these bones having developed from very similar embryonic tissues. How do biologists interpret these similarities?",
+        "options": [
+            "A) by identifying the bones as being homologous structures",
+            "B) by the principle of convergent evolution",
+            "C) by proposing that humans, bats, and dolphins share a common ancestor",
+            "D) Three of the statements above are correct.",
+            "E) Two of the statements above are correct."
+        ],
+        "back": "E",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "26) Over evolutionary time, many cave-dwelling organisms have lost their eyes. Tapeworms have lost their digestive systems. Whales have lost their hind limbs. How can natural selection account for these losses?",
+        "options": [
+            "A) Natural selection cannot account for losses, only for innovations.",
+            "B) Natural selection accounts for these losses by the principle of use and disuse.",
+            "C) Under particular circumstances that persisted for long periods, each of these structures presented greater costs than benefits.",
+            "D) The ancestors of these organisms experienced harmful mutations that forced them to find new habitats that these species had not previously used."
+        ],
+        "back": "C",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "27) Which of the following pieces of evidence most strongly supports the common origin of all life on Earth?",
+        "options": [
+            "A) All organisms require energy.",
+            "B) All organisms use essentially the same genetic code.",
+            "C) All organisms reproduce.",
+            "D) All organisms show heritable variation.",
+            "E) All organisms have undergone evolution."
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "28) Logically, which of these should cast the most doubt on the relationships depicted by an evolutionary tree?",
+        "options": [
+            "A) None of the organisms depicted by the tree ate the same foods.",
+            "B) Some of the organisms depicted by the tree had lived in different habitats.",
+            "C) The skeletal remains of the organisms depicted by the tree were incomplete (in other words, some bones were missing).",
+            "D) Transitional fossils had not been found.",
+            "E) Relationships between DNA sequences among the species did not match relationships between skeletal patterns."
+        ],
+        "back": "E",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "29) Which of the following statements most detracts from the claim that the human appendix is a completely vestigial organ?",
+        "options": [
+            "A) The appendix can be surgically removed with no immediate ill effects.",
+            "B) The appendix might have been larger in fossil hominids.",
+            "C) The appendix has a substantial amount of defensive lymphatic tissue.",
+            "D) Individuals with a larger-than-average appendix leave fewer offspring than those with a below-average-sized appendix.",
+            "E) In a million years, the human species might completely lack an appendix."
+        ],
+        "back": "C",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "30) Members of two different species possess a similar-looking structure that they use in a similar fashion to perform the same function. Which information would best help distinguish between an explanation based on homology versus one based on convergent evolution?",
+        "options": [
+            "A) The two species live at great distance from each other.",
+            "B) The two species share many proteins in common, and the nucleotide sequences that code for these proteins are almost identical.",
+            "C) The sizes of the structures in adult members of both species are similar in size.",
+            "D) Both species are well adapted to their particular environments."
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "31) Ichthyosaurs were aquatic dinosaurs. Fossils show us that they had dorsal fins and tails, as do fish, even though their closest relatives were terrestrial reptiles that had neither dorsal fins nor aquatic tails. The dorsal fins and tails of ichthyosaurs and fish are",
+        "options": [
+            "A) homologous.",
+            "B) examples of convergent evolution.",
+            "C) adaptations to a common environment.",
+            "D) Three of the responses above are correct.",
+            "E) Two of the responses above are correct."
+        ],
+        "back": "E",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "32) Both ancestral birds and ancestral mammals shared a common ancestor that was terrestrial. Today, penguins (which are birds) and seals (which are mammals) have forelimbs adapted for swimming. What term best describes the relationship of the bones in the forelimbs of penguins and seals, and what term best describes the flippers of penguins and seals?",
+        "options": [
+            "A) homologous; homologous",
+            "B) analogous; homologous",
+            "C) homologous; analogous",
+            "D) analogous; analogous"
+        ],
+        "back": "C",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "33) What must be true of any organ that is described as vestigial?",
+        "options": [
+            "A) It must be analogous to some feature in an ancestor.",
+            "B) It must be homologous to some feature in an ancestor.",
+            "C) It must be both homologous and analogous to some feature in an ancestor.",
+            "D) It need be neither homologous nor analogous to some feature in an ancestor."
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "34) What is true of pseudogenes?",
+        "options": [
+            "A) They are composed of RNA, rather than DNA.",
+            "B) They are the same things as introns.",
+            "C) They are unrelated genes that code for the same gene product.",
+            "D) They are vestigial genes."
+        ],
+        "back": "D",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "35) It has been observed that organisms on islands are different from, but closely related to, similar forms found on the nearest continent. This is taken as evidence that",
+        "options": [
+            "A) island forms and mainland forms descended from common ancestors.",
+            "B) common environments are inhabited by the same organisms.",
+            "C) the islands were originally part of the continent.",
+            "D) the island forms and mainland forms are converging.",
+            "E) island forms and mainland forms have identical gene pools."
+        ],
+        "back": "A",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "36) If one wanted to find the largest number of endemic species, one should visit which of the following geological features (assuming each has existed for several millions of years)?",
+        "options": [
+            "A) an isolated ocean island in the tropics",
+            "B) an extensive mountain range",
+            "C) a midcontinental grassland with extreme climatic conditions",
+            "D) a shallow estuary on a warm-water coast"
+        ],
+        "back": "A",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "37) A high degree of endemism is most likely in environments that are",
+        "options": [
+            "A) easily reached and heterogeneous.",
+            "B) isolated and heterogeneous.",
+            "C) isolated and homogeneous.",
+            "D) isolated and extremely cold.",
+            "E) easily reached and homogeneous."
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "The following questions refer to Figure 22.1, which shows an outcrop of sedimentary rock whose strata are labeled A-D. 38) If x indicates the location of fossils of two closely related species, then fossils of their most-recent common ancestor are most likely to occur in which stratum?",
+        "options": [
+            "A) A",
+            "B) B",
+            "C) C",
+            "D) D"
+        ],
+        "back": "C",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": [
+            "https://web.archive.org/web/20170801123759im_/https://www.easynotecards.com/uploads/1168/88/69c3b13a_13a8788d737__8000_00000278.jpg"
+        ]
+    },
+    {
+        "front": "The following questions refer to Figure 22.1, which shows an outcrop of sedimentary rock whose strata are labeled A-D. 39) If x indicates the fossils of two closely related species, neither of which is extinct, then their remains may be found in how many of these strata?",
+        "options": [
+            "A) one stratum",
+            "B) two strata",
+            "C) three strata",
+            "D) four strata"
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": [
+            "https://web.archive.org/web/20170801123759im_/https://www.easynotecards.com/uploads/1168/88/69c3b13a_13a8788d737__8000_00000278.jpg"
+        ]
+    },
+    {
+        "front": "The following questions refer to the evolutionary tree in Figure 22.2. The horizontal axis of the cladogram depicted below is a timeline that extends from 100,000 years ago to the present; the vertical axis represents nothing in particular. The labeled branch points on the tree (V—Z) represent various common ancestors. Let's say that only since 50,000 years ago has there been enough variation between the lineages depicted here to separate them into distinct species, and only the tips of the lineages on this tree represent distinct species. 41) How many separate species, both extant and extinct, are depicted in this tree?",
+        "options": [
+            "A) two",
+            "B) three",
+            "C) four",
+            "D) five",
+            "E) six"
+        ],
+        "back": "E",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": [
+            "https://web.archive.org/web/20170801123759im_/https://www.easynotecards.com/uploads/1171/91/69c3b13a_13a8788d737__8000_00000281.jpg"
+        ]
+    },
+    {
+        "front": "The following questions refer to the evolutionary tree in Figure 22.2. The horizontal axis of the cladogram depicted below is a timeline that extends from 100,000 years ago to the present; the vertical axis represents nothing in particular. The labeled branch points on the tree (V—Z) represent various common ancestors. Let's say that only since 50,000 years ago has there been enough variation between the lineages depicted here to separate them into distinct species, and only the tips of the lineages on this tree represent distinct species. 42) According to this tree, what percent of the species seem to be extant (in other words, not extinct)?",
+        "options": [
+            "A) 25%",
+            "B) 33%",
+            "C) 50%",
+            "D) 66%",
+            "E) 75%"
+        ],
+        "back": "D",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": [
+            "https://web.archive.org/web/20170801123759im_/https://www.easynotecards.com/uploads/1171/91/69c3b13a_13a8788d737__8000_00000281.jpg"
+        ]
+    },
+    {
+        "front": "The following questions refer to the evolutionary tree in Figure 22.2. The horizontal axis of the cladogram depicted below is a timeline that extends from 100,000 years ago to the present; the vertical axis represents nothing in particular. The labeled branch points on the tree (V—Z) represent various common ancestors. Let's say that only since 50,000 years ago has there been enough variation between the lineages depicted here to separate them into distinct species, and only the tips of the lineages on this tree represent distinct species. 43) Which of the five common ancestors, labeled V-Z, has given rise to the greatest number of species, both extant and extinct?",
+        "options": [
+            "A) V",
+            "B) W",
+            "C) Z",
+            "D) Both W and Z can be considered to have given rise to the greatest number of extant and extinct species.",
+            "E) Both X and Y can be considered to have given rise to the greatest number of extant and extinct species."
+        ],
+        "back": "E",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": [
+            "https://web.archive.org/web/20170801123759im_/https://www.easynotecards.com/uploads/1171/91/69c3b13a_13a8788d737__8000_00000281.jpg"
+        ]
+    },
+    {
+        "front": "The following questions refer to the evolutionary tree in Figure 22.2. The horizontal axis of the cladogram depicted below is a timeline that extends from 100,000 years ago to the present; the vertical axis represents nothing in particular. The labeled branch points on the tree (V—Z) represent various common ancestors. Let's say that only since 50,000 years ago has there been enough variation between the lineages depicted here to separate them into distinct species, and only the tips of the lineages on this tree represent distinct species. 44) Which of the five common ancestors, labeled V-Z, has been least successful in terms of the percent of its derived species that are extant?",
+        "options": [
+            "A) V",
+            "B) W",
+            "C) X",
+            "D) Y",
+            "E) Z"
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": [
+            "https://web.archive.org/web/20170801123759im_/https://www.easynotecards.com/uploads/1171/91/69c3b13a_13a8788d737__8000_00000281.jpg"
+        ]
+    },
+    {
+        "front": "The following questions refer to the evolutionary tree in Figure 22.2. The horizontal axis of the cladogram depicted below is a timeline that extends from 100,000 years ago to the present; the vertical axis represents nothing in particular. The labeled branch points on the tree (V—Z) represent various common ancestors. Let's say that only since 50,000 years ago has there been enough variation between the lineages depicted here to separate them into distinct species, and only the tips of the lineages on this tree represent distinct species. 45) Which of the five common ancestors, labeled V-Z, has been most successful in terms of the percent of its derived species that are extant?",
+        "options": [
+            "A) V",
+            "B) W",
+            "C) X",
+            "D) Y",
+            "E) Z"
+        ],
+        "back": "E",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": [
+            "https://web.archive.org/web/20170801123759im_/https://www.easynotecards.com/uploads/1171/91/69c3b13a_13a8788d737__8000_00000281.jpg"
+        ]
+    },
+    {
+        "front": "The following questions refer to the evolutionary tree in Figure 22.2. The horizontal axis of the cladogram depicted below is a timeline that extends from 100,000 years ago to the present; the vertical axis represents nothing in particular. The labeled branch points on the tree (V—Z) represent various common ancestors. Let's say that only since 50,000 years ago has there been enough variation between the lineages depicted here to separate them into distinct species, and only the tips of the lineages on this tree represent distinct species. 46) Which pair would probably have agreed with the process that is depicted by this tree?",
+        "options": [
+            "A) Cuvier and Lamarck",
+            "B) Lamarck and Wallace",
+            "C) Aristotle and Lyell",
+            "D) Wallace and Linnaeus",
+            "E) Linnaeus and Lamarck"
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": [
+            "https://web.archive.org/web/20170801123759im_/https://www.easynotecards.com/uploads/1171/91/69c3b13a_13a8788d737__8000_00000281.jpg"
+        ]
+    },
+    {
+        "front": "The following questions refer to the evolutionary tree in Figure 22.2. The horizontal axis of the cladogram depicted below is a timeline that extends from 100,000 years ago to the present; the vertical axis represents nothing in particular. The labeled branch points on the tree (V—Z) represent various common ancestors. Let's say that only since 50,000 years ago has there been enough variation between the lineages depicted here to separate them into distinct species, and only the tips of the lineages on this tree represent distinct species. 47) Evolutionary trees such as this are properly understood by scientists to be",
+        "options": [
+            "A) theories.",
+            "B) hypotheses.",
+            "C) guesses.",
+            "D) dogmas.",
+            "E) facts."
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": [
+            "https://web.archive.org/web/20170801123759im_/https://www.easynotecards.com/uploads/1171/91/69c3b13a_13a8788d737__8000_00000281.jpg"
+        ]
+    },
+    {
+        "front": "About 13 different species of finches inhabit the Galápagos Islands today, all descendants of a common ancestor from the South American mainland that arrived a few million years ago. Genetically, there are four distinct lineages, but the 13 species are currently classified among three genera. The first lineage to diverge from the ancestral lineage was the warbler finch (genus Certhidea). Next to diverge was the vegetarian finch (genus Camarhynchus), followed by five tree finch species (also in genus Camarhynchus) and six ground finch species (genus Geospiza). 48) If the six ground finch species have evolved most recently, then which of these is the most logical prediction?",
+        "options": [
+            "A) They should be limited to the six islands that most recently emerged from the sea.",
+            "B) Their genomes should be more similar to each other than are the genomes of the five tree finch species.",
+            "C) They should share fewer anatomical homologies with each other than they share with the tree finches.",
+            "D) The chances of hybridization between two ground finch species should be less than the chances of hybridization between two tree finch species."
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "About 13 different species of finches inhabit the Galápagos Islands today, all descendants of a common ancestor from the South American mainland that arrived a few million years ago. Genetically, there are four distinct lineages, but the 13 species are currently classified among three genera. The first lineage to diverge from the ancestral lineage was the warbler finch (genus Certhidea). Next to diverge was the vegetarian finch (genus Camarhynchus), followed by five tree finch species (also in genus Camarhynchus) and six ground finch species (genus Geospiza). 49) According to a 1999 study, the vegetarian finch is genetically no more similar to the tree finches than it is to the ground finches, despite the fact that it is placed in the same genus as the tree finches. Based on this finding, it is reasonable to conclude that the vegetarian finch",
+        "options": [
+            "A) is no more closely related to the tree finches than it is to the ground finches, despite its classification.",
+            "B) should be re-classified as a warbler finch.",
+            "C) is not truly a descendent of the original ancestral finch.",
+            "D) is a hybrid species, resulting from a cross between a ground finch and a tree finch."
+        ],
+        "back": "A",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "About 13 different species of finches inhabit the Galápagos Islands today, all descendants of a common ancestor from the South American mainland that arrived a few million years ago. Genetically, there are four distinct lineages, but the 13 species are currently classified among three genera. The first lineage to diverge from the ancestral lineage was the warbler finch (genus Certhidea). Next to diverge was the vegetarian finch (genus Camarhynchus), followed by five tree finch species (also in genus Camarhynchus) and six ground finch species (genus Geospiza). 50) A 14th species that descended from the original ancestral finch, the Cocos Island finch, is endemic to its namesake island, located 550 km off Costa Rica. The Cocos Island finch is genetically much more similar to the tree finches than is the vegetarian finch, yet it is classified in its own genus Pinarolaxias. Moreover, the Cocos Island finch and the vegetarian finch are the two finch species that are most genetically different from the ancestral Galápagos finch. Thus, if classification is to reflect evolutionary relationships, the vegetarian finch should",
+        "options": [
+            "A) remain in the genus Camarhynchus.",
+            "B) be switched from Camarhynchus to Certhidea.",
+            "C) be switched from Camarhynchus to Pinarolaxias.",
+            "D) be switched from Camarhynchus to Geospiza.",
+            "E) be placed in its own genus."
+        ],
+        "back": "E",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "51) Which of the following is not an observation or inference on which natural selection is based?",
+        "options": [
+            "A) There is heritable variation among individuals.",
+            "B) Poorly adapted individuals never produce offspring.",
+            "C) Species produce more offspring than the environment can support.",
+            "D) Individuals whose characteristics are best suited to the environment generally leave more offspring than those whose characteristics are less well suited.",
+            "E) Only a fraction of an individual's offspring may survive."
+        ],
+        "back": "B",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "52) Which of the following observations helped Darwin shape his concept of descent with modification?",
+        "options": [
+            "A) Species diversity declines farther from the equator.",
+            "B) Fewer species live on islands than on the nearest continents.",
+            "C) Birds can be found on islands located farther from the mainland than the birds' maximum nonstop flight distance.",
+            "D) South American temperate plants are more similar to the tropical plants of South America than to the temperate plants of Europe.",
+            "E) Earthquakes reshape life by causing mass extinctions."
+        ],
+        "back": "D",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "53) Within six months of effectively using methicillin to treat S. aureus infections in a community, all new infections were caused by MRSA. How can this result best be explained?",
+        "options": [
+            "A) S. aureus can resist vaccines.",
+            "B) A patient must have become infected with MRSA from another community.",
+            "C) In response to the drug, S. aureus began making drug-resistant versions of the protein targeted by the drug.",
+            "D) Some drug-resistant bacteria were present at the start of treatment, and natural selection increased their frequency.",
+            "E) The drug caused the S. aureus DNA to change."
+        ],
+        "back": "D",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "54) The upper forelimbs of humans and bats have fairly similar skeletal structures, whereas the corresponding bones in whales have very different shapes and proportions. However, genetic data suggest that all three kinds of organisms diverged from a common ancestor at about the same time. Which of the following is the most likely explanation for these data?",
+        "options": [
+            "A) Humans and bats evolved by natural selection, and whales evolved by Lamarckian mechanisms.",
+            "B) Forelimb evolution was adaptive in people and bats, but not in whales.",
+            "C) Natural selection in an aquatic environment resulted in significant changes to whale forelimb anatomy.",
+            "D) Genes mutate faster in whales than in humans or bats.",
+            "E) Whales are not properly classified as mammals."
+        ],
+        "back": "C",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    },
+    {
+        "front": "55) DNA sequences in many human genes are very similar to the sequences of corresponding genes in chimpanzees. The most likely explanation for this result is that",
+        "options": [
+            "A) humans and chimpanzees share a relatively recent common ancestor.",
+            "B) humans evolved from chimpanzees.",
+            "C) chimpanzees evolved from humans.",
+            "D) convergent evolution led to the DNA similarities.",
+            "E) humans and chimpanzees are not closely related."
+        ],
+        "back": "A",
+        "unit": "Unit 22",
+        "chapter": "Chapter 22",
+        "images": []
+    }
+]

@@ -1,0 +1,946 @@
+[
+    {
+        "front": "1) One major advantage of using Arabidopsis thaliana as a model system for studies of plant form and function is its",
+        "options": [
+            "A) fast generation time.",
+            "B) exceptionally large genome.",
+            "C) large seeds.",
+            "D) high tolerance to stress.",
+            "E) high mutation rate."
+        ],
+        "back": "A",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "2) Studies using Arabidopsis thaliana have led to important advances in all of the following except",
+        "options": [
+            "A) gene mapping.",
+            "B) impact of point mutations on gene function.",
+            "C) gene expression during plant development.",
+            "D) evolutionary history of plants.",
+            "E) how genes potentially interact with other genes."
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "3) The total number of genes in a species' genome is not necessarily a good indicator of biological complexity because",
+        "options": [
+            "A) most genes are never turned on.",
+            "B) many genes are repeats.",
+            "C) this does not take into account the alternative splicing of pre-mRNA.",
+            "D) this does not take into account mRNA-mRNA interactions.",
+            "E) this does not take into account protein-mRNA interactions."
+        ],
+        "back": "C",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "4) Choose the option that best describes the relationship between the cell wall thickness of parenchyma cells versus sclerenchyma cells.",
+        "options": [
+            "A) The cell walls of parenchyma cells are thinner than those of sclerenchyma cells.",
+            "B) The cell walls of parenchyma cells are thicker than those of schlerenchyma cells.",
+            "C) The cell walls of both types of cells are roughly equal.",
+            "D) The thickness of the cell walls for both types of cells is too variable for a comparison to be made."
+        ],
+        "back": "A",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "5) Which structure is incorrectly paired with its tissue system?",
+        "options": [
+            "A) root hair dermal tissue",
+            "B) palisade parenchyma ground tissue",
+            "C) guard cell dermal tissue",
+            "D) companion cell ground tissue",
+            "E) tracheid vascular tissue"
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "6) Which of the following is derived from the ground tissue system?",
+        "options": [
+            "A) root hair",
+            "B) cuticle",
+            "C) periderm",
+            "D) pith",
+            "E) phloem"
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "7) Which part of a plant absorbs most of the water and minerals taken up from the soil?",
+        "options": [
+            "A) taproots",
+            "B) root hairs",
+            "C) the thick parts of the roots near the base of the stem",
+            "D) storage roots",
+            "E) sections of the root that have secondary xylem"
+        ],
+        "back": "B",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "8) Land plants are composed of all of the following tissue types except",
+        "options": [
+            "A) mesodermal.",
+            "B) epidermal.",
+            "C) meristematic.",
+            "D) vascular.",
+            "E) ground tissue."
+        ],
+        "back": "A",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "9) Vascular plant tissue includes all of the following cell types except",
+        "options": [
+            "A) vessel elements.",
+            "B) sieve cells.",
+            "C) tracheids.",
+            "D) companion cells.",
+            "E) cambium cells."
+        ],
+        "back": "E",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "10) When you eat Brussels sprouts, what are you eating?",
+        "options": [
+            "A) immature flowers",
+            "B) large axillary buds",
+            "C) petioles",
+            "D) storage leaves",
+            "E) storage roots"
+        ],
+        "back": "B",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "11) Which cells are no longer capable of carrying out the process of DNA transcription?",
+        "options": [
+            "A) tracheids",
+            "B) mature mesophyll cells",
+            "C) companion cells",
+            "D) meristematic cells",
+            "E) glandular cells"
+        ],
+        "back": "A",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "12) ________ is to xylem as ________ is to phloem.",
+        "options": [
+            "A) Sclerenchyma cell; collenchyma cell",
+            "B) Apical meristem; vascular cambium",
+            "C) Vessel element; sieve-tube member",
+            "D) Cortex; pith",
+            "E) Vascular cambium; cork cambium"
+        ],
+        "back": "C",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "13) CO₂ enters the inner spaces of the leaf through the",
+        "options": [
+            "A) cuticle.",
+            "B) epidermal trichomes.",
+            "C) stoma.",
+            "D) phloem.",
+            "E) walls of guard cells."
+        ],
+        "back": "C",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "14) Which of the following cells transport sugars over long distances?",
+        "options": [
+            "A) parenchyma cells",
+            "B) collenchyma cells",
+            "C) sclerenchyma cells",
+            "D) tracheids and vessel elements",
+            "E) sieve-tube elements"
+        ],
+        "back": "E",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "15) Which of the following have unevenly thickened primary walls that support young, growing parts of the plant?",
+        "options": [
+            "A) parenchyma cells",
+            "B) collenchyma cells",
+            "C) sclerenchyma cells",
+            "D) tracheids and vessel elements",
+            "E) sieve-tube elements"
+        ],
+        "back": "B",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "16) Which of the following are most responsible for supporting mature, nongrowing parts of the plant?",
+        "options": [
+            "A) parenchyma cells",
+            "B) collenchyma cells",
+            "C) trichomes",
+            "D) tracheids and vessel elements",
+            "E) sieve-tube elements"
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "17) The vascular bundle in the shape of a single central cylinder in a root is called the",
+        "options": [
+            "A) cortex.",
+            "B) stele.",
+            "C) endodermis.",
+            "D) periderm.",
+            "E) pith."
+        ],
+        "back": "B",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "18) One important difference between the anatomy of roots and the anatomy of leaves is that",
+        "options": [
+            "A) only leaves have phloem and only roots have xylem.",
+            "B) root cells have cell walls and leaf cells do not.",
+            "C) a waxy cuticle covers leaves but is absent from roots.",
+            "D) vascular tissue is found in roots but is absent from leaves.",
+            "E) leaves have epidermal tissue but roots do not."
+        ],
+        "back": "C",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "19) A student examining leaf cross sections under a microscope finds many loosely packed cells with relatively thin cell walls. The cells have numerous chloroplasts. What type of cells are they?",
+        "options": [
+            "A) parenchyma",
+            "B) xylem",
+            "C) endodermis",
+            "D) collenchyma",
+            "E) sclerenchyma"
+        ],
+        "back": "A",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "20) Compared to most animals, the growth of most plants is best described as",
+        "options": [
+            "A) perennial.",
+            "B) weedy.",
+            "C) indeterminate.",
+            "D) derivative.",
+            "E) primary."
+        ],
+        "back": "C",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "21) A vessel element would likely lose its protoplast in which section of a root?",
+        "options": [
+            "A) zone of cell division",
+            "B) zone of elongation",
+            "C) zone of maturation",
+            "D) root cap",
+            "E) apical meristem"
+        ],
+        "back": "C",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "22) Gas exchange, which is necessary for photosynthesis, can occur most easily in which leaf tissue?",
+        "options": [
+            "A) epidermis",
+            "B) palisade mesophyll",
+            "C) spongy mesophyll",
+            "D) vascular tissue",
+            "E) bundle sheath"
+        ],
+        "back": "C",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "23) Which of the following best describes advantages conferred by compound leaves versus simple leaves?",
+        "options": [
+            "A) There's a greater chance of capturing photons in intermittently shady areas.",
+            "B) There is less chance of damage in high-wind areas.",
+            "C) There's a reduced chance of herbivory.",
+            "D) There is less surface area for water loss.",
+            "E) There's a greater chance of capturing photons in intermittently shady areas and less chance of damage in high-wind areas."
+        ],
+        "back": "E",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "24) Water is most likely to enter a mesophyll cell",
+        "options": [
+            "A) as a gas.",
+            "B) as a liquid.",
+            "C) covalently bound to sugars.",
+            "D) coupled to ion transport.",
+            "E) via endocytosis."
+        ],
+        "back": "B",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "25) Plants contain meristems whose major function is to",
+        "options": [
+            "A) attract pollinators.",
+            "B) absorb ions.",
+            "C) photosynthesize.",
+            "D) produce more cells.",
+            "E) produce flowers."
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "26) A cell that is most likely to retain the ability to divide, perform metabolic functions, and store photosynthate would be a",
+        "options": [
+            "A) parenchyma cell in a leaf.",
+            "B) vessel element in the vascular system.",
+            "C) endodermal cell in a root.",
+            "D) bark cell.",
+            "E) fiber cell."
+        ],
+        "back": "A",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "27) Which of the following cell types is least likely to be capable of cell division?",
+        "options": [
+            "A) mesophyll cell in a developing leaf",
+            "B) parenchyma cell 2 mm from the tip of a root",
+            "C) parenchyma cell in a dormant axillary bud",
+            "D) functional tracheid cell in a stem"
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "28) The driving force that pushes the root tip through the soil is primarily",
+        "options": [
+            "A) continuous cell division in the root cap at the tip of the root.",
+            "B) continuous cell division just behind the root cap in the center of the apical meristem.",
+            "C) elongation of cells behind the root apical meristem.",
+            "D) the elongation of root hairs.",
+            "E) continuous cell division of root cap cells."
+        ],
+        "back": "C",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "29) Shoot elongation in a growing bud is due primarily to",
+        "options": [
+            "A) cell division at the shoot apical meristem.",
+            "B) cell elongation directly below the shoot apical meristem.",
+            "C) cell division localized in each internode.",
+            "D) cell elongation localized in each internode.",
+            "E) cell division at the shoot apical meristem and cell elongation directly below the shoot apical meristem."
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "30) Axillary buds",
+        "options": [
+            "A) are initiated by the cork cambium.",
+            "B) have dormant meristematic cells.",
+            "C) are composed of a series of internodes lacking nodes.",
+            "D) grow immediately into shoot branches.",
+            "E) do not form a vascular connection with the primary shoot."
+        ],
+        "back": "B",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "The following question is based on parts of a growing primary root. I. root cap II. zone of elongation III. zone of cell division IV. zone of cell maturation V. apical meristem 31) Which of the following is the correct sequence from the growing tips of the root upward?",
+        "options": [
+            "A) I, II, V, III, IV",
+            "B) III, V, I, II, IV",
+            "C) II, IV, I, V, III",
+            "D) IV, II, III, I, V",
+            "E) I, V, III, II, IV"
+        ],
+        "back": "E",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "32) Which of the following is incorrectly paired with its structure and function?",
+        "options": [
+            "A) sclerenchyma supporting cells with thick secondary walls",
+            "B) periderm protective coat of woody stems and roots",
+            "C) pericycle waterproof ring of cells surrounding the central stele in roots",
+            "D) mesophyll parenchyma cells functioning in photosynthesis in leaves",
+            "E) ground meristem primary meristem that produces the ground tissue system"
+        ],
+        "back": "C",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "33) Which of the following root tissues gives rise to lateral roots?",
+        "options": [
+            "A) endodermis",
+            "B) phloem",
+            "C) cortex",
+            "D) epidermis",
+            "E) pericycle"
+        ],
+        "back": "E",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "34) A leaf primordium is initiated as a small mound of tissue on the flank of a dome-shaped shoot apical meristem. The earliest physical evidence of the site of a newly forming leaf primordium would be",
+        "options": [
+            "A) development of chloroplasts in a surface cell of the shoot apical meristem.",
+            "B) cell division in the shoot apical meristem with the newly forming walls perpendicular to the surface of the meristem.",
+            "C) preprophase bands parallel to the surface of the meristem in subsurface cells of the shoot apical meristem.",
+            "D) elongation of epidermal cells perpendicular to the surface of the shoot apical meristem.",
+            "E) formation of stomata in the epidermal layer of the shoot apical meristem."
+        ],
+        "back": "C",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "35) Pores on the leaf surface that function in gas exchange are called",
+        "options": [
+            "A) hairs.",
+            "B) xylem cells.",
+            "C) phloem cells.",
+            "D) stomata.",
+            "E) sclereids."
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "36) Which of the following is a true statement about growth in plants?",
+        "options": [
+            "A) Only primary growth is localized at meristems.",
+            "B) Some plants lack secondary growth.",
+            "C) Only stems have secondary growth.",
+            "D) Only secondary growth produces reproductive structures.",
+            "E) Monocots have only primary growth, and eudicots have only secondary growth."
+        ],
+        "back": "B",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "37) All of the following cell types are correctly matched with their functions except",
+        "options": [
+            "A) mesophyll–photosynthesis.",
+            "B) guard cell–regulation of transpiration.",
+            "C) sieve-tube member–translocation.",
+            "D) vessel element–water transport.",
+            "E) companion cell–formation of secondary xylem and phloem."
+        ],
+        "back": "E",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "38) What would be a plant adaptation that increases exposure of a plant to light in a dense forest?",
+        "options": [
+            "A) closing of the stomata",
+            "B) lateral buds",
+            "C) apical dominance",
+            "D) absence of petioles",
+            "E) intercalary meristems"
+        ],
+        "back": "C",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "39) A person working with plants may reduce the inhibition of apical dominance by auxin via which of the following?",
+        "options": [
+            "A) pruning shoot tips",
+            "B) deep watering of the roots",
+            "C) fertilizing",
+            "D) treating the plants with auxins",
+            "E) feeding the plants nutrients"
+        ],
+        "back": "A",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "40) What effect does \"pinching back\" have on a houseplant?",
+        "options": [
+            "A) increases apical dominance",
+            "B) inhibits the growth of lateral buds",
+            "C) produces a plant that will grow taller",
+            "D) stimulates lateral buds to grow",
+            "E) increases the flow of auxin down the shoot"
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "41) Which of the following cells or tissues arise from lateral meristem activity?",
+        "options": [
+            "A) secondary xylem",
+            "B) leaves",
+            "C) trichomes",
+            "D) tubers",
+            "E) cortex"
+        ],
+        "back": "A",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "42) A plant has the following characteristics: a taproot system, several growth rings evident in a cross section of the stem, and a layer of bark around the outside. Which of the following best describes the plant?",
+        "options": [
+            "A) herbaceous eudicot",
+            "B) woody eudicot",
+            "C) woody monocot",
+            "D) herbaceous monocot",
+            "E) woody annual"
+        ],
+        "back": "B",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "43) Cells produced by lateral meristems are known as",
+        "options": [
+            "A) dermal and ground tissue.",
+            "B) lateral tissues.",
+            "C) pith.",
+            "D) secondary tissues.",
+            "E) shoots and roots."
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "44) Which of the following is a true statement?",
+        "options": [
+            "A) Flowers may have secondary growth.",
+            "B) Secondary growth is a common feature of eudicot leaves.",
+            "C) Secondary growth is produced by both the vascular cambium and the cork cambium.",
+            "D) Primary growth and secondary growth alternate in the life cycle of a plant.",
+            "E) Plants with secondary growth are typically the smallest ones in an ecosystem."
+        ],
+        "back": "C",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "45) What tissue makes up most of the wood of a tree?",
+        "options": [
+            "A) primary xylem",
+            "B) secondary xylem",
+            "C) secondary phloem",
+            "D) mesophyll cells",
+            "E) vascular cambium"
+        ],
+        "back": "B",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "46) If you were able to walk into an opening cut into the center of a large redwood tree, when you exit from the middle of the trunk (stem) outward, you would cross, in order,",
+        "options": [
+            "A) the annual rings, new xylem, vascular cambium, phloem, and bark.",
+            "B) the secondary xylem, cork cambium, phloem, and periderm.",
+            "C) the vascular cambium, oldest xylem, and newest xylem.",
+            "D) the secondary xylem, secondary phloem, and vascular cambium.",
+            "E) the summer wood, bark, and phloem."
+        ],
+        "back": "A",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "47) Additional vascular tissue produced as secondary growth in a root originates from which cells?",
+        "options": [
+            "A) vascular cambium",
+            "B) apical meristem",
+            "C) endodermis",
+            "D) phloem",
+            "E) xylem"
+        ],
+        "back": "A",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "48) According to the ABC model of floral development, which genes would be expressed in a showy ornamental flower with multiple sepals and petals but no stamens or carpels?",
+        "options": [
+            "A) A genes only",
+            "B) B genes only",
+            "C) C genes only",
+            "D) A and B genes only",
+            "E) A and C genes only"
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "49) A mutation allows only A gene activity in a developing flower. Which flower part(s) will develop in this plant?",
+        "options": [
+            "A) sepals",
+            "B) petals",
+            "C) stamens",
+            "D) carpels",
+            "E) both sepals and petals"
+        ],
+        "back": "A",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "50) While studying the plant Arabidopsis, a botanist finds that an RNA probe produces colored spots in the sepals of the plant. From this information, what can be inferred?",
+        "options": [
+            "A) The differently colored plants will attract different pollinating insects.",
+            "B) The RNA probe is transported only to certain tissues.",
+            "C) The colored regions were caused by mutations that occurred in the sepals.",
+            "D) The RNA probe is specific to a gene active in sepals.",
+            "E) More research needs to be done on the sepals of Arabidopsis."
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "51) Before differentiation can begin during the processes of plant cell and tissue culture, parenchyma cells from the source tissue must",
+        "options": [
+            "A) differentiate into procambium.",
+            "B) undergo dedifferentiation.",
+            "C) increase the number of chromosomes in their nuclei.",
+            "D) enzymatically digest their primary cell walls.",
+            "E) establish a new polarity in their cytoplasm."
+        ],
+        "back": "B",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "52) The polarity of a plant is established when",
+        "options": [
+            "A) the zygote divides.",
+            "B) cotyledons form at the shoot end of the embryo.",
+            "C) the shoot-root axis is established in the embryo.",
+            "D) the primary root breaks through the seed coat.",
+            "E) the shoot first breaks through the soil into the light as the seed germinates."
+        ],
+        "back": "A",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "53) Totipotency is a term used to describe a cell's ability to give rise to a complete new organism. In plants, this means that",
+        "options": [
+            "A) plant development is not under genetic control.",
+            "B) the cells of shoots and the cells of roots have different genes.",
+            "C) cell differentiation depends largely on the control of gene expression.",
+            "D) a cell's environment has no effect on its differentiation.",
+            "E) sexual reproduction is not necessary in plants."
+        ],
+        "back": "C",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "54) Which of the following statements is false?",
+        "options": [
+            "A) A preprophase band determines where a cell plate will form in a dividing cell.",
+            "B) The way in which a plant cell differentiates is determined by the cell's position in the developing plant body.",
+            "C) Homeotic genes often control morphogenesis.",
+            "D) Plant cells differentiate because the cytoskeleton determines which genes will be turned \"on\" and \"off.\"",
+            "E) Arabidopsis was the first plant to have its genome sequenced."
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "55) Which of the following are true statements about the cells shown in the photograph in Figure 35.1 above?",
+        "options": [
+            "A) They are parenchyma cells.",
+            "B) They are photosynthetic.",
+            "C) They are usually found in roots.",
+            "D) They are phloem cells.",
+            "E) They are parenchyma cells and photosynthetic."
+        ],
+        "back": "E",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": [
+            "https://web.archive.org/web/20170801155914im_/https://www.easynotecards.com/uploads/406/31/_39367d51_13ab9201884__8000_00000124.jpg"
+        ]
+    },
+    {
+        "front": "The following question are based on the drawing of root or stem cross sections shown in Figure 35.2. Figure 35.2 56) A monocot stem is represented by",
+        "options": [
+            "A) I only.",
+            "B) II only.",
+            "C) III only.",
+            "D) IV only.",
+            "E) both I and III."
+        ],
+        "back": "B",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": [
+            "https://web.archive.org/web/20170801155914im_/https://www.easynotecards.com/uploads/409/34/_39367d51_13ab9201884__8000_00000127.jpg"
+        ]
+    },
+    {
+        "front": "The following question are based on the drawing of root or stem cross sections shown in Figure 35.2. Figure 35.2 57) A plant that is at least 3 years old is represented by",
+        "options": [
+            "A) I only.",
+            "B) II only.",
+            "C) III only.",
+            "D) IV only.",
+            "E) both I and III."
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": [
+            "https://web.archive.org/web/20170801155914im_/https://www.easynotecards.com/uploads/409/34/_39367d51_13ab9201884__8000_00000127.jpg"
+        ]
+    },
+    {
+        "front": "The following question are based on the drawing of root or stem cross sections shown in Figure 35.2. Figure 35.2 58) A woody eudicot is represented by",
+        "options": [
+            "A) I only.",
+            "B) II only.",
+            "C) III only.",
+            "D) IV only.",
+            "E) both I and III."
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": [
+            "https://web.archive.org/web/20170801155914im_/https://www.easynotecards.com/uploads/409/34/_39367d51_13ab9201884__8000_00000127.jpg"
+        ]
+    },
+    {
+        "front": "59) As a youngster, you drive a nail in the trunk of a young tree that is 3 meters tall. The nail is about 1.5 meters from the ground. Fifteen years later, you return and discover that the tree has grown to a height of 30 meters. About how many meters above the ground is the nail?",
+        "options": [
+            "A) 0.5",
+            "B) 1.5",
+            "C) 3.0",
+            "D) 15.0",
+            "E) 28.5"
+        ],
+        "back": "B",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "60) Suppose George Washington completely removed the bark from around the base of a cherry tree but was stopped by his father before cutting the tree down. The leaves retained their normal appearance for several weeks, but the tree eventually died. The tissue(s) that George left functional was/were the",
+        "options": [
+            "A) phloem.",
+            "B) xylem.",
+            "C) cork cambium.",
+            "D) cortex.",
+            "E) companion and sieve-tube members."
+        ],
+        "back": "B",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "61) Most of the growth of a plant body is the result of",
+        "options": [
+            "A) cell differentiation.",
+            "B) morphogenesis.",
+            "C) cell division.",
+            "D) cell elongation.",
+            "E) reproduction."
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "62) The innermost layer of the root cortex is the",
+        "options": [
+            "A) core.",
+            "B) pericycle.",
+            "C) endodermis.",
+            "D) pith.",
+            "E) vascular cambium."
+        ],
+        "back": "C",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "63) Heartwood and sapwood consist of",
+        "options": [
+            "A) bark.",
+            "B) periderm.",
+            "C) secondary xylem.",
+            "D) secondary phloem.",
+            "E) cork."
+        ],
+        "back": "C",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "64) The phase change of an apical meristem from the juvenile to the mature vegetative phase is often revealed by",
+        "options": [
+            "A) a change in the morphology of the leaves produced.",
+            "B) the initiation of secondary growth.",
+            "C) the formation of lateral roots.",
+            "D) a change in the orientation of preprophase bands and cytoplasmic microtubules in lateral meristems.",
+            "E) the activation of floral meristem identity genes."
+        ],
+        "back": "A",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "65) Based on the ABC hypothesis, what would be the structure of a flower from the outermost whorl that had normal expression of genes A and C and expression of gene B in all four whorls?",
+        "options": [
+            "A) carpel-petal-petal-carpel",
+            "B) petal-petal-stamen-stamen",
+            "C) sepal-carpel-carpel-sepal",
+            "D) sepal-sepal-carpel-carpel",
+            "E) carpel-carpel-carpel-carpel"
+        ],
+        "back": "B",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "66) Which of the following arise, directly or indirectly, from meristematic activity?",
+        "options": [
+            "A) secondary xylem",
+            "B) leaves",
+            "C) dermal tissue",
+            "D) tubers",
+            "E) secondary xylem, leaves, dermal tissue, and tubers"
+        ],
+        "back": "E",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    },
+    {
+        "front": "67) Which of the following would not be seen in a cross-section through the woody part of a root?",
+        "options": [
+            "A) sclerenchyma cells",
+            "B) parenchyma cells",
+            "C) sieve-tube elements",
+            "D) root hairs",
+            "E) vessel elements"
+        ],
+        "back": "D",
+        "unit": "Unit 35",
+        "chapter": "Chapter 35",
+        "images": []
+    }
+]

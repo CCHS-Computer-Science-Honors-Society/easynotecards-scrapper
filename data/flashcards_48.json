@@ -1,0 +1,1033 @@
+[
+    {
+        "front": "1) A simple nervous system",
+        "options": [
+            "A) must include chemical senses, mechanoreception, and vision.",
+            "B) includes a minimum of 12 effector neurons.",
+            "C) has information flow in only one direction: toward an integrating center.",
+            "D) has information flow in only one direction: away from an integrating center.",
+            "E) includes sensory information, an integrating center, and effectors."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "2) Most of the neurons in the human brain are",
+        "options": [
+            "A) sensory neurons.",
+            "B) motor neurons.",
+            "C) interneurons.",
+            "D) auditory neurons.",
+            "E) peripheral neurons."
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "3) The nucleus and most of the organelles in a neuron are located in the",
+        "options": [
+            "A) dendritic region.",
+            "B) axon hillock.",
+            "C) axon.",
+            "D) cell body.",
+            "E) axon terminals."
+        ],
+        "back": "D",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "4) In certain large animals, this type of neuron can extend beyond 1 meter in length.",
+        "options": [
+            "A) glial cell in the brain",
+            "B) a sensory neuron",
+            "C) an interneuron",
+            "D) a glial cell at a ganglion",
+            "E) a neuron that controls eye movements"
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "5) The somatic nervous system can alter the activities of its targets, the skeletal muscle fibers, because",
+        "options": [
+            "A) it is electrically coupled by gap junctions to the muscles.",
+            "B) its signals bind to receptor proteins on the muscles.",
+            "C) its signals reach the muscles via the blood.",
+            "D) its light pulses activate contraction in the muscles.",
+            "E) it is connected to the internal neural network of the muscles."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "6) The point of connection between two communicating neurons is called",
+        "options": [
+            "A) the axon hillock.",
+            "B) the dendrite.",
+            "C) the synapse.",
+            "D) the cell body.",
+            "E) the glia."
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "7) In a simple synapse, neurotransmitter chemicals are released by",
+        "options": [
+            "A) the dendritic membrane.",
+            "B) the presynaptic membrane.",
+            "C) axon hillocks.",
+            "D) cell bodies.",
+            "E) ducts on the smooth endoplasmic reticulum."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "8) In a simple synapse, neurotransmitter chemicals are received by",
+        "options": [
+            "A) the dendritic membrane.",
+            "B) the presynaptic membrane.",
+            "C) axon hillocks.",
+            "D) cell bodies.",
+            "E) ducts on the smooth endoplasmic reticulum."
+        ],
+        "back": "A",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "9) In the communication between a motor neuron and a skeletal muscle,",
+        "options": [
+            "A) the motor neuron is considered the presynaptic cell and the skeletal muscle is the postsynaptic cell.",
+            "B) the motor neuron is considered the postsynaptic cell and the skeletal muscle is the presynaptic cell.",
+            "C) action potentials are possible on the motor neuron but not the skeletal muscle.",
+            "D) action potentials are possible on the skeletal muscle but not the motor neuron.",
+            "E) the motor neuron fires action potentials but the skeletal muscle is not electrochemically excitable."
+        ],
+        "back": "A",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "10) For a neuron with an initial membrane potential at -70 mV, an increase in the movement of potassium ions out of that neuron's cytoplasm would result in",
+        "options": [
+            "A) the depolarization of the neuron.",
+            "B) the hyperpolarization of the neuron.",
+            "C) the replacement of potassium ions with sodium ions.",
+            "D) the replacement of potassium ions with calcium ions.",
+            "E) the neuron switching on its sodium-potassium pump to restore the initial conditions."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "11) Although the membrane of a \"resting\" neuron is highly permeable to potassium ions, its membrane potential does not exactly match the equilibrium potential for potassium because the neuronal membrane is also",
+        "options": [
+            "A) fully permeable to sodium ions.",
+            "B) slightly permeable to sodium ions.",
+            "C) fully permeable to calcium ions.",
+            "D) impermeable to sodium ions.",
+            "E) highly permeable to chloride ions."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "12) The operation of the sodium-potassium \"pump\" moves",
+        "options": [
+            "A) sodium and potassium ions into the cell.",
+            "B) sodium and potassium ions out of the cell.",
+            "C) sodium ions into the cell and potassium ions out of the cell.",
+            "D) sodium ions out of the cell and potassium ions into the cell.",
+            "E) sodium and potassium ions into the mitochondria."
+        ],
+        "back": "D",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "13) A cation that is more abundant as a solute in the cytosol of a neuron than it is in the interstitial fluid outside the neuron is",
+        "options": [
+            "A) HCO₃-.",
+            "B) Cl-.",
+            "C) Ca++.",
+            "D) Na+.",
+            "E) K+."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "14) The membrane potential that exactly offsets an ion's concentration gradient is called the",
+        "options": [
+            "A) graded potential.",
+            "B) threshold potential.",
+            "C) equilibrium potential.",
+            "D) action potential.",
+            "E) inhibitory postsynaptic potential."
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "15) ATP hydrolysis directly powers the movement of",
+        "options": [
+            "A) K+ out of cells.",
+            "B) Na+ out of cells.",
+            "C) Na+ into cells.",
+            "D) Ca++ into cells.",
+            "E) Cl- into cells."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "16) Two fundamental concepts about the ion channels of a \"resting\" neuron are that the channels",
+        "options": [
+            "A) are always open, but the concentration gradients of ions frequently change.",
+            "B) are always closed, but ions move closer to the channels during excitation.",
+            "C) open and close depending on stimuli, and are specific as to which ion can traverse them.",
+            "D) open and close depending on chemical messengers, and are nonspecific as to which ion can traverse them.",
+            "E) open in response to stimuli, and then close simultaneously, in unison."
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "17) Opening all of the sodium channels, with all other ion channels closedwhich is an admittedly artificial settingon an otherwise typical neuron should move its membrane potential to",
+        "options": [
+            "A) -90 mV.",
+            "B) -70 mV.",
+            "C) 0 mV.",
+            "D) +30 mV.",
+            "E) +62 mV."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "18) A graded hyperpolarization of a membrane can be induced by",
+        "options": [
+            "A) increasing its membrane's permeability to Na+.",
+            "B) decreasing its membrane's permeability to H+.",
+            "C) decreasing its membrane's permeability to Cl-.",
+            "D) increasing its membrane's permeability to Ca++.",
+            "E) increasing its membrane's permeability to K+."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "19) Self-propagation and refractory periods are typical of",
+        "options": [
+            "A) action potentials.",
+            "B) graded hyperpolarizations.",
+            "C) excitatory postsynaptic potentials.",
+            "D) threshold potentials.",
+            "E) resting potentials."
+        ],
+        "back": "A",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "20) The \"selectivity\" of a particular ion channel refers to its",
+        "options": [
+            "A) permitting passage by positive but not negative ions.",
+            "B) permitting passage by negative but not positive ions.",
+            "C) ability to change its size depending on the ion needing transport.",
+            "D) binding with only one type of neurotransmitter.",
+            "E) permitting passage only to a specific ion."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "21) A \"resting\" motor neuron is expected to",
+        "options": [
+            "A) release lots of acetylcholine.",
+            "B) have high permeability to sodium ions.",
+            "C) be equally permeable to sodium and potassium ions.",
+            "D) exhibit a resting potential that is more negative than the \"threshold\" potential.",
+            "E) have a higher concentration of sodium ions on the inside of the cell than on the outside."
+        ],
+        "back": "D",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "22) The \"threshold\" potential of a membrane",
+        "options": [
+            "A) is the point of separation from a living to a dead neuron.",
+            "B) is the lowest frequency of action potentials a neuron can produce.",
+            "C) is the minimum hyperpolarization needed to prevent the occurrence of action potentials.",
+            "D) is the minimum depolarization needed to operate the voltage-gated sodium and potassium channels.",
+            "E) is the peak amount of depolarization seen in an action potential."
+        ],
+        "back": "D",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "23) Action potentials move along axons",
+        "options": [
+            "A) more slowly in axons of large than in small diameter.",
+            "B) by the direct action of acetylcholine on the axonal membrane.",
+            "C) by activating the sodium-potassium \"pump\" at each point along the axonal membrane.",
+            "D) more rapidly in myelinated than in non-myelinated axons.",
+            "E) by reversing the concentration gradients for sodium and potassium ions."
+        ],
+        "back": "D",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "24) A toxin that binds specifically to voltage-gated sodium channels in axons would be expected to",
+        "options": [
+            "A) prevent the hyperpolarization phase of the action potential.",
+            "B) prevent the depolarization phase of the action potential.",
+            "C) prevent graded potentials.",
+            "D) increase the release of neurotransmitter molecules.",
+            "E) have most of its effects on the dendritic region of a neuron."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "25) After the depolarization phase of an action potential, the resting potential is restored by",
+        "options": [
+            "A) the opening of sodium activation gates.",
+            "B) the opening of voltage-gated potassium channels and the closing of sodium channels.",
+            "C) a decrease in the membrane's permeability to potassium and chloride ions.",
+            "D) a brief inhibition of the sodium-potassium pump.",
+            "E) the opening of more voltage-gated sodium channels."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "26) The \"undershoot\" phase of after-hyperpolarization is due to",
+        "options": [
+            "A) slow opening of voltage-gated sodium channels.",
+            "B) sustained opening of voltage-gated potassium channels.",
+            "C) rapid opening of voltage-gated calcium channels.",
+            "D) slow restorative actions of the sodium-potassium ATPase.",
+            "E) ions that move away from their open ion channels."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "27) Immediately after an action potential passes along an axon, it is not possible to generate a second action potential; thus, we state that the membrane is briefly",
+        "options": [
+            "A) hyperexcitable.",
+            "B) refractory.",
+            "C) fully depolarized.",
+            "D) above threshold.",
+            "E) at the equilibrium potential."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "28) An action potential can start in the middle of an axon and proceed in both opposite directions when",
+        "options": [
+            "A) the neuron is an inhibitory neuron and operating normally.",
+            "B) only the middle section of the axon has been artificially stimulated by an electrode.",
+            "C) the dendritic region fires an action potential.",
+            "D) it is in its typical refractory state.",
+            "E) its membrane potential is above the threshold."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "29) The primary means by which a neuron can communicate to a second neuron is by",
+        "options": [
+            "A) the frequency of its action potentials.",
+            "B) the peak of the depolarization phase of an action potential.",
+            "C) the peak of the undershoot/hyperpolarization of an action potential.",
+            "D) varying how much neurotransmitter it releases for a given action potential.",
+            "E) remaining in the depolarization phase of the action potential for an extended interval."
+        ],
+        "back": "A",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "30) In the sequence of permeability changes for a complete action potential, the first of these events that occurs is",
+        "options": [
+            "A) the activation of the sodium-potassium \"pump.\"",
+            "B) the inhibition of the sodium-potassium \"pump.\"",
+            "C) the opening of voltage-gated sodium channels.",
+            "D) the closing of voltage-gated potassium channels.",
+            "E) the opening of voltage-gated potassium channels."
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "31) Saltatory conduction is a term applied to",
+        "options": [
+            "A) conduction of impulses across electrical synapses.",
+            "B) an action potential that skips the axon hillock in moving from the dendritic region to the axon terminal.",
+            "C) rapid movement of an action potential reverberating back and forth along a neuron.",
+            "D) jumping from one neuron to an adjacent neuron.",
+            "E) jumping from one node of Ranvier to the next in a myelinated neuron."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "32) The surface on a neuron that discharges the contents of synaptic vesicles is the",
+        "options": [
+            "A) dendrite.",
+            "B) axon hillock.",
+            "C) node of Ranvier.",
+            "D) postsynaptic membrane.",
+            "E) presynaptic membrane."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "33) Neurotransmitters are released from axon terminals via",
+        "options": [
+            "A) osmosis.",
+            "B) active transport.",
+            "C) diffusion.",
+            "D) transcytosis.",
+            "E) exocytosis."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "34) The fastest possible conduction velocity of action potentials is observed in",
+        "options": [
+            "A) thin, non-myelinated neurons.",
+            "B) thin, myelinated neurons.",
+            "C) thick, non-myelinated neurons.",
+            "D) thick, myelinated neurons."
+        ],
+        "back": "D",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "35) Neural transmission across a mammalian synaptic gap is accomplished by",
+        "options": [
+            "A) the movement of sodium and potassium ions from the presynaptic neuron into the postsynaptic neuron.",
+            "B) impulses traveling as electrical currents across the gap.",
+            "C) impulses causing the release of a chemical signal and its diffusion across the gap.",
+            "D) impulses ricocheting back and forth across the gap.",
+            "E) the movement of calcium ions from the presynaptic into the postsynaptic neuron."
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "36) One possible disadvantage to a nerve net is that it might conduct impulses in two directions from the point of the stimulus. Most of the synapses in vertebrates conduct information in only one direction",
+        "options": [
+            "A) as a result of the nodes of Ranvier.",
+            "B) as a result of voltage-gated sodium channels found only in the vertebrate system.",
+            "C) because vertebrate nerve cells have dendrites.",
+            "D) because only the postsynaptic cells can bind and respond to neurotransmitters.",
+            "E) because the sodium-potassium pump moves ions in one direction."
+        ],
+        "back": "D",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "37) The release of acetylcholine from the terminal of a motor neuron is most directly linked to",
+        "options": [
+            "A) the entry of potassium into the axon terminal.",
+            "B) the exit of potassium from the axon terminal.",
+            "C) the entry of sodium into the axon terminal.",
+            "D) the exit of sodium from the axon terminal.",
+            "E) the entry of calcium into the axon terminal."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "38) The observation that the acetylcholine released into the junction between a motor neuron and a skeletal muscle binds to a sodium channel and opens it is an example of",
+        "options": [
+            "A) a voltage-gated sodium channel.",
+            "B) a voltage-gated potassium channel.",
+            "C) a ligand-gated sodium channel.",
+            "D) a second-messenger-gated sodium channel.",
+            "E) a chemical that inhibits action potentials."
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "39) An inhibitory postsynaptic potential (IPSP) occurs in a membrane made more permeable to",
+        "options": [
+            "A) potassium ions.",
+            "B) sodium ions.",
+            "C) calcium ions.",
+            "D) ATP.",
+            "E) all neurotransmitter molecules."
+        ],
+        "back": "A",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "40) The following steps refer to various stages in transmission at a chemical synapse. 1. Neurotransmitter binds with receptors associated with the postsynaptic membrane. 2. Calcium ions rush into neuron's cytoplasm. 3. An action potential depolarizes the membrane of the axon terminal. 4. The ligand-gated ion channels open. 5. The synaptic vesicles release neurotransmitter into the synaptic cleft. Which sequence of events is correct?",
+        "options": [
+            "A) 1 → 2 → 3 → 4 → 5",
+            "B) 2 → 3 → 5 → 4 → 1",
+            "C) 3 → 2 → 5 → 1 → 4",
+            "D) 4 → 3 → 1 → 2 → 5",
+            "E) 5 → 1 → 2 → 4 → 3"
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "41) The activity of acetylcholine in a synapse is terminated by",
+        "options": [
+            "A) its active transport across the presynaptic membrane.",
+            "B) its diffusion across the presynaptic membrane.",
+            "C) its active transport across the postsynaptic membrane.",
+            "D) its diffusion across the postsynaptic membrane.",
+            "E) its degradation by a hydrolytic enzyme on the postsynaptic membrane."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "42) Adjacent neurons with direct (non-neurotransmitter) action potential transfer are said to have electrical synapses, based on the presence of",
+        "options": [
+            "A) tight junctions at their point of contact.",
+            "B) gap junctions at their point of contact.",
+            "C) leaky junctions at their point of contact.",
+            "D) anchoring junctions at their point of contact.",
+            "E) desmosomes at their point of contact."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "43) Ionotropic receptors are found at synapses operated via",
+        "options": [
+            "A) ligand-gated ion channels.",
+            "B) second-messenger-gated ion channels.",
+            "C) electrical synapses.",
+            "D) inhibitory, but not excitatory, synapses.",
+            "E) excitatory, but not inhibitory, synapses."
+        ],
+        "back": "A",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "44) An example of ligand-gated ion channels is",
+        "options": [
+            "A) the spreading of action potentials in the heart.",
+            "B) acetylcholine receptors at the neuromuscular junction.",
+            "C) cAMP-dependent protein kinases.",
+            "D) action potentials on the axon.",
+            "E) graded hyperpolarization."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "45) An example of the action of metabotropic receptors is when",
+        "options": [
+            "A) voltage-gated ion channels open.",
+            "B) voltage-gated ion channels close.",
+            "C) acetylcholine-gated sodium channels open.",
+            "D) cAMP-linked ion channels open.",
+            "E) the undershoot/after-hyperpolarization occurs."
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "46) Neurotransmitters categorized as inhibitory are expected to",
+        "options": [
+            "A) act independently of their receptor proteins.",
+            "B) close potassium channels.",
+            "C) open sodium channels.",
+            "D) close chloride channels.",
+            "E) hyperpolarize the membrane."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "47) When several EPSPs arrive at the axon hillock from different dendritic locations, depolarizing the postsynaptic cell to threshold for an action potential, this is an example of",
+        "options": [
+            "A) temporal summation.",
+            "B) spatial summation.",
+            "C) tetanus.",
+            "D) the refractory state.",
+            "E) an action potential with an abnormally high peak of depolarization."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "48) When several IPSPs arrive at the axon hillock rapidly in sequence from a single dendritic location, hyperpolarizing the postsynaptic cell more and more and thus preventing an action potential, this is an example of",
+        "options": [
+            "A) temporal summation.",
+            "B) spatial summation.",
+            "C) tetanus.",
+            "D) the refractory state.",
+            "E) an action potential with an abnormally high peak of depolarization."
+        ],
+        "back": "A",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "49) Assume that a single IPSP has a negative magnitude of -0.5 mV at the axon hillock, and that a single EPSP has a positive magnitude of +0.5 mV. For a neuron with an initial membrane potential of -70 mV, the net effect of the simultaneous arrival of six IPSPs and two EPSPs would be to move the membrane potential to",
+        "options": [
+            "A) -72 mV.",
+            "B) -71 mV.",
+            "C) -70 mV.",
+            "D) -69 mV.",
+            "E) -68 mV."
+        ],
+        "back": "A",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "50) Receptors for neurotransmitters are of primary functional importance in assuring one-way synaptic transmission because they are mostly found on the",
+        "options": [
+            "A) axonal membrane.",
+            "B) axon hillock.",
+            "C) dendritic membrane.",
+            "D) mitochondrial membrane.",
+            "E) presynaptic membrane."
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "51) Functionally, which cellular location is the neuron's \"decision-making site\" as to whether or not an action potential will be initiated?",
+        "options": [
+            "A) axonal membranes",
+            "B) axon hillocks",
+            "C) dendritic membranes",
+            "D) mitochondrial membranes",
+            "E) presynaptic membranes"
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "52) Neurotransmitters affect postsynaptic cells by",
+        "options": [
+            "A) initiating signal transduction pathways in the cells.",
+            "B) causing molecular changes in the cells.",
+            "C) affecting ion-channel proteins.",
+            "D) altering the permeability of the cells.",
+            "E) All of these options are correct."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "53) The primary neurotransmitter from the parasympathetic system that influences its autonomic targets is",
+        "options": [
+            "A) acetylcholine.",
+            "B) adenosine.",
+            "C) norepinephrine.",
+            "D) adrenaline.",
+            "E) dopamine."
+        ],
+        "back": "A",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "54) The major inhibitory neurotransmitter of the human brain is",
+        "options": [
+            "A) acetylcholine.",
+            "B) epinephrine.",
+            "C) glutamate.",
+            "D) nitric oxide.",
+            "E) GABA."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "55) The major excitatory neurotransmitter of the human brain is",
+        "options": [
+            "A) acetylcholine.",
+            "B) epinephrine.",
+            "C) glutamate.",
+            "D) nitric oxide.",
+            "E) GABA."
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "56) A neuropeptide that might function as a natural analgesic is",
+        "options": [
+            "A) acetylcholine.",
+            "B) epinephrine.",
+            "C) endorphin.",
+            "D) nitric oxide.",
+            "E) GABA."
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "57) An amino acid that operates at inhibitory synapses in the brain is",
+        "options": [
+            "A) acetylcholine.",
+            "B) epinephrine.",
+            "C) endorphin.",
+            "D) nitric oxide.",
+            "E) GABA."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "58) The botulinum toxin reduces the synaptic release of",
+        "options": [
+            "A) acetylcholine.",
+            "B) epinephrine.",
+            "C) endorphin.",
+            "D) nitric oxide.",
+            "E) GABA."
+        ],
+        "back": "A",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "59) The heart rate decreases in response to the arrival of",
+        "options": [
+            "A) acetylcholine.",
+            "B) epinephrine.",
+            "C) endorphin.",
+            "D) nitric oxide.",
+            "E) GABA."
+        ],
+        "back": "A",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "60) A chemical that affects neuronal function but is not stored in presynaptic vesicles is",
+        "options": [
+            "A) acetylcholine.",
+            "B) epinephrine.",
+            "C) endorphin.",
+            "D) nitric oxide.",
+            "E) GABA."
+        ],
+        "back": "D",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "61) The membrane potential is closest to the equilibrium potential for potassium at label",
+        "options": [
+            "A) A.",
+            "B) B.",
+            "C) C.",
+            "D) D.",
+            "E) E."
+        ],
+        "back": "D",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": [
+            "https://i.gyazo.com/485ae4aa9e4f67d698ac9c3fe766a894.png"
+        ]
+    },
+    {
+        "front": "62) The membrane's permeability to sodium ions is at its maximum at label",
+        "options": [
+            "A) A.",
+            "B) B.",
+            "C) C.",
+            "D) D.",
+            "E) E."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": [
+            "https://i.gyazo.com/485ae4aa9e4f67d698ac9c3fe766a894.png"
+        ]
+    },
+    {
+        "front": "63) The minimum graded depolarization needed to operate the voltage-gated sodium and potassium channels is indicated by the label",
+        "options": [
+            "A) A.",
+            "B) B.",
+            "C) C.",
+            "D) D.",
+            "E) E."
+        ],
+        "back": "A",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": [
+            "https://i.gyazo.com/485ae4aa9e4f67d698ac9c3fe766a894.png"
+        ]
+    },
+    {
+        "front": "64) The cell is not hyperpolarized; however, repolarization is in progress, as the sodium channels are closing or closed, and many potassium channels have opened at label",
+        "options": [
+            "A) A.",
+            "B) B.",
+            "C) C.",
+            "D) D.",
+            "E) E."
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": [
+            "https://i.gyazo.com/485ae4aa9e4f67d698ac9c3fe766a894.png"
+        ]
+    },
+    {
+        "front": "65) The neuronal membrane is at its resting potential at label",
+        "options": [
+            "A) A.",
+            "B) B.",
+            "C) C.",
+            "D) D.",
+            "E) E."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": [
+            "https://i.gyazo.com/485ae4aa9e4f67d698ac9c3fe766a894.png"
+        ]
+    },
+    {
+        "front": "66) Action potentials are normally carried in only one direction: from the axon hillock toward the axon terminals. If you experimentally depolarize the middle of the axon to threshold, using an electronic probe, then",
+        "options": [
+            "A) no action potential will be initiated.",
+            "B) an action potential will be initiated and proceed only in the normal direction toward the axon terminal.",
+            "C) an action potential will be initiated and proceed only back toward the axon hillock.",
+            "D) two action potentials will be initiated, one going toward the axon terminal and one going back toward the hillock.",
+            "E) an action potential will be initiated, but it will die out before it reaches the axon terminal."
+        ],
+        "back": "D",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "67) Assume that excessive consumption of ethanol increases the influx of negative chloride ions into \"common sense\" neurons whose action potentials are needed for you to act appropriately and not harm yourself or others. Thus, any resulting poor decisions associated with ethanol ingestion are likely due to",
+        "options": [
+            "A) increased membrane depolarization of \"common sense\" neurons.",
+            "B) decreased membrane depolarization of \"common sense\" neurons.",
+            "C) more action potentials in your \"common sense\" neurons.",
+            "D) more EPSPs in your \"common sense\" neurons.",
+            "E) fewer IPSPs in your \"common sense\" neurons."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "68) What happens when a resting neuron's membrane depolarizes?",
+        "options": [
+            "A) There is a net diffusion of Na+ out of the cell.",
+            "B) The equilibrium potential for K+ (EK) becomes more positive.",
+            "C) The neuron's membrane voltage becomes more positive.",
+            "D) The neuron is less likely to generate an action potential.",
+            "E) The cell's inside is more negative than the outside."
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "69) A common feature of action potentials is that they",
+        "options": [
+            "A) cause the membrane to hyperpolarize and then depolarize.",
+            "B) can undergo temporal and spatial summation.",
+            "C) are triggered by a depolarization that reaches the threshold.",
+            "D) move at the same speed along all axons.",
+            "E) require the diffusion of Na+ and K+ through ligand-gated channels to propagate."
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "70) Where are neurotransmitter receptors located?",
+        "options": [
+            "A) the nuclear membrane",
+            "B) the nodes of Ranvier",
+            "C) the postsynaptic membrane",
+            "D) synaptic vesicle membranes",
+            "E) the myelin sheath"
+        ],
+        "back": "C",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "71) Temporal summation always involves",
+        "options": [
+            "A) both inhibitory and excitatory inputs.",
+            "B) synapses at more than one site.",
+            "C) inputs that are not simultaneous.",
+            "D) electrical synapses.",
+            "E) multiple inputs at a single synapse."
+        ],
+        "back": "E",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "72) Why are action potentials usually conducted in one direction?",
+        "options": [
+            "A) The nodes of Ranvier conduct potentials in one direction.",
+            "B) The brief refractory period prevents reopening of voltage-gated Na+ channels.",
+            "C) The axon hillock has a higher membrane potential than the terminals of the axon.",
+            "D) Ions can flow along the axon in only one direction.",
+            "E) Voltage-gated channels for both Na+ and K+ open in only one direction."
+        ],
+        "back": "B",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    },
+    {
+        "front": "73) Which of the following is a direct result of depolarizing the presynaptic membrane of an axon terminal?",
+        "options": [
+            "A) Voltage-gated calcium channels in the membrane open.",
+            "B) Synaptic vesicles fuse with the membrane.",
+            "C) The postsynaptic cell produces an action potential.",
+            "D) Ligand-gated channels open, allowing neurotransmitters to enter the synaptic cleft.",
+            "E) An EPSP or IPSP is generated in the postsynaptic cell."
+        ],
+        "back": "A",
+        "unit": "Unit 48",
+        "chapter": "Chapter 48",
+        "images": []
+    }
+]

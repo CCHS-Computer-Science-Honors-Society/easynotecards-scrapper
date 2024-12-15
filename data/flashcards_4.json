@@ -472,6 +472,54 @@
         ]
     },
     {
+        "front": "Three or four of the following illustrations depict different structural isomers of the organic compound with molecular formula C₆H₁₄. For clarity, only the carbon skeletons are shown; hydrogen atoms that would be attached to the carbons have been omitted. Which one, if any, is NOT a structural isomer of this compound?",
+        "options": [
+            "[See image for choices]"
+        ],
+        "back": "C",
+        "unit": "Unit 4",
+        "chapter": "Chapter 4",
+        "images": [
+            "https://web.archive.org/web/20170707201814im_/http://www.easynotecards.com:80/uploads/513/27/_6da06025_13a2d7978ef__8000_00000081.png"
+        ]
+    },
+    {
+        "front": "Which of the pairs of molecular structures shown below depict enantiomers (enantiomeric forms) of the same molecule?",
+        "options": [
+            "[See image for choices]"
+        ],
+        "back": "D",
+        "unit": "Unit 4",
+        "chapter": "Chapter 4",
+        "images": [
+            "https://web.archive.org/web/20170707201814im_/http://www.easynotecards.com:80/uploads/515/29/_6da06025_13a2d7978ef__8000_00000082.png"
+        ]
+    },
+    {
+        "front": "Which of the pairs of molecular structures shown below do NOT depict enantiomers (enantiomeric forms) of the same molecule?",
+        "options": [
+            "[See image for choices]"
+        ],
+        "back": "C",
+        "unit": "Unit 4",
+        "chapter": "Chapter 4",
+        "images": [
+            "https://web.archive.org/web/20170707201814im_/http://www.easynotecards.com:80/uploads/515/29/_6da06025_13a2d7978ef__8000_00000082.png"
+        ]
+    },
+    {
+        "front": "Which pair of molecules shown below are not enantiomers of a single molecule?",
+        "options": [
+            "[See image for choices]"
+        ],
+        "back": "B",
+        "unit": "Unit 4",
+        "chapter": "Chapter 4",
+        "images": [
+            "https://web.archive.org/web/20170707201814im_/http://www.easynotecards.com:80/uploads/515/29/_6da06025_13a2d7978ef__8000_00000082.png"
+        ]
+    },
+    {
         "front": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
         "options": [
             "A) have identical three-dimensional shapes.",

@@ -408,6 +408,18 @@
         "images": []
     },
     {
+        "front": "If an atom of sulfur (atomic number 16) were allowed to react with atoms of hydrogen (atomic number 1), which of the molecules below would be formed?",
+        "options": [
+            "[See image for choices]"
+        ],
+        "back": "B",
+        "unit": "Unit 2",
+        "chapter": "Chapter 2",
+        "images": [
+            "https://www.easynotecards.com/uploads/872/74/_6bdcb617_15405b7ae87__8000_00001417.png"
+        ]
+    },
+    {
         "front": "What is the maximum number of covalent bonds an element with atomic number 8 can make with hydrogen?",
         "options": [
             "A) 1",
@@ -1000,6 +1012,54 @@
         "chapter": "Chapter 2",
         "images": [
             "https://web.archive.org/web/20170704032245im_/http://www.easynotecards.com:80/uploads/483/96/_6da06025_13a2d7978ef__8000_00000053.png"
+        ]
+    },
+    {
+        "front": "Which one of the atoms shown would be most likely to form a cation with a charge of +1?",
+        "options": [
+            "[See image for choices]"
+        ],
+        "back": "A",
+        "unit": "Unit 2",
+        "chapter": "Chapter 2",
+        "images": [
+            "https://web.archive.org/web/20170704032245im_/http://www.easynotecards.com:80/uploads/485/98/_6da06025_13a2d7978ef__8000_00000055.png"
+        ]
+    },
+    {
+        "front": "Which one of the atoms shown would be most likely to form an anion with a charge of -1?",
+        "options": [
+            "[See image for choices]"
+        ],
+        "back": "D",
+        "unit": "Unit 2",
+        "chapter": "Chapter 2",
+        "images": [
+            "https://web.archive.org/web/20170704032245im_/http://www.easynotecards.com:80/uploads/485/98/_6da06025_13a2d7978ef__8000_00000055.png"
+        ]
+    },
+    {
+        "front": "Which of the following pairs of atoms would be most likely to form a polar covalent bond?",
+        "options": [
+            "[See image for choices]"
+        ],
+        "back": "A",
+        "unit": "Unit 2",
+        "chapter": "Chapter 2",
+        "images": [
+            "https://web.archive.org/web/20170704032245im_/http://www.easynotecards.com:80/uploads/490/4/_6da06025_13a2d7978ef__8000_00000057.png"
+        ]
+    },
+    {
+        "front": "Which of the following pairs of atoms would be most likely to form an ionic bond?",
+        "options": [
+            "[See image for choices]"
+        ],
+        "back": "B",
+        "unit": "Unit 2",
+        "chapter": "Chapter 2",
+        "images": [
+            "https://web.archive.org/web/20170704032245im_/http://www.easynotecards.com:80/uploads/490/4/_6da06025_13a2d7978ef__8000_00000057.png"
         ]
     },
     {

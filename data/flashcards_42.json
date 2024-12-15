@@ -1,0 +1,1264 @@
+[
+    {
+        "front": "1) Gas exchange in the aquatic salamander known as the axolotl is correctly described as",
+        "options": [
+            "A) active transport to move oxygen into the salamander from the water.",
+            "B) carrier-mediated transport to move oxygen into the salamander from the water.",
+            "C) facilitated diffusion of carbon dioxide from the salamander into the water.",
+            "D) simple diffusion of oxygen into the salamander from the water.",
+            "E) active transport of carbon dioxide from the salamander into the water."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "2) Circulatory systems have the primary benefit of overcoming the shortcomings of",
+        "options": [
+            "A) temperature differences between the lungs and the active tissue.",
+            "B) the slow rate at which diffusion occurs across cells.",
+            "C) communication systems involving only the nervous system.",
+            "D) having to cushion animals from trauma.",
+            "E) fetal organisms maintaining an optimal body temperature."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "3) To become bound to hemoglobin for transport in a mammal, atmospheric molecules of oxygen must cross",
+        "options": [
+            "A) zero membranes oxygen binds directly to hemoglobin, a protein dissolved in the plasma of the blood.",
+            "B) one membrane that of the lining in the lungs and then bind directly to hemoglobin, a protein dissolved in the plasma of the blood.",
+            "C) two membranes in and out of the cell lining the lung and then bind directly to hemoglobin, a protein dissolved in the plasma of the blood.",
+            "D) four membranes in and out of the cell lining the lung, in and out of the endothelial cell lining the pulmonary capillary–and then bind directly to hemoglobin, a protein dissolved in the plasma of the blood.",
+            "E) five membranes in and out of the cell lining the lung, in and out of the endothelial cell lining the pulmonary capillary, and into the red blood cell to bind with hemoglobin."
+        ],
+        "back": "E",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "4) The fluid that moves around in the circulatory system of a typical arthropod is",
+        "options": [
+            "A) the digestive juices.",
+            "B) the intracellular fluid.",
+            "C) the blood plasma.",
+            "D) the cytosol.",
+            "E) the interstitial fluid."
+        ],
+        "back": "E",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "5) Circulatory systems in molluscs",
+        "options": [
+            "A) are open in all species of molluscs.",
+            "B) are closed in all species of molluscs.",
+            "C) are open in species of large-sized molluscs and are closed in species of small-sized molluscs.",
+            "D) are open in species of small-sized molluscs and are closed in species of large-sized molluscs.",
+            "E) are open or closed without regard to body size."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "6) The circulatory system of bony fishes, rays, and sharks is similar to",
+        "options": [
+            "A) that of birds, with a four-chambered heart.",
+            "B) the portal systems of mammals, where two capillary beds occur sequentially, without passage of blood through a pumping chamber.",
+            "C) that of reptiles, with one pumping chamber driving blood flow to a gas-exchange organ, and a different pumping chamber driving blood to the rest of the circulation.",
+            "D) that of sponges, where gas exchange in all cells occurs directly with the external environment.",
+            "E) that of humans, where there are four pumping chambers to drive blood flow."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "7) A significant increase in the amount of interstitial fluid surrounding the capillary beds of a human's lungs will cause",
+        "options": [
+            "A) an increase in the amount of carbon dioxide moving from the blood to the lungs.",
+            "B) an increase in the amount of oxygen moving from the lungs into the blood.",
+            "C) a decrease in the amount of oxygen moving from the lungs into the blood.",
+            "D) an increase of pressure that would cause the capillary beds to burst.",
+            "E) a decrease in the amount of work needed for effective ventilation of the lungs."
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "8) Organisms with a circulating body fluid that is distinct from the fluid that directly surrounds the body's cells are likely to have",
+        "options": [
+            "A) an open circulatory system.",
+            "B) a closed circulatory system.",
+            "C) a gastrovascular cavity.",
+            "D) branched tracheae.",
+            "E) hemolymph."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "9) In which of the following organisms does blood flow from the pulmocutaneous circulation to the heart before circulating through the rest of the body?",
+        "options": [
+            "A) annelids",
+            "B) molluscs",
+            "C) fishes",
+            "D) frogs",
+            "E) insects"
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "10) The only vertebrates in which blood flows directly from respiratory organs to body tissues without first returning to the heart are the",
+        "options": [
+            "A) amphibians.",
+            "B) birds.",
+            "C) fishes.",
+            "D) mammals.",
+            "E) reptiles."
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "11) To adjust blood pressure independently in the capillaries of the gas-exchange surface and in the capillaries of the general body circulation, an organism would need a(n)",
+        "options": [
+            "A) open circulatory system.",
+            "B) hemocoel.",
+            "C) lymphatic system.",
+            "D) two-chambered heart.",
+            "E) four-chambered heart."
+        ],
+        "back": "E",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "12) A portal system is",
+        "options": [
+            "A) an area connecting arterioles to venules.",
+            "B) a series of vessels that returns blood to the heart in an animal with an open circulatory system.",
+            "C) a space within or between organs where blood is allowed to pool.",
+            "D) a slightly muscular vessel that has minimal pumping action in an organism with no heart.",
+            "E) a vessel or vessels connecting two capillary beds."
+        ],
+        "back": "E",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "13) Which of the following develops the greatest pressure on the blood in the mammalian aorta?",
+        "options": [
+            "A) systole of the left atrium",
+            "B) diastole of the right ventricle",
+            "C) systole of the left ventricle",
+            "D) diastole of the right atrium",
+            "E) diastole of the left atrium"
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "14) Which of the following pairs of mammalian blood vessels has blood that is the least similar in its gas content?",
+        "options": [
+            "A) the pulmonary vein and the jugular vein",
+            "B) the veins from the right and left legs",
+            "C) the pulmonary artery and the vena cava",
+            "D) the pulmonary vein and the aorta",
+            "E) the inferior vena cava and the superior vena cava"
+        ],
+        "back": "A",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "15) After several weeks of exercise, a human athlete's resting heart rate is typically lower than before because",
+        "options": [
+            "A) the body needs less oxygen than before.",
+            "B) the body temperature has increased.",
+            "C) the stroke volume has increased.",
+            "D) the cardiac output has decreased.",
+            "E) the body produces less carbon dioxide than before."
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "16) A human red blood cell in an artery of the left arm is on its way to deliver oxygen to a cell in the thumb. To travel from the artery in the arm to the left ventricle, this red blood cell must pass through",
+        "options": [
+            "A) one capillary bed.",
+            "B) two capillary beds.",
+            "C) three capillary beds.",
+            "D) four capillary beds.",
+            "E) five capillary beds."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "17) Which of the following is the correct sequence of blood flow in reptiles and mammals?",
+        "options": [
+            "A) left ventricle → aorta → lungs → systemic circulation",
+            "B) right ventricle → pulmonary vein → pulmocutaneous circulation",
+            "C) pulmonary vein → left atrium → left ventricle → pulmonary circuit",
+            "D) vena cava → right atrium → right ventricle → pulmonary circuit",
+            "E) right atrium → pulmonary artery → left atrium → ventricle"
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "18) A patient with a blood pressure of 120/75, a pulse rate of 40 beats/minute, a stroke volume of 70 mL/beat, and a respiratory rate of 25 breaths/minute will have a cardiac output of",
+        "options": [
+            "A) 500 mL/minute.",
+            "B) 1,000 mL/minute.",
+            "C) 1,750 mL/minute.",
+            "D) 2,800 mL/minute.",
+            "E) 4,800 mL/minute."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "19) Damage to the sinoatrial node in humans",
+        "options": [
+            "A) is a major contributor to heart attacks.",
+            "B) would block conductance between the bundle branches and the Purkinje fibers.",
+            "C) would have a negative effect on peripheral resistance.",
+            "D) would disrupt the rate and timing of cardiac muscle contractions.",
+            "E) would have a direct effect on blood pressure monitors in the aorta."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "20) A stroke volume in the heart of 70 mL/cycle, with a pulse of 72 cycles per minute, results in a cardiac output of",
+        "options": [
+            "A) 5 L/minute.",
+            "B) 504 mL/minute.",
+            "C) 0.5 L/minute.",
+            "D) 50 L/minute.",
+            "E) 500 L/minute."
+        ],
+        "back": "A",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "21) The semilunar valves of the mammalian heart",
+        "options": [
+            "A) are the route by which blood flows from the atria to the ventricles.",
+            "B) are found only on the right side of the heart.",
+            "C) are the attachment site where the pulmonary veins empty into the heart.",
+            "D) prevent backflow of blood in the aorta and pulmonary arteries.",
+            "E) are at the places where the anterior and posterior venae cavae empty into the heart."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "22) The material present in arterioles that is not present in capillaries is",
+        "options": [
+            "A) fully oxygenated blood.",
+            "B) plasma in which carbon dioxide has been added.",
+            "C) a lining of endothelial cells.",
+            "D) circular smooth muscle cells that can alter the size of the arterioles.",
+            "E) white blood cells and platelets."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "23) The set of blood vessels with the slowest velocity of blood flow is",
+        "options": [
+            "A) the arteries.",
+            "B) the arterioles.",
+            "C) the metarterioles.",
+            "D) the capillaries.",
+            "E) the veins."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "24) The set of blood vessels with the lowest blood pressure driving flow is",
+        "options": [
+            "A) the arteries.",
+            "B) the arterioles.",
+            "C) the metarterioles.",
+            "D) the capillaries.",
+            "E) the veins."
+        ],
+        "back": "E",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "25) An increased concentration of nitric oxide within a vascular bed is associated with",
+        "options": [
+            "A) vasoconstriction.",
+            "B) vasodilation.",
+            "C) narrowing of the arteries.",
+            "D) a reduction in blood flow in that region.",
+            "E) a decreased amount of blood in the capillaries of that vascular bed."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "26) Among the following choices, which organism likely has the highest systolic pressure?",
+        "options": [
+            "A) mouse",
+            "B) rabbit",
+            "C) human",
+            "D) hippopotamus",
+            "E) giraffe"
+        ],
+        "back": "E",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "27) Small swollen areas in the neck, groin, and axillary region are associated with",
+        "options": [
+            "A) increased activity of the immune system.",
+            "B) a broken limb.",
+            "C) blood sugar that is abnormally high.",
+            "D) dehydration.",
+            "E) sodium depletion."
+        ],
+        "back": "A",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "28) The velocity of blood flow is the lowest in capillaries because",
+        "options": [
+            "A) the capillary walls are not thin enough to allow oxygen to exchange with the cells.",
+            "B) the capillaries are far from the heart, and blood flow slows as distance from the heart increases.",
+            "C) the diastolic blood pressure is too low to deliver blood to the capillaries at a high flow rate.",
+            "D) the systemic capillaries are supplied by the left ventricle, which has a lower cardiac output than the right ventricle.",
+            "E) the total cross-sectional area of the capillaries is greater than the total cross-sectional area of the arteries or any other part of the circulatory system."
+        ],
+        "back": "E",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "29) The blood pressure is lowest in the",
+        "options": [
+            "A) aorta.",
+            "B) arteries.",
+            "C) arterioles.",
+            "D) capillaries.",
+            "E) venae cavae."
+        ],
+        "back": "E",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "30) Fluid is filtered out of the bloodstream into the surrounding interstitial fluid at the arteriole end of systemic capillaries because",
+        "options": [
+            "A) the osmotic pressure of the interstitial fluid is greater than that of the blood.",
+            "B) the hydrostatic pressure of the blood is less than that of the interstitial fluid.",
+            "C) the hydrostatic pressure of the blood is greater than the osmotic pressure of the blood.",
+            "D) the osmotic pressure of the interstitial fluid is greater than the hydrostatic pressure of the blood.",
+            "E) the osmotic pressure of the blood is greater than the hydrostatic pressure of the interstitial fluid."
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "31) If, during protein starvation, the osmotic pressure on the venous side of capillary beds drops below the hydrostatic pressure, then",
+        "options": [
+            "A) hemoglobin will not release oxygen.",
+            "B) fluids will tend to accumulate in tissues.",
+            "C) the pH of the interstitial fluids will increase.",
+            "D) most carbon dioxide will be bound to hemoglobin and carried away from tissues.",
+            "E) plasma proteins will escape through the endothelium of the capillaries."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "32) What will be the long-term effect of blocking the lymphatic vessels associated with a capillary bed?",
+        "options": [
+            "A) more fluid entering the venous capillaries",
+            "B) an increase in the blood pressure in the capillary bed",
+            "C) the accumulation of more fluid in the interstitial areas",
+            "D) fewer proteins leaking out of the blood to enter the interstitial fluid",
+            "E) the area of the blockage becoming abnormally small"
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "33) A species that has a normal resting systolic blood pressure of >260 mm Hg is likely to be",
+        "options": [
+            "A) an animal that is small and compact, without the need to pump blood very far from the heart.",
+            "B) an animal with abundant lipid storage.",
+            "C) a species that has very wide diameter veins.",
+            "D) an animal that has a very long distance between its heart and its brain.",
+            "E) an animal that makes frequent, quick motions."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "34) Dialysis patients, who will have blood withdrawn, dialyzed, then replaced, are always weighed when they enter the facility and then weighed carefully again before they leave, because",
+        "options": [
+            "A) even small changes in body weight may signify changes in blood volume and therefore blood pressure.",
+            "B) many people who have dialysis are diabetic and must control their weight carefully.",
+            "C) dialysis removes blood proteins and these weigh more than other blood components.",
+            "D) dialysis is likely to cause edema and such swelling must be controlled.",
+            "E) reclining posture during dialysis can cause a tendency for weight gain."
+        ],
+        "back": "A",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "35) Large proteins such as albumin remain in capillaries rather than diffusing out, resulting in the",
+        "options": [
+            "A) loss of osmotic pressure in the capillaries.",
+            "B) development of an osmotic pressure difference across capillary walls.",
+            "C) loss of fluid from capillaries.",
+            "D) increased diffusion of CO2.",
+            "E) increased diffusion of Hb."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "36) Vasoconstriction in the gut is a likely response when an individual is",
+        "options": [
+            "A) lying down after standing up.",
+            "B) standing up after lying down.",
+            "C) stressed and secreting stress hormones.",
+            "D) responding to increased blood pressure.",
+            "E) having an allergy attack with lots of histamine secretion."
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "37) The diagnosis of hypertension in adults is based on the",
+        "options": [
+            "A) measurement of fatty deposits on the endothelium of arteries.",
+            "B) measurement of the LDL/HDL ratio in peripheral blood.",
+            "C) percent of blood volume made up of platelets.",
+            "D) blood pressure being greater than 140 mm Hg systolic and/or >90 diastolic.",
+            "E) number of leukocytes per mm3 of blood."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "38) Among these choices, the biggest set that includes only those \"cells\" that lack nuclei is",
+        "options": [
+            "A) platelets.",
+            "B) platelets and erythrocytes.",
+            "C) platelets, erythrocytes, and basophils.",
+            "D) platelets, erythrocytes, basophils, and neutrophils.",
+            "E) platelets, erythrocytes, basophils, neutrophils, and monocytes."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "39) In a healthy human, the typical life span of a red blood cell is",
+        "options": [
+            "A) 24 hours.",
+            "B) one week.",
+            "C) one month.",
+            "D) four months.",
+            "E) 80 years or more."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "40) The hormone that stimulates the production of red blood cells, and the organ where this hormone is synthesized, are",
+        "options": [
+            "A) growth hormone and pancreas, respectively.",
+            "B) erythropoietin and kidney, respectively.",
+            "C) cortisol and adrenal gland, respectively.",
+            "D) epinephrine and adrenal gland, respectively.",
+            "E) acetylcholine and bone marrow, respectively."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "41) Dissolved proteins in human plasma include which of the following? I. fibrinogen II. hemoglobin III.immunoglobulin",
+        "options": [
+            "A) I only",
+            "B) II only",
+            "C) I and III only",
+            "D) II and III only",
+            "E) I, II, and III"
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "42) The plasma proteins in humans",
+        "options": [
+            "A) maintain the blood's osmotic pressure.",
+            "B) transport water-soluble lipids.",
+            "C) carry out gas exchange.",
+            "D) undergo aerobic metabolism.",
+            "E) transport oxygen."
+        ],
+        "back": "A",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "43) Cyanide poisons mitochondria by blocking the final step in the electron transport chain. Human red blood cells placed in an isotonic solution containing cyanide are likely to",
+        "options": [
+            "A) retain the normal cell shape, but the mitochondria will be poisoned.",
+            "B) lyse as the cyanide concentration increases inside the cell.",
+            "C) switch to anaerobic metabolism.",
+            "D) become unable to carry oxygen.",
+            "E) be unaffected."
+        ],
+        "back": "E",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "44) Heart rate will increase in the presence of increased",
+        "options": [
+            "A) low-density lipoproteins.",
+            "B) immunoglobulins.",
+            "C) erythropoietin.",
+            "D) epinephrine.",
+            "E) platelets."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "45) The production of red blood cells is stimulated by",
+        "options": [
+            "A) low-density lipoproteins.",
+            "B) immunoglobulins.",
+            "C) erythropoietin.",
+            "D) epinephrine.",
+            "E) platelets."
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "46) The meshwork that forms the fabric of a blood clot is",
+        "options": [
+            "A) chymotrypsin.",
+            "B) fibrin.",
+            "C) thrombin.",
+            "D) prothrombin.",
+            "E) collagen."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "47) A normal event in the process of blood clotting is the",
+        "options": [
+            "A) production of erythropoietin.",
+            "B) conversion of fibrin to fibrinogen.",
+            "C) activation of prothrombin to thrombin.",
+            "D) increase in platelets.",
+            "E) synthesis of hemoglobin."
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "48) When the air in a testing chamber is specially mixed so that its oxygen content is 10% and its overall air pressure is 400 mm Hg, then PO₂ is",
+        "options": [
+            "A) 400 mm Hg.",
+            "B) 82 mm Hg.",
+            "C) 40 mm Hg.",
+            "D) 21 mm Hg.",
+            "E) 4 mm Hg."
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "49) The sun shining on a tidal pool during a hot day heats the water. As some water evaporates, the pool becomes saltier, causing",
+        "options": [
+            "A) a decrease in its carbon dioxide content.",
+            "B) a decrease in its oxygen content.",
+            "C) an increase in its ability to sustain aerobic organisms.",
+            "D) a decrease in the water's density.",
+            "E) a decrease in the movement of the water molecules."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "50) Sponges, cnidarians, and flatworms lack a specialized gas exchange surface because",
+        "options": [
+            "A) they are too large for a circulatory system to operate well.",
+            "B) they live without need for oxygen.",
+            "C) they do not produce carbon dioxide.",
+            "D) countercurrent exchange mechanisms cannot function well in their living conditions.",
+            "E) nearly all of their cells are in direct contact with the external environment."
+        ],
+        "back": "E",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "51) Flying insects do all of the following except",
+        "options": [
+            "A) increase metabolism as much as 200-fold during flight.",
+            "B) switch from diffusion of tracheal gases to active transport during flight.",
+            "C) utilize high numbers of mitochondria in flight muscles.",
+            "D) produce water molecules from oxygen in mitochondria.",
+            "E) generate carbon dioxide from catabolism of fuel molecules."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "52) The epiglottis of a human covers the glottis when he or she is",
+        "options": [
+            "A) talking.",
+            "B) breathing.",
+            "C) swallowing.",
+            "D) yawning.",
+            "E) sleeping."
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "53) In mammals, most gas exchange between the atmosphere and the pulmonary blood occurs in the",
+        "options": [
+            "A) trachea.",
+            "B) larynx.",
+            "C) bronchi.",
+            "D) bronchioles.",
+            "E) alveoli."
+        ],
+        "back": "E",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "54) Gas exchange is more difficult for aquatic animals with gills than for terrestrial animals with lungs because",
+        "options": [
+            "A) water is less dense than air.",
+            "B) water contains much less O₂ than air per unit volume.",
+            "C) gills have less surface area than lungs.",
+            "D) gills allow only unidirectional transport.",
+            "E) gills allow water to flow in one direction."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "55) Countercurrent exchange is evident in",
+        "options": [
+            "A) the flow of water across the gills of a fish and that of blood within those gills.",
+            "B) the flow of blood in the dorsal vessel of an insect and that of air within its tracheae.",
+            "C) the flow of air within the primary bronchi of a human and that of blood within the pulmonary veins.",
+            "D) the flow of water across the skin of a frog and that of blood within the ventricle of its heart.",
+            "E) the flow of fluid out of the arterial end of a capillary and that of fluid back into the venous end of the same capillary."
+        ],
+        "back": "A",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "56) Countercurrent exchange in the fish gill helps to maximize",
+        "options": [
+            "A) endocytosis.",
+            "B) blood pressure.",
+            "C) diffusion.",
+            "D) active transport.",
+            "E) osmosis."
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "57) Air-breathing insects carry out gas exchange",
+        "options": [
+            "A) in their specialized external gills.",
+            "B) in their specialized internal gills.",
+            "C) in the alveoli of their lungs.",
+            "D) across the membranes of their cells.",
+            "E) across all parts of their thin cuticular exoskeleton."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "58) An oil-water mixture works as an insecticidal spray against mosquitoes and other insects because it",
+        "options": [
+            "A) coats their lungs.",
+            "B) blocks the openings into the tracheal system.",
+            "C) interferes with gas exchange across the capillaries.",
+            "D) clogs their bronchi.",
+            "E) prevents gases from leaving the atmosphere."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "59) Atmospheric pressure at sea level is equal to a column of 760 mm Hg. Oxygen makes up 21% of the atmosphere by volume. The partial pressure of oxygen (PO₂) in such conditions is",
+        "options": [
+            "A) 160 mm Hg.",
+            "B) 16 mm Hg.",
+            "C) 120/75.",
+            "D) 21/760.",
+            "E) 760/21."
+        ],
+        "back": "A",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "60) Some human infants, especially those born prematurely, suffer serious respiratory failure because of",
+        "options": [
+            "A) the sudden change from the uterine environment to the air.",
+            "B) the overproduction of surfactants.",
+            "C) the incomplete development of the lung surface.",
+            "D) lung collapse due to inadequate production of surfactant.",
+            "E) mutations in the genes involved in lung formation."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "61) Of the following choices, impairment of a mammal's breathing cycle is most likely following neural damage in",
+        "options": [
+            "A) the cerebrum and cerebellum.",
+            "B) the medulla oblongata and the pons.",
+            "C) the adrenal medulla and the adrenal cortex.",
+            "D) the thalamus and the hypothalamus.",
+            "E) the frontal lobe and the temporal lobe."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "62) Air rushes into the lungs of humans during inhalation because",
+        "options": [
+            "A) the rib muscles and diaphragm contract, increasing the lung volume.",
+            "B) the volume of the alveoli increases as smooth muscles contract.",
+            "C) gas flows from a region of lower pressure to a region of higher pressure.",
+            "D) pulmonary muscles contract and pull on the outer surface of the lungs.",
+            "E) a positive respiratory pressure is created when the diaphragm relaxes."
+        ],
+        "back": "A",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "63) The exhalation of air from human lungs is driven by",
+        "options": [
+            "A) a decrease in the volume of the thoracic cavity.",
+            "B) a decrease in the residual volume of the lungs.",
+            "C) the contraction of the diaphragm.",
+            "D) the closure of the epiglottis.",
+            "E) the expansion of the rib cage."
+        ],
+        "back": "A",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "64) As a person goes from rest to full-effort exercise, there is an increase in the",
+        "options": [
+            "A) tidal volume.",
+            "B) vital capacity.",
+            "C) residual volume.",
+            "D) total lung capacity.",
+            "E) All of the above would be different."
+        ],
+        "back": "A",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "65) A person with a tidal volume of 450 mL, a vital capacity of 4,000 mL, and a residual volume of 1,000 mL would have a potential total lung capacity of",
+        "options": [
+            "A) 1,450 mL.",
+            "B) 4,000 mL.",
+            "C) 4,450 mL.",
+            "D) 5,000 mL.",
+            "E) 5,450 mL."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "66) During most daily activities, the human respiration rate is most closely linked to the blood levels of",
+        "options": [
+            "A) nitric acid.",
+            "B) nitrogen.",
+            "C) oxygen.",
+            "D) carbon dioxide.",
+            "E) carbon monoxide."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "67) Breathing is usually regulated by",
+        "options": [
+            "A) erythropoietin levels in the blood.",
+            "B) the concentration of red blood cells.",
+            "C) hemoglobin levels in the blood.",
+            "D) CO₂ and O₂ concentration and pH-level sensors.",
+            "E) the lungs and the larynx."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "68) At an atmospheric pressure of 870 mm Hg of 21% oxygen, the partial pressure of oxygen is",
+        "options": [
+            "A) 100 mm Hg.",
+            "B) 127 mm Hg.",
+            "C) 151 mm Hg.",
+            "D) 182 mm Hg.",
+            "E) 219 mm Hg."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "69) At sea level, atmospheric pressure is 760 mm Hg. Oxygen gas is approximately 21% of the total gases in the atmosphere, so the approximate partial pressure of oxygen is",
+        "options": [
+            "A) 0.2 mm Hg.",
+            "B) 20.0 mm Hg.",
+            "C) 76.0 mm Hg.",
+            "D) 160.0 mm Hg.",
+            "E) 508.0 mm Hg."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "70) At the summit of a high mountain, the atmospheric pressure is 380 mm Hg. If the atmosphere is still composed of 21% oxygen, then the partial pressure of oxygen at this altitude is",
+        "options": [
+            "A) 0 mm Hg.",
+            "B) 80 mm Hg.",
+            "C) 160 mm Hg.",
+            "D) 380 mm Hg.",
+            "E) 760 mm Hg."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "71) Carbon dioxide levels in the blood and cerebrospinal fluid affect its pH. This enables the organism to sense a disturbance in gas levels as",
+        "options": [
+            "A) the brain directly measures and monitors carbon dioxide and causes breathing changes accordingly.",
+            "B) the medulla oblongata, which is in contact with cerebrospinal fluid, monitors pH and uses this measure to control breathing.",
+            "C) the brain alters the pH of the cerebrospinal fluid to force the animal to retain more or less carbon dioxide.",
+            "D) stretch receptors in the lungs cause the medulla oblongata to speed up or slow breathing.",
+            "E) the medulla oblongata is able to control the concentration of bicarbonate ions in the blood."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "72) An increase from pH 7.2 to pH 7.4 around hemoglobin causes",
+        "options": [
+            "A) hemoglobin to release all bound oxygen molecules.",
+            "B) an increase in the affinity of hemoglobin to bind oxygen molecules.",
+            "C) hemoglobin to denature.",
+            "D) an increase in the binding of H+ by hemoglobin.",
+            "E) hemoglobin to more readily give up its oxygen molecules."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "73) An \"internal reservoir\" of oxygen in rested muscle is found in oxygen molecules bound to",
+        "options": [
+            "A) hemoglobin.",
+            "B) bicarbonate ions.",
+            "C) carbonic acid.",
+            "D) actin and myosin.",
+            "E) myoglobin."
+        ],
+        "back": "E",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "74) Hemoglobin and hemocyanin",
+        "options": [
+            "A) are both found within blood cells.",
+            "B) are both red in color.",
+            "C) are both freely dissolved in the plasma.",
+            "D) both transport oxygen.",
+            "E) are both found in mammals."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "75) The Bohr shift on the oxygen-hemoglobin dissociation curve is produced by changes in",
+        "options": [
+            "A) the partial pressure of oxygen.",
+            "B) the partial pressure of carbon monoxide.",
+            "C) hemoglobin concentration.",
+            "D) temperature.",
+            "E) pH."
+        ],
+        "back": "E",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "76) Most of the carbon dioxide produced by humans is",
+        "options": [
+            "A) converted to bicarbonate ions by an enzyme in red blood cells.",
+            "B) bound to hemoglobin.",
+            "C) transported in the erythrocytes as carbonic acid.",
+            "D) simply dissolved in the plasma.",
+            "E) bicarbonate ions bound to hemoglobin."
+        ],
+        "back": "A",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "77) Hydrogen ions produced within human red blood cells are prevented from significantly lowering plasma pH because they bind to",
+        "options": [
+            "A) hemoglobin.",
+            "B) plasma proteins.",
+            "C) carbon dioxide.",
+            "D) carbonic acid.",
+            "E) plasma buffers."
+        ],
+        "back": "A",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "78) The hemocyanin of arthropods and molluscs differ from the hemoglobin of mammals in that",
+        "options": [
+            "A) the oxygen dissociation curve for hemocyanin is linear.",
+            "B) hemocyanin carries appreciably more carbon dioxide.",
+            "C) hemocyanin has protein coupled to copper rather than iron.",
+            "D) the protein of hemocyanin is not bound to metal.",
+            "E) hemocyanin includes cyanic acid."
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "79) In an animal species known for endurance running rather than fast sprinting, you would expect to find",
+        "options": [
+            "A) a slower rate of oxygen consumption so that its breathing will not have to be accelerated.",
+            "B) an increase of storage of oxygen in myoglobin of its muscles.",
+            "C) a relatively slow heart rate in order to lower oxygen consumption.",
+            "D) a lower pressure of oxygen in the alveoli.",
+            "E) a much higher rate of oxygen consumption for its size."
+        ],
+        "back": "E",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "Blood entering a capillary bed of an unusual vertebrate was measured for the pressures exerted by various factors, as shown in Figure 42.1. Figure 42.1 80) For this unusual capillary bed,",
+        "options": [
+            "A) the pH is lower on the arterial side than on the venous side.",
+            "B) oxygen is taken up by the erythrocytes within the capillaries.",
+            "C) the osmotic pressure remains constant due to carbon dioxide compensation.",
+            "D) the hydrostatic pressure declines from the arterial side to the venous side because oxygen is lost.",
+            "E) fluids will leave the capillaries on the arterial side of the bed and re-enter on the venous side."
+        ],
+        "back": "E",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": [
+            "http://4.bp.blogspot.com/-w86CjWUA2WY/VCUQZdwT4tI/AAAAAAAAlxw/MDkz1Losd84/s1600/80%2BG.jpg"
+        ]
+    },
+    {
+        "front": "81) An anthropologist discovers the fossilized heart of an extinct animal. The evidence indicates that the organism's heart was large, well-formed, and had four chambers, with no connection between the right and left sides. A reasonable conclusion supported by these observations is that the",
+        "options": [
+            "A) animal had evolved from birds.",
+            "B) animal was endothermic and had a high metabolic rate.",
+            "C) animal was most closely related to alligators and crocodiles.",
+            "D) animal was likely an invertebrate animal.",
+            "E) species had little to no need to regulate blood pressure."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "82) A group of students was designing an experiment to test the effect of smoking on grass frogs. They hypothesized that keeping the frogs in a smoke-filled environment for defined periods would result in the animals developing lung cancer. However, when they searched for previously published information to shore up their hypothesis, they discovered they were quite wrong in their original assessment. Even though they were never going to go ahead with their experiment (so as not to harm frogs needlessly), they knew that a more likely outcome of putting carcinogens in the air would be the development of",
+        "options": [
+            "A) the amphibian equivalent of hypertension.",
+            "B) skin cancer.",
+            "C) gill abnormalities in the next generation of tadpoles.",
+            "D) tracheal tube abnormalities.",
+            "E) diminished absorption of oxygen."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "83) Which of the following respiratory systems is not closely associated with a blood supply?",
+        "options": [
+            "A) the lungs of a vertebrate",
+            "B) the gills of a fish",
+            "C) the tracheal system of an insect",
+            "D) the skin of an earthworm",
+            "E) the parapodia of a polychaete worm"
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "84) Blood returning to the mammalian heart in a pulmonary vein drains first into the",
+        "options": [
+            "A) vena cava.",
+            "B) left atrium.",
+            "C) right atrium.",
+            "D) left ventricle.",
+            "E) right ventricle."
+        ],
+        "back": "B",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "85) Pulse is a direct measure of",
+        "options": [
+            "A) blood pressure.",
+            "B) stroke volume.",
+            "C) cardiac output.",
+            "D) heart rate.",
+            "E) breathing rate."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "86) When you hold your breath, which of the following blood gas changes first leads to the urge to breathe?",
+        "options": [
+            "A) rising O₂",
+            "B) falling O₂",
+            "C) rising CO₂",
+            "D) falling CO₂",
+            "E) rising CO₂ and falling O₂"
+        ],
+        "back": "C",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "87) One feature that amphibians and humans have in common is",
+        "options": [
+            "A) the number of heart chambers.",
+            "B) the type of gas exchange tissues.",
+            "C) a complete separation of circuits for circulation.",
+            "D) the number of circuits for circulation.",
+            "E) a low blood pressure in the systemic circuit."
+        ],
+        "back": "D",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "88) If a molecule of CO₂ released into the blood in your left toe is exhaled from your nose, it must pass through all of the following except",
+        "options": [
+            "A) the pulmonary vein.",
+            "B) an alveolus.",
+            "C) the trachea.",
+            "D) the right atrium.",
+            "E) the right ventricle."
+        ],
+        "back": "A",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "89) Compared with the interstitial fluid that bathes active muscle cells, blood reaching these cells in arteries has a",
+        "options": [
+            "A) higher PO₂.",
+            "B) higher PCO₂.",
+            "C) greater bicarbonate concentration.",
+            "D) lower pH.",
+            "E) lower osmotic pressure."
+        ],
+        "back": "A",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    },
+    {
+        "front": "90) Which of the following reactions prevails in red blood cells traveling through alveolar capillaries? (Hb = hemoglobin)",
+        "options": [
+            "A) Hb + 4 O₂ → Hb(O₂)₄",
+            "B) Hb(O₂)₄ → Hb + 4 O₂",
+            "C) CO₂ + H₂O → H₂CO₃",
+            "D) H₂CO₃ → H+ + HCO₃-",
+            "E) Hb + 4 CO₂ → Hb(CO₂)₄"
+        ],
+        "back": "A",
+        "unit": "Unit 42",
+        "chapter": "Chapter 42",
+        "images": []
+    }
+]

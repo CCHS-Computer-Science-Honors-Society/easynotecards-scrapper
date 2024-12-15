@@ -1,0 +1,989 @@
+[
+    {
+        "front": "1) Assume that you are trying to insert a gene into a plasmid. Someone gives you a preparation of genomic DNA that has been cut with restriction enzyme X. The gene you wish to insert has sites on both ends for cutting by restriction enzyme Y. You have a plasmid with a single site for Y, but not for X. Your strategy should be to",
+        "options": [
+            "A) insert the fragments cut with restriction enzyme X directly into the plasmid without cutting the plasmid.",
+            "B) cut the plasmid with restriction enzyme X and insert the fragments cut with restriction enzyme Y into the plasmid.",
+            "C) cut the DNA again with restriction enzyme Y and insert these fragments into the plasmid cut with the same enzyme.",
+            "D) cut the plasmid twice with restriction enzyme Y and ligate the two fragments onto the ends of the DNA fragments cut with restriction enzyme X.",
+            "E) cut the plasmid with restriction enzyme X and then insert the gene into the plasmid."
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "2) How does a bacterial cell protect its own DNA from restriction enzymes?",
+        "options": [
+            "A) by adding methyl groups to adenines and cytosines",
+            "B) by using DNA ligase to seal the bacterial DNA into a closed circle",
+            "C) by adding histones to protect the double-stranded DNA",
+            "D) by forming \"sticky ends\" of bacterial DNA to prevent the enzyme from attaching",
+            "E) by reinforcing the bacterial DNA structure with covalent phosphodiester bonds"
+        ],
+        "back": "A",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "3) What is the most logical sequence of steps for splicing foreign DNA into a plasmid and inserting the plasmid into a bacterium? I. Transform bacteria with a recombinant DNA molecule. II. Cut the plasmid DNA using restriction enzymes. III. Extract plasmid DNA from bacterial cells. IV. Hydrogen-bond the plasmid DNA to nonplasmid DNA fragments. V. Use ligase to seal plasmid DNA to nonplasmid DNA.",
+        "options": [
+            "A) I, II, IV, III, V",
+            "B) II, III, V, IV, I",
+            "C) III,  II, IV, V, I",
+            "D) III, IV, V, I, II",
+            "E) IV, V, I, II, III"
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "4) A principal problem with inserting an unmodified mammalian gene into a BAC, and then getting that gene expressed in bacteria, is that",
+        "options": [
+            "A) prokaryotes use a different genetic code from that of eukaryotes.",
+            "B) bacteria translate polycistronic messages only.",
+            "C) bacteria cannot remove eukaryotic introns.",
+            "D) bacterial RNA polymerase cannot make RNA complementary to mammalian DNA.",
+            "E) bacterial DNA is not found in a membrane-bounded nucleus and is therefore incompatible with mammalian DNA."
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "5) A gene that contains introns can be made shorter (but remain functional) for genetic engineering purposes by using",
+        "options": [
+            "A) RNA polymerase to transcribe the gene.",
+            "B) a restriction enzyme to cut the gene into shorter pieces.",
+            "C) reverse transcriptase to reconstruct the gene from its mRNA.",
+            "D) DNA polymerase to reconstruct the gene from its polypeptide product.",
+            "E) DNA ligase to put together fragments of the DNA that code for a particular polypeptide."
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "6) Why are yeast cells frequently used as hosts for cloning?",
+        "options": [
+            "A) They easily form colonies.",
+            "B) They can remove exons from mRNA.",
+            "C) They do not have plasmids.",
+            "D) They are eukaryotic cells.",
+            "E) Only yeast cells allow the gene to be cloned."
+        ],
+        "back": "D",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "7) The DNA fragments making up a genomic library are generally contained in",
+        "options": [
+            "A) BACs.",
+            "B) recombinant viral RNA.",
+            "C) individual wells.",
+            "D) DNA-RNA hybrids.",
+            "E) radioactive eukaryotic cells."
+        ],
+        "back": "A",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "8) Yeast artificial chromosomes contain which of the following elements?",
+        "options": [
+            "A) centromeres only",
+            "B) telomeres only",
+            "C) origin of replication only",
+            "D) centromeres and telomeres only",
+            "E) centromeres, telomeres, and an origin of replication"
+        ],
+        "back": "E",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "9) Which of the following best describes the complete sequence of steps occurring during every cycle of PCR? 1. The primers hybridize to the target DNA. 2. The mixture  is heated to a high temperature to denature the double-stranded target  DNA. 3. Fresh DNA polymerase is added. 4. DNA polymerase extends the primers to make a copy of the target DNA.",
+        "options": [
+            "A) 2, 1, 4",
+            "B) 1, 3, 2, 4",
+            "C) 3, 4, 1, 2",
+            "D) 3,  4, 2",
+            "E) 2, 3, 4"
+        ],
+        "back": "A",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "10) A researcher needs to clone a sequence of part of a eukaryotic genome in order to express the sequence and to modify the polypeptide product. She would be able to satisfy these requirements by using which of the following vectors?",
+        "options": [
+            "A) a bacterial plasmid",
+            "B) BAC to accommodate the size of the sequence",
+            "C) a modified bacteriophage",
+            "D) a human chromosome",
+            "E) a YAC with appropriate cellular enzymes"
+        ],
+        "back": "E",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "11) A student wishes to clone a sequence of DNA of ~200 kb. Which vector would be appropriate?",
+        "options": [
+            "A) a plasmid",
+            "B) a typical bacteriophage",
+            "C) a BAC",
+            "D) a plant virus",
+            "E) a large polypeptide"
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "12) Sequencing an entire genome, such as that of C. elegans, a nematode, is most important because",
+        "options": [
+            "A) it allows researchers to use the sequence to build a \"better\" nematode, which is resistant to disease.",
+            "B) it allows research on a group of organisms we do not usually care much about.",
+            "C) the nematode is a good animal model for trying out cures for viral illness.",
+            "D) a sequence that is found to have a particular function in the nematode is likely to have a closely related function in vertebrates.",
+            "E) a sequence that is found to have no introns in the nematode genome is likely to have acquired the introns from higher organisms."
+        ],
+        "back": "D",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "13) To introduce a particular piece of DNA into an animal cell, such as that of a mouse, you would find more probable success with which of the following methods?",
+        "options": [
+            "A) the shotgun approach",
+            "B) electroporation followed by recombination",
+            "C) introducing a plasmid into the cell",
+            "D) infecting the mouse cell with a Ti plasmid",
+            "E) transcription and translation"
+        ],
+        "back": "B",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "14) The major advantage of using artificial chromosomes such as YACs and BACs for cloning genes is that",
+        "options": [
+            "A) plasmids are unable to replicate in cells.",
+            "B) only one copy of a plasmid can be present in any given cell, whereas many copies of a YAC or BAC can coexist in a single cell.",
+            "C) YACs and BACs can carry much larger DNA fragments than ordinary plasmids can.",
+            "D) YACs and BACs can be used to express proteins encoded by inserted genes, but plasmids cannot.",
+            "E) All of these are correct."
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "15) Which of the following is used to make complementary DNA (cDNA) from RNA?",
+        "options": [
+            "A) restriction enzymes",
+            "B) gene cloning",
+            "C) DNA ligase",
+            "D) gel electrophoresis",
+            "E) reverse transcriptase"
+        ],
+        "back": "E",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "16) Why is it so important to be able to amplify DNA fragments when studying genes?",
+        "options": [
+            "A) DNA fragments are too small to use individually.",
+            "B) A gene may represent only a millionth of the cell's DNA.",
+            "C) Restriction enzymes cut DNA into fragments that are too small.",
+            "D) A clone requires multiple copies of each gene per clone.",
+            "E) It is important to have multiple copies of DNA in the case of laboratory error."
+        ],
+        "back": "B",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "17) Pax-6 is a gene that is involved in eye formation in many invertebrates, such as Drosophila. Pax-6 is found as well in vertebrates. A Pax-6 gene from a mouse can be expressed in a fly and the protein (PAX-6) leads to a compound fly eye. This information suggests which of the following?",
+        "options": [
+            "A) Pax-6 genes are identical in nucleotide sequence.",
+            "B) PAX-6 proteins have identical amino acid sequences.",
+            "C) Pax-6 is highly conserved and shows shared evolutionary ancestry.",
+            "D) PAX-6 proteins are different for formation of different kinds of eyes.",
+            "E) PAX-6 from a mouse can function in a fly, but a fly's Pax-6 gene cannot function in a mouse."
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "18) Why are BACs preferred today rather than bacteriophages for making genomic libraries?",
+        "options": [
+            "A) The BAC carries more DNA.",
+            "B) The BAC can carry entire genes and their regulatory elements.",
+            "C) Larger BACs are easier to store.",
+            "D) The BAC can carry entire genes and their regulatory elements, and larger BACs are easier to store.",
+            "E) The BAC carries more DNA, the BAC can carry entire genes and their regulatory elements, and larger BACs are easier to store."
+        ],
+        "back": "E",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "19) The reason for using Taq polymerase for PCR is that",
+        "options": [
+            "A) it is heat stable and can withstand the temperature changes of the cycler.",
+            "B) only minute amounts are needed for each cycle of PCR.",
+            "C) it binds more readily than other polymerases to primer.",
+            "D) it has regions that are complementary to primers.",
+            "E) All of these are correct."
+        ],
+        "back": "A",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "20) Why might a laboratory be using dideoxy nucleotides?",
+        "options": [
+            "A) to separate DNA fragments",
+            "B) to clone the breakpoints of cut DNA",
+            "C) to produce cDNA from mRNA",
+            "D) to sequence a DNA fragment",
+            "E) to visualize DNA expression"
+        ],
+        "back": "D",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "21) In order to identify a specific restriction fragment using a probe, what must be done?",
+        "options": [
+            "A) The fragments must be separated by electrophoresis.",
+            "B) The fragments must be treated with heat or chemicals to separate the strands of the double helix.",
+            "C) The probe must be hybridized with the fragment.",
+            "D) The fragments must be separated by electrophoresis and the fragments must be treated with heat or chemicals to separate the strands of the double helix.",
+            "E) The fragments must be separated by electrophoresis, the fragments must be treated with heat or chemicals to separate the strands of the double helix, and the probe must be hybridized with the fragment."
+        ],
+        "back": "E",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "22) Which of the following modifications is least likely to alter the rate at which a DNA fragment moves through a gel during electrophoresis?",
+        "options": [
+            "A) altering the nucleotide sequence of the DNA fragment",
+            "B) methylating the cytosine bases within the DNA fragment",
+            "C) increasing the length of the DNA fragment",
+            "D) decreasing the length of the DNA fragment",
+            "E) neutralizing the negative charges within the DNA fragment"
+        ],
+        "back": "A",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "23) DNA fragments from a gel are transferred to a nitrocellulose paper during the procedure called Southern blotting. What is the purpose of transferring the DNA from a gel to a nitrocellulose paper?",
+        "options": [
+            "A) to attach the DNA fragments to a permanent substrate",
+            "B) to separate the two complementary DNA strands",
+            "C) to transfer only the DNA that is of interest",
+            "D) to prepare the DNA for digestion with restriction enzymes",
+            "E) to separate out the PCRs"
+        ],
+        "back": "A",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "24) DNA microarrays have made a huge impact on genomic studies because they",
+        "options": [
+            "A) can be used to eliminate the function of any gene in the genome.",
+            "B) can be used to introduce entire genomes into bacterial cells.",
+            "C) allow the expression of many or even all of the genes in the genome to be compared at once.",
+            "D) allow physical maps of the genome to be assembled in a very short time.",
+            "E) dramatically enhance the efficiency of restriction enzymes."
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "25) Which of the following describes the transfer of polypeptide sequences to a membrane to analyze gene expression?",
+        "options": [
+            "A) Southern blotting",
+            "B) Northern blotting",
+            "C) Western blotting",
+            "D) Eastern blotting",
+            "E) RT-PCR"
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "26) Which of the following uses reverse transcriptase to make cDNA followed by amplification?",
+        "options": [
+            "A) Southern blotting",
+            "B) Northern blotting",
+            "C) Western blotting",
+            "D) Eastern blotting",
+            "E) RT-PCR"
+        ],
+        "back": "E",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "27) RNAi methodology uses double-stranded pieces of RNA to trigger a breakdown or blocking of mRNA. For which of the following might it more possibly be useful?",
+        "options": [
+            "A) to raise the rate of production of a needed digestive enzyme",
+            "B) to decrease the production from a harmful gain-of-function mutated gene",
+            "C) to destroy an unwanted allele in a homozygous individual",
+            "D) to form a knockout organism that will not pass the deleted sequence to its progeny",
+            "E) to raise the concentration of a desired protein"
+        ],
+        "back": "B",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "28) A researcher has used in vitro mutagenesis to mutate a cloned gene and then has reinserted this into a cell. In order to have the mutated sequence disable the function of the gene, what must then occur?",
+        "options": [
+            "A) recombination resulting in replacement of the wild type with the mutated gene",
+            "B) use of a microarray to verify continued expression of the original gene",
+            "C) replication of the cloned gene using a bacterial plasmid",
+            "D) transcription of the cloned gene using a BAC",
+            "E) attachment of the mutated gene to an existing mRNA to be translated"
+        ],
+        "back": "A",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "29) Which of the following techniques used to analyze gene function depends on the specificity of DNA base complementarity?",
+        "options": [
+            "A) Northern blotting",
+            "B) use of RNAi",
+            "C) in vitro mutagenesis",
+            "D) in situ hybridization",
+            "E) restriction fragment analysis"
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "30) Silencing of selected genes is often done using RNA interference (RNAi). Which of the following questions would not be answered with this process?",
+        "options": [
+            "A) What is the function of gene 432 in this species of annelid?",
+            "B) What will happen in this insect's digestion if gene 173 is not able to be translated?",
+            "C) Is gene HA292 responsible for this disorder in humans?",
+            "D) Will the disabling of this gene in Drosophila and in a mouse cause similar results?",
+            "E) Is the gene on Drosophila chromosome 2L at this locus responsible for part of its production of nitrogen waste?"
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "31) In large scale, genome-wide association studies in humans, correlation is sought between",
+        "options": [
+            "A) lengthy sequences that might be shared by most members of a population.",
+            "B) single nucleotide polymorphisms found only in persons with a particular disorder.",
+            "C) single nucleotide polymorphisms found in families with a particular introns sequence.",
+            "D) single nucleotide polymorphisms in two or more adjacent genes.",
+            "E) large inversions that displace the centromere."
+        ],
+        "back": "B",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "32) For a particular microarray assay (DNA chip), cDNA has been made from the mRNAs of a dozen patients' breast tumor biopsies. The researchers will be looking for",
+        "options": [
+            "A) a particular gene that is amplified in all or most of the patient samples.",
+            "B) a pattern of fluorescence that indicates which cells are overproliferating.",
+            "C) a pattern shared among some or all of the samples that indicates gene expression differing from control samples.",
+            "D) a group of cDNAs that act differently from those on the rest of the grid.",
+            "E) a group of cDNAs that match those in non-breast cancer control samples from the same population."
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "33) Which of the following is most closely identical to the formation of twins?",
+        "options": [
+            "A) cell cloning",
+            "B) therapeutic cloning",
+            "C) use of adult stem cells",
+            "D) embryo transfer",
+            "E) organismal cloning"
+        ],
+        "back": "E",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "34) In 1997, Dolly the sheep was cloned. Which of the following processes was used?",
+        "options": [
+            "A) use of mitochondrial DNA from adult female cells of another ewe",
+            "B) replication and dedifferentiation of adult stem cells from sheep bone marrow",
+            "C) separation of an early stage sheep blastula into separate cells, one of which was incubated in a surrogate ewe",
+            "D) fusion of an adult cell's nucleus with an enucleated sheep egg, followed by incubation in a surrogate",
+            "E) isolation of stem cells from a lamb embryo and production of a zygote equivalent"
+        ],
+        "back": "D",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "35) Which of the following problems with animal cloning might result in premature death of the clones?",
+        "options": [
+            "A) use of pluripotent instead of totipotent stem cells",
+            "B) use of nuclear DNA as well as mtDNA",
+            "C) abnormal regulation due to variant methylation",
+            "D) the indefinite replication of totipotent stem cells",
+            "E) abnormal immune function due to bone marrow dysfunction"
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "36) Reproductive cloning of human embryos is generally considered unethical. However, on the subject of therapeutic cloning there is a wider divergence of opinion. Which of the following is a likely explanation?",
+        "options": [
+            "A) Use of adult stem cells is likely to produce more cell types than use of embryonic stem cells.",
+            "B) Cloning to produce embryonic stem cells may lead to great medical benefits for many.",
+            "C) Cloning to produce stem cells relies on a different initial procedure than reproductive cloning.",
+            "D) A clone that lives until the blastocyst stage does not yet have human DNA.",
+            "E) No embryos would be destroyed in the process of therapeutic cloning."
+        ],
+        "back": "B",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "37) Which of the following is true of embryonic stem cells but not of adult stem cells?",
+        "options": [
+            "A) They can differentiate into many cell types.",
+            "B) They make up the majority of cells of the tissue from which they are derived.",
+            "C) They can continue to replicate for an indefinite period.",
+            "D) They can provide enormous amounts of information about the process of gene regulation.",
+            "E) One aim of using them is to provide cells for repair of diseased tissue."
+        ],
+        "back": "B",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "38) A researcher is using adult stem cells and comparing them to other adult cells from the same tissue. Which of the following is a likely finding?",
+        "options": [
+            "A) The cells from the two sources exhibit different patterns of DNA methylation.",
+            "B) Adult stem cells have more DNA nucleotides than their counterparts.",
+            "C) The two kinds of cells have virtually identical gene expression patterns in microarrays.",
+            "D) The nonstem cells have fewer repressed genes.",
+            "E) The nonstem cells have lost the promoters for more genes."
+        ],
+        "back": "A",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "39) In animals, what is the difference between reproductive cloning and therapeutic cloning?",
+        "options": [
+            "A) Reproductive cloning uses totipotent cells, whereas therapeutic cloning does not.",
+            "B) Reproductive cloning uses embryonic stem cells, whereas therapeutic cloning does not.",
+            "C) Therapeutic cloning uses nuclei of adult cells transplanted into enucleated nonfertilized eggs.",
+            "D) Therapeutic cloning supplies cells for repair of diseased or injured organs."
+        ],
+        "back": "D",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "40) The first cloned cat, called Carbon Copy, was a calico, but she looked significantly different from her female parent. Why?",
+        "options": [
+            "A) The environment, as well as genetics, affects phenotypic variation.",
+            "B) Fur color genes in cats are influenced by differential acetylation patterns.",
+            "C) Cloned animals have been found to have a higher frequency of transposon activation",
+            "D) X inactivation in the embryo is random and produces different patterns.",
+            "E) The telomeres of the parent's chromosomes were shorter than those of an embryo."
+        ],
+        "back": "D",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "41) In recent times, it has been shown that adult cells can be induced to become pluripotent stem cells (iPS). In order to make this conversion, what has been done to the adult cells?",
+        "options": [
+            "A) A retrovirus is used to introduce four specific regulatory genes.",
+            "B) The adult stem cells must be fused with embryonic cells.",
+            "C) Cytoplasm from embryonic cells is injected into the adult cells.",
+            "D) An adenovirus vector is used to transfer embryonic gene products into adult cells.",
+            "E) The nucleus of an embryonic cell is used to replace the nucleus of an adult cell."
+        ],
+        "back": "A",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "42) Let us suppose that someone is successful at producing induced pluripotent stem cells (iPS) for replacement of pancreatic insulin-producing cells for people with type 1 diabetes. Which of the following could still be problems? I. the possibility that, once introduced into the patient, the  iPS cells produce nonpancreatic cells II. the failure of the iPS  cells to take up residence in the pancreas III. the inability of  the iPS cells to respond to appropriate regulatory signals",
+        "options": [
+            "A) I only",
+            "B) II only",
+            "C) III only",
+            "D) I and II",
+            "E) all of them"
+        ],
+        "back": "E",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "44) Genetically engineered plants",
+        "options": [
+            "A) are more difficult to engineer than animals.",
+            "B) include a transgenic rice plant that can help prevent vitamin A deficiency.",
+            "C) are being rapidly developed, but traditional plant breeding programs are still the only method used to develop new plants.",
+            "D) are able to fix nitrogen themselves.",
+            "E) are banned throughout the world."
+        ],
+        "back": "B",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "45) Scientists developed a set of guidelines to address the safety of DNA technology. Which of the following is one of the adopted safety measures?",
+        "options": [
+            "A) Microorganisms used in recombinant DNA experiments are genetically crippled to ensure that they cannot survive outside of the laboratory.",
+            "B) Genetically modified organisms are not allowed to be part of our food supply.",
+            "C) Transgenic plants are engineered so that the plant genes cannot hybridize.",
+            "D) Experiments involving HIV or other potentially dangerous viruses have been banned.",
+            "E) Recombinant plasmids cannot be replicated."
+        ],
+        "back": "A",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "46) One successful form of gene therapy has involved delivery of an allele for the enzyme adenosine deaminase (ADA) to bone marrow cells of a child with SCID, and delivery of these engineered cells back to the bone marrow of the affected child. What is one major reason for the success of this procedure as opposed to many other efforts at gene therapy?",
+        "options": [
+            "A) The engineered bone marrow cells from this patient can be used for any other SCID patient.",
+            "B) The ADA-introduced allele causes all other ADA-negative cells to die.",
+            "C) The engineered cells, when reintroduced into the patient, find their way back to the bone marrow.",
+            "D) No vector is required to introduce the allele into ADA-negative cells.",
+            "E) The immune system fails to recognize cells with the variant gene."
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "47) Which of the following is one of the technical reasons why gene therapy is problematic?",
+        "options": [
+            "A) Most cells with an engineered gene do not produce gene product.",
+            "B) Most cells with engineered genes overwhelm other cells in a tissue.",
+            "C) Cells with transferred genes are unlikely to replicate.",
+            "D) Transferred genes may not have appropriately controlled activity.",
+            "E) mRNA from transferred genes cannot be translated."
+        ],
+        "back": "D",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "48) As genetic technology makes testing for a wide variety of genotypes possible, which of the following is likely to be an increasingly troublesome issue?",
+        "options": [
+            "A) use of genotype information to provide positive identification of criminals",
+            "B) using technology to identify genes that cause criminal behaviors",
+            "C) the need to legislate for the protection of the privacy of genetic information",
+            "D) discrimination against certain racial groups because of major genetic differences",
+            "E) alteration of human phenotypes to prevent early disease"
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "49) Which enzyme was used to produce the molecule in Figure 20.1?",
+        "options": [
+            "A) ligase",
+            "B) transcriptase",
+            "C) a restriction enzyme",
+            "D) RNA polymerase",
+            "E) DNA polymerase"
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": [
+            "https://www.easynotecards.com/uploads/1026/12/_1c7c0adf_1613e58d669__8000_00000006.png"
+        ]
+    },
+    {
+        "front": "The DNA profiles that follow represent four different individuals. 51) Which of the following statements is consistent with the  results?",
+        "options": [
+            "A) B is the child of A and C.",
+            "B) C is the child  of A and B.",
+            "C) D is the child of B and C.",
+            "D) A is the  child of B and C.",
+            "E) A is the child of C and D."
+        ],
+        "back": "B",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": [
+            "https://www.easynotecards.com/uploads/601/94/_2cfdb4e9_1440655fa52__8000_00000191.jpg"
+        ]
+    },
+    {
+        "front": "52) Which of the following statements is most likely true?",
+        "options": [
+            "A) D is the child of A and C.",
+            "B) D is the child of A and B.",
+            "C) D is the child of B and C.",
+            "D) A is the child of C and D.",
+            "E) B is the child of A and C."
+        ],
+        "back": "B",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": [
+            "https://www.easynotecards.com/uploads/601/94/_2cfdb4e9_1440655fa52__8000_00000191.jpg"
+        ]
+    },
+    {
+        "front": "53) Which of the following are probably siblings?",
+        "options": [
+            "A) A and B",
+            "B) A and C",
+            "C) A and D",
+            "D) C and D",
+            "E) B and D"
+        ],
+        "back": "D",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": [
+            "https://www.easynotecards.com/uploads/601/94/_2cfdb4e9_1440655fa52__8000_00000191.jpg"
+        ]
+    },
+    {
+        "front": "A eukaryotic gene has \"sticky ends\" produced by the restriction endonuclease EcoRI. The gene is added to a mixture containing EcoRI and a bacterial plasmid that carries two genes conferring resistance to ampicillin and tetracycline. The plasmid has one recognition site for EcoRI located in the tetracycline resistance gene. This mixture is incubated for several hours, exposed to DNA ligase, and then added to bacteria growing in nutrient broth. The bacteria are allowed to grow overnight and are streaked on a plate using a technique that produces isolated colonies that are clones of the original. Samples of these colonies are then grown in four different media: nutrient broth plus ampicillin, nutrient broth plus tetracycline, nutrient broth plus ampicillin and tetracycline, and nutrient broth without antibiotics. 54) Bacteria that contain the plasmid, but not the eukaryotic  gene, would grow",
+        "options": [
+            "A) in the nutrient broth plus ampicillin, but  not in the broth containing tetracycline.",
+            "B) only in the broth  containing both antibiotics.",
+            "C) in the broth containing  tetracycline, but not in the broth containing ampicillin.",
+            "D) in  all four types of broth.",
+            "E) in the nutrient broth without  antibiotics only."
+        ],
+        "back": "D",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "A eukaryotic gene has \"sticky ends\" produced by the restriction endonuclease EcoRI. The gene is added to a mixture containing EcoRI and a bacterial plasmid that carries two genes conferring resistance to ampicillin and tetracycline. The plasmid has one recognition site for EcoRI located in the tetracycline resistance gene. This mixture is incubated for several hours, exposed to DNA ligase, and then added to bacteria growing in nutrient broth. The bacteria are allowed to grow overnight and are streaked on a plate using a technique that produces isolated colonies that are clones of the original. Samples of these colonies are then grown in four different media: nutrient broth plus ampicillin, nutrient broth plus tetracycline, nutrient broth plus ampicillin and tetracycline, and nutrient broth without antibiotics. 55) Bacteria containing a plasmid into which the eukaryotic gene  has integrated would grow in",
+        "options": [
+            "A) the nutrient broth only.",
+            "B) the nutrient broth and the tetracycline broth only.",
+            "C)  the nutrient broth, the ampicillin broth, and the tetracycline broth.",
+            "D) all four types of broth.",
+            "E) the ampicillin broth and  the nutrient broth."
+        ],
+        "back": "E",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "A eukaryotic gene has \"sticky ends\" produced by the restriction endonuclease EcoRI. The gene is added to a mixture containing EcoRI and a bacterial plasmid that carries two genes conferring resistance to ampicillin and tetracycline. The plasmid has one recognition site for EcoRI located in the tetracycline resistance gene. This mixture is incubated for several hours, exposed to DNA ligase, and then added to bacteria growing in nutrient broth. The bacteria are allowed to grow overnight and are streaked on a plate using a technique that produces isolated colonies that are clones of the original. Samples of these colonies are then grown in four different media: nutrient broth plus ampicillin, nutrient broth plus tetracycline, nutrient broth plus ampicillin and tetracycline, and nutrient broth without antibiotics. 56) Bacteria that do not take up any plasmids would grow on  which media?",
+        "options": [
+            "A) the nutrient broth only",
+            "B) the nutrient  broth and the tetracycline broth",
+            "C) the nutrient broth and the  ampicillin broth",
+            "D) the tetracycline broth and the ampicillin  broth",
+            "E) all three broths"
+        ],
+        "back": "A",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "A group of six students has taken samples of their own cheek cells, purified the DNA, and used a restriction enzyme known to cut at zero, one, or two sites in a particular gene of interest. 57) Why might they be conducting such an experiment?",
+        "options": [
+            "A) to  find the location of this gene in the human genome",
+            "B) to prepare  to isolate the chromosome on which the gene of interest is found",
+            "C) to find which of the students has which alleles",
+            "D) to collect population data that can be used to assess natural selection",
+            "E) to collect population data that can be used to study genetic drift"
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "A group of six students has taken samples of their own cheek cells, purified the DNA, and used a restriction enzyme known to cut at zero, one, or two sites in a particular gene of interest. 58) Their next two steps, in order, should be",
+        "options": [
+            "A) use of a fluorescent probe for the gene sequence, then electrophoresis.",
+            "B) electrophoresis of the fragments followed by autoradiography.",
+            "C) electrophoresis of the fragments, followed by the use of a probe.",
+            "D) use of a ligase that will anneal the pieces, followed by Southern blotting.",
+            "E) use of reverse transcriptase to make cDNA, followed by electrophoresis."
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "A group of six students has taken samples of their own cheek cells, purified the DNA, and used a restriction enzyme known to cut at zero, one, or two sites in a particular gene of interest. 59) Analysis of the data obtained shows that two students each  have two fragments, two students each have three fragments, and two  students each have one only. What does this demonstrate?",
+        "options": [
+            "A) Each  pair of students has a different gene for this function.",
+            "B) The  two students who have two fragments have one restriction site in this region.",
+            "C) The two students who have two fragments have two restriction sites within this gene.",
+            "D) The students with three fragments are said to have \"fragile sites.\"",
+            "E) Each of these students is heterozygous for this gene."
+        ],
+        "back": "B",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "CML (chronic myelogenous leukemia) results from a translocation between human chromosomes 9 and 22. The resulting chromosome 22 is significantly shorter than usual, and it is known as a Philadelphia (Ph') chromosome. The junction at the site of the translocation causes overexpression of a thymine kinase receptor. A new drug (Gleevec or imatinib) has been found to inhibit the disease if the patient is treated early. 60) Which of the following would be a reasonably efficient  technique for confirming the diagnosis of CML?",
+        "options": [
+            "A) searching for  the number of telomeric sequences on chromosome 22",
+            "B) looking  for a Ph' chromosome in a peripheral blood smear",
+            "C) enzyme assay  for thymine kinase activity",
+            "D) FISH study to determine the  chromosomal location of all chromosome 22 fragments",
+            "E)  identification of the disease phenotype in review of the patient's records"
+        ],
+        "back": "D",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "CML (chronic myelogenous leukemia) results from a translocation between human chromosomes 9 and 22. The resulting chromosome 22 is significantly shorter than usual, and it is known as a Philadelphia (Ph') chromosome. The junction at the site of the translocation causes overexpression of a thymine kinase receptor. A new drug (Gleevec or imatinib) has been found to inhibit the disease if the patient is treated early. 61) Why would Gleevec most probably cause remission of the  disease?",
+        "options": [
+            "A) It reverses the chromosomal translocation.",
+            "B)  It eliminates the Ph' chromosome.",
+            "C) It removes Ph'-containing  progenitor cells.",
+            "D) The drug inhibits the replication of the  affected chromosome.",
+            "E) The drug inhibits the specific thymine  kinase receptor."
+        ],
+        "back": "E",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "CML (chronic myelogenous leukemia) results from a translocation between human chromosomes 9 and 22. The resulting chromosome 22 is significantly shorter than usual, and it is known as a Philadelphia (Ph') chromosome. The junction at the site of the translocation causes overexpression of a thymine kinase receptor. A new drug (Gleevec or imatinib) has been found to inhibit the disease if the patient is treated early. 62) One possible use of transgenic plants is in the production  of human proteins, such as vaccines. Which of the following is a  possible hindrance that must be overcome?",
+        "options": [
+            "A) prevention of  transmission of plant allergens to the vaccine recipients",
+            "B)  prevention of vaccine-containing plants being consumed by insects",
+            "C) use of plant cells to translate non-plant-derived mRNA",
+            "D) inability of the human digestive system to accept  plant-derived protein",
+            "E) the need to cook all such plants before  consuming them"
+        ],
+        "back": "A",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "Pharmacogenetics is an increasingly important discipline that uses genetic information to tailor the prescription of drug treatments to individuals. In the case of chemotherapy for breast cancer, for example, different patients need and/or respond to different treatments. 63) Patients whose tumors are HER-2 positive respond to  herceptin whereas other patients do not. Patients whose tumors have  estrogen receptors will be best served if",
+        "options": [
+            "A) their estrogen  receptors are blocked by using RNAi.",
+            "B) their estrogen release  is activated and/or elevated.",
+            "C) the estrogen receptors are  blocked by other molecules that can use the same receptors.",
+            "D)  they are given herceptin as well as estrogen.",
+            "E) they are given  a complete hysterectomy."
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "Pharmacogenetics is an increasingly important discipline that uses genetic information to tailor the prescription of drug treatments to individuals. In the case of chemotherapy for breast cancer, for example, different patients need and/or respond to different treatments. 64) Breast tumor biopsy specimens can be typed for a number of  gene expression patterns. Together, these can provide risk analysis  for the likely aggressive growth and metastasis of the tumor. How can  this most help the physician and patient?",
+        "options": [
+            "A) Some patients want  to know as much as possible.",
+            "B) This can help them to decide  whether and what kind of chemotherapy is warranted.",
+            "C) This can  help them decide whether the tumor should be removed.",
+            "D) Some  physicians may use the information to decide what to do, but not tell  the patient.",
+            "E) This can help to aggregate health statistics."
+        ],
+        "back": "B",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "65) Which of the following tools of recombinant DNA technology is incorrectly paired with its use?",
+        "options": [
+            "A) restriction enzymeanalysis of RFLPs",
+            "B) DNA ligasecutting DNA, creating sticky ends of restriction fragments",
+            "C) DNA polymerasepolymerase chain reaction to amplify sections of DNA",
+            "D) reverse transcriptaseproduction of cDNA from mRNA",
+            "E) electrophoresisseparation of DNA fragments"
+        ],
+        "back": "B",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "66) Plants are more readily manipulated by genetic engineering than are animals because",
+        "options": [
+            "A) plant genes do not contain introns.",
+            "B) more vectors are available for transferring recombinant DNA into plant cells.",
+            "C) a somatic plant cell can often give rise to a complete plant.",
+            "D) genes can be inserted into plant cells by microinjection.",
+            "E) plant cells have larger nuclei."
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "67) A paleontologist has recovered a bit of tissue from the 400-year-old preserved skin of an extinct dodo (a bird). To compare a specific region of the DNA from the sample with DNA from living birds, which of the following would be most useful for increasing the amount of dodo DNA available for testing?",
+        "options": [
+            "A) RFLP analysis",
+            "B) polymerase chain reaction (PCR)",
+            "C) electroporation",
+            "D) gel electrophoresis",
+            "E) Southern blotting"
+        ],
+        "back": "B",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "68) DNA technology has many medical applications. Which of the following is not done routinely at present?",
+        "options": [
+            "A) production of hormones for treating diabetes and dwarfism",
+            "B) production of microbes that can metabolize toxins",
+            "C) introduction of genetically engineered genes into human gametes",
+            "D) prenatal identification of genetic disease alleles",
+            "E) genetic testing for carriers of harmful alleles"
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "69) In recombinant DNA methods, the term vector can refer to",
+        "options": [
+            "A) the enzyme that cuts DNA into restriction fragments.",
+            "B) the sticky end of a DNA fragment.",
+            "C) a SNP marker.",
+            "D) a plasmid used to transfer DNA into a living cell.",
+            "E) a DNA probe used to identify a particular gene."
+        ],
+        "back": "D",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "70) Which of the following would not be true of cDNA produced using human brain tissue as the starting material?",
+        "options": [
+            "A) It could be amplified by the polymerase chain reaction.",
+            "B) It could be used to create a complete genomic library.",
+            "C) It was produced from mRNA using reverse transcriptase.",
+            "D) It could be used as a probe to detect genes expressed in the brain.",
+            "E) It lacks the introns of the human genes."
+        ],
+        "back": "B",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "71) Expression of a cloned eukaryotic gene in a bacterial cell involves many challenges. The use of mRNA and reverse transcriptase is part of a strategy to solve the problem of",
+        "options": [
+            "A) post-transcriptional processing.",
+            "B) electroporation.",
+            "C) post-translational processing.",
+            "D) nucleic acid hybridization.",
+            "E) restriction fragment ligation."
+        ],
+        "back": "A",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    },
+    {
+        "front": "72) Which of the following sequences in double-stranded DNA is most likely to be recognized as a cutting site for a restriction enzyme?",
+        "options": [
+            "A) AAGG TTCC",
+            "B) AGTC TCAG",
+            "C) GGCC CCGG",
+            "D) ACCA TGGT",
+            "E) AAAA TTTT"
+        ],
+        "back": "C",
+        "unit": "Unit 20",
+        "chapter": "Chapter 20",
+        "images": []
+    }
+]

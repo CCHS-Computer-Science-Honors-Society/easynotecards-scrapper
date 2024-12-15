@@ -1,0 +1,1130 @@
+[
+    {
+        "front": "1) Mycoplasmas are bacteria that lack cell walls. On the basis of this structural feature, which statement concerning mycoplasmas should be true?",
+        "options": [
+            "A) They are gram-negative.",
+            "B) They are subject to lysis in hypotonic conditions.",
+            "C) They lack a cell membrane as well.",
+            "D) They should contain less cellulose than do bacteria that possess cell walls.",
+            "E) They possess typical prokaryotic flagella."
+        ],
+        "back": "B",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "2) Though plants, fungi, and prokaryotes all have cell walls, we place them in different taxa. Which of these observations comes closest to explaining the basis for placing these organisms in different taxa, well before relevant data from molecular systematics became available?",
+        "options": [
+            "A) Some closely resemble animals, which lack cell walls.",
+            "B) Their cell walls are composed of very different biochemicals.",
+            "C) Some have cell walls only for support.",
+            "D) Some have cell walls only for protection from herbivores.",
+            "E) Some have cell walls only to control osmotic balance."
+        ],
+        "back": "B",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "3) Which statement about bacterial cell walls is false?",
+        "options": [
+            "A) Bacterial cell walls differ in molecular composition from plant cell walls.",
+            "B) Cell walls prevent cells from bursting in hypotonic environments.",
+            "C) Cell walls prevent cells from dying in hypertonic conditions.",
+            "D) Bacterial cell walls are similar in function to the cell walls of many protists, fungi, and plants.",
+            "E) Cell walls provide the cell with a degree of physical protection from the environment."
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "4) The predatory bacterium, Bdellovibrio bacteriophorus, drills into a prey bacterium and, once inside, digests it. In an attack upon a gram-negative bacterium that has a slimy cell covering, what is the correct sequence of structures penetrated by B. bacteriophorus on its way to the prey's cytoplasm? 1. membrane composed mostly of lipopolysaccharide 2. membrane composed mostly of phospholipids 3. peptidoglycan 4. capsule",
+        "options": [
+            "A) 2, 4, 3, 1",
+            "B) 1, 3, 4, 2",
+            "C) 1, 4, 3, 2",
+            "D) 4, 1, 3, 2",
+            "E) 4, 3, 1, 2"
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "5) Jams, jellies, preserves, honey, and other foodstuffs with high sugar content hardly ever become contaminated by bacteria, even when the food containers are left open at room temperature. This is because bacteria that encounter such an environment",
+        "options": [
+            "A) undergo death by plasmolysis.",
+            "B) are unable to metabolize the glucose or fructose, and thus starve to death.",
+            "C) experience lysis.",
+            "D) are obligate anaerobes.",
+            "E) are unable to swim through these thick and viscous materials."
+        ],
+        "back": "A",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "6) In a bacterium that possesses antibiotic resistance and the potential to persist through very adverse conditions, such as freezing, drying, or high temperatures, DNA should be located within, or be part of, which structures? 1. nucleoid region 2. endospore 3. fimbriae 4. plasmids",
+        "options": [
+            "A) 1 only",
+            "B) 1 and 2 only",
+            "C) 1 and 4 only",
+            "D) 2 and 4 only",
+            "E) 1, 2, and 4"
+        ],
+        "back": "E",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "7) Which two structures play direct roles in permitting bacteria to adhere to each other, or to other surfaces? 1. capsules 2. endospores 3. fimbriae 4. plasmids 5. flagella",
+        "options": [
+            "A) 1 and 2",
+            "B) 1 and 3",
+            "C) 2 and 3",
+            "D) 3 and 4",
+            "E) 3 and 5"
+        ],
+        "back": "B",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "8) The typical prokaryotic flagellum features",
+        "options": [
+            "A) an internal 9 + 2 pattern of microtubules.",
+            "B) an external covering provided by the plasma membrane.",
+            "C) a complex \"motor\" embedded in the cell wall and plasma membrane.",
+            "D) a basal body that is similar in structure to the cell's centrioles.",
+            "E) a membrane-enclosed organelle with motor proteins."
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "9) Prokaryotic ribosomes differ from those present in eukaryotic cytosol. Because of this, which of the following is correct?",
+        "options": [
+            "A) Some antibiotics can block protein synthesis in bacteria without effects in the eukaryotic host.",
+            "B) Eukaryotes did not evolve from prokaryotes.",
+            "C) Translation can occur at the same time as transcription in eukaryotes but not in prokaryotes.",
+            "D) Some antibiotics can block the synthesis of peptidoglycan in the walls of bacteria.",
+            "E) Prokaryotes are able to use a much greater variety of molecules as food sources than can eukaryotes."
+        ],
+        "back": "A",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "10) Which statement about the genomes of prokaryotes is correct?",
+        "options": [
+            "A) Prokaryotic genomes are diploid throughout most of the cell cycle.",
+            "B) Prokaryotic chromosomes are sometimes called plasmids.",
+            "C) Prokaryotic cells have multiple chromosomes, \"packed\" with a relatively large amount of protein.",
+            "D) The prokaryotic chromosome is not contained within a nucleus but, rather, is found at the nucleolus.",
+            "E) Prokaryotic genomes are composed of circular DNA."
+        ],
+        "back": "E",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "11) If a bacterium regenerates from an endospore that did not possess any of the plasmids that were contained in its original parent cell, the regenerated bacterium will probably also",
+        "options": [
+            "A) lack antibiotic-resistant genes.",
+            "B) lack a cell wall.",
+            "C) lack a chromosome.",
+            "D) lack water in its cytoplasm.",
+            "E) be unable to survive in its normal environment."
+        ],
+        "back": "A",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "12) Although not present in all bacteria, this cell covering often enables cells that possess it to resist the defenses of host organisms, especially their phagocytic cells.",
+        "options": [
+            "A) endospore",
+            "B) sex pilus",
+            "C) cell wall",
+            "D) capsule"
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "13) Prokaryotes' essential genetic information is located in the",
+        "options": [
+            "A) nucleolus.",
+            "B) nucleoid.",
+            "C) nucleosome.",
+            "D) plasmids.",
+            "E) exospore."
+        ],
+        "back": "B",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "14) Which of the following is an important source of endotoxin in gram-negative species?",
+        "options": [
+            "A) endospore",
+            "B) sex pilus",
+            "C) flagellum",
+            "D) cell wall",
+            "E) capsule"
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "15) Chloramphenicol is an antibiotic that targets prokaryotic (70S) ribosomes, but not eukaryotic (80S) ribosomes. Which of these questions stems from this observation, plus an understanding of eukaryotic origins?",
+        "options": [
+            "A) Can chloramphenicol also be used to control human diseases that are caused by archaeans?",
+            "B) Can chloramphenicol pass through the capsules possessed by many cyanobacteria?",
+            "C) If chloramphenicol inhibits prokaryotic ribosomes, should it not also inhibit mitochondrial ribosomes?",
+            "D) Why aren't prokaryotic ribosomes identical to eukaryotic ribosomes?",
+            "E) How is translation affected in ribosomes that are targeted by chloramphenicol?"
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "16) In a hypothetical situation, the genes for sex pilus construction and for tetracycline resistance are located together on the same plasmid within a particular bacterium. If this bacterium readily performs conjugation involving a copy of this plasmid, then the result should be",
+        "options": [
+            "A) a bacterium that has undergone transduction.",
+            "B) the rapid spread of tetracycline resistance to other bacteria in that habitat.",
+            "C) the subsequent loss of tetracycline resistance from this bacterium.",
+            "D) the production of endospores among the bacterium's progeny.",
+            "E) the temporary possession by this bacterium of a completely diploid genome."
+        ],
+        "back": "B",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "17) Regarding prokaryotic genetics, which statement is correct?",
+        "options": [
+            "A) Crossing over during prophase I introduces some genetic variation.",
+            "B) Prokaryotes feature the union of haploid gametes, as do eukaryotes.",
+            "C) Prokaryotes exchange some of their genes by conjugation, the union of haploid gametes, and transduction.",
+            "D) Mutation is a primary source of variation in prokaryote populations.",
+            "E) Prokaryotes skip sexual life cycles because their life cycle is too short."
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "18) Which of these statements about prokaryotes is correct?",
+        "options": [
+            "A) Bacterial cells conjugate to mutually exchange genetic material.",
+            "B) Their genetic material is confined within vesicles known as plasmids.",
+            "C) They divide by binary fission, without mitosis or meiosis.",
+            "D) The persistence of bacteria throughout evolutionary time is due to their genetic homogeneity (in other words, sameness).",
+            "E) Genetic variation in bacteria is not known to occur, because of their asexual mode of reproduction."
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "19) Which of the following is least associated with the others?",
+        "options": [
+            "A) horizontal gene transfer",
+            "B) genetic recombination",
+            "C) conjugation",
+            "D) transformation",
+            "E) binary fission"
+        ],
+        "back": "E",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "20) In Fred Griffith's experiments, harmless R strain pneumococcus became lethal S strain pneumococcus as the result of which of the following? 1. horizontal gene transfer 2. transduction 3. conjugation 4. transformation 5. genetic recombination",
+        "options": [
+            "A) 2 only",
+            "B) 4 only",
+            "C) 2 and 5",
+            "D) 1, 3, and 5",
+            "E) 1, 4, and 5"
+        ],
+        "back": "E",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "21) Hershey and Chase performed an elegant experiment that convinced most biologists that DNA, rather than protein, was the genetic material. This experiment subjected bacteria to the same gene transfer mechanism as occurs in",
+        "options": [
+            "A) transduction.",
+            "B) transformation.",
+            "C) conjugation.",
+            "D) binary fission.",
+            "E) endosymbiosis."
+        ],
+        "back": "A",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "22) Match the numbered terms to the description that follows. Choose all appropriate terms. 1. autotroph 2. heterotroph 3. phototroph 4. chemotroph a prokaryote that obtains both energy and carbon as it decomposes dead organisms",
+        "options": [
+            "A) 1 only",
+            "B) 4 only",
+            "C) 1 and 3",
+            "D) 2 and 4",
+            "E) 1, 3, and 4"
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "23) Match the numbered terms to the description that follows. Choose all appropriate terms. 1. autotroph 2. heterotroph 3. phototroph 4. chemotroph an organism that obtains both carbon and energy by ingesting prey",
+        "options": [
+            "A) 1 only",
+            "B) 4 only",
+            "C) 1 and 3",
+            "D) 2 and 4",
+            "E) 1, 3, and 4"
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "24) Match the numbered terms to the description that follows. Choose all appropriate terms. 1. autotroph 2. heterotroph 3. phototroph 4. chemotroph an organism that relies on photons to excite electrons within its membranes",
+        "options": [
+            "A) 1 only",
+            "B) 3 only",
+            "C) 1 and 3",
+            "D) 2 and 4",
+            "E) 1, 3, and 4"
+        ],
+        "back": "B",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "25) Which of the following obtain energy by oxidizing inorganic substancesenergy that is used, in part, to fix CO₂?",
+        "options": [
+            "A) photoautotrophs",
+            "B) photoheterotrophs",
+            "C) chemoautotrophs",
+            "D) chemoheterotrophs that perform decomposition",
+            "E) parasitic chemoheterotrophs"
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "26) Mitochondria are thought to be the descendants of certain alpha proteobacteria. They are, however, no longer able to lead independent lives because most genes originally present on their chromosome have moved to the nuclear genome. Which phenomenon accounts for the movement of these genes?",
+        "options": [
+            "A) plasmolysis",
+            "B) conjugation",
+            "C) translation",
+            "D) endocytosis",
+            "E) horizontal gene transfer"
+        ],
+        "back": "E",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "27) Carl Woese and collaborators identified two major branches of prokaryotic evolution. What was the basis for dividing prokaryotes into two domains?",
+        "options": [
+            "A) microscopic examination of staining characteristics of the cell wall",
+            "B) metabolic characteristics such as the production of methane gas",
+            "C) metabolic characteristics such as chemoautotrophy and photosynthesis",
+            "D) genetic characteristics such as ribosomal RNA sequences",
+            "E) ecological characteristics such as the ability to survive in extreme environments"
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "28) Which statement about the domain Archaea is true?",
+        "options": [
+            "A) Genetic prospecting has recently revealed the existence of many  previously unknown archaean species.",
+            "B) No archaeans can reduce CO₂ to methane.",
+            "C) The genomes of archaeans are unique, containing no genes that originated within bacteria.",
+            "D) No archaeans can inhabit solutions that are nearly 30% salt.",
+            "E) No archaeans are adapted to waters with temperatures above the boiling point."
+        ],
+        "back": "A",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "29) If archaeans are more closely related to eukaryotes than to bacteria, then which of the following is a reasonable prediction?",
+        "options": [
+            "A) Archaean DNA should have no introns.",
+            "B) Archaean chromosomes should have no protein bonded to them.",
+            "C) Archaean DNA should be single-stranded.",
+            "D) Archaean ribosomes should be larger than typical prokaryotic ribosomes.",
+            "E) Archaeans should lack cell walls."
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "30) Which of the following traits do archaeans and bacteria share? 1. composition of the cell wall 2. presence of plasma membrane 3. lack of a nuclear envelope 4. identical rRNA sequences",
+        "options": [
+            "A) 1 only",
+            "B) 3 only",
+            "C) 1 and 3",
+            "D) 2 and 3",
+            "E) 2 and 4"
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "31) Assuming that each of these possesses a cell wall, which prokaryotes should be expected to be most strongly resistant to plasmolysis in hypertonic environments?",
+        "options": [
+            "A) extreme halophiles",
+            "B) extreme thermophiles",
+            "C) methanogens",
+            "D) cyanobacteria",
+            "E) nitrogen-fixing bacteria that live in root nodules"
+        ],
+        "back": "A",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "32) The thermoacidophile, Sulfolobus acidocaldarius, lacks peptidoglycan, but still possesses a cell wall. What is likely to be true of this species? 1. It is a bacterium. 2. It is an archaean. 3. The optimal pH of its enzymes will lie above pH 7. 4. The optimal pH of its enzymes will lie below pH 7. 5. It could inhabit certain hydrothermal springs. 6. It could inhabit alkaline hot springs.",
+        "options": [
+            "A) 1, 3, and 6",
+            "B) 2, 4, and 6",
+            "C) 2, 4, and 5",
+            "D) 1, 3, and 5",
+            "E) 1, 4, and 5"
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "33) A fish that has been salt-cured subsequently develops a reddish color. You suspect that the fish has been contaminated by the extreme halophile, Halobacterium. Which of these features of cells removed from the surface of the fish, if confirmed, would support your suspicion? 1. the presence of the same photosynthetic pigments found in cyanobacteria 2. cell walls that lack peptidoglycan 3. cells that are isotonic to conditions on the surface of the fish 4. cells containing bacteriorhodopsin 5. the presence of very large numbers of ion pumps in its plasma membrane",
+        "options": [
+            "A) 2 and 5",
+            "B) 3 and 4",
+            "C) 1, 4, and 5",
+            "D) 3, 4, and 5",
+            "E) 2, 3, 4, and 5"
+        ],
+        "back": "E",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "34) The termite gut protist, Mixotricha paradoxa, has at least two kinds of bacteria attached to its outer surface. One kind is a spirochete that propels its host through the termite gut. A second type of bacteria synthesizes ATP, some of which is used by the spirochetes. The locomotion provided by the spirochetes introduces the ATP-producing bacteria to new food sources. Which term(s) is (are) applicable to the relationship between the two kinds of bacteria? 1. mutualism 2. parasitism 3. symbiosis 4. metabolic cooperation",
+        "options": [
+            "A) 1 only",
+            "B) 1 and 2",
+            "C) 2 and 3",
+            "D) 1, 3, and 4",
+            "E) 2, 3, and 4"
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "35) In general, what is the primary ecological role of prokaryotes?",
+        "options": [
+            "A) parasitizing eukaryotes, thus causing diseases",
+            "B) breaking down organic matter",
+            "C) metabolizing materials in extreme environments",
+            "D) adding methane to the atmosphere",
+            "E) serving as primary producers in terrestrial environments"
+        ],
+        "back": "B",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "36) If all prokaryotes on Earth suddenly vanished, which of the following would be the most likely and most direct result?",
+        "options": [
+            "A) The number of organisms on Earth would decrease by 1020%.",
+            "B) Human populations would thrive in the absence of disease.",
+            "C) Bacteriophage numbers would dramatically increase.",
+            "D) The recycling of nutrients would be greatly reduced, at least initially.",
+            "E) There would be no more pathogens on Earth."
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "37) In a hypothetical situation, a bacterium lives on the surface of a leaf, where it obtains nutrition from the leaf's nonliving, waxy covering while inhibiting the growth of other microbes that are plant pathogens. If this bacterium gains access to the inside of a leaf, however, it causes a fatal disease in the plant. Once the plant dies, the bacterium and its offspring decompose the plant. What is the correct sequence of ecological roles played by the bacterium in the situation described here? Use only those that apply. 1. nutrient recycler 2. mutualist 3. commensal 4.parasite 5. primary producer",
+        "options": [
+            "A) 1, 3, 4",
+            "B) 2, 3, 4",
+            "C) 2, 4, 1",
+            "D) 1, 2, 5",
+            "E) 1, 2, 3"
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "38) Foods can be preserved in many ways by slowing or preventing bacterial growth. Which of these methods should be least effective at inhibiting bacterial growth?",
+        "options": [
+            "A) Refrigeration: slows bacterial metabolism and growth.",
+            "B) Closing previously opened containers: prevents more bacteria from entering, and excludes O₂.",
+            "C) Pickling: creates a pH at which most bacterial enzymes cannot function.",
+            "D) Canning in heavy sugar syrup: creates osmotic conditions that remove water from most bacterial cells.",
+            "E) Irradiation: kills bacteria by mutating their DNA to such an extent that their DNA-repair enzymes are overwhelmed."
+        ],
+        "back": "B",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "39) Broad-spectrum antibiotics inhibit the growth of most intestinal bacteria. Consequently, assuming that nothing is done to counter the reduction of intestinal bacteria, a hospital patient who is receiving broad-spectrum antibiotics is most likely to become",
+        "options": [
+            "A) unable to fix carbon dioxide.",
+            "B) antibiotic resistant.",
+            "C) unable to fix nitrogen.",
+            "D) unable to synthesize peptidoglycan.",
+            "E) deficient in certain vitamins and nutrients."
+        ],
+        "back": "E",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "The following question refer to Figure 27.1. In this eight-year experiment, 12 populations of E. coli, each begun from a single cell, were grown in low-glucose conditions for 20,000 generations. Each culture was introduced to fresh growth medium every 24 hours. Occasionally, samples were removed from the populations, and their fitness in low-glucose conditions was tested against that of members sampled from the ancestral (common ancestor) E. coli population. Figure 27.1 40) Which term best describes what has occurred among the experimental populations of cells over this eight-year period?",
+        "options": [
+            "A) microevolution",
+            "B) speciation",
+            "C) adaptive radiation",
+            "D) sexual selection",
+            "E) stabilizing selection"
+        ],
+        "back": "A",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/232/55/2522f4b0_13a997b09fc__8000_00000265.jpg"
+        ]
+    },
+    {
+        "front": "The following question refer to Figure 27.1. In this eight-year experiment, 12 populations of E. coli, each begun from a single cell, were grown in low-glucose conditions for 20,000 generations. Each culture was introduced to fresh growth medium every 24 hours. Occasionally, samples were removed from the populations, and their fitness in low-glucose conditions was tested against that of members sampled from the ancestral (common ancestor) E. coli population. Figure 27.1 41) Which of the following, if it occurs in the absence of any other type of adaptation listed here, is least reasonable in terms of promoting bacterial survival over evolutionary time in a low-glucose environment?",
+        "options": [
+            "A) increased efficiency at transporting glucose into the cell from the environment",
+            "B) increased ability to survive on simple sugars, other than glucose",
+            "C) increased ability to synthesize glucose from amino acid precursors",
+            "D) increased reliance on glycolytic enzymes",
+            "E) increased sensitivity to, and ability to move toward, whatever glucose is present in its habitat"
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/232/55/2522f4b0_13a997b09fc__8000_00000265.jpg"
+        ]
+    },
+    {
+        "front": "The following question refer to Figure 27.1. In this eight-year experiment, 12 populations of E. coli, each begun from a single cell, were grown in low-glucose conditions for 20,000 generations. Each culture was introduced to fresh growth medium every 24 hours. Occasionally, samples were removed from the populations, and their fitness in low-glucose conditions was tested against that of members sampled from the ancestral (common ancestor) E. coli population. Figure 27.1 42) If the vertical axis of Figure 27.1 refers to \"Darwinian fitness,\" then which of the following is the most valid and accurate measure of fitness?",
+        "options": [
+            "A) number of daughter cells produced per mother cell per generation",
+            "B) amount of ATP generated per cell per unit time",
+            "C) average swimming speed of cells through the growth medium",
+            "D) amount of glucose synthesized per unit time",
+            "E) number of generations per unit time"
+        ],
+        "back": "E",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/232/55/2522f4b0_13a997b09fc__8000_00000265.jpg"
+        ]
+    },
+    {
+        "front": "The following question refer to Figure 27.1. In this eight-year experiment, 12 populations of E. coli, each begun from a single cell, were grown in low-glucose conditions for 20,000 generations. Each culture was introduced to fresh growth medium every 24 hours. Occasionally, samples were removed from the populations, and their fitness in low-glucose conditions was tested against that of members sampled from the ancestral (common ancestor) E. coli population. Figure 27.1 43) If new genetic variation in the experimental populations arose solely by spontaneous mutations, then the most effective process for subsequently increasing the prevalence of the beneficial mutations in the population over the course of generations is",
+        "options": [
+            "A) transduction.",
+            "B) binary fission.",
+            "C) conjugation.",
+            "D) transformation.",
+            "E) meiosis."
+        ],
+        "back": "B",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/232/55/2522f4b0_13a997b09fc__8000_00000265.jpg"
+        ]
+    },
+    {
+        "front": "The following question refer to Figure 27.1. In this eight-year experiment, 12 populations of E. coli, each begun from a single cell, were grown in low-glucose conditions for 20,000 generations. Each culture was introduced to fresh growth medium every 24 hours. Occasionally, samples were removed from the populations, and their fitness in low-glucose conditions was tested against that of members sampled from the ancestral (common ancestor) E. coli population. Figure 27.1 44) E. coli cells typically make most of their ATP by metabolizing glucose. Under the conditions of this experiment, what should be true of E. coli's generation time (especially early in the course of the experiment, but less so later on)?",
+        "options": [
+            "A) Generation time should be the same as in the typical environment.",
+            "B) Generation time should be faster than in the typical environment.",
+            "C) Generation time should be slower than in the typical environment.",
+            "D) It is theoretically impossible to make any predictions about generation time under these conditions."
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/232/55/2522f4b0_13a997b09fc__8000_00000265.jpg"
+        ]
+    },
+    {
+        "front": "The following question refer to Figure 27.1. In this eight-year experiment, 12 populations of E. coli, each begun from a single cell, were grown in low-glucose conditions for 20,000 generations. Each culture was introduced to fresh growth medium every 24 hours. Occasionally, samples were removed from the populations, and their fitness in low-glucose conditions was tested against that of members sampled from the ancestral (common ancestor) E. coli population. Figure 27.1 45) If the experimental population of E. coli lacks an F factor or F plasmid, and if bacteriophages are excluded from the bacterial cultures, then which of these is (are) means by which beneficial mutations might be transmitted horizontally to other E. coli cells?",
+        "options": [
+            "A) via sex pili",
+            "B) via transduction",
+            "C) via conjugation",
+            "D) via transformation",
+            "E) Two of the responses above are correct."
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/232/55/2522f4b0_13a997b09fc__8000_00000265.jpg"
+        ]
+    },
+    {
+        "front": "Figure 27.2 depicts changes to the amount of DNA present in a recipient cell that is engaged in conjugation with an Hfr cell. Hfr cell DNA begins entering the recipient cell at Time A. Assume that reciprocal crossing over occurs (in other words, a fragment of the recipient's chromosome is exchanged for a homologous fragment from the Hfr cell's DNA). Use Figure 27.2 to answer the following question. Figure 27.2 46) What is occurring at Time C that is decreasing the DNA content?",
+        "options": [
+            "A) crossing over",
+            "B) cytokinesis",
+            "C) meiosis",
+            "D) degradation of DNA that was not retained in the recipient's chromosome",
+            "E) reversal of the direction of conjugation"
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/238/61/2522f4b0_13a997b09fc__8000_00000271.jpg"
+        ]
+    },
+    {
+        "front": "Figure 27.2 depicts changes to the amount of DNA present in a recipient cell that is engaged in conjugation with an Hfr cell. Hfr cell DNA begins entering the recipient cell at Time A. Assume that reciprocal crossing over occurs (in other words, a fragment of the recipient's chromosome is exchanged for a homologous fragment from the Hfr cell's DNA). Use Figure 27.2 to answer the following question. Figure 27.2 47) How is the recipient cell different at Time D than it was at Time A?",
+        "options": [
+            "A) It has a greater number of genes.",
+            "B) It has a greater mass of DNA.",
+            "C) It has a different sequence of base pairs.",
+            "D) It contains bacteriophage DNA.",
+            "E) Its membrane-bound DNA pumps are inactive."
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/238/61/2522f4b0_13a997b09fc__8000_00000271.jpg"
+        ]
+    },
+    {
+        "front": "Figure 27.2 depicts changes to the amount of DNA present in a recipient cell that is engaged in conjugation with an Hfr cell. Hfr cell DNA begins entering the recipient cell at Time A. Assume that reciprocal crossing over occurs (in other words, a fragment of the recipient's chromosome is exchanged for a homologous fragment from the Hfr cell's DNA). Use Figure 27.2 to answer the following question. Figure 27.2 48) Which two processes are responsible for the shape of the curve at Time B? 1. transduction 2. entry of single-stranded Hfr DNA 3. rolling circle replication of single-stranded Hfr DNA 4. activation of DNA pumps in plasma membrane",
+        "options": [
+            "A) 1 and 2",
+            "B) 1 and 4",
+            "C) 2 and 3",
+            "D) 2 and 4",
+            "E) 3 and 4"
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/238/61/2522f4b0_13a997b09fc__8000_00000271.jpg"
+        ]
+    },
+    {
+        "front": "Figure 27.2 49) During which two times can the recipient accurately be described as \"recombinant\" due to the sequence of events portrayed in Figure 27.2?",
+        "options": [
+            "A) during Times C and D",
+            "B) during Times A and C",
+            "C) during Times B and C",
+            "D) during Times A and B",
+            "E) during Times B and D"
+        ],
+        "back": "A",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/238/61/2522f4b0_13a997b09fc__8000_00000271.jpg"
+        ]
+    },
+    {
+        "front": "Figure 27.2 depicts changes to the amount of DNA present in a recipient cell that is engaged in conjugation with an Hfr cell. Hfr cell DNA begins entering the recipient cell at Time A. Assume that reciprocal crossing over occurs (in other words, a fragment of the recipient's chromosome is exchanged for a homologous fragment from the Hfr cell's DNA). Use Figure 27.2 to answer the following question. Figure 27.2 50) Which question, arising from the results depicted in Figure 27.2, is most interesting from a genetic perspective, and has the greatest potential to increase our knowledge base?",
+        "options": [
+            "A) If reciprocal crossing over could occur even if the piece of donated Hfr DNA is identical to the homologous portion of the recipient's chromosome, what prevents this from occurring?",
+            "B) What forces are generally responsible for disrupting the sex pilus?",
+            "C) How is it that a recipient cell does not necessarily become an Hfr cell as the result of conjugation with an Hfr cell?",
+            "D) What makes a cell an Hfr cell?"
+        ],
+        "back": "A",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/238/61/2522f4b0_13a997b09fc__8000_00000271.jpg"
+        ]
+    },
+    {
+        "front": "51) The data were collected from the heterocysts of a nitrogen-fixing cyanobacterium inhabiting equatorial ponds. Study the following graph and choose the most likely explanation for the shape of the curve.",
+        "options": [
+            "A) Enough O₂ enters heterocysts during hours of peak photosynthesis to have a somewhat-inhibitory effect on nitrogen fixation.",
+            "B) Light-dependent reaction rates must be highest between 1800 hours and 0600 hours.",
+            "C) Atmospheric N₂ levels increase at night because plants are no longer metabolizing this gas, so they are not absorbing this gas through their stomata.",
+            "D) Heterocyst walls become less permeable to N₂ influx during darkness.",
+            "E) The amount of fixed nitrogen that is dissolved in the pond water in which the cyanobacteria are growing peaks at the close of the photosynthetic day (1800 hours)."
+        ],
+        "back": "A",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/243/66/2522f4b0_13a997b09fc__8000_00000276.jpg"
+        ]
+    },
+    {
+        "front": "52) Consider the thermoacidophile, Sulfolobus acidocaldarius. Which of the following graphs most accurately depicts the expected temperature and pH profiles of its enzymes? (Note: The horizontal axes of these graphs are double, with pH above and temperature below.) A. SEE IMAGE B. SEE IMAGE C. SEE IMAGE D. SEE IMAGE",
+        "options": [],
+        "back": "A",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/244/67/2522f4b0_13a997b09fc__8000_00000277.jpg"
+        ]
+    },
+    {
+        "front": "A hypothetical bacterium swims among human intestinal contents until it finds a suitable location on the intestinal lining. It adheres to the intestinal lining using a feature that also protects it from phagocytes, bacteriophages, and dehydration. Fecal matter from a human in whose intestine this bacterium lives can spread the bacterium, even after being mixed with water and boiled. The bacterium is not susceptible to the penicillin family of antibiotics. It contains no plasmids and relatively little peptidoglycan. 53) This bacterium's ability to survive in a human who is taking penicillin pills may be due to the presence of 1. penicillin-resistance genes 2. a secretory system that removes penicillin from the cell 3. a gram-positive cell wall 4. a gram-negative cell wall 5. an endospore",
+        "options": [
+            "A) 1 or 5",
+            "B) 2 or 3",
+            "C) 4 or 5",
+            "D) 2, 3, or 5",
+            "E) 2, 4, or 5"
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "A hypothetical bacterium swims among human intestinal contents until it finds a suitable location on the intestinal lining. It adheres to the intestinal lining using a feature that also protects it from phagocytes, bacteriophages, and dehydration. Fecal matter from a human in whose intestine this bacterium lives can spread the bacterium, even after being mixed with water and boiled. The bacterium is not susceptible to the penicillin family of antibiotics. It contains no plasmids and relatively little peptidoglycan. 54) Adherence to the intestinal lining by this bacterium is due to its possession of",
+        "options": [
+            "A) fimbriae.",
+            "B) pili.",
+            "C) a capsule.",
+            "D) a flagellum.",
+            "E) a cell wall with an outer lipopolysaccharide membrane."
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "A hypothetical bacterium swims among human intestinal contents until it finds a suitable location on the intestinal lining. It adheres to the intestinal lining using a feature that also protects it from phagocytes, bacteriophages, and dehydration. Fecal matter from a human in whose intestine this bacterium lives can spread the bacterium, even after being mixed with water and boiled. The bacterium is not susceptible to the penicillin family of antibiotics. It contains no plasmids and relatively little peptidoglycan. 55) What should be true of the cell wall of this bacterium?",
+        "options": [
+            "A) Its innermost layer is composed of a phospholipid bilayer.",
+            "B) After it has been subjected to Gram staining, the cell should remain purple.",
+            "C) It has an outer membrane of lipopolysaccharide.",
+            "D) It is mostly composed of a complex, cross-linked polysaccharide.",
+            "E) Two of the responses above are correct."
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "A hypothetical bacterium swims among human intestinal contents until it finds a suitable location on the intestinal lining. It adheres to the intestinal lining using a feature that also protects it from phagocytes, bacteriophages, and dehydration. Fecal matter from a human in whose intestine this bacterium lives can spread the bacterium, even after being mixed with water and boiled. The bacterium is not susceptible to the penicillin family of antibiotics. It contains no plasmids and relatively little peptidoglycan. 56) Some of the proteins that allow this bacterium to swim are related (in an evolutionary sense) to proteins that",
+        "options": [
+            "A) attach to the single chromosome.",
+            "B) act as restriction enzymes.",
+            "C) synthesize peptidoglycan for the cell wall.",
+            "D) move penicillin out of the cell.",
+            "E) comprise its ribosomes."
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "A hypothetical bacterium swims among human intestinal contents until it finds a suitable location on the intestinal lining. It adheres to the intestinal lining using a feature that also protects it from phagocytes, bacteriophages, and dehydration. Fecal matter from a human in whose intestine this bacterium lives can spread the bacterium, even after being mixed with water and boiled. The bacterium is not susceptible to the penicillin family of antibiotics. It contains no plasmids and relatively little peptidoglycan. 57) In which feature(s) should one be able to locate a complete chromosome of this bacterium? 1. nucleolus 2. prophage 3. endospore 4. nucleoid",
+        "options": [
+            "A) 4 only",
+            "B) 1 and 3",
+            "C) 2 and 3",
+            "D) 3 and 4",
+            "E) 2, 3, and 4"
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "A hypothetical bacterium swims among human intestinal contents until it finds a suitable location on the intestinal lining. It adheres to the intestinal lining using a feature that also protects it from phagocytes, bacteriophages, and dehydration. Fecal matter from a human in whose intestine this bacterium lives can spread the bacterium, even after being mixed with water and boiled. The bacterium is not susceptible to the penicillin family of antibiotics. It contains no plasmids and relatively little peptidoglycan. 58) The cell also lacks F factors and F plasmids. Upon its death, this bacterium should be able to participate in",
+        "options": [
+            "A) conjugation.",
+            "B) transduction.",
+            "C) transformation.",
+            "D) Three of the responses above are correct.",
+            "E) Two of the responses above are correct."
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "A hypothetical bacterium swims among human intestinal contents until it finds a suitable location on the intestinal lining. It adheres to the intestinal lining using a feature that also protects it from phagocytes, bacteriophages, and dehydration. Fecal matter from a human in whose intestine this bacterium lives can spread the bacterium, even after being mixed with water and boiled. The bacterium is not susceptible to the penicillin family of antibiotics. It contains no plasmids and relatively little peptidoglycan. 59) This bacterium derives nutrition by digesting human intestinal contents (in other words, food). Thus, this bacterium should be an",
+        "options": [
+            "A) aerobic chemoheterotroph.",
+            "B) aerobic chemoautotroph.",
+            "C) anaerobic chemoheterotroph.",
+            "D) anaerobic chemoautotroph."
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "A hypothetical bacterium swims among human intestinal contents until it finds a suitable location on the intestinal lining. It adheres to the intestinal lining using a feature that also protects it from phagocytes, bacteriophages, and dehydration. Fecal matter from a human in whose intestine this bacterium lives can spread the bacterium, even after being mixed with water and boiled. The bacterium is not susceptible to the penicillin family of antibiotics. It contains no plasmids and relatively little peptidoglycan. 60) This bacterium derives nutrition by digesting human intestinal contents (in other words, food). Humans lacking this bacterium have no measurable reproductive advantage or disadvantage relative to humans who harbor this bacterium. Consequently, the bacterium can be properly described as which of the following? 1. symbiont 2. endosymbiont 3. mutualist 4. commensal",
+        "options": [
+            "A) 4 only",
+            "B) 1 and 2",
+            "C) 1 and 4",
+            "D) 2 and 3",
+            "E) 2 and 4"
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "Nitrogenase, the enzyme that catalyzes nitrogen fixation, is inhibited whenever free O₂ reaches a critical concentration. Consequently, nitrogen fixation cannot occur in cells wherein photosynthesis produces free O₂. Consider the colonial aquatic cyanobacterium, Anabaena, whose heterocytes are described as having \"…a thickened cell wall that restricts entry of O₂ produced by neighboring cells. Intracellular connections allow heterocysts to transport fixed nitrogen to neighboring cells in exchange for carbohydrates.\" 61) Given that the enzymes that catalyze nitrogen fixation are inhibited by oxygen, what are two \"strategies\" that nitrogen-fixing prokaryotes might use to protect these enzymes from oxygen? 1. couple them with photosystem II (the photosystem that splits water molecules) 2. package them in membranes that are impermeable to all gases 3. be obligate anaerobes 4. be strict aerobes 5. package these enzymes in specialized cells or compartments that inhibit oxygen entry",
+        "options": [
+            "A) 1 and 4",
+            "B) 2 and 4",
+            "C) 2 and 5",
+            "D) 3 and 4",
+            "E) 3 and 5"
+        ],
+        "back": "E",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "Nitrogenase, the enzyme that catalyzes nitrogen fixation, is inhibited whenever free O₂ reaches a critical concentration. Consequently, nitrogen fixation cannot occur in cells wherein photosynthesis produces free O₂. Consider the colonial aquatic cyanobacterium, Anabaena, whose heterocytes are described as having \"…a thickened cell wall that restricts entry of O₂ produced by neighboring cells. Intracellular connections allow heterocysts to transport fixed nitrogen to neighboring cells in exchange for carbohydrates.\" 62) Which two questions below arise from a careful reading of this quotation, and are most important for understanding how N₂ enters heterocysts, and how O₂ is kept out of heterocysts? 1. If carbohydrates can enter the heterocysts from neighboring cells via the \"intracellular connections,\" how is it that O₂ doesn't also enter via this route? 2. If the cell walls of Anabaena's photosynthetic cells are permeable to O₂ and CO₂, are they also permeable to N₂? 3. If the nuclei of the photosynthetic cells contain the genes that code for nitrogen fixation, how can these cells fail to perform nitrogen fixation? 4. If the nuclei of the heterocysts contain the genes that code for photosynthesis, how can these cells fail to perform photosynthesis? 5. If the cell walls of Anabaena's heterocysts are permeable to N₂, how is it that N₂ doesn't diffuse out of the heterocysts before it can be fixed? 6. If the thick cell walls of the heterocysts exclude entry of oxygen gas, how is it that they don't also exclude the entry of nitrogen gas?",
+        "options": [
+            "A) 1 and 3",
+            "B) 1 and 6",
+            "C) 2 and 5",
+            "D) 3 and 4",
+            "E) 4 and 6"
+        ],
+        "back": "B",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "The following table depicts characteristics of five prokaryotic species (A—E). Use the information in the table to answer the following question. 63) Which two species should have much more phospholipid, in the form of bilayers, in their cytoplasms than most other bacteria?",
+        "options": [
+            "A) species A and B",
+            "B) species A and C",
+            "C) species B and E",
+            "D) species C and D",
+            "E) species C and E"
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/254/77/2522f4b0_13a997b09fc__8000_00000287.jpg"
+        ]
+    },
+    {
+        "front": "The following table depicts characteristics of five prokaryotic species (A—E). Use the information in the table to answer the following question. 64) Which species should be able to respond most readily to taxes (plural of taxis)?",
+        "options": [
+            "A) species A",
+            "B) species B",
+            "C) species C",
+            "D) species D",
+            "E) species E"
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/254/77/2522f4b0_13a997b09fc__8000_00000287.jpg"
+        ]
+    },
+    {
+        "front": "The following table depicts characteristics of five prokaryotic species (A—E). Use the information in the table to answer the following question. 65) How many of these species probably have a cell wall that partly consists of an outer membrane of lipopolysaccharide?",
+        "options": [
+            "A) only one species",
+            "B) two species",
+            "C) three species",
+            "D) four species",
+            "E) all five species"
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/254/77/2522f4b0_13a997b09fc__8000_00000287.jpg"
+        ]
+    },
+    {
+        "front": "The following table depicts characteristics of five prokaryotic species (A—E). Use the information in the table to answer the following question. 66) Gram-variable prokaryotes are, sometimes, those without any peptidoglycan. Which two species are most likely to be archaeans?",
+        "options": [
+            "A) species A and B",
+            "B) species A and C",
+            "C) species B and E",
+            "D) species C and D",
+            "E) species C and E"
+        ],
+        "back": "A",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/254/77/2522f4b0_13a997b09fc__8000_00000287.jpg"
+        ]
+    },
+    {
+        "front": "The following table depicts characteristics of five prokaryotic species (A—E). Use the information in the table to answer the following question. 67) Species D is pathogenic if it gains access to the human intestine. Which other species, if it coinhabited a human intestine along with species D, is most likely to result in a recombinant species that is both pathogenic and resistant to some antibiotics?",
+        "options": [
+            "A) species A",
+            "B) species B",
+            "C) species C",
+            "D) species D",
+            "E) species E"
+        ],
+        "back": "C",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/254/77/2522f4b0_13a997b09fc__8000_00000287.jpg"
+        ]
+    },
+    {
+        "front": "The following table depicts characteristics of five prokaryotic species (A—E). Use the information in the table to answer the following question. 68) Which species might be able to include Hfr cells?",
+        "options": [
+            "A) species A",
+            "B) species B",
+            "C) species C",
+            "D) species D",
+            "E) species E"
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/254/77/2522f4b0_13a997b09fc__8000_00000287.jpg"
+        ]
+    },
+    {
+        "front": "The following table depicts characteristics of five prokaryotic species (A—E). Use the information in the table to answer the following question. 69) Which species is most self-sustaining in terms of obtaining nutrition in environments containing little fixed nitrogen or carbon?",
+        "options": [
+            "A) species A",
+            "B) species B",
+            "C) species C",
+            "D) species D",
+            "E) species E"
+        ],
+        "back": "E",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/254/77/2522f4b0_13a997b09fc__8000_00000287.jpg"
+        ]
+    },
+    {
+        "front": "The following table depicts characteristics of five prokaryotic species (A—E). Use the information in the table to answer the following question. 70) Which two species might be expected to cooperate metabolically, perhaps forming a biofilm wherein one species surrounds cells of the other species?",
+        "options": [
+            "A) species A and B",
+            "B) species A and C",
+            "C) species B and E",
+            "D) species C and D",
+            "E) species C and E"
+        ],
+        "back": "A",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/254/77/2522f4b0_13a997b09fc__8000_00000287.jpg"
+        ]
+    },
+    {
+        "front": "The following table depicts characteristics of five prokaryotic species (A—E). Use the information in the table to answer the following question. 71) Which species is most likely to be found both in sewage treatment plants and in the guts of cattle?",
+        "options": [
+            "A) species A",
+            "B) species B",
+            "C) species C",
+            "D) species D",
+            "E) species E"
+        ],
+        "back": "B",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/254/77/2522f4b0_13a997b09fc__8000_00000287.jpg"
+        ]
+    },
+    {
+        "front": "The following table depicts characteristics of five prokaryotic species (A—E). Use the information in the table to answer the following question. 72) Which species is probably an important contributor to the base of aquatic food chains as a primary producer?",
+        "options": [
+            "A) species A",
+            "B) species B",
+            "C) species C",
+            "D) species D",
+            "E) species E"
+        ],
+        "back": "E",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": [
+            "https://web.archive.org/web/20170801142620im_/https://www.easynotecards.com/uploads/254/77/2522f4b0_13a997b09fc__8000_00000287.jpg"
+        ]
+    },
+    {
+        "front": "73) Genetic variation in bacterial populations cannot result from",
+        "options": [
+            "A) transduction.",
+            "B) transformation",
+            "C) conjugation",
+            "D) mutation.",
+            "E) meiosis."
+        ],
+        "back": "E",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "74) Photoautotrophs use",
+        "options": [
+            "A) light as an energy source and CO₂ as a carbon source.",
+            "B) light as an energy source and methane as a carbon source.",
+            "C) N₂ as an energy source and CO₂ as a carbon source.",
+            "D) CO₂ as both an energy source and a carbon source.",
+            "E) H₂S as an energy source and CO₂ as a carbon source."
+        ],
+        "back": "A",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "75) Which of the following statements is not true?",
+        "options": [
+            "A) Archaea and bacteria have different membrane lipids.",
+            "B) Both archaea and bacteria generally lack membrane-enclosed organelles.",
+            "C) The cell walls of archaea lack peptidoglycan.",
+            "D) Only bacteria have histones associated with DNA.",
+            "E) Only some archaea use CO₂ to oxidize H₂, releasing methane."
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "76) Which of the following involves metabolic cooperation among prokaryotic cells?",
+        "options": [
+            "A) binary fission",
+            "B) endospore formation",
+            "C) endotoxin release",
+            "D) biofilms",
+            "E) photoautotrophy"
+        ],
+        "back": "D",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "77) Bacteria perform each of the following ecological roles. Which role typically does not involve a symbiosis?",
+        "options": [
+            "A) skin commensalist",
+            "B) decomposer",
+            "C) aggregates with methane-consuming archaea",
+            "D) gut mutualist",
+            "E) pathogen"
+        ],
+        "back": "B",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    },
+    {
+        "front": "78) Plantlike photosynthesis that releases O₂ occurs in",
+        "options": [
+            "A) cyanobacteria.",
+            "B) chlamydias.",
+            "C) archaea.",
+            "D) actinomycetes.",
+            "E) chemoautotrophic bacteria."
+        ],
+        "back": "A",
+        "unit": "Unit 27",
+        "chapter": "Chapter 27",
+        "images": []
+    }
+]
