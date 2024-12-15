@@ -46,62 +46,55 @@ def scrape_easynotecards_to_json(url, output_file='flashcards.json', unit='', ch
         # Extract the question part
         term_div = card.find('div', class_='term')
         if not term_div:
-            print(f"Flashcard {idx}: 'term' div not found. Skipping.")
-            continue  # Skip if term div is not found
+            print(f"Flashcard {idx}: 'term' div not found. Skipping. {chapter}")
+            continue
 
         question_text_div = term_div.find('div', class_='term-text')
         if not question_text_div:
             print(f"Flashcard {idx}: 'term-text' div not found. Skipping.")
-            continue  # Skip if question text div is not found
+            continue
 
-        # Extract text and split by <br> tags
-        question_paragraph = question_text_div.find('p')
-        if question_paragraph:
-            # Replace <br> tags with newline characters
-            for br in question_paragraph.find_all('br'):
+        question_paragraphs = question_text_div.find_all('p')
+        full_text = ''
+        for paragraph in question_paragraphs:
+            for br in paragraph.find_all('br'):
                 br.replace_with('\n')
-            # Get the full text with newlines
-            full_text = question_paragraph.get_text(separator='\n').strip()
-            # Split into lines
-            lines = [line.strip() for line in full_text.split('\n') if line.strip()]
-            
-            if not lines:
-                front = "No question text found."
-                options = []
-            else:
-                # Initialize front and options
-                front = ""
-                options = []
-                current_option = ""
-                option_labels = ['A)', 'B)', 'C)', 'D)', 'E)']
+            full_text += paragraph.get_text(separator='\n').strip() + '\n'
+        full_text = full_text.strip()
 
-                for line in lines:
-                    # Check if the line starts with an option label
-                    if any(line.startswith(label) for label in option_labels):
-                        if current_option:
-                            options.append(current_option.strip())
-                        current_option = line
-                    else:
-                        # Continuation of the current option
-                        if current_option:
-                            current_option += " " + line
-                        else:
-                            # If there's text before any option label, it's part of the question
-                            front += line + " "
+        # Split into lines
+        lines = [line.strip() for line in full_text.split('\n') if line.strip()]
 
-                # Append the last option
+        front = ""
+        options = []
+        current_option = ""
+        option_labels = ['A)', 'B)', 'C)', 'D)', 'E)']
+
+        contains_image_reference = False
+
+        for line in lines:
+            if "SEE IMAGE FOR CHOICES" in line.upper():
+                contains_image_reference = True
+                break
+            # Check if the line starts with an option label
+            if any(line.startswith(label) for label in option_labels):
                 if current_option:
                     options.append(current_option.strip())
+                current_option = line
+            else:
+                if current_option:
+                    current_option += " " + line
+                else:
+                    front += line + " "
 
-                front = front.strip()
+        # Append the last option
+        if current_option:
+            options.append(current_option.strip())
 
-                # Optional: Verify that at least one option starts with "A)"
-                if not any(opt.startswith('A)') for opt in options):
-                    print(f"Flashcard {idx}: No options starting with 'A)' found. Skipping.")
-                    continue
-        else:
-            front = "No question text found."
-            options = []
+        front = front.strip()
+
+        if contains_image_reference:
+            options = ["[See image for choices]"]
 
         # Extract images with class "ei" within the flashcard
         images = []
@@ -117,7 +110,6 @@ def scrape_easynotecards_to_json(url, output_file='flashcards.json', unit='', ch
                     base_url = f"{parsed_url.scheme}://{parsed_url.netloc}"
                     img_src = urljoin(base_url, img_src)
                 elif not img_src.startswith('http://') and not img_src.startswith('https://'):
-                    # Handle other relative URLs
                     parsed_url = urlparse(url)
                     base_url = f"{parsed_url.scheme}://{parsed_url.netloc}"
                     img_src = urljoin(base_url, img_src)
@@ -131,7 +123,6 @@ def scrape_easynotecards_to_json(url, output_file='flashcards.json', unit='', ch
             answer_paragraph = def_div.find('p')
             if answer_paragraph:
                 answer_text = answer_paragraph.get_text(strip=True)
-                # Extract the part after 'Answer: ' using partition
                 _, _, answer = answer_text.partition('Answer:')
                 answer = answer.strip()
             else:
@@ -147,16 +138,6 @@ def scrape_easynotecards_to_json(url, output_file='flashcards.json', unit='', ch
             'images': images
         })
 
-        # Optional: Print debug information for each flashcard
-        # Uncomment the following lines if you need to see the parsed data
-        # print(f"Flashcard {idx}:")
-        # print(f"Front: {front}")
-        # print(f"Options: {options}")
-        # print(f"Back: {answer}")
-        # print(f"Unit: {unit}")
-        # print(f"Chapter: {chapter}")
-        # print(f"Images: {images}\n")
-
     # Write data to JSON
     try:
         os.makedirs("./data", exist_ok=True)
@@ -166,6 +147,7 @@ def scrape_easynotecards_to_json(url, output_file='flashcards.json', unit='', ch
     except IOError as e:
         print(f"Error writing to JSON file: {e}")
         sys.exit(1)
+
 
 def parse_arguments():
     """
@@ -182,32 +164,72 @@ def parse_arguments():
     return parser.parse_args()
 
 def do():
-    index = 1
-    chapter = 1
     indexToUrl = {
-        1: "https://www.easynotecards.com/notecard_set/89356",
-        2: "https://www.easynotecards.com/notecard_set/89357",
-        3: "https://www.easynotecards.com/notecard_set/89358",
-        4: "https://www.easynotecards.com/notecard_set/89359",
-        5: "https://www.easynotecards.com/notecard_set/89360",
-        6: "https://www.easynotecards.com/notecard_set/89361",
-        7: "https://www.easynotecards.com/notecard_set/89362",
-        8: "https://www.easynotecards.com/notecard_set/89363",
-        9: "https://www.easynotecards.com/notecard_set/89073",
-        10: "https://www.easynotecards.com/notecard_set/89364",
+        1: 'https://www.easynotecards.com/notecard_set/89356',
+    2: 'https://www.easynotecards.com/notecard_set/89357',
+    3: 'https://www.easynotecards.com/notecard_set/89358',
+    4: 'https://www.easynotecards.com/notecard_set/89359',
+    5: 'https://www.easynotecards.com/notecard_set/89360',
+    6: 'https://www.easynotecards.com/notecard_set/89361',
+    7: 'https://www.easynotecards.com/notecard_set/89362',
+    8: 'https://www.easynotecards.com/notecard_set/89363',
+    9: 'https://www.easynotecards.com/notecard_set/87887',
+    10: 'https://www.easynotecards.com/notecard_set/87898',
+    11: 'https://www.easynotecards.com/notecard_set/89364',
+    12: 'https://www.easynotecards.com/notecard_set/89365',
+    13: 'https://www.easynotecards.com/notecard_set/89366',
+    14: 'https://www.easynotecards.com/notecard_set/89367',
+    15: 'https://www.easynotecards.com/notecard_set/89368',
+    16: 'https://www.easynotecards.com/notecard_set/88917',
+    17: 'https://www.easynotecards.com/notecard_set/88921',
+    18: 'https://www.easynotecards.com/notecard_set/88919',
+    19: 'https://www.easynotecards.com/notecard_set/88845',
+    20: 'https://www.easynotecards.com/notecard_set/88846',
+    21: 'https://www.easynotecards.com/notecard_set/88972',
+    22: 'https://www.easynotecards.com/notecard_set/88916',
+    23: 'https://www.easynotecards.com/notecard_set/88935',
+    24: 'https://www.easynotecards.com/notecard_set/88936',
+    25: 'https://www.easynotecards.com/notecard_set/89070',
+    26: 'https://www.easynotecards.com/notecard_set/89072',
+    27: 'https://www.easynotecards.com/notecard_set/88847',
+    28: 'https://www.easynotecards.com/notecard_set/89068',
+    29: 'https://www.easynotecards.com/notecard_set/89198',
+    30: 'https://www.easynotecards.com/notecard_set/89302',
+    31: 'https://www.easynotecards.com/notecard_set/89256',
+    32: 'https://www.easynotecards.com/notecard_set/89201',
+    33: 'https://www.easynotecards.com/notecard_set/89303',
+    34: 'https://www.easynotecards.com/notecard_set/89146',
+    35: 'https://www.easynotecards.com/notecard_set/88971',
+    36: 'https://www.easynotecards.com/notecard_set/88970',
+    37: 'https://www.easynotecards.com/notecard_set/88968',
+    38: 'https://www.easynotecards.com/notecard_set/88967',
+    39: 'https://www.easynotecards.com/notecard_set/88965',
+    40: 'https://www.easynotecards.com/notecard_set/88751',
+    41: 'https://www.easynotecards.com/notecard_set/89014',
+    42: 'https://www.easynotecards.com/notecard_set/89013',
+    43: 'https://www.easynotecards.com/notecard_set/88754',
+    44: 'https://www.easynotecards.com/notecard_set/89371',
+    45: 'https://www.easynotecards.com/notecard_set/89372',
+    46: 'https://www.easynotecards.com/notecard_set/89372',
+    47: 'https://www.easynotecards.com/notecard_set/89374',
+    48: 'https://www.easynotecards.com/notecard_set/89375',
+    49: 'https://www.easynotecards.com/notecard_set/89376',
+    50: 'https://www.easynotecards.com/notecard_set/89377',
+    51: 'https://www.easynotecards.com/notecard_set/89379',
+    52: 'https://www.easynotecards.com/notecard_set/89380',
+    53: 'https://www.easynotecards.com/notecard_set/89381',
+    54: 'https://www.easynotecards.com/notecard_set/89382',
+    55: 'https://www.easynotecards.com/notecard_set/89370'
     }
+    
+    for i in range(1, 56):
+        url = indexToUrl[i]
+        output_file = f"flashcards_{i}.json"
+        unit = f"Unit {i}"
+        chapter = f"Chapter {i}"
+        scrape_easynotecards_to_json(url, output_file, unit, chapter)
 
 
-    for i in range(10):
-        index += 1
-        chapter += 1
-        
-        scrape_easynotecards_to_json(
-            url=indexToUrl[index],
-            output_file=f"chapter{chapter}.json",
-            unit=f"Chapter {chapter}",
-            chapter=f"Chapter {chapter}"
-        )
 
 if __name__ == "__main__":
     do()
