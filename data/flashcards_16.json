@@ -1,805 +1,770 @@
 [
-    {
-        "front": "1) In his transformation experiments, what did Griffith observe?",
-        "options": [
-            "A) Mutant mice were resistant to bacterial infections.",
-            "B) Mixing a heat-killed pathogenic strain of bacteria with a living nonpathogenic strain can convert some of the living cells into the pathogenic form.",
-            "C) Mixing a heat-killed nonpathogenic strain of bacteria with a living pathogenic strain makes the pathogenic strain nonpathogenic.",
-            "D) Infecting mice with nonpathogenic strains of bacteria makes them resistant to pathogenic strains.",
-            "E) Mice infected with a pathogenic strain of bacteria can spread the infection to other mice."
-        ],
-        "back": "B",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "2) How do we describe transformation in bacteria?",
-        "options": [
-            "A) the creation of a strand of DNA from an RNA molecule",
-            "B) the creation of a strand of RNA from a DNA molecule",
-            "C) the infection of cells by a phage DNA molecule",
-            "D) the type of semiconservative replication shown by DNA",
-            "E) assimilation of external DNA into a cell"
-        ],
-        "back": "E",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "3) After mixing a heat-killed, phosphorescent strain of bacteria with a living nonphosphorescent strain, you discover that some of the living cells are now phosphorescent. Which observations would provide the best evidence that the ability to fluoresce is a heritable trait?",
-        "options": [
-            "A) DNA passed from the heat-killed strain to the living strain.",
-            "B) Protein passed from the heat-killed strain to the living strain.",
-            "C) The phosphorescence in the living strain is especially bright.",
-            "D) Descendants of the living cells are also phosphorescent.",
-            "E) Both DNA and protein passed from the heat-killed strain to the living strain."
-        ],
-        "back": "D",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "4) In trying to determine whether DNA or protein is the genetic material, Hershey and Chase made use of which of the following facts?",
-        "options": [
-            "A) DNA contains sulfur, whereas protein does not.",
-            "B) DNA contains phosphorus, whereas protein does not.",
-            "C) DNA contains nitrogen, whereas protein does not.",
-            "D) DNA contains purines, whereas protein includes pyrimidines.",
-            "E) RNA includes ribose, whereas DNA includes deoxyribose sugars."
-        ],
-        "back": "B",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "5) Which of the following investigators was/were responsible for the following discovery? In DNA from any species, the amount of adenine equals the amount of thymine, and the amount of guanine equals the amount of cytosine.",
-        "options": [
-            "A) Frederick Griffith",
-            "B) Alfred Hershey and Martha Chase",
-            "C) Oswald Avery, Maclyn McCarty, and Colin MacLeod",
-            "D) Erwin Chargaff",
-            "E) Matthew Meselson and Franklin Stahl"
-        ],
-        "back": "D",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "6) Cytosine makes up 42% of the nucleotides in a sample of DNA from an organism. Approximately what percentage of the nucleotides in this sample will be thymine?",
-        "options": [
-            "A) 8%",
-            "B) 16%",
-            "C) 31%",
-            "D) 42%",
-            "E) It cannot be determined from the information provided."
-        ],
-        "back": "A",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "7) Which of the following can be determined directly from X-ray diffraction photographs of crystallized DNA?",
-        "options": [
-            "A) the diameter of the helix",
-            "B) the rate of replication",
-            "C) the sequence of nucleotides",
-            "D) the bond angles of the subunits",
-            "E) the frequency of A vs. T nucleotides"
-        ],
-        "back": "A",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "8) It became apparent to Watson and Crick after completion of their model that the DNA molecule could carry a vast amount of hereditary information in which of the following?",
-        "options": [
-            "A) sequence of bases",
-            "B) phosphate-sugar backbones",
-            "C) complementary pairing of bases",
-            "D) side groups of nitrogenous bases",
-            "E) different five-carbon sugars"
-        ],
-        "back": "A",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "9) In an analysis of the nucleotide composition of DNA, which of the following will be found?",
-        "options": [
-            "A) A = C",
-            "B) A = G and C = T",
-            "C) A + C = G + T",
-            "D) G + C = T + A"
-        ],
-        "back": "C",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "10) Replication in prokaryotes differs from replication in eukaryotes for which of the following reasons?",
-        "options": [
-            "A) Prokaryotic chromosomes have histones, whereas eukaryotic chromosomes do not.",
-            "B) Prokaryotic chromosomes have a single origin of replication, whereas eukaryotic chromosomes have many.",
-            "C) The rate of elongation during DNA replication is slower in prokaryotes than in eukaryotes.",
-            "D) Prokaryotes produce Okazaki fragments during DNA replication, but eukaryotes do not.",
-            "E) Prokaryotes have telomeres, and eukaryotes do not."
-        ],
-        "back": "B",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "11) What is meant by the description \"antiparallel\" regarding the strands that make up DNA?",
-        "options": [
-            "A) The twisting nature of DNA creates nonparallel strands.",
-            "B) The 5' to 3' direction of one strand runs counter to the 5' to 3' direction of the other strand.",
-            "C) Base pairings create unequal spacing between the two DNA strands.",
-            "D) One strand is positively charged and the other is negatively charged.",
-            "E) One strand contains only purines and the other contains only pyrimidines."
-        ],
-        "back": "B",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "12) Suppose you are provided with an actively dividing culture of E. coli bacteria to which radioactive thymine has been added. What would happen if a cell replicates once in the presence of this radioactive base?",
-        "options": [
-            "A) One of the daughter cells, but not the other, would have radioactive DNA.",
-            "B) Neither of the two daughter cells would be radioactive.",
-            "C) All four bases of the DNA would be radioactive.",
-            "D) Radioactive thymine would pair with nonradioactive guanine.",
-            "E) DNA in both daughter cells would be radioactive."
-        ],
-        "back": "E",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "13) An Okazaki fragment has which of the following arrangements?",
-        "options": [
-            "A) primase, polymerase, ligase",
-            "B) 3' RNA nucleotides, DNA nucleotides 5'",
-            "C) 5' RNA nucleotides, DNA nucleotides 3'",
-            "D) DNA polymerase I, DNA polymerase III",
-            "E) 5' DNA to 3'"
-        ],
-        "back": "C",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "14) In E. coli, there is a mutation in a gene called dnaB that alters the helicase that normally acts at the origin. Which of the following would you expect as a result of this mutation?",
-        "options": [
-            "A) No proofreading will occur.",
-            "B) No replication fork will be formed.",
-            "C) The DNA will supercoil.",
-            "D) Replication will occur via RNA polymerase alone.",
-            "E) Replication will require a DNA template from another source."
-        ],
-        "back": "B",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "15) Which enzyme catalyzes the elongation of a DNA strand in the 5' → 3' direction?",
-        "options": [
-            "A) primase",
-            "B) DNA ligase",
-            "C) DNA polymerase III",
-            "D) topoisomerase",
-            "E) helicase"
-        ],
-        "back": "C",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "16) Eukaryotic telomeres replicate differently than the rest of the chromosome. This is a consequence of which of the following?",
-        "options": [
-            "A) the evolution of telomerase enzyme",
-            "B) DNA polymerase that cannot replicate the leading strand template to its 5' end",
-            "C) gaps left at the 5' end of the lagging strand",
-            "D) gaps left at the 3' end of the lagging strand because of the need for a primer",
-            "E) the \"no ends\" of a circular chromosome"
-        ],
-        "back": "C",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "17) The enzyme telomerase solves the problem of replication at the ends of linear chromosomes by which method?",
-        "options": [
-            "A) adding a single 5' cap structure that resists degradation by nucleases",
-            "B) causing specific double-strand DNA breaks that result in blunt ends on both strands",
-            "C) causing linear ends of the newly replicated DNA to circularize",
-            "D) adding numerous short DNA sequences such as TTAGGG, which form a hairpin turn",
-            "E) adding numerous GC pairs which resist hydrolysis and maintain chromosome integrity"
-        ],
-        "back": "D",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "18) The DNA of telomeres has been found to be highly conserved throughout the evolution of eukaryotes. What does this most probably reflect?",
-        "options": [
-            "A) the inactivity of this DNA",
-            "B) the low frequency of mutations occurring in this DNA",
-            "C) that new evolution of telomeres continues",
-            "D) that mutations in telomeres are relatively advantageous",
-            "E) that the critical function of telomeres must be maintained"
-        ],
-        "back": "E",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "19) At a specific area of a chromosome, the sequence of nucleotides below is present where the chain opens to form a replication fork: 3' C C T A G G C T G C A A T C C 5' An RNA primer is formed starting at the underlined T (T) of the template. Which of the following represents the primer sequence?",
-        "options": [
-            "A) 5' G C C T A G G 3'",
-            "B) 3' G C C T A G G 5'",
-            "C) 5' A C G T T A G G 3'",
-            "D) 5' A C G U U A G G 3'",
-            "E) 5' G C C U A G G 3'"
-        ],
-        "back": "D",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "20) Polytene chromosomes of Drosophila salivary glands each consist of multiple identical DNA strands that are aligned in parallel arrays. How could these arise?",
-        "options": [
-            "A) replication followed by mitosis",
-            "B) replication without separation",
-            "C) meiosis followed by mitosis",
-            "D) fertilization by multiple sperm",
-            "E) special association with histone proteins"
-        ],
-        "back": "B",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "21) To repair a thymine dimer by nucleotide excision repair, in which order do the necessary enzymes act?",
-        "options": [
-            "A) exonuclease, DNA polymerase III, RNA primase",
-            "B) helicase, DNA polymerase I, DNA ligase",
-            "C) DNA ligase, nuclease, helicase",
-            "D) DNA polymerase I, DNA polymerase III, DNA ligase",
-            "E) endonuclease, DNA polymerase I, DNA ligase"
-        ],
-        "back": "E",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "22) What is the function of DNA polymerase III?",
-        "options": [
-            "A) to unwind the DNA helix during replication",
-            "B) to seal together the broken ends of DNA strands",
-            "C) to add nucleotides to the 3' end of a growing DNA strand",
-            "D) to degrade damaged DNA molecules",
-            "E) to rejoin the two DNA strands (one new and one old) after replication"
-        ],
-        "back": "C",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "23) The difference between ATP and the nucleoside triphosphates used during DNA synthesis is that",
-        "options": [
-            "A) the nucleoside triphosphates have the sugar deoxyribose; ATP has the sugar ribose.",
-            "B) the nucleoside triphosphates have two phosphate groups; ATP has three phosphate groups.",
-            "C) ATP contains three high-energy bonds; the nucleoside triphosphates have two.",
-            "D) ATP is found only in human cells; the nucleoside triphosphates are found in all animal and plant cells.",
-            "E) triphosphate monomers are active in the nucleoside triphosphates, but not in ATP."
-        ],
-        "back": "A",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "24) The leading and the lagging strands differ in that",
-        "options": [
-            "A) the leading strand is synthesized in the same direction as the movement of the replication fork, and the lagging strand is synthesized in the opposite direction.",
-            "B) the leading strand is synthesized by adding nucleotides to the 3' end of the growing strand, and the lagging strand is synthesized by adding nucleotides to the 5' end.",
-            "C) the lagging strand is synthesized continuously, whereas the leading strand is synthesized in short fragments that are ultimately stitched together.",
-            "D) the leading strand is synthesized at twice the rate of the lagging strand."
-        ],
-        "back": "A",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "25) A new DNA strand elongates only in the 5' to 3' direction because",
-        "options": [
-            "A) DNA polymerase begins adding nucleotides at the 5' end of the template.",
-            "B) Okazaki fragments prevent elongation in the 3' to 5' direction.",
-            "C) the polarity of the DNA molecule prevents addition of nucleotides at the 3' end.",
-            "D) replication must progress toward the replication fork.",
-            "E) DNA polymerase can only add nucleotides to the free 3' end."
-        ],
-        "back": "E",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "26) What is the function of topoisomerase?",
-        "options": [
-            "A) relieving strain in the DNA ahead of the replication fork",
-            "B) elongating new DNA at a replication fork by adding nucleotides to the existing chain",
-            "C) adding methyl groups to bases of DNA",
-            "D) unwinding of the double helix",
-            "E) stabilizing single-stranded DNA at the replication fork"
-        ],
-        "back": "A",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "27) What is the role of DNA ligase in the elongation of the lagging strand during DNA replication?",
-        "options": [
-            "A) It synthesizes RNA nucleotides to make a primer.",
-            "B) It catalyzes the lengthening of telomeres.",
-            "C) It joins Okazaki fragments together.",
-            "D) It unwinds the parental double helix.",
-            "E) It stabilizes the unwound parental DNA."
-        ],
-        "back": "C",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "28) Which of the following help(s) to hold the DNA strands apart while they are being replicated?",
-        "options": [
-            "A) primase",
-            "B) ligase",
-            "C) DNA polymerase",
-            "D) single-strand binding proteins",
-            "E) exonuclease"
-        ],
-        "back": "D",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "29) Individuals with the disorder xeroderma pigmentosum are hypersensitive to sunlight. This occurs because their cells are impaired in what way?",
-        "options": [
-            "A) They cannot replicate DNA.",
-            "B) They cannot undergo mitosis.",
-            "C) They cannot exchange DNA with other cells.",
-            "D) They cannot repair thymine dimers.",
-            "E) They do not recombine homologous chromosomes during meiosis."
-        ],
-        "back": "D",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "30) Which of the following would you expect of a eukaryote lacking telomerase?",
-        "options": [
-            "A) a high probability of somatic cells becoming cancerous",
-            "B) production of Okazaki fragments",
-            "C) inability to repair thymine dimers",
-            "D) a reduction in chromosome length in gametes",
-            "E) high sensitivity to sunlight"
-        ],
-        "back": "D",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "Use the following list of choices for the following question I. helicase II. DNA polymerase III III. ligase IV. DNA polymerase I V. primase 31) Which of the enzymes removes the RNA nucleotides from the primer and adds equivalent DNA nucleotides to the 3' end of Okazaki fragments?",
-        "options": [
-            "A) I",
-            "B) II",
-            "C) III",
-            "D) IV",
-            "E) V"
-        ],
-        "back": "D",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "Use the following list of choices for the following question I. helicase II. DNA polymerase III III. ligase IV. DNA polymerase I V. primase 32) Which of the enzymes separates the DNA strands during replication?",
-        "options": [
-            "A) I",
-            "B) II",
-            "C) III",
-            "D) IV",
-            "E) V"
-        ],
-        "back": "A",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "Use the following list of choices for the following question I. helicase II. DNA polymerase III III. ligase IV. DNA polymerase I V. primase 33) Which of the enzymes covalently connects segments of DNA?",
-        "options": [
-            "A) I",
-            "B) II",
-            "C) III",
-            "D) IV",
-            "E) V"
-        ],
-        "back": "C",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "Use the following list of choices for the following question I. helicase II. DNA polymerase III III. ligase IV. DNA polymerase I V. primase 34) Which of the enzymes synthesizes short segments of RNA?",
-        "options": [
-            "A) I",
-            "B) II",
-            "C) III",
-            "D) IV",
-            "E) V"
-        ],
-        "back": "E",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "35) Which of the following sets of materials are required by both eukaryotes and prokaryotes for replication?",
-        "options": [
-            "A) double-stranded DNA, four kinds of dNTPs, primers, origins",
-            "B) topoisomerases, telomerases, polymerases",
-            "C) G-C rich regions, polymerases, chromosome nicks",
-            "D) nucleosome loosening, four dNTPs, four rNTPs",
-            "E) ligase, primers, nucleases"
-        ],
-        "back": "A",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "36) Studies of nucleosomes have shown that histones (except H1) exist in each nucleosome as two kinds of tetramers: one of 2 H2A molecules and 2 H2B molecules, and the other as 2 H3 and 2 H4 molecules. Which of the following is supported by this data?",
-        "options": [
-            "A) DNA can wind itself around either of the two kinds of tetramers.",
-            "B) The two types of tetramers associate to form an octamer.",
-            "C) DNA has to associate with individual histones before they form tetramers.",
-            "D) Only H2A can form associations with DNA molecules.",
-            "E) The structure of H3 and H4 molecules is not basic like that of the other histones."
-        ],
-        "back": "B",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "37) In a linear eukaryotic chromatin sample, which of the following strands is looped into domains by scaffolding?",
-        "options": [
-            "A) DNA without attached histones",
-            "B) DNA with H1 only",
-            "C) the 10-nm chromatin fiber",
-            "D) the 30-nm chromatin fiber",
-            "E) the metaphase chromosome"
-        ],
-        "back": "D",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "38) Which of the following statements describes the eukaryotic chromosome?",
-        "options": [
-            "A) It is composed of DNA alone.",
-            "B) The nucleosome is its most basic functional subunit.",
-            "C) The number of genes on each chromosome is different in different cell types of an organism.",
-            "D) It consists of a single linear molecule of double-stranded DNA plus proteins.",
-            "E) Active transcription occurs on heterochromatin but not euchromatin."
-        ],
-        "back": "D",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "39) If a cell were unable to produce histone proteins, which of the following would be a likely effect?",
-        "options": [
-            "A) There would be an increase in the amount of \"satellite\" DNA produced during centrifugation.",
-            "B) The cell's DNA couldn't be packed into its nucleus.",
-            "C) Spindle fibers would not form during prophase.",
-            "D) Amplification of other genes would compensate for the lack of histones.",
-            "E) Pseudogenes would be transcribed to compensate for the decreased protein in the cell."
-        ],
-        "back": "B",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "40) Which of the following statements is true of histones?",
-        "options": [
-            "A) Each nucleosome consists of two molecules of histone H1.",
-            "B) Histone H1 is not present in the nucleosome bead; instead, it draws the nucleosomes together.",
-            "C) The carboxyl end of each histone extends outward from the nucleosome and is called a \"histone tail.\"",
-            "D) Histones are found in mammals, but not in other animals or in plants or fungi.",
-            "E) The mass of histone in chromatin is approximately nine times the mass of DNA."
-        ],
-        "back": "B",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "41) Why do histones bind tightly to DNA?",
-        "options": [
-            "A) Histones are positively charged, and DNA is negatively charged.",
-            "B) Histones are negatively charged, and DNA is positively charged.",
-            "C) Both histones and DNA are strongly hydrophobic.",
-            "D) Histones are covalently linked to the DNA.",
-            "E) Histones are highly hydrophobic, and DNA is hydrophilic."
-        ],
-        "back": "A",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "42) Which of the following represents the order of increasingly higher levels of organization of chromatin?",
-        "options": [
-            "A) nucleosome, 30-nm chromatin fiber, looped domain",
-            "B) looped domain, 30-nm chromatin fiber, nucleosome",
-            "C) looped domain, nucleosome, 30-nm chromatin fiber",
-            "D) nucleosome, looped domain, 30-nm chromatin fiber",
-            "E) 30-nm chromatin fiber, nucleosome, looped domain"
-        ],
-        "back": "A",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "43) Which of the following statements describes chromatin?",
-        "options": [
-            "A) Heterochromatin is composed of DNA, whereas euchromatin is made of DNA and RNA.",
-            "B) Both heterochromatin and euchromatin are found in the cytoplasm.",
-            "C) Heterochromatin is highly condensed, whereas euchromatin is less compact.",
-            "D) Euchromatin is not transcribed, whereas heterochromatin is transcribed.",
-            "E) Only euchromatin is visible under the light microscope."
-        ],
-        "back": "C",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "44) In the late 1950s, Meselson and Stahl grew bacteria in a medium containing \"heavy\" nitrogen (¹⁵N) and then transferred them to a medium containing ¹⁴N. Which of the results in the figure above would be expected after one round of DNA replication in the presence of ¹⁴N?",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "D",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": [
-            "https://web.archive.org/web/20170715170827im_/http://www.easynotecards.com:80/uploads/1119/39/69c3b13a_13a8788d737__8000_00000230.jpg"
-        ]
-    },
-    {
-        "front": "45) A space probe returns with a culture of a microorganism found on a distant planet. Analysis shows that it is a carbon-based life-form that has DNA. You grow the cells in ¹⁵N medium for several generations and then transfer them to ¹⁴N medium. Which pattern in the figure above would you expect if the DNA was replicated in a conservative manner?",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "B",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": [
-            "https://web.archive.org/web/20170715170827im_/http://www.easynotecards.com:80/uploads/1119/39/69c3b13a_13a8788d737__8000_00000230.jpg"
-        ]
-    },
-    {
-        "front": "46) Once the pattern found after one round of replication was observed, Meselson and Stahl could be confident of which of the following conclusions?",
-        "options": [
-            "A) Replication is semi-conservative.",
-            "B) Replication is not dispersive.",
-            "C) Replication is not semi-conservative.",
-            "D) Replication is not conservative.",
-            "E) Replication is neither dispersive nor conservative."
-        ],
-        "back": "D",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": [
-            "https://web.archive.org/web/20170715170827im_/http://www.easynotecards.com:80/uploads/1119/39/69c3b13a_13a8788d737__8000_00000230.jpg"
-        ]
-    },
-    {
-        "front": "Grains represent radioactive material within the replicating eye. 47) In an experiment, DNA is allowed to replicate in an environment with all necessary enzymes, dATP, dCTP, dGTP, and radioactively labeled dTTP (³H thymidine) for several minutes and then switched to nonradioactive medium. It is then viewed by electron microscopy and autoradiography. The figure above represents the results. Which of the following is the most likely interpretation?",
-        "options": [
-            "A) There are two replication forks going in opposite directions.",
-            "B) Thymidine is only being added where the DNA strands are furthest apart.",
-            "C) Thymidine is only added at the very beginning of replication.",
-            "D) Replication proceeds in one direction only."
-        ],
-        "back": "A",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": [
-            "https://web.archive.org/web/20170715170827im_/http://www.easynotecards.com:80/uploads/1120/40/69c3b13a_13a8788d737__8000_00000231.jpg"
-        ]
-    },
-    {
-        "front": "48) For a science fair project, two students decided to repeat the Hershey and Chase experiment, with modifications. They decided to label the nitrogen of the DNA, rather than the phosphate. They reasoned that each nucleotide has only one phosphate and two to five nitrogens. Thus, labeling the nitrogens would provide a stronger signal than labeling the phosphates. Why won't this experiment work?",
-        "options": [
-            "A) There is no radioactive isotope of nitrogen.",
-            "B) Radioactive nitrogen has a half-life of 100,000 years, and the material would be too dangerous for too long.",
-            "C) Avery et al. have already concluded that this experiment showed inconclusive results.",
-            "D) Although there are more nitrogens in a nucleotide, labeled phosphates actually have 16 extra neutrons; therefore, they are more radioactive.",
-            "E) Amino acids (and thus proteins) also have nitrogen atoms; thus, the radioactivity would not distinguish between DNA and proteins."
-        ],
-        "back": "E",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "49) You briefly expose bacteria undergoing DNA replication to radioactively labeled nucleotides. When you centrifuge the DNA isolated from the bacteria, the DNA separates into two classes. One class of labeled DNA includes very large molecules (thousands or even millions of nucleotides long), and the other includes short stretches of DNA (several hundred to a few thousand nucleotides in length). These two classes of DNA probably represent",
-        "options": [
-            "A) leading strands and Okazaki fragments.",
-            "B) lagging strands and Okazaki fragments.",
-            "C) Okazaki fragments and RNA primers.",
-            "D) leading strands and RNA primers.",
-            "E) RNA primers and mitochondrial DNA."
-        ],
-        "back": "A",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "50) In his work with pneumonia-causing bacteria and mice, Griffith found that",
-        "options": [
-            "A) the protein coat from pathogenic cells was able to transform nonpathogenic cells.",
-            "B) heat-killed pathogenic cells caused pneumonia.",
-            "C) some substance from pathogenic cells was transferred to nonpathogenic cells, making them pathogenic.",
-            "D) the polysaccharide coat of bacteria caused pneumonia.",
-            "E) bacteriophages injected DNA into bacteria."
-        ],
-        "back": "C",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "51) What is the basis for the difference in how the leading and lagging strands of DNA molecules are synthesized?",
-        "options": [
-            "A) The origins of replication occur only at the 5' end.",
-            "B) Helicases and single-strand binding proteins work at the 5' end.",
-            "C) DNA polymerase can join new nucleotides only to the 3' end of a growing strand.",
-            "D) DNA ligase works only in the 3' → 5' direction.",
-            "E) Polymerase can work on only one strand at a time."
-        ],
-        "back": "C",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "52) In analyzing the number of different bases in a DNA sample, which result would be consistent with the base-pairing rules?",
-        "options": [
-            "A) A = G",
-            "B) A + G = C + T",
-            "C) A + T = G + T",
-            "D) A = C",
-            "E) G = T"
-        ],
-        "back": "B",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "53) The elongation of the leading strand during DNA synthesis",
-        "options": [
-            "A) progresses away from the replication fork.",
-            "B) occurs in the 3' → 5' direction.",
-            "C) produces Okazaki fragments.",
-            "D) depends on the action of DNA polymerase.",
-            "E) does not require a template strand."
-        ],
-        "back": "D",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "54) In a nucleosome, the DNA is wrapped around",
-        "options": [
-            "A) polymerase molecules.",
-            "B) ribosomes.",
-            "C) histones.",
-            "D) a thymine dimer.",
-            "E) satellite DNA."
-        ],
-        "back": "C",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "55) E. coli cells grown on ¹⁵N medium are transferred to ¹⁴N medium and allowed to grow for two more generations (two rounds of DNA replication). DNA extracted from these cells is centrifuged. What density distribution of DNA would you expect in this experiment?",
-        "options": [
-            "A) one high-density and one low-density band",
-            "B) one intermediate-density band",
-            "C) one high-density and one intermediate-density band",
-            "D) one low-density and one intermediate-density band",
-            "E) one low-density band"
-        ],
-        "back": "D",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "56) A biochemist isolates, purifies, and combines in a test tube a variety of molecules needed for DNA replication. When she adds some DNA to the mixture, replication occurs, but each DNA molecule consists of a normal strand paired with numerous segments of DNA a few hundred nucleotides long. What has she probably left out of the mixture?",
-        "options": [
-            "A) DNA polymerase",
-            "B) DNA ligase",
-            "C) nucleotides",
-            "D) Okazaki fragments",
-            "E) primase"
-        ],
-        "back": "B",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    },
-    {
-        "front": "57) The spontaneous loss of amino groups from adenine in DNA results in hypoxanthine, an uncommon base, opposite thymine. What combination of proteins could repair such damage?",
-        "options": [
-            "A) nuclease, DNA polymerase, DNA ligase",
-            "B) telomerase, primase, DNA polymerase",
-            "C) telomerase, helicase, single-strand binding protein",
-            "D) DNA ligase, replication fork proteins, adenylyl cyclase",
-            "E) nuclease, telomerase, primase"
-        ],
-        "back": "A",
-        "unit": "Unit 16",
-        "chapter": "Chapter 16",
-        "images": []
-    }
+  {
+    "front": "1) In his transformation experiments, what did Griffith observe?",
+    "options": [
+      "A) Mutant mice were resistant to bacterial infections.",
+      "B) Mixing a heat-killed pathogenic strain of bacteria with a living nonpathogenic strain can convert some of the living cells into the pathogenic form.",
+      "C) Mixing a heat-killed nonpathogenic strain of bacteria with a living pathogenic strain makes the pathogenic strain nonpathogenic.",
+      "D) Infecting mice with nonpathogenic strains of bacteria makes them resistant to pathogenic strains.",
+      "E) Mice infected with a pathogenic strain of bacteria can spread the infection to other mice."
+    ],
+    "back": "B",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "2) How do we describe transformation in bacteria?",
+    "options": [
+      "A) the creation of a strand of DNA from an RNA molecule",
+      "B) the creation of a strand of RNA from a DNA molecule",
+      "C) the infection of cells by a phage DNA molecule",
+      "D) the type of semiconservative replication shown by DNA",
+      "E) assimilation of external DNA into a cell"
+    ],
+    "back": "E",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "3) After mixing a heat-killed, phosphorescent strain of bacteria with a living nonphosphorescent strain, you discover that some of the living cells are now phosphorescent. Which observations would provide the best evidence that the ability to fluoresce is a heritable trait?",
+    "options": [
+      "A) DNA passed from the heat-killed strain to the living strain.",
+      "B) Protein passed from the heat-killed strain to the living strain.",
+      "C) The phosphorescence in the living strain is especially bright.",
+      "D) Descendants of the living cells are also phosphorescent.",
+      "E) Both DNA and protein passed from the heat-killed strain to the living strain."
+    ],
+    "back": "D",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "4) In trying to determine whether DNA or protein is the genetic material, Hershey and Chase made use of which of the following facts?",
+    "options": [
+      "A) DNA contains sulfur, whereas protein does not.",
+      "B) DNA contains phosphorus, whereas protein does not.",
+      "C) DNA contains nitrogen, whereas protein does not.",
+      "D) DNA contains purines, whereas protein includes pyrimidines.",
+      "E) RNA includes ribose, whereas DNA includes deoxyribose sugars."
+    ],
+    "back": "B",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "5) Which of the following investigators was/were responsible for the following discovery? In DNA from any species, the amount of adenine equals the amount of thymine, and the amount of guanine equals the amount of cytosine.",
+    "options": [
+      "A) Frederick Griffith",
+      "B) Alfred Hershey and Martha Chase",
+      "C) Oswald Avery, Maclyn McCarty, and Colin MacLeod",
+      "D) Erwin Chargaff",
+      "E) Matthew Meselson and Franklin Stahl"
+    ],
+    "back": "D",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "6) Cytosine makes up 42% of the nucleotides in a sample of DNA from an organism. Approximately what percentage of the nucleotides in this sample will be thymine?",
+    "options": [
+      "A) 8%",
+      "B) 16%",
+      "C) 31%",
+      "D) 42%",
+      "E) It cannot be determined from the information provided."
+    ],
+    "back": "A",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "7) Which of the following can be determined directly from X-ray diffraction photographs of crystallized DNA?",
+    "options": [
+      "A) the diameter of the helix",
+      "B) the rate of replication",
+      "C) the sequence of nucleotides",
+      "D) the bond angles of the subunits",
+      "E) the frequency of A vs. T nucleotides"
+    ],
+    "back": "A",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "8) It became apparent to Watson and Crick after completion of their model that the DNA molecule could carry a vast amount of hereditary information in which of the following?",
+    "options": [
+      "A) sequence of bases",
+      "B) phosphate-sugar backbones",
+      "C) complementary pairing of bases",
+      "D) side groups of nitrogenous bases",
+      "E) different five-carbon sugars"
+    ],
+    "back": "A",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "9) In an analysis of the nucleotide composition of DNA, which of the following will be found?",
+    "options": [
+      "A) A = C",
+      "B) A = G and C = T",
+      "C) A + C = G + T",
+      "D) G + C = T + A"
+    ],
+    "back": "C",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "10) Replication in prokaryotes differs from replication in eukaryotes for which of the following reasons?",
+    "options": [
+      "A) Prokaryotic chromosomes have histones, whereas eukaryotic chromosomes do not.",
+      "B) Prokaryotic chromosomes have a single origin of replication, whereas eukaryotic chromosomes have many.",
+      "C) The rate of elongation during DNA replication is slower in prokaryotes than in eukaryotes.",
+      "D) Prokaryotes produce Okazaki fragments during DNA replication, but eukaryotes do not.",
+      "E) Prokaryotes have telomeres, and eukaryotes do not."
+    ],
+    "back": "B",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "11) What is meant by the description \"antiparallel\" regarding the strands that make up DNA?",
+    "options": [
+      "A) The twisting nature of DNA creates nonparallel strands.",
+      "B) The 5' to 3' direction of one strand runs counter to the 5' to 3' direction of the other strand.",
+      "C) Base pairings create unequal spacing between the two DNA strands.",
+      "D) One strand is positively charged and the other is negatively charged.",
+      "E) One strand contains only purines and the other contains only pyrimidines."
+    ],
+    "back": "B",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "12) Suppose you are provided with an actively dividing culture of E. coli bacteria to which radioactive thymine has been added. What would happen if a cell replicates once in the presence of this radioactive base?",
+    "options": [
+      "A) One of the daughter cells, but not the other, would have radioactive DNA.",
+      "B) Neither of the two daughter cells would be radioactive.",
+      "C) All four bases of the DNA would be radioactive.",
+      "D) Radioactive thymine would pair with nonradioactive guanine.",
+      "E) DNA in both daughter cells would be radioactive."
+    ],
+    "back": "E",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "13) An Okazaki fragment has which of the following arrangements?",
+    "options": [
+      "A) primase, polymerase, ligase",
+      "B) 3' RNA nucleotides, DNA nucleotides 5'",
+      "C) 5' RNA nucleotides, DNA nucleotides 3'",
+      "D) DNA polymerase I, DNA polymerase III",
+      "E) 5' DNA to 3'"
+    ],
+    "back": "C",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "14) In E. coli, there is a mutation in a gene called dnaB that alters the helicase that normally acts at the origin. Which of the following would you expect as a result of this mutation?",
+    "options": [
+      "A) No proofreading will occur.",
+      "B) No replication fork will be formed.",
+      "C) The DNA will supercoil.",
+      "D) Replication will occur via RNA polymerase alone.",
+      "E) Replication will require a DNA template from another source."
+    ],
+    "back": "B",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "15) Which enzyme catalyzes the elongation of a DNA strand in the 5' → 3' direction?",
+    "options": [
+      "A) primase",
+      "B) DNA ligase",
+      "C) DNA polymerase III",
+      "D) topoisomerase",
+      "E) helicase"
+    ],
+    "back": "C",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "16) Eukaryotic telomeres replicate differently than the rest of the chromosome. This is a consequence of which of the following?",
+    "options": [
+      "A) the evolution of telomerase enzyme",
+      "B) DNA polymerase that cannot replicate the leading strand template to its 5' end",
+      "C) gaps left at the 5' end of the lagging strand",
+      "D) gaps left at the 3' end of the lagging strand because of the need for a primer",
+      "E) the \"no ends\" of a circular chromosome"
+    ],
+    "back": "C",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "17) The enzyme telomerase solves the problem of replication at the ends of linear chromosomes by which method?",
+    "options": [
+      "A) adding a single 5' cap structure that resists degradation by nucleases",
+      "B) causing specific double-strand DNA breaks that result in blunt ends on both strands",
+      "C) causing linear ends of the newly replicated DNA to circularize",
+      "D) adding numerous short DNA sequences such as TTAGGG, which form a hairpin turn",
+      "E) adding numerous GC pairs which resist hydrolysis and maintain chromosome integrity"
+    ],
+    "back": "D",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "18) The DNA of telomeres has been found to be highly conserved throughout the evolution of eukaryotes. What does this most probably reflect?",
+    "options": [
+      "A) the inactivity of this DNA",
+      "B) the low frequency of mutations occurring in this DNA",
+      "C) that new evolution of telomeres continues",
+      "D) that mutations in telomeres are relatively advantageous",
+      "E) that the critical function of telomeres must be maintained"
+    ],
+    "back": "E",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "19) At a specific area of a chromosome, the sequence of nucleotides below is present where the chain opens to form a replication fork: 3' C C T A G G C T G C A A T C C 5' An RNA primer is formed starting at the underlined T (T) of the template. Which of the following represents the primer sequence?",
+    "options": [
+      "A) 5' G C C T A G G 3'",
+      "B) 3' G C C T A G G 5'",
+      "C) 5' A C G T T A G G 3'",
+      "D) 5' A C G U U A G G 3'",
+      "E) 5' G C C U A G G 3'"
+    ],
+    "back": "D",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "20) Polytene chromosomes of Drosophila salivary glands each consist of multiple identical DNA strands that are aligned in parallel arrays. How could these arise?",
+    "options": [
+      "A) replication followed by mitosis",
+      "B) replication without separation",
+      "C) meiosis followed by mitosis",
+      "D) fertilization by multiple sperm",
+      "E) special association with histone proteins"
+    ],
+    "back": "B",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "21) To repair a thymine dimer by nucleotide excision repair, in which order do the necessary enzymes act?",
+    "options": [
+      "A) exonuclease, DNA polymerase III, RNA primase",
+      "B) helicase, DNA polymerase I, DNA ligase",
+      "C) DNA ligase, nuclease, helicase",
+      "D) DNA polymerase I, DNA polymerase III, DNA ligase",
+      "E) endonuclease, DNA polymerase I, DNA ligase"
+    ],
+    "back": "E",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "22) What is the function of DNA polymerase III?",
+    "options": [
+      "A) to unwind the DNA helix during replication",
+      "B) to seal together the broken ends of DNA strands",
+      "C) to add nucleotides to the 3' end of a growing DNA strand",
+      "D) to degrade damaged DNA molecules",
+      "E) to rejoin the two DNA strands (one new and one old) after replication"
+    ],
+    "back": "C",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "23) The difference between ATP and the nucleoside triphosphates used during DNA synthesis is that",
+    "options": [
+      "A) the nucleoside triphosphates have the sugar deoxyribose; ATP has the sugar ribose.",
+      "B) the nucleoside triphosphates have two phosphate groups; ATP has three phosphate groups.",
+      "C) ATP contains three high-energy bonds; the nucleoside triphosphates have two.",
+      "D) ATP is found only in human cells; the nucleoside triphosphates are found in all animal and plant cells.",
+      "E) triphosphate monomers are active in the nucleoside triphosphates, but not in ATP."
+    ],
+    "back": "A",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "24) The leading and the lagging strands differ in that",
+    "options": [
+      "A) the leading strand is synthesized in the same direction as the movement of the replication fork, and the lagging strand is synthesized in the opposite direction.",
+      "B) the leading strand is synthesized by adding nucleotides to the 3' end of the growing strand, and the lagging strand is synthesized by adding nucleotides to the 5' end.",
+      "C) the lagging strand is synthesized continuously, whereas the leading strand is synthesized in short fragments that are ultimately stitched together.",
+      "D) the leading strand is synthesized at twice the rate of the lagging strand."
+    ],
+    "back": "A",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "25) A new DNA strand elongates only in the 5' to 3' direction because",
+    "options": [
+      "A) DNA polymerase begins adding nucleotides at the 5' end of the template.",
+      "B) Okazaki fragments prevent elongation in the 3' to 5' direction.",
+      "C) the polarity of the DNA molecule prevents addition of nucleotides at the 3' end.",
+      "D) replication must progress toward the replication fork.",
+      "E) DNA polymerase can only add nucleotides to the free 3' end."
+    ],
+    "back": "E",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "26) What is the function of topoisomerase?",
+    "options": [
+      "A) relieving strain in the DNA ahead of the replication fork",
+      "B) elongating new DNA at a replication fork by adding nucleotides to the existing chain",
+      "C) adding methyl groups to bases of DNA",
+      "D) unwinding of the double helix",
+      "E) stabilizing single-stranded DNA at the replication fork"
+    ],
+    "back": "A",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "27) What is the role of DNA ligase in the elongation of the lagging strand during DNA replication?",
+    "options": [
+      "A) It synthesizes RNA nucleotides to make a primer.",
+      "B) It catalyzes the lengthening of telomeres.",
+      "C) It joins Okazaki fragments together.",
+      "D) It unwinds the parental double helix.",
+      "E) It stabilizes the unwound parental DNA."
+    ],
+    "back": "C",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "28) Which of the following help(s) to hold the DNA strands apart while they are being replicated?",
+    "options": [
+      "A) primase",
+      "B) ligase",
+      "C) DNA polymerase",
+      "D) single-strand binding proteins",
+      "E) exonuclease"
+    ],
+    "back": "D",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "29) Individuals with the disorder xeroderma pigmentosum are hypersensitive to sunlight. This occurs because their cells are impaired in what way?",
+    "options": [
+      "A) They cannot replicate DNA.",
+      "B) They cannot undergo mitosis.",
+      "C) They cannot exchange DNA with other cells.",
+      "D) They cannot repair thymine dimers.",
+      "E) They do not recombine homologous chromosomes during meiosis."
+    ],
+    "back": "D",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "30) Which of the following would you expect of a eukaryote lacking telomerase?",
+    "options": [
+      "A) a high probability of somatic cells becoming cancerous",
+      "B) production of Okazaki fragments",
+      "C) inability to repair thymine dimers",
+      "D) a reduction in chromosome length in gametes",
+      "E) high sensitivity to sunlight"
+    ],
+    "back": "D",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "Use the following list of choices for the following question I. helicase II. DNA polymerase III III. ligase IV. DNA polymerase I V. primase 31) Which of the enzymes removes the RNA nucleotides from the primer and adds equivalent DNA nucleotides to the 3' end of Okazaki fragments?",
+    "options": ["A) I", "B) II", "C) III", "D) IV", "E) V"],
+    "back": "D",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "Use the following list of choices for the following question I. helicase II. DNA polymerase III III. ligase IV. DNA polymerase I V. primase 32) Which of the enzymes separates the DNA strands during replication?",
+    "options": ["A) I", "B) II", "C) III", "D) IV", "E) V"],
+    "back": "A",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "Use the following list of choices for the following question I. helicase II. DNA polymerase III III. ligase IV. DNA polymerase I V. primase 33) Which of the enzymes covalently connects segments of DNA?",
+    "options": ["A) I", "B) II", "C) III", "D) IV", "E) V"],
+    "back": "C",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "Use the following list of choices for the following question I. helicase II. DNA polymerase III III. ligase IV. DNA polymerase I V. primase 34) Which of the enzymes synthesizes short segments of RNA?",
+    "options": ["A) I", "B) II", "C) III", "D) IV", "E) V"],
+    "back": "E",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "35) Which of the following sets of materials are required by both eukaryotes and prokaryotes for replication?",
+    "options": [
+      "A) double-stranded DNA, four kinds of dNTPs, primers, origins",
+      "B) topoisomerases, telomerases, polymerases",
+      "C) G-C rich regions, polymerases, chromosome nicks",
+      "D) nucleosome loosening, four dNTPs, four rNTPs",
+      "E) ligase, primers, nucleases"
+    ],
+    "back": "A",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "36) Studies of nucleosomes have shown that histones (except H1) exist in each nucleosome as two kinds of tetramers: one of 2 H2A molecules and 2 H2B molecules, and the other as 2 H3 and 2 H4 molecules. Which of the following is supported by this data?",
+    "options": [
+      "A) DNA can wind itself around either of the two kinds of tetramers.",
+      "B) The two types of tetramers associate to form an octamer.",
+      "C) DNA has to associate with individual histones before they form tetramers.",
+      "D) Only H2A can form associations with DNA molecules.",
+      "E) The structure of H3 and H4 molecules is not basic like that of the other histones."
+    ],
+    "back": "B",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "37) In a linear eukaryotic chromatin sample, which of the following strands is looped into domains by scaffolding?",
+    "options": [
+      "A) DNA without attached histones",
+      "B) DNA with H1 only",
+      "C) the 10-nm chromatin fiber",
+      "D) the 30-nm chromatin fiber",
+      "E) the metaphase chromosome"
+    ],
+    "back": "D",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "38) Which of the following statements describes the eukaryotic chromosome?",
+    "options": [
+      "A) It is composed of DNA alone.",
+      "B) The nucleosome is its most basic functional subunit.",
+      "C) The number of genes on each chromosome is different in different cell types of an organism.",
+      "D) It consists of a single linear molecule of double-stranded DNA plus proteins.",
+      "E) Active transcription occurs on heterochromatin but not euchromatin."
+    ],
+    "back": "D",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "39) If a cell were unable to produce histone proteins, which of the following would be a likely effect?",
+    "options": [
+      "A) There would be an increase in the amount of \"satellite\" DNA produced during centrifugation.",
+      "B) The cell's DNA couldn't be packed into its nucleus.",
+      "C) Spindle fibers would not form during prophase.",
+      "D) Amplification of other genes would compensate for the lack of histones.",
+      "E) Pseudogenes would be transcribed to compensate for the decreased protein in the cell."
+    ],
+    "back": "B",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "40) Which of the following statements is true of histones?",
+    "options": [
+      "A) Each nucleosome consists of two molecules of histone H1.",
+      "B) Histone H1 is not present in the nucleosome bead; instead, it draws the nucleosomes together.",
+      "C) The carboxyl end of each histone extends outward from the nucleosome and is called a \"histone tail.\"",
+      "D) Histones are found in mammals, but not in other animals or in plants or fungi.",
+      "E) The mass of histone in chromatin is approximately nine times the mass of DNA."
+    ],
+    "back": "B",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "41) Why do histones bind tightly to DNA?",
+    "options": [
+      "A) Histones are positively charged, and DNA is negatively charged.",
+      "B) Histones are negatively charged, and DNA is positively charged.",
+      "C) Both histones and DNA are strongly hydrophobic.",
+      "D) Histones are covalently linked to the DNA.",
+      "E) Histones are highly hydrophobic, and DNA is hydrophilic."
+    ],
+    "back": "A",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "42) Which of the following represents the order of increasingly higher levels of organization of chromatin?",
+    "options": [
+      "A) nucleosome, 30-nm chromatin fiber, looped domain",
+      "B) looped domain, 30-nm chromatin fiber, nucleosome",
+      "C) looped domain, nucleosome, 30-nm chromatin fiber",
+      "D) nucleosome, looped domain, 30-nm chromatin fiber",
+      "E) 30-nm chromatin fiber, nucleosome, looped domain"
+    ],
+    "back": "A",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "43) Which of the following statements describes chromatin?",
+    "options": [
+      "A) Heterochromatin is composed of DNA, whereas euchromatin is made of DNA and RNA.",
+      "B) Both heterochromatin and euchromatin are found in the cytoplasm.",
+      "C) Heterochromatin is highly condensed, whereas euchromatin is less compact.",
+      "D) Euchromatin is not transcribed, whereas heterochromatin is transcribed.",
+      "E) Only euchromatin is visible under the light microscope."
+    ],
+    "back": "C",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "44) In the late 1950s, Meselson and Stahl grew bacteria in a medium containing \"heavy\" nitrogen (¹⁵N) and then transferred them to a medium containing ¹⁴N. Which of the results in the figure above would be expected after one round of DNA replication in the presence of ¹⁴N?",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "D",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": [
+      "https://web.archive.org/web/20170715170827im_/http://www.easynotecards.com:80/uploads/1119/39/69c3b13a_13a8788d737__8000_00000230.jpg"
+    ]
+  },
+  {
+    "front": "45) A space probe returns with a culture of a microorganism found on a distant planet. Analysis shows that it is a carbon-based life-form that has DNA. You grow the cells in ¹⁵N medium for several generations and then transfer them to ¹⁴N medium. Which pattern in the figure above would you expect if the DNA was replicated in a conservative manner?",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "B",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": [
+      "https://web.archive.org/web/20170715170827im_/http://www.easynotecards.com:80/uploads/1119/39/69c3b13a_13a8788d737__8000_00000230.jpg"
+    ]
+  },
+  {
+    "front": "46) Once the pattern found after one round of replication was observed, Meselson and Stahl could be confident of which of the following conclusions?",
+    "options": [
+      "A) Replication is semi-conservative.",
+      "B) Replication is not dispersive.",
+      "C) Replication is not semi-conservative.",
+      "D) Replication is not conservative.",
+      "E) Replication is neither dispersive nor conservative."
+    ],
+    "back": "D",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": [
+      "https://web.archive.org/web/20170715170827im_/http://www.easynotecards.com:80/uploads/1119/39/69c3b13a_13a8788d737__8000_00000230.jpg"
+    ]
+  },
+  {
+    "front": "Grains represent radioactive material within the replicating eye. 47) In an experiment, DNA is allowed to replicate in an environment with all necessary enzymes, dATP, dCTP, dGTP, and radioactively labeled dTTP (³H thymidine) for several minutes and then switched to nonradioactive medium. It is then viewed by electron microscopy and autoradiography. The figure above represents the results. Which of the following is the most likely interpretation?",
+    "options": [
+      "A) There are two replication forks going in opposite directions.",
+      "B) Thymidine is only being added where the DNA strands are furthest apart.",
+      "C) Thymidine is only added at the very beginning of replication.",
+      "D) Replication proceeds in one direction only."
+    ],
+    "back": "A",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": [
+      "https://web.archive.org/web/20170715170827im_/http://www.easynotecards.com:80/uploads/1120/40/69c3b13a_13a8788d737__8000_00000231.jpg"
+    ]
+  },
+  {
+    "front": "48) For a science fair project, two students decided to repeat the Hershey and Chase experiment, with modifications. They decided to label the nitrogen of the DNA, rather than the phosphate. They reasoned that each nucleotide has only one phosphate and two to five nitrogens. Thus, labeling the nitrogens would provide a stronger signal than labeling the phosphates. Why won't this experiment work?",
+    "options": [
+      "A) There is no radioactive isotope of nitrogen.",
+      "B) Radioactive nitrogen has a half-life of 100,000 years, and the material would be too dangerous for too long.",
+      "C) Avery et al. have already concluded that this experiment showed inconclusive results.",
+      "D) Although there are more nitrogens in a nucleotide, labeled phosphates actually have 16 extra neutrons; therefore, they are more radioactive.",
+      "E) Amino acids (and thus proteins) also have nitrogen atoms; thus, the radioactivity would not distinguish between DNA and proteins."
+    ],
+    "back": "E",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "49) You briefly expose bacteria undergoing DNA replication to radioactively labeled nucleotides. When you centrifuge the DNA isolated from the bacteria, the DNA separates into two classes. One class of labeled DNA includes very large molecules (thousands or even millions of nucleotides long), and the other includes short stretches of DNA (several hundred to a few thousand nucleotides in length). These two classes of DNA probably represent",
+    "options": [
+      "A) leading strands and Okazaki fragments.",
+      "B) lagging strands and Okazaki fragments.",
+      "C) Okazaki fragments and RNA primers.",
+      "D) leading strands and RNA primers.",
+      "E) RNA primers and mitochondrial DNA."
+    ],
+    "back": "A",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "50) In his work with pneumonia-causing bacteria and mice, Griffith found that",
+    "options": [
+      "A) the protein coat from pathogenic cells was able to transform nonpathogenic cells.",
+      "B) heat-killed pathogenic cells caused pneumonia.",
+      "C) some substance from pathogenic cells was transferred to nonpathogenic cells, making them pathogenic.",
+      "D) the polysaccharide coat of bacteria caused pneumonia.",
+      "E) bacteriophages injected DNA into bacteria."
+    ],
+    "back": "C",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "51) What is the basis for the difference in how the leading and lagging strands of DNA molecules are synthesized?",
+    "options": [
+      "A) The origins of replication occur only at the 5' end.",
+      "B) Helicases and single-strand binding proteins work at the 5' end.",
+      "C) DNA polymerase can join new nucleotides only to the 3' end of a growing strand.",
+      "D) DNA ligase works only in the 3' → 5' direction.",
+      "E) Polymerase can work on only one strand at a time."
+    ],
+    "back": "C",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "52) In analyzing the number of different bases in a DNA sample, which result would be consistent with the base-pairing rules?",
+    "options": [
+      "A) A = G",
+      "B) A + G = C + T",
+      "C) A + T = G + T",
+      "D) A = C",
+      "E) G = T"
+    ],
+    "back": "B",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "53) The elongation of the leading strand during DNA synthesis",
+    "options": [
+      "A) progresses away from the replication fork.",
+      "B) occurs in the 3' → 5' direction.",
+      "C) produces Okazaki fragments.",
+      "D) depends on the action of DNA polymerase.",
+      "E) does not require a template strand."
+    ],
+    "back": "D",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "54) In a nucleosome, the DNA is wrapped around",
+    "options": [
+      "A) polymerase molecules.",
+      "B) ribosomes.",
+      "C) histones.",
+      "D) a thymine dimer.",
+      "E) satellite DNA."
+    ],
+    "back": "C",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "55) E. coli cells grown on ¹⁵N medium are transferred to ¹⁴N medium and allowed to grow for two more generations (two rounds of DNA replication). DNA extracted from these cells is centrifuged. What density distribution of DNA would you expect in this experiment?",
+    "options": [
+      "A) one high-density and one low-density band",
+      "B) one intermediate-density band",
+      "C) one high-density and one intermediate-density band",
+      "D) one low-density and one intermediate-density band",
+      "E) one low-density band"
+    ],
+    "back": "D",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "56) A biochemist isolates, purifies, and combines in a test tube a variety of molecules needed for DNA replication. When she adds some DNA to the mixture, replication occurs, but each DNA molecule consists of a normal strand paired with numerous segments of DNA a few hundred nucleotides long. What has she probably left out of the mixture?",
+    "options": [
+      "A) DNA polymerase",
+      "B) DNA ligase",
+      "C) nucleotides",
+      "D) Okazaki fragments",
+      "E) primase"
+    ],
+    "back": "B",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  },
+  {
+    "front": "57) The spontaneous loss of amino groups from adenine in DNA results in hypoxanthine, an uncommon base, opposite thymine. What combination of proteins could repair such damage?",
+    "options": [
+      "A) nuclease, DNA polymerase, DNA ligase",
+      "B) telomerase, primase, DNA polymerase",
+      "C) telomerase, helicase, single-strand binding protein",
+      "D) DNA ligase, replication fork proteins, adenylyl cyclase",
+      "E) nuclease, telomerase, primase"
+    ],
+    "back": "A",
+    "unit": "Unit 16",
+    "chapter": "Chapter 16",
+    "images": []
+  }
 ]
+

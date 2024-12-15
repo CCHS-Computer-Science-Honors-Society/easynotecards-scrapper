@@ -1,972 +1,949 @@
 [
-    {
-        "front": "1) A female cat in heat urinates more often and in many places. Male cats are attracted to the urine deposits. Which of the following is a proximate cause of this increased urination?",
-        "options": [
-            "A) It announces to the males that she is in heat.",
-            "B) Female cats that did this in the past attracted more males.",
-            "C) It is a result of hormonal changes associated with her reproductive cycle.",
-            "D) The female cat learned the behavior from observing other cats.",
-            "E) All of the options are ultimate causes of behavior."
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "2) A female cat in heat urinates more often and in many places. Male cats congregate near the urine deposits and fight with each other. Which of the following would be an ultimate cause of the male cats' response to the female's urinating behavior?",
-        "options": [
-            "A) The males have learned to recognize the specific odor of the urine of a female in heat.",
-            "B) When the males smelled the odor, various neurons in their brains were stimulated.",
-            "C) Responding to the odor means locating reproductively receptive females.",
-            "D) Male cats' hormones are triggered by the odor released by the female.",
-            "E) The odor serves as a releaser for the instinctive behavior of the males."
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "3) Which of the following examples describes a behavioral pattern that results from a proximate cause?",
-        "options": [
-            "A) A cat kills a mouse to obtain nutrition.",
-            "B) A male sheep fights with another male because it helps to improve its social position.",
-            "C) A female bird lays its eggs because the amount of daylight is decreasing slightly each day.",
-            "D) A goose squats and freezes motionless to escape a predator.",
-            "E) A cockroach runs into a crack in the wall and avoids being stepped on."
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "4) The proximate causes of behavior are interactions with the environment, but behavior is ultimately shaped by",
-        "options": [
-            "A) hormones.",
-            "B) evolution.",
-            "C) sexuality.",
-            "D) pheromones.",
-            "E) the nervous system."
-        ],
-        "back": "B",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "5) Animal communication involves what type of sensory information?",
-        "options": [
-            "A) visual",
-            "B) auditory",
-            "C) olfactory",
-            "D) tactile",
-            "E) visual, auditory, olfactory, and tactile"
-        ],
-        "back": "E",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "6) What type of signal is long-lasting and works at night?",
-        "options": [
-            "A) olfactory",
-            "B) visual",
-            "C) auditory",
-            "D) tactile",
-            "E) electrical"
-        ],
-        "back": "A",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "7) What type of signal is brief and can work among obstructions at night?",
-        "options": [
-            "A) olfactory",
-            "B) visual",
-            "C) auditory",
-            "D) tactile",
-            "E) magnetic"
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "8) What type of signal is fast and requires daylight with no obstructions?",
-        "options": [
-            "A) olfactory",
-            "B) visual",
-            "C) auditory",
-            "D) tactile",
-            "E) electrical"
-        ],
-        "back": "B",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "9) A chemical produced by an animal that serves as a communication to another animal of the same species is called",
-        "options": [
-            "A) a sign stimulus.",
-            "B) an inducer.",
-            "C) a pheromone.",
-            "D) an imprinter.",
-            "E) an agonistic promoter."
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "10) Research has shown that nocturnal animals navigate using",
-        "options": [
-            "A) olfactory cues.",
-            "B) the North Star.",
-            "C) the moon.",
-            "D) landmarks.",
-            "E) gravity."
-        ],
-        "back": "B",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "11) Circannual rhythms in birds are influenced by",
-        "options": [
-            "A) periods of food availability.",
-            "B) reproductive readiness.",
-            "C) periods of daylight and darkness.",
-            "D) magnetic fields.",
-            "E) lunar cycles."
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "12) Upon returning to its hive, a European honeybee communicates to other worker bees the location of a nearby food source it has discovered by",
-        "options": [
-            "A) vibrating its wings at varying frequencies.",
-            "B) performing a round dance.",
-            "C) performing a waggle dance.",
-            "D) visual cues.",
-            "E) All options are correct."
-        ],
-        "back": "B",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "13) Karl von Frisch demonstrated that European honeybees communicate the location of a distant food source by",
-        "options": [
-            "A) performing a short, straight run during a waggle dance.",
-            "B) performing a long, straight run during a waggle dance.",
-            "C) performing a round dance with fast rotations.",
-            "D) emanating minute amounts of stimulus pheromone.",
-            "E) varying wing vibration frequency."
-        ],
-        "back": "B",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "14) Animals use pheromones to communicate",
-        "options": [
-            "A) reproductive readiness.",
-            "B) species recognition.",
-            "C) gender recognition.",
-            "D) danger.",
-            "E) All options are correct."
-        ],
-        "back": "E",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "15) Displays of nocturnal mammals are usually",
-        "options": [
-            "A) visual and auditory.",
-            "B) tactile and visual.",
-            "C) olfactory and auditory.",
-            "D) visual and olfactory.",
-            "E) tactile and auditory."
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "Listed below are several examples of types of animal behavior. Match the letter of the correct term (A-E) to each example in the following question. A. operant conditioning B. agonistic behavior C. innate behavior D. imprinting E. altruistic behavior 16) Through trial and error, a rat learns to run a maze without mistakes to receive a food reward.",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "A",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "Listed below are several examples of types of animal behavior. Match the letter of the correct term (A-E) to each example in the following question. A. operant conditioning B. agonistic behavior C. innate behavior D. imprinting E. altruistic behavior 17) A human baby performs a sucking behavior perfectly when it is put in the presence of the nipple of its mother's breast.",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "Listed below are several examples of types of animal behavior. Match the letter of the correct term (A-E) to each example in the following question. A. operant conditioning B. agonistic behavior C. innate behavior D. imprinting E. altruistic behavior 18) A mother goat can recognize its own kid by smell.",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "D",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "Listed below are several examples of types of animal behavior. Match the letter of the correct term (A-E) to each example in the following question. A. operant conditioning B. agonistic behavior C. innate behavior D. imprinting E. altruistic behavior 19) Upon observing a golden eagle flying overhead, a sentry prairie dog gives a warning call to other foraging members of the prairie dog community.",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "E",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "20) A cage containing male mosquitoes has a small earphone placed on top, through which the sound of a female mosquito is played. All the males immediately fly to the earphone and go through all of the steps of copulation. What is the best explanation for this behavior?",
-        "options": [
-            "A) The males learn to associate the sound with females.",
-            "B) Copulation is a fixed action pattern, and the female flight sound is a sign stimulus that initiates it.",
-            "C) The sound from the earphone irritates the male mosquitoes, causing them to attempt to sting it.",
-            "D) The reproductive drive is so strong that when males are deprived of females, they will attempt to mate with anything that has even the slightest female characteristic.",
-            "E) Through classical conditioning, the male mosquitoes have associated the inappropriate stimulus from the earphone with the normal response of copulation."
-        ],
-        "back": "B",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "21) If mayflies lay eggs on roads instead of in water, it would indicate which of the following?",
-        "options": [
-            "A) a defective gene",
-            "B) trial-and-error learning",
-            "C) a misdirected response to a sign stimulus",
-            "D) a natural behavioral variation in the mayfly population",
-            "E) aberrant behavior due to insecticide poisoning"
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "22) Which of the following is true about imprinting?",
-        "options": [
-            "A) It may be triggered by visual or chemical stimuli.",
-            "B) It happens to many adult animals, but not to their young.",
-            "C) It is a type of learning that does not involve innate behavior.",
-            "D) It occurs only in birds.",
-            "E) It causes behaviors that last for only a short time (the sensitive period)."
-        ],
-        "back": "A",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "23) A type of learning that can occur only during a brief period of early life and results in a behavior that is difficult to modify through later experiences is called",
-        "options": [
-            "A) insight.",
-            "B) imprinting.",
-            "C) habituation.",
-            "D) operant conditioning.",
-            "E) trial-and-error learning."
-        ],
-        "back": "B",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "24) Learning in which an associated stimulus may be used to elicit the same behavioral response as the original sign stimulus is called",
-        "options": [
-            "A) concept formation.",
-            "B) trial and error.",
-            "C) classical conditioning.",
-            "D) operant conditioning.",
-            "E) cognition."
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "25) Every morning at the same time, John went into the den to feed his new tropical fish. After a few weeks, he noticed that the fish swam to the top of the tank when he entered the room. This is an example of",
-        "options": [
-            "A) cognition.",
-            "B) imprinting.",
-            "C) classical conditioning.",
-            "D) operant conditioning.",
-            "E) maturation."
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "26) A type of bird similar to a chickadee learns to peck through the cardboard tops of milk bottles left on doorsteps to obtain the desired cream from the top. What term best applies to this behavior?",
-        "options": [
-            "A) sign stimulus",
-            "B) cognition",
-            "C) imprinting",
-            "D) classical conditioning",
-            "E) operant conditioning"
-        ],
-        "back": "E",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "27) A salmon returns to its home stream to spawn. What term best applies to this behavior?",
-        "options": [
-            "A) sign stimulus",
-            "B) cognition",
-            "C) imprinting",
-            "D) classical conditioning",
-            "E) operant conditioning"
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "28) A stickleback fish will attack a fish model as long as the model has red coloring. What animal behavior idea is manifested by this observation?",
-        "options": [
-            "A) sign stimulus",
-            "B) cognition",
-            "C) imprinting",
-            "D) classical conditioning",
-            "E) operant conditioning"
-        ],
-        "back": "A",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "29) Parental protective behavior in turkeys is triggered by the cheeping sound of young chicks. What term best applies to this behavior?",
-        "options": [
-            "A) sign stimulus",
-            "B) cognition",
-            "C) imprinting",
-            "D) classical conditioning",
-            "E) operant conditioning"
-        ],
-        "back": "A",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "30) A guinea pig loves the lettuce kept in the refrigerator and squeals each time the refrigerator door opens. What term best applies to this behavior?",
-        "options": [
-            "A) sign stimulus",
-            "B) cognition",
-            "C) imprinting",
-            "D) classical conditioning",
-            "E) operant conditioning"
-        ],
-        "back": "D",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "31) Classical conditioning and operant conditioning differ in that",
-        "options": [
-            "A) classical conditioning takes longer.",
-            "B) operant conditioning usually involves more intelligence.",
-            "C) operant conditioning involves consequences for the animal's behavior.",
-            "D) classical conditioning is restricted to mammals and birds.",
-            "E) classical conditioning is much more useful for training domestic animals."
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "32) Some dogs love attention, and Frodo the beagle learns that if he barks, he gets attention. Which of the following might you use to describe this behavior?",
-        "options": [
-            "A) The dog is displaying an instinctive fixed action pattern.",
-            "B) The dog is performing a social behavior.",
-            "C) The dog is trying to protect its territory.",
-            "D) The dog has been classically conditioned.",
-            "E) The dog's behavior is a result of operant conditioning."
-        ],
-        "back": "E",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "33) Among songbirds, a \"crystallized\" song is one that",
-        "options": [
-            "A) is beyond the range of human hearing.",
-            "B) is perfected by juveniles.",
-            "C) extremely young chicks sing.",
-            "D) is a perfected species-specific song.",
-            "E) warns of predators."
-        ],
-        "back": "D",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "34) What is the normal imprinting stimulus to a hatchling graylag goose?",
-        "options": [
-            "A) an image of a model of an adult graylag goose",
-            "B) a nearby object that is moving away",
-            "C) recognition of its biological mother",
-            "D) any other adult of its own species",
-            "E) any human"
-        ],
-        "back": "B",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "35) Scientists have tried raising endangered whooping cranes in captivity by using sandhill cranes as foster parents. This strategy is no longer used because",
-        "options": [
-            "A) fostered whooping crane chicks did not develop the necessary cues for migration.",
-            "B) the fostered whooping cranes' critical period was variable such that different chicks imprinted on different \"mothers.\"",
-            "C) sandhill crane parents rejected their fostered whooping crane chicks soon after incubation.",
-            "D) none of the fostered whooping cranes formed a mating pair-bond with another whooping crane.",
-            "E) sandhill crane parents did not properly incubate whooping crane eggs."
-        ],
-        "back": "D",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "36) Which of the following shows the adaptive significance of cognitive mapping to animals that employ this type of learning?",
-        "options": [
-            "A) It increases the ability to visually recognize landmarks.",
-            "B) Cognitive maps reduce the amount of detail required to remember the location of an object in the animal's environment.",
-            "C) Animals can locate essential locations in their environment, such as nests, hazards, and feeding areas.",
-            "D) Animals can outmaneuver predators by planning and memorizing getaway routes.",
-            "E) Animals can determine their position relative to landmarks by a triangulation process."
-        ],
-        "back": "B",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "37) White-crowned sparrows can only learn the \"crystallized\" song for their species by",
-        "options": [
-            "A) listening to adult sparrow songs during a sensitive period as a fledgling, followed by a practice period until the juvenile matches its melody to its memorized fledgling song.",
-            "B) listening to the song of its own species during a critical period so that it will imprint to its own species song and not the songs of other songbird species.",
-            "C) practicing as a fledgling until the innate species-specific song becomes perfected.",
-            "D) performing the crystallized song as adults when they become sexually mature, as the song is programmed into the innate behavior for the species.",
-            "E) observing and practicing after receiving social confirmation from other adults at a critical period during their first episode of courtship behavior."
-        ],
-        "back": "A",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "38) Imagine that you are designing an experiment aimed at determining whether the initiation of migratory behavior is largely under genetic control. Of the following options, the best way to proceed is to",
-        "options": [
-            "A) observe genetically distinct populations in the field and see if they have different migratory habits.",
-            "B) perform within-population matings with birds from different populations that have different migratory habits. Do this in the laboratory and see if offspring display parental migratory behavior.",
-            "C) bring animals into the laboratory and determine the conditions under which they become restless and attempt to migrate.",
-            "D) perform within-population matings with birds from different populations that have different migratory habits. Rear the offspring in the absence of their parents and observe the migratory behavior of offspring.",
-            "E) All of the options are equally productive ways to approach the question."
-        ],
-        "back": "D",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "39) What probably explains why coastal and inland garter snakes react differently to banana slug prey?",
-        "options": [
-            "A) Ancestors of coastal snakes that could eat the abundant banana slugs had increased fitness. No such selection occurred inland, where banana slugs were absent.",
-            "B) Banana slugs are camouflaged, and inland snakes, which have poorer vision than coastal snakes, are less able to see them.",
-            "C) Garter snakes learn about prey from other garter snakes. Inland garter snakes have fewer types of prey because they are less social.",
-            "D) Inland banana slugs are distasteful, so inland snakes learn to avoid them. Coastal banana slugs are palatable to garter snakes.",
-            "E) Garter snakes learn to eat what their mother eats. Coastal snake mothers happened to prefer slugs."
-        ],
-        "back": "A",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "40) Which of the following statements about evolution of behavior is correct?",
-        "options": [
-            "A) Natural selection will favor behavior that enhances survival and reproduction.",
-            "B) An animal may show behavior that minimizes reproductive fitness.",
-            "C) If a behavior is less than optimal, it will eventually become optimal through natural selection.",
-            "D) Innate behaviors can never be altered by natural selection.",
-            "E) All of the statements are correct."
-        ],
-        "back": "A",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "41) Feeding behavior with a high energy intake-to-expenditure ratio is called",
-        "options": [
-            "A) herbivory.",
-            "B) autotrophy.",
-            "C) heterotrophy.",
-            "D) search scavenging.",
-            "E) optimal foraging."
-        ],
-        "back": "E",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "42) In the evolution of whelk-eating behavior in crows, which of the following was optimized through natural selection?",
-        "options": [
-            "A) the average number of drops required to break the shell",
-            "B) the average height a bird flew to drop a shell",
-            "C) the average total energy used to break shells",
-            "D) the average size of the shells dropped by the birds",
-            "E) the average thickness of the shells dropped by the birds"
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "43) Which of the following might affect the foraging behavior of an animal in the context of optimal foraging?",
-        "options": [
-            "A) risk of predation",
-            "B) prey size",
-            "C) prey defenses",
-            "D) prey density",
-            "E) All of the options are correct."
-        ],
-        "back": "E",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "44) You discover a rare new bird species, but you are unable to observe its mating behavior. You see that the male is large and ornamental compared with the female. On this basis, you can probably conclude that the species is",
-        "options": [
-            "A) polygamous.",
-            "B) monogamous.",
-            "C) polyandrous.",
-            "D) promiscuous.",
-            "E) agonistic."
-        ],
-        "back": "A",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "45) The evolution of mating systems is most likely affected by",
-        "options": [
-            "A) population density.",
-            "B) territoriality.",
-            "C) certainty of paternity.",
-            "D) sexual dimorphism.",
-            "E) None of the options is correct."
-        ],
-        "back": "D",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "46) The mating system in which females are more ornamented than males is",
-        "options": [
-            "A) monogamy.",
-            "B) promiscuity.",
-            "C) polygamy.",
-            "D) polygyny.",
-            "E) polyandry."
-        ],
-        "back": "E",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "47) What is the fitness benefit of polygamy in birds that rear precocious young?",
-        "options": [
-            "A) Females will copulate with many males to ensure that all of their eggs are fertilized.",
-            "B) Females don't have to decide on one mate, and can copulate with as many males as she deems worthy to share her genes with in reproduction.",
-            "C) Fit males don't have to help feed and rear young and can spend this time seeking and mating with many females.",
-            "D) Females don't have to spend time rearing young and can mate and rear additional broods during a breeding season.",
-            "E) Both males and females spend little time with courtship and brood-rearing, and don't tax their own physiology so they can breed again in subsequent breeding seasons."
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "48) Which of the following statements is true about certainty of paternity?",
-        "options": [
-            "A) Young or eggs laid by a female are likely to contain the same genes as another female's eggs in a population of birds.",
-            "B) Certainty of paternity is high in most species with internal fertilization because the acts of mating and birth are separated by time.",
-            "C) Males that guard females they have mated with are certain of their paternity.",
-            "D) Certainty of paternity is low when egg laying and mating occur together, as in external fertilization.",
-            "E) Paternal behavior exists because it has been reinforced over generations by natural selection."
-        ],
-        "back": "E",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "49) Which of the following best describes \"game theory\" as it applies to animal behavior?",
-        "options": [
-            "A) The fitness of a particular behavior is influenced by other behavioral phenotypes in a population.",
-            "B) The total of all of the behavioral displays, both male and female, is related to courtship.",
-            "C) An individual in a population changes a behavioral phenotype to gain a competitive advantage.",
-            "D) The play behavior performed by juveniles allows them to perfect adult behaviors that are needed for survival, such as hunting, courtship, and so on.",
-            "E) The evolutionary \"game\" is played between predator and prey, wherein the prey develops a behavior through natural selection that enables it to be less vulnerable to predation, and the predator counters with a new reciprocal predatory behavior."
-        ],
-        "back": "A",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "50) The color of throats of males in a population of side-blotched lizards is determined by",
-        "options": [
-            "A) the frequency of homozygous recessive genotype.",
-            "B) ambient temperatureblue = cold; orange = normal; yellow = hot.",
-            "C) stage of development/maturity.",
-            "D) their receptiveness to mate.",
-            "E) the success of the mating behavior of each of the throat color phenotypes."
-        ],
-        "back": "E",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "51) The fru gene in fruit flies",
-        "options": [
-            "A) controls sex-specific development in the fruit fly.",
-            "B) is a master regulatory gene that directs expression of many other genes.",
-            "C) can be genetically manipulated in females so that they will perform male sex behaviors.",
-            "D) programs males for appropriate courtship behaviors.",
-            "E) All of the options are correct."
-        ],
-        "back": "E",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "52) Pair-bonding in a population of prairie voles can be prevented by",
-        "options": [
-            "A) the ensuing confusion caused by introducing meadow voles.",
-            "B) administering a drug that inhibits the brain receptor for vasopressin in the CNS of males.",
-            "C) administering a drug that turns on ADH receptor sites in male voles.",
-            "D) dying the coat color from brown to blond in either male or female prairie voles.",
-            "E) allowing the population size to reach critically low levels."
-        ],
-        "back": "B",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "53) How do altruistic behaviors arise through natural selection?",
-        "options": [
-            "A) By his/her actions, the altruist increases the likelihood that some of its genes will be passed on to the next generation.",
-            "B) The altruist is appreciated by other members of the population because their survivability has been enhanced by virtue of his/her risky behavior.",
-            "C) Animals that perform altruistic acts are allowed by their population to breed more, thereby passing on their behavior genes to future generations.",
-            "D) Altruistic behaviors lower stress in populations, which increases the survivability of all the members of the population.",
-            "E) All of the options are correct."
-        ],
-        "back": "A",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "54) Which of the following does not have a coefficient of relatedness of 0.5?",
-        "options": [
-            "A) a father to his daughter",
-            "B) a mother to her son",
-            "C) an uncle to his nephew",
-            "D) a brother to his brother",
-            "E) a sister to her brother"
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "55) Animals that help other animals of the same species",
-        "options": [
-            "A) have excess energy reserves.",
-            "B) are bigger and stronger than the other animals.",
-            "C) are usually related to the other animals.",
-            "D) are always male.",
-            "E) have defective genes controlling their behavior."
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "56) The presence of altruistic behavior is most likely due to kin selection, a theory maintaining that",
-        "options": [
-            "A) aggression between sexes promotes the survival of the fittest individuals.",
-            "B) genes enhance survival of copies of themselves by directing organisms to assist others who share those genes.",
-            "C) companionship is advantageous to animals because in the future they can help each other.",
-            "D) critical thinking abilities are normal traits for animals and they have arisen, like other traits, through natural selection.",
-            "E) natural selection has generally favored the evolution of exaggerated aggressive and submissive behaviors to resolve conflict without grave harm to participants."
-        ],
-        "back": "B",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "57) In Belding's ground squirrels, it is mostly the females that behave altruistically by sounding alarm calls. What is the likely reason for this distinction?",
-        "options": [
-            "A) Males have smaller vocal cords and are less likely to make sounds.",
-            "B) Females invest more in foraging and food stores, so they are more defensive.",
-            "C) Females settle in the area in which they were born, so the alarm is warning kin.",
-            "D) The sex ratio is biased.",
-            "E) Males forage in areas separate from females; therefore, alarm calls are useless."
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "58) The central concept of sociobiology is that",
-        "options": [
-            "A) human behavior is rigidly predetermined.",
-            "B) the behavior of an individual cannot be modified.",
-            "C) human behavior consists mainly of fixed action patterns.",
-            "D) most aspects of our social behavior have an evolutionary basis.",
-            "E) the social behavior of humans is homologous to the social behavior of other social animals."
-        ],
-        "back": "D",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "59) In the territorial behavior of the stickleback fish, the red belly of one male that elicits attack from another male is functioning as",
-        "options": [
-            "A) a pheromone.",
-            "B) a sign stimulus.",
-            "C) a fixed action pattern.",
-            "D) a search image.",
-            "E) an imprint stimulus."
-        ],
-        "back": "B",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": [
-            "https://www.easynotecards.com/uploads/1002/12/7aa40d1e_161600eba10__8000_00003744.jpg"
-        ]
-    },
-    {
-        "front": "60) The behavior of most animals is influenced by the periods of daylight and darkness in the environment. Fiddler crabs' courtship behaviors are instead synchronized by the 29 1/2-day cycle of the moon. What is the adaptive significance of using lunar cues?",
-        "options": [
-            "A) The fiddler crab courtship ritual is highly visual so individuals need the light of the full moon to be able to observe courtship displays.",
-            "B) Egg maturation in fiddler crab females takes 29 1/2 days.",
-            "C) By courting at full and new moon, fiddler crabs link their reproduction to times of highest tides that disperse larvae to safer, deeper waters.",
-            "D) The algae that larval fiddler crabs consume for energy and metabolism blooms on a monthly cycle, so recently hatched larvae have plenty to eat during a crucial time of their life.",
-            "E) It takes about 29 days for a fiddler crab to reach sexual maturity."
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": [
-            "https://www.easynotecards.com/uploads/897/93/7aa40d1e_161600eba10__8000_00000835.png"
-        ]
-    },
-    {
-        "front": "61) During a field trip, an instructor touched a moth resting on a tree trunk. The moth raised its forewings to reveal large eyespots on its hind wings. The instructor asked why the moth lifted its wings. One student answered that sensory receptors had fired and triggered a neuronal reflex culminating in the contraction of certain muscles. A second student responded that the behavior might frighten predators. Which statement best describes these explanations?",
-        "options": [
-            "A) The first explanation is correct, but the second is incorrect.",
-            "B) The first explanation refers to proximate causation, whereas the second refers to ultimate causation.",
-            "C) The first explanation is biological, whereas the second is philosophical.",
-            "D) The first explanation is testable as a scientific hypothesis, whereas the second is not.",
-            "E) Both explanations are reasonable and simply represent a difference of opinion."
-        ],
-        "back": "B",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "62) One way to understand how early environment influences differing behaviors in similar species is through the \"cross-fostering\" experimental technique. Suppose that the curly-whiskered mud rat differs from the bald mud rat in several ways, including being much more aggressive. How would you set up a cross-fostering experiment to determine if environment plays a role in the curly-whiskered mud rat's aggression?",
-        "options": [
-            "A) You would cross curly-whiskered mud rats and bald mud rats and hand-rear the offspring to see if any grew up to be aggressive.",
-            "B) You would place newborn curly-whiskered mud rats with bald mud rat parents, place newborn bald mud rats with curly-whiskered mud rat parents, and let some mud rats of both species be raised by their own species. Then you would compare the outcomes.",
-            "C) You would remove the offspring of curly-whiskered mud rats and bald mud rats from their parents, raise them in the same environment, and then compare the outcomes.",
-            "D) You would see if curly-whiskered mud rats bred true for aggression.",
-            "E) You would replace normal newborn mud rats with deformed newborn mud rats to see if it triggered an altruistic response."
-        ],
-        "back": "B",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "63) Fred and Joe, two unrelated, mature male gorillas, encounter one another. Fred is courting a female. Fred grunts as Joe comes near. As Joe continues to advance, Fred begins drumming (pounding his chest) and bares his teeth. Joe then rolls on the ground on his back, gets up, and quickly leaves. This behavioral pattern is repeated several times during the mating season. Choose the most specific behavior described by this example.",
-        "options": [
-            "A) agonistic behavior",
-            "B) territorial behavior",
-            "C) learned behavior",
-            "D) social behavior",
-            "E) fixed action pattern"
-        ],
-        "back": "A",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "64) Which of the following is true of innate behaviors?",
-        "options": [
-            "A) Their expression is only weakly influenced by genes.",
-            "B) They occur with or without environmental stimuli.",
-            "C) They are limited to invertebrate animals.",
-            "D) They are expressed in most individuals in a population.",
-            "E) They occur in invertebrates and some vertebrates but not mammals."
-        ],
-        "back": "D",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "65) According to Hamilton's rule,",
-        "options": [
-            "A) natural selection does not favor altruistic behavior that causes the death of the altruist.",
-            "B) natural selection favors altruistic acts when the resulting benefit to the beneficiary, corrected for relatedness, exceeds the cost to the altruist.",
-            "C) natural selection is more likely to favor altruistic behavior that benefits an offspring than altruistic behavior that benefits a sibling.",
-            "D) the effects of kin selection are larger than the effects of direct natural selection on individuals.",
-            "E) altruism is always reciprocal."
-        ],
-        "back": "B",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "66) Female spotted sandpipers aggressively court males and, after mating, leave the clutch of young for the male to incubate. This sequence may be repeated several times with different males until no available males remain, forcing the female to incubate her last clutch. Which of the following terms best describes this behavior?",
-        "options": [
-            "A) monogamy",
-            "B) polygyny",
-            "C) polyandry",
-            "D) promiscuity",
-            "E) certainty of paternity"
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "67) A region of the canary forebrain shrinks during the nonbreeding season and enlarges when breeding season begins. This change is probably associated with the annual",
-        "options": [
-            "A) addition of new syllables to a canary's song repertoire.",
-            "B) crystallization of subsong into adult songs.",
-            "C) sensitive period in which canary parents imprint on new offspring.",
-            "D) renewal of mating and nest-building behaviors.",
-            "E) elimination of the memorized template for songs sung the previous year."
-        ],
-        "back": "A",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "68) Although many chimpanzees live in environments containing oil palm nuts, members of only a few populations use stones to crack open the nuts. The likely explanation is that",
-        "options": [
-            "A) the behavioral difference is caused by genetic differences between populations.",
-            "B) members of different populations have different nutritional requirements.",
-            "C) the cultural tradition of using stones to crack nuts has arisen in only some populations.",
-            "D) members of different populations differ in learning ability.",
-            "E) members of different populations differ in manual dexterity."
-        ],
-        "back": "C",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    },
-    {
-        "front": "69) Which of the following is not required for a behavioral trait to evolve by natural selection?",
-        "options": [
-            "A) In each individual, the form of the behavior is determined entirely by genes.",
-            "B) The behavior varies among individuals.",
-            "C) An individual's reproductive success depends in part on how the behavior is performed.",
-            "D) Some component of the behavior is genetically inherited.",
-            "E) An individual's genotype influences its behavioral phenotype."
-        ],
-        "back": "A",
-        "unit": "Unit 51",
-        "chapter": "Chapter 51",
-        "images": []
-    }
+  {
+    "front": "1) A female cat in heat urinates more often and in many places. Male cats are attracted to the urine deposits. Which of the following is a proximate cause of this increased urination?",
+    "options": [
+      "A) It announces to the males that she is in heat.",
+      "B) Female cats that did this in the past attracted more males.",
+      "C) It is a result of hormonal changes associated with her reproductive cycle.",
+      "D) The female cat learned the behavior from observing other cats.",
+      "E) All of the options are ultimate causes of behavior."
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "2) A female cat in heat urinates more often and in many places. Male cats congregate near the urine deposits and fight with each other. Which of the following would be an ultimate cause of the male cats' response to the female's urinating behavior?",
+    "options": [
+      "A) The males have learned to recognize the specific odor of the urine of a female in heat.",
+      "B) When the males smelled the odor, various neurons in their brains were stimulated.",
+      "C) Responding to the odor means locating reproductively receptive females.",
+      "D) Male cats' hormones are triggered by the odor released by the female.",
+      "E) The odor serves as a releaser for the instinctive behavior of the males."
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "3) Which of the following examples describes a behavioral pattern that results from a proximate cause?",
+    "options": [
+      "A) A cat kills a mouse to obtain nutrition.",
+      "B) A male sheep fights with another male because it helps to improve its social position.",
+      "C) A female bird lays its eggs because the amount of daylight is decreasing slightly each day.",
+      "D) A goose squats and freezes motionless to escape a predator.",
+      "E) A cockroach runs into a crack in the wall and avoids being stepped on."
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "4) The proximate causes of behavior are interactions with the environment, but behavior is ultimately shaped by",
+    "options": [
+      "A) hormones.",
+      "B) evolution.",
+      "C) sexuality.",
+      "D) pheromones.",
+      "E) the nervous system."
+    ],
+    "back": "B",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "5) Animal communication involves what type of sensory information?",
+    "options": [
+      "A) visual",
+      "B) auditory",
+      "C) olfactory",
+      "D) tactile",
+      "E) visual, auditory, olfactory, and tactile"
+    ],
+    "back": "E",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "6) What type of signal is long-lasting and works at night?",
+    "options": [
+      "A) olfactory",
+      "B) visual",
+      "C) auditory",
+      "D) tactile",
+      "E) electrical"
+    ],
+    "back": "A",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "7) What type of signal is brief and can work among obstructions at night?",
+    "options": [
+      "A) olfactory",
+      "B) visual",
+      "C) auditory",
+      "D) tactile",
+      "E) magnetic"
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "8) What type of signal is fast and requires daylight with no obstructions?",
+    "options": [
+      "A) olfactory",
+      "B) visual",
+      "C) auditory",
+      "D) tactile",
+      "E) electrical"
+    ],
+    "back": "B",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "9) A chemical produced by an animal that serves as a communication to another animal of the same species is called",
+    "options": [
+      "A) a sign stimulus.",
+      "B) an inducer.",
+      "C) a pheromone.",
+      "D) an imprinter.",
+      "E) an agonistic promoter."
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "10) Research has shown that nocturnal animals navigate using",
+    "options": [
+      "A) olfactory cues.",
+      "B) the North Star.",
+      "C) the moon.",
+      "D) landmarks.",
+      "E) gravity."
+    ],
+    "back": "B",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "11) Circannual rhythms in birds are influenced by",
+    "options": [
+      "A) periods of food availability.",
+      "B) reproductive readiness.",
+      "C) periods of daylight and darkness.",
+      "D) magnetic fields.",
+      "E) lunar cycles."
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "12) Upon returning to its hive, a European honeybee communicates to other worker bees the location of a nearby food source it has discovered by",
+    "options": [
+      "A) vibrating its wings at varying frequencies.",
+      "B) performing a round dance.",
+      "C) performing a waggle dance.",
+      "D) visual cues.",
+      "E) All options are correct."
+    ],
+    "back": "B",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "13) Karl von Frisch demonstrated that European honeybees communicate the location of a distant food source by",
+    "options": [
+      "A) performing a short, straight run during a waggle dance.",
+      "B) performing a long, straight run during a waggle dance.",
+      "C) performing a round dance with fast rotations.",
+      "D) emanating minute amounts of stimulus pheromone.",
+      "E) varying wing vibration frequency."
+    ],
+    "back": "B",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "14) Animals use pheromones to communicate",
+    "options": [
+      "A) reproductive readiness.",
+      "B) species recognition.",
+      "C) gender recognition.",
+      "D) danger.",
+      "E) All options are correct."
+    ],
+    "back": "E",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "15) Displays of nocturnal mammals are usually",
+    "options": [
+      "A) visual and auditory.",
+      "B) tactile and visual.",
+      "C) olfactory and auditory.",
+      "D) visual and olfactory.",
+      "E) tactile and auditory."
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "Listed below are several examples of types of animal behavior. Match the letter of the correct term (A-E) to each example in the following question. A. operant conditioning B. agonistic behavior C. innate behavior D. imprinting E. altruistic behavior 16) Through trial and error, a rat learns to run a maze without mistakes to receive a food reward.",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "A",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "Listed below are several examples of types of animal behavior. Match the letter of the correct term (A-E) to each example in the following question. A. operant conditioning B. agonistic behavior C. innate behavior D. imprinting E. altruistic behavior 17) A human baby performs a sucking behavior perfectly when it is put in the presence of the nipple of its mother's breast.",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "Listed below are several examples of types of animal behavior. Match the letter of the correct term (A-E) to each example in the following question. A. operant conditioning B. agonistic behavior C. innate behavior D. imprinting E. altruistic behavior 18) A mother goat can recognize its own kid by smell.",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "D",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "Listed below are several examples of types of animal behavior. Match the letter of the correct term (A-E) to each example in the following question. A. operant conditioning B. agonistic behavior C. innate behavior D. imprinting E. altruistic behavior 19) Upon observing a golden eagle flying overhead, a sentry prairie dog gives a warning call to other foraging members of the prairie dog community.",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "E",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "20) A cage containing male mosquitoes has a small earphone placed on top, through which the sound of a female mosquito is played. All the males immediately fly to the earphone and go through all of the steps of copulation. What is the best explanation for this behavior?",
+    "options": [
+      "A) The males learn to associate the sound with females.",
+      "B) Copulation is a fixed action pattern, and the female flight sound is a sign stimulus that initiates it.",
+      "C) The sound from the earphone irritates the male mosquitoes, causing them to attempt to sting it.",
+      "D) The reproductive drive is so strong that when males are deprived of females, they will attempt to mate with anything that has even the slightest female characteristic.",
+      "E) Through classical conditioning, the male mosquitoes have associated the inappropriate stimulus from the earphone with the normal response of copulation."
+    ],
+    "back": "B",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "21) If mayflies lay eggs on roads instead of in water, it would indicate which of the following?",
+    "options": [
+      "A) a defective gene",
+      "B) trial-and-error learning",
+      "C) a misdirected response to a sign stimulus",
+      "D) a natural behavioral variation in the mayfly population",
+      "E) aberrant behavior due to insecticide poisoning"
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "22) Which of the following is true about imprinting?",
+    "options": [
+      "A) It may be triggered by visual or chemical stimuli.",
+      "B) It happens to many adult animals, but not to their young.",
+      "C) It is a type of learning that does not involve innate behavior.",
+      "D) It occurs only in birds.",
+      "E) It causes behaviors that last for only a short time (the sensitive period)."
+    ],
+    "back": "A",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "23) A type of learning that can occur only during a brief period of early life and results in a behavior that is difficult to modify through later experiences is called",
+    "options": [
+      "A) insight.",
+      "B) imprinting.",
+      "C) habituation.",
+      "D) operant conditioning.",
+      "E) trial-and-error learning."
+    ],
+    "back": "B",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "24) Learning in which an associated stimulus may be used to elicit the same behavioral response as the original sign stimulus is called",
+    "options": [
+      "A) concept formation.",
+      "B) trial and error.",
+      "C) classical conditioning.",
+      "D) operant conditioning.",
+      "E) cognition."
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "25) Every morning at the same time, John went into the den to feed his new tropical fish. After a few weeks, he noticed that the fish swam to the top of the tank when he entered the room. This is an example of",
+    "options": [
+      "A) cognition.",
+      "B) imprinting.",
+      "C) classical conditioning.",
+      "D) operant conditioning.",
+      "E) maturation."
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "26) A type of bird similar to a chickadee learns to peck through the cardboard tops of milk bottles left on doorsteps to obtain the desired cream from the top. What term best applies to this behavior?",
+    "options": [
+      "A) sign stimulus",
+      "B) cognition",
+      "C) imprinting",
+      "D) classical conditioning",
+      "E) operant conditioning"
+    ],
+    "back": "E",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "27) A salmon returns to its home stream to spawn. What term best applies to this behavior?",
+    "options": [
+      "A) sign stimulus",
+      "B) cognition",
+      "C) imprinting",
+      "D) classical conditioning",
+      "E) operant conditioning"
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "28) A stickleback fish will attack a fish model as long as the model has red coloring. What animal behavior idea is manifested by this observation?",
+    "options": [
+      "A) sign stimulus",
+      "B) cognition",
+      "C) imprinting",
+      "D) classical conditioning",
+      "E) operant conditioning"
+    ],
+    "back": "A",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "29) Parental protective behavior in turkeys is triggered by the cheeping sound of young chicks. What term best applies to this behavior?",
+    "options": [
+      "A) sign stimulus",
+      "B) cognition",
+      "C) imprinting",
+      "D) classical conditioning",
+      "E) operant conditioning"
+    ],
+    "back": "A",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "30) A guinea pig loves the lettuce kept in the refrigerator and squeals each time the refrigerator door opens. What term best applies to this behavior?",
+    "options": [
+      "A) sign stimulus",
+      "B) cognition",
+      "C) imprinting",
+      "D) classical conditioning",
+      "E) operant conditioning"
+    ],
+    "back": "D",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "31) Classical conditioning and operant conditioning differ in that",
+    "options": [
+      "A) classical conditioning takes longer.",
+      "B) operant conditioning usually involves more intelligence.",
+      "C) operant conditioning involves consequences for the animal's behavior.",
+      "D) classical conditioning is restricted to mammals and birds.",
+      "E) classical conditioning is much more useful for training domestic animals."
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "32) Some dogs love attention, and Frodo the beagle learns that if he barks, he gets attention. Which of the following might you use to describe this behavior?",
+    "options": [
+      "A) The dog is displaying an instinctive fixed action pattern.",
+      "B) The dog is performing a social behavior.",
+      "C) The dog is trying to protect its territory.",
+      "D) The dog has been classically conditioned.",
+      "E) The dog's behavior is a result of operant conditioning."
+    ],
+    "back": "E",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "33) Among songbirds, a \"crystallized\" song is one that",
+    "options": [
+      "A) is beyond the range of human hearing.",
+      "B) is perfected by juveniles.",
+      "C) extremely young chicks sing.",
+      "D) is a perfected species-specific song.",
+      "E) warns of predators."
+    ],
+    "back": "D",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "34) What is the normal imprinting stimulus to a hatchling graylag goose?",
+    "options": [
+      "A) an image of a model of an adult graylag goose",
+      "B) a nearby object that is moving away",
+      "C) recognition of its biological mother",
+      "D) any other adult of its own species",
+      "E) any human"
+    ],
+    "back": "B",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "35) Scientists have tried raising endangered whooping cranes in captivity by using sandhill cranes as foster parents. This strategy is no longer used because",
+    "options": [
+      "A) fostered whooping crane chicks did not develop the necessary cues for migration.",
+      "B) the fostered whooping cranes' critical period was variable such that different chicks imprinted on different \"mothers.\"",
+      "C) sandhill crane parents rejected their fostered whooping crane chicks soon after incubation.",
+      "D) none of the fostered whooping cranes formed a mating pair-bond with another whooping crane.",
+      "E) sandhill crane parents did not properly incubate whooping crane eggs."
+    ],
+    "back": "D",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "36) Which of the following shows the adaptive significance of cognitive mapping to animals that employ this type of learning?",
+    "options": [
+      "A) It increases the ability to visually recognize landmarks.",
+      "B) Cognitive maps reduce the amount of detail required to remember the location of an object in the animal's environment.",
+      "C) Animals can locate essential locations in their environment, such as nests, hazards, and feeding areas.",
+      "D) Animals can outmaneuver predators by planning and memorizing getaway routes.",
+      "E) Animals can determine their position relative to landmarks by a triangulation process."
+    ],
+    "back": "B",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "37) White-crowned sparrows can only learn the \"crystallized\" song for their species by",
+    "options": [
+      "A) listening to adult sparrow songs during a sensitive period as a fledgling, followed by a practice period until the juvenile matches its melody to its memorized fledgling song.",
+      "B) listening to the song of its own species during a critical period so that it will imprint to its own species song and not the songs of other songbird species.",
+      "C) practicing as a fledgling until the innate species-specific song becomes perfected.",
+      "D) performing the crystallized song as adults when they become sexually mature, as the song is programmed into the innate behavior for the species.",
+      "E) observing and practicing after receiving social confirmation from other adults at a critical period during their first episode of courtship behavior."
+    ],
+    "back": "A",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "38) Imagine that you are designing an experiment aimed at determining whether the initiation of migratory behavior is largely under genetic control. Of the following options, the best way to proceed is to",
+    "options": [
+      "A) observe genetically distinct populations in the field and see if they have different migratory habits.",
+      "B) perform within-population matings with birds from different populations that have different migratory habits. Do this in the laboratory and see if offspring display parental migratory behavior.",
+      "C) bring animals into the laboratory and determine the conditions under which they become restless and attempt to migrate.",
+      "D) perform within-population matings with birds from different populations that have different migratory habits. Rear the offspring in the absence of their parents and observe the migratory behavior of offspring.",
+      "E) All of the options are equally productive ways to approach the question."
+    ],
+    "back": "D",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "39) What probably explains why coastal and inland garter snakes react differently to banana slug prey?",
+    "options": [
+      "A) Ancestors of coastal snakes that could eat the abundant banana slugs had increased fitness. No such selection occurred inland, where banana slugs were absent.",
+      "B) Banana slugs are camouflaged, and inland snakes, which have poorer vision than coastal snakes, are less able to see them.",
+      "C) Garter snakes learn about prey from other garter snakes. Inland garter snakes have fewer types of prey because they are less social.",
+      "D) Inland banana slugs are distasteful, so inland snakes learn to avoid them. Coastal banana slugs are palatable to garter snakes.",
+      "E) Garter snakes learn to eat what their mother eats. Coastal snake mothers happened to prefer slugs."
+    ],
+    "back": "A",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "40) Which of the following statements about evolution of behavior is correct?",
+    "options": [
+      "A) Natural selection will favor behavior that enhances survival and reproduction.",
+      "B) An animal may show behavior that minimizes reproductive fitness.",
+      "C) If a behavior is less than optimal, it will eventually become optimal through natural selection.",
+      "D) Innate behaviors can never be altered by natural selection.",
+      "E) All of the statements are correct."
+    ],
+    "back": "A",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "41) Feeding behavior with a high energy intake-to-expenditure ratio is called",
+    "options": [
+      "A) herbivory.",
+      "B) autotrophy.",
+      "C) heterotrophy.",
+      "D) search scavenging.",
+      "E) optimal foraging."
+    ],
+    "back": "E",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "42) In the evolution of whelk-eating behavior in crows, which of the following was optimized through natural selection?",
+    "options": [
+      "A) the average number of drops required to break the shell",
+      "B) the average height a bird flew to drop a shell",
+      "C) the average total energy used to break shells",
+      "D) the average size of the shells dropped by the birds",
+      "E) the average thickness of the shells dropped by the birds"
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "43) Which of the following might affect the foraging behavior of an animal in the context of optimal foraging?",
+    "options": [
+      "A) risk of predation",
+      "B) prey size",
+      "C) prey defenses",
+      "D) prey density",
+      "E) All of the options are correct."
+    ],
+    "back": "E",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "44) You discover a rare new bird species, but you are unable to observe its mating behavior. You see that the male is large and ornamental compared with the female. On this basis, you can probably conclude that the species is",
+    "options": [
+      "A) polygamous.",
+      "B) monogamous.",
+      "C) polyandrous.",
+      "D) promiscuous.",
+      "E) agonistic."
+    ],
+    "back": "A",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "45) The evolution of mating systems is most likely affected by",
+    "options": [
+      "A) population density.",
+      "B) territoriality.",
+      "C) certainty of paternity.",
+      "D) sexual dimorphism.",
+      "E) None of the options is correct."
+    ],
+    "back": "D",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "46) The mating system in which females are more ornamented than males is",
+    "options": [
+      "A) monogamy.",
+      "B) promiscuity.",
+      "C) polygamy.",
+      "D) polygyny.",
+      "E) polyandry."
+    ],
+    "back": "E",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "47) What is the fitness benefit of polygamy in birds that rear precocious young?",
+    "options": [
+      "A) Females will copulate with many males to ensure that all of their eggs are fertilized.",
+      "B) Females don't have to decide on one mate, and can copulate with as many males as she deems worthy to share her genes with in reproduction.",
+      "C) Fit males don't have to help feed and rear young and can spend this time seeking and mating with many females.",
+      "D) Females don't have to spend time rearing young and can mate and rear additional broods during a breeding season.",
+      "E) Both males and females spend little time with courtship and brood-rearing, and don't tax their own physiology so they can breed again in subsequent breeding seasons."
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "48) Which of the following statements is true about certainty of paternity?",
+    "options": [
+      "A) Young or eggs laid by a female are likely to contain the same genes as another female's eggs in a population of birds.",
+      "B) Certainty of paternity is high in most species with internal fertilization because the acts of mating and birth are separated by time.",
+      "C) Males that guard females they have mated with are certain of their paternity.",
+      "D) Certainty of paternity is low when egg laying and mating occur together, as in external fertilization.",
+      "E) Paternal behavior exists because it has been reinforced over generations by natural selection."
+    ],
+    "back": "E",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "49) Which of the following best describes \"game theory\" as it applies to animal behavior?",
+    "options": [
+      "A) The fitness of a particular behavior is influenced by other behavioral phenotypes in a population.",
+      "B) The total of all of the behavioral displays, both male and female, is related to courtship.",
+      "C) An individual in a population changes a behavioral phenotype to gain a competitive advantage.",
+      "D) The play behavior performed by juveniles allows them to perfect adult behaviors that are needed for survival, such as hunting, courtship, and so on.",
+      "E) The evolutionary \"game\" is played between predator and prey, wherein the prey develops a behavior through natural selection that enables it to be less vulnerable to predation, and the predator counters with a new reciprocal predatory behavior."
+    ],
+    "back": "A",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "50) The color of throats of males in a population of side-blotched lizards is determined by",
+    "options": [
+      "A) the frequency of homozygous recessive genotype.",
+      "B) ambient temperatureblue = cold; orange = normal; yellow = hot.",
+      "C) stage of development/maturity.",
+      "D) their receptiveness to mate.",
+      "E) the success of the mating behavior of each of the throat color phenotypes."
+    ],
+    "back": "E",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "51) The fru gene in fruit flies",
+    "options": [
+      "A) controls sex-specific development in the fruit fly.",
+      "B) is a master regulatory gene that directs expression of many other genes.",
+      "C) can be genetically manipulated in females so that they will perform male sex behaviors.",
+      "D) programs males for appropriate courtship behaviors.",
+      "E) All of the options are correct."
+    ],
+    "back": "E",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "52) Pair-bonding in a population of prairie voles can be prevented by",
+    "options": [
+      "A) the ensuing confusion caused by introducing meadow voles.",
+      "B) administering a drug that inhibits the brain receptor for vasopressin in the CNS of males.",
+      "C) administering a drug that turns on ADH receptor sites in male voles.",
+      "D) dying the coat color from brown to blond in either male or female prairie voles.",
+      "E) allowing the population size to reach critically low levels."
+    ],
+    "back": "B",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "53) How do altruistic behaviors arise through natural selection?",
+    "options": [
+      "A) By his/her actions, the altruist increases the likelihood that some of its genes will be passed on to the next generation.",
+      "B) The altruist is appreciated by other members of the population because their survivability has been enhanced by virtue of his/her risky behavior.",
+      "C) Animals that perform altruistic acts are allowed by their population to breed more, thereby passing on their behavior genes to future generations.",
+      "D) Altruistic behaviors lower stress in populations, which increases the survivability of all the members of the population.",
+      "E) All of the options are correct."
+    ],
+    "back": "A",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "54) Which of the following does not have a coefficient of relatedness of 0.5?",
+    "options": [
+      "A) a father to his daughter",
+      "B) a mother to her son",
+      "C) an uncle to his nephew",
+      "D) a brother to his brother",
+      "E) a sister to her brother"
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "55) Animals that help other animals of the same species",
+    "options": [
+      "A) have excess energy reserves.",
+      "B) are bigger and stronger than the other animals.",
+      "C) are usually related to the other animals.",
+      "D) are always male.",
+      "E) have defective genes controlling their behavior."
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "56) The presence of altruistic behavior is most likely due to kin selection, a theory maintaining that",
+    "options": [
+      "A) aggression between sexes promotes the survival of the fittest individuals.",
+      "B) genes enhance survival of copies of themselves by directing organisms to assist others who share those genes.",
+      "C) companionship is advantageous to animals because in the future they can help each other.",
+      "D) critical thinking abilities are normal traits for animals and they have arisen, like other traits, through natural selection.",
+      "E) natural selection has generally favored the evolution of exaggerated aggressive and submissive behaviors to resolve conflict without grave harm to participants."
+    ],
+    "back": "B",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "57) In Belding's ground squirrels, it is mostly the females that behave altruistically by sounding alarm calls. What is the likely reason for this distinction?",
+    "options": [
+      "A) Males have smaller vocal cords and are less likely to make sounds.",
+      "B) Females invest more in foraging and food stores, so they are more defensive.",
+      "C) Females settle in the area in which they were born, so the alarm is warning kin.",
+      "D) The sex ratio is biased.",
+      "E) Males forage in areas separate from females; therefore, alarm calls are useless."
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "58) The central concept of sociobiology is that",
+    "options": [
+      "A) human behavior is rigidly predetermined.",
+      "B) the behavior of an individual cannot be modified.",
+      "C) human behavior consists mainly of fixed action patterns.",
+      "D) most aspects of our social behavior have an evolutionary basis.",
+      "E) the social behavior of humans is homologous to the social behavior of other social animals."
+    ],
+    "back": "D",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "59) In the territorial behavior of the stickleback fish, the red belly of one male that elicits attack from another male is functioning as",
+    "options": [
+      "A) a pheromone.",
+      "B) a sign stimulus.",
+      "C) a fixed action pattern.",
+      "D) a search image.",
+      "E) an imprint stimulus."
+    ],
+    "back": "B",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": [
+      "https://www.easynotecards.com/uploads/1002/12/7aa40d1e_161600eba10__8000_00003744.jpg"
+    ]
+  },
+  {
+    "front": "60) The behavior of most animals is influenced by the periods of daylight and darkness in the environment. Fiddler crabs' courtship behaviors are instead synchronized by the 29 1/2-day cycle of the moon. What is the adaptive significance of using lunar cues?",
+    "options": [
+      "A) The fiddler crab courtship ritual is highly visual so individuals need the light of the full moon to be able to observe courtship displays.",
+      "B) Egg maturation in fiddler crab females takes 29 1/2 days.",
+      "C) By courting at full and new moon, fiddler crabs link their reproduction to times of highest tides that disperse larvae to safer, deeper waters.",
+      "D) The algae that larval fiddler crabs consume for energy and metabolism blooms on a monthly cycle, so recently hatched larvae have plenty to eat during a crucial time of their life.",
+      "E) It takes about 29 days for a fiddler crab to reach sexual maturity."
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": [
+      "https://www.easynotecards.com/uploads/897/93/7aa40d1e_161600eba10__8000_00000835.png"
+    ]
+  },
+  {
+    "front": "61) During a field trip, an instructor touched a moth resting on a tree trunk. The moth raised its forewings to reveal large eyespots on its hind wings. The instructor asked why the moth lifted its wings. One student answered that sensory receptors had fired and triggered a neuronal reflex culminating in the contraction of certain muscles. A second student responded that the behavior might frighten predators. Which statement best describes these explanations?",
+    "options": [
+      "A) The first explanation is correct, but the second is incorrect.",
+      "B) The first explanation refers to proximate causation, whereas the second refers to ultimate causation.",
+      "C) The first explanation is biological, whereas the second is philosophical.",
+      "D) The first explanation is testable as a scientific hypothesis, whereas the second is not.",
+      "E) Both explanations are reasonable and simply represent a difference of opinion."
+    ],
+    "back": "B",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "62) One way to understand how early environment influences differing behaviors in similar species is through the \"cross-fostering\" experimental technique. Suppose that the curly-whiskered mud rat differs from the bald mud rat in several ways, including being much more aggressive. How would you set up a cross-fostering experiment to determine if environment plays a role in the curly-whiskered mud rat's aggression?",
+    "options": [
+      "A) You would cross curly-whiskered mud rats and bald mud rats and hand-rear the offspring to see if any grew up to be aggressive.",
+      "B) You would place newborn curly-whiskered mud rats with bald mud rat parents, place newborn bald mud rats with curly-whiskered mud rat parents, and let some mud rats of both species be raised by their own species. Then you would compare the outcomes.",
+      "C) You would remove the offspring of curly-whiskered mud rats and bald mud rats from their parents, raise them in the same environment, and then compare the outcomes.",
+      "D) You would see if curly-whiskered mud rats bred true for aggression.",
+      "E) You would replace normal newborn mud rats with deformed newborn mud rats to see if it triggered an altruistic response."
+    ],
+    "back": "B",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "63) Fred and Joe, two unrelated, mature male gorillas, encounter one another. Fred is courting a female. Fred grunts as Joe comes near. As Joe continues to advance, Fred begins drumming (pounding his chest) and bares his teeth. Joe then rolls on the ground on his back, gets up, and quickly leaves. This behavioral pattern is repeated several times during the mating season. Choose the most specific behavior described by this example.",
+    "options": [
+      "A) agonistic behavior",
+      "B) territorial behavior",
+      "C) learned behavior",
+      "D) social behavior",
+      "E) fixed action pattern"
+    ],
+    "back": "A",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "64) Which of the following is true of innate behaviors?",
+    "options": [
+      "A) Their expression is only weakly influenced by genes.",
+      "B) They occur with or without environmental stimuli.",
+      "C) They are limited to invertebrate animals.",
+      "D) They are expressed in most individuals in a population.",
+      "E) They occur in invertebrates and some vertebrates but not mammals."
+    ],
+    "back": "D",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "65) According to Hamilton's rule,",
+    "options": [
+      "A) natural selection does not favor altruistic behavior that causes the death of the altruist.",
+      "B) natural selection favors altruistic acts when the resulting benefit to the beneficiary, corrected for relatedness, exceeds the cost to the altruist.",
+      "C) natural selection is more likely to favor altruistic behavior that benefits an offspring than altruistic behavior that benefits a sibling.",
+      "D) the effects of kin selection are larger than the effects of direct natural selection on individuals.",
+      "E) altruism is always reciprocal."
+    ],
+    "back": "B",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "66) Female spotted sandpipers aggressively court males and, after mating, leave the clutch of young for the male to incubate. This sequence may be repeated several times with different males until no available males remain, forcing the female to incubate her last clutch. Which of the following terms best describes this behavior?",
+    "options": [
+      "A) monogamy",
+      "B) polygyny",
+      "C) polyandry",
+      "D) promiscuity",
+      "E) certainty of paternity"
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "67) A region of the canary forebrain shrinks during the nonbreeding season and enlarges when breeding season begins. This change is probably associated with the annual",
+    "options": [
+      "A) addition of new syllables to a canary's song repertoire.",
+      "B) crystallization of subsong into adult songs.",
+      "C) sensitive period in which canary parents imprint on new offspring.",
+      "D) renewal of mating and nest-building behaviors.",
+      "E) elimination of the memorized template for songs sung the previous year."
+    ],
+    "back": "A",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "68) Although many chimpanzees live in environments containing oil palm nuts, members of only a few populations use stones to crack open the nuts. The likely explanation is that",
+    "options": [
+      "A) the behavioral difference is caused by genetic differences between populations.",
+      "B) members of different populations have different nutritional requirements.",
+      "C) the cultural tradition of using stones to crack nuts has arisen in only some populations.",
+      "D) members of different populations differ in learning ability.",
+      "E) members of different populations differ in manual dexterity."
+    ],
+    "back": "C",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  },
+  {
+    "front": "69) Which of the following is not required for a behavioral trait to evolve by natural selection?",
+    "options": [
+      "A) In each individual, the form of the behavior is determined entirely by genes.",
+      "B) The behavior varies among individuals.",
+      "C) An individual's reproductive success depends in part on how the behavior is performed.",
+      "D) Some component of the behavior is genetically inherited.",
+      "E) An individual's genotype influences its behavioral phenotype."
+    ],
+    "back": "A",
+    "unit": "Unit 1",
+    "chapter": "Chapter 51",
+    "images": []
+  }
 ]
+

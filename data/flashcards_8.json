@@ -1,1150 +1,1109 @@
 [
-    {
-        "front": "Which term most precisely describes the cellular process of breaking down large molecules into smaller ones?",
-        "options": [
-            "A) catalysis",
-            "B) metabolism",
-            "C) anabolism",
-            "D) dehydration",
-            "E) catabolism"
-        ],
-        "back": "E",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following is (are) true for anabolic pathways?",
-        "options": [
-            "A) They do not depend on enzymes.",
-            "B) They are usually highly spontaneous chemical reactions.",
-            "C) They consume energy to build up polymers from monomers.",
-            "D) They release energy as they degrade polymers to monomers.",
-            "E) They consume energy to decrease the entropy of the organism and its environment."
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following is a statement of the first law of thermodynamics?",
-        "options": [
-            "A) Energy cannot be created or destroyed.",
-            "B) The entropy of the universe is decreasing.",
-            "C) The entropy of the universe is constant.",
-            "D) Kinetic energy is stored energy that results from the specific arrangement of matter.",
-            "E) Energy cannot be transferred or transformed."
-        ],
-        "back": "A",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "For living organisms, which of the following is an important consequence of the first law of thermodynamics?",
-        "options": [
-            "A) The energy content of an organism is constant.",
-            "B) The organism ultimately must obtain all of the necessary energy for life from its environment.",
-            "C) The entropy of an organism decreases with time as the organism grows in complexity.",
-            "D) Organisms grow by converting energy into organic matter.",
-            "E) Life does not obey the first law of thermodynamics."
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Living organisms increase in complexity as they grow, resulting in a decrease in the entropy of an organism. How does this relate to the second law of thermodynamics?",
-        "options": [
-            "A) Living organisms do not obey the second law of thermodynamics, which states that entropy must increase with time.",
-            "B) Life obeys the second law of thermodynamics because the decrease in entropy as the organism grows is exactly balanced by an increase in the entropy of the universe.",
-            "C) Living organisms do not follow the laws of thermodynamics.",
-            "D) As a consequence of growing, organisms cause a greater increase in entropy in their environment than the decrease in entropy associated with their growth.",
-            "E) Living organisms are able to transform energy into entropy."
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Whenever energy is transformed, there is always an increase in the",
-        "options": [
-            "A) free energy of the system.",
-            "B) free energy of the universe.",
-            "C) entropy of the system.",
-            "D) entropy of the universe.",
-            "E) enthalpy of the universe."
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following statements is a logical consequence of the second law of thermodynamics?",
-        "options": [
-            "A) If the entropy of a system increases, there must be a corresponding decrease in the entropy of the universe.",
-            "B) If there is an increase in the energy of a system, there must be a corresponding decrease in the energy of the rest of the universe.",
-            "C) Every energy transfer requires activation energy from the environment.",
-            "D) Every chemical reaction must increase the total entropy of the universe.",
-            "E) Energy can be transferred or transformed, but it cannot be created or destroyed."
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following statements is representative of the second law of thermodynamics?",
-        "options": [
-            "A) Conversion of energy from one form to another is always accompanied by some gain of free energy.",
-            "B) Heat represents a form of energy that can be used by most organisms to do work.",
-            "C) Without an input of energy, organisms would tend toward decreasing entropy.",
-            "D) Cells require a constant input of energy to maintain their high level of organization.",
-            "E) Every energy transformation by a cell decreases the entropy of the universe."
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following types of reactions would decrease the entropy within a cell?",
-        "options": [
-            "A) anabolic reactions",
-            "B) hydrolysis",
-            "C) respiration",
-            "D) digestion",
-            "E) catabolic reactions"
-        ],
-        "back": "A",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Biological evolution of life on Earth, from simple prokaryote-like cells to large, multicellar eukaryotic organisms,",
-        "options": [
-            "A) has occurred in accordance with the laws of thermodynamics.",
-            "B) has caused an increase in the entropy of the planet.",
-            "C) has been made possible by expending Earth's energy resources.",
-            "D) has occurred in accordance with the laws of thermodynamics, by expending Earth's energy resources and causing an increase in the entropy of the planet.",
-            "E) violates the laws of thermodynamics because Earth is a closed system."
-        ],
-        "back": "A",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following is an example of potential rather than kinetic energy?",
-        "options": [
-            "A) the muscle contractions of a person mowing grass",
-            "B) water rushing over Niagara Falls",
-            "C) light flashes emitted by a firefly",
-            "D) a molecule of glucose",
-            "E) the flight of an insect foraging for food"
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following is the smallest closed system?",
-        "options": [
-            "A) a cell",
-            "B) an organism",
-            "C) an ecosystem",
-            "D) Earth",
-            "E) the universe"
-        ],
-        "back": "E",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following is true of metabolism in its entirety in all organisms?",
-        "options": [
-            "A) Metabolism depends on a constant supply of energy from food.",
-            "B) Metabolism depends on an organism's adequate hydration.",
-            "C) Metabolism uses all of an organism's resources.",
-            "D) Metabolism consists of all the energy transformation reactions in an organism.",
-            "E) Metabolism manages the increase of entropy in an organism."
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "The mathematical expression for the change in free energy of a system is ΔG =ΔH - TΔS. Which of the following is (are) correct?",
-        "options": [
-            "A) ΔS is the change in enthalpy, a measure of randomness.",
-            "B) ΔH is the change in entropy, the energy available to do work.",
-            "C) ΔG is the change in free energy.",
-            "D) T is the temperature in degrees Celsius."
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "A system at chemical equilibrium",
-        "options": [
-            "A) consumes energy at a steady rate.",
-            "B) releases energy at a steady rate.",
-            "C) consumes or releases energy, depending on whether it is exergonic or endergonic.",
-            "D) has zero kinetic energy.",
-            "E) can do no work."
-        ],
-        "back": "E",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following is true for all exergonic reactions?",
-        "options": [
-            "A) The products have more total energy than the reactants.",
-            "B) The reaction proceeds with a net release of free energy.",
-            "C) The reaction goes only in a forward direction: all reactants will be converted to products, but no products will be converted to reactants.",
-            "D) A net input of energy from the surroundings is required for the reactions to proceed.",
-            "E) The reactions are rapid."
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Chemical equilibrium is relatively rare in living cells. Which of the following could be an example of a reaction at chemical equilibrium in a cell?",
-        "options": [
-            "A) a reaction in which the free energy at equilibrium is higher than the energy content at any point away from equilibrium",
-            "B) a chemical reaction in which the entropy change in the reaction is just balanced by an opposite entropy change in the cell's surroundings",
-            "C) an endergonic reaction in an active metabolic pathway where the energy for that reaction is supplied only by heat from the environment",
-            "D) a chemical reaction in which both the reactants and products are not being produced or used in any active metabolic pathway",
-            "E) no possibility of having chemical equilibrium in any living cell"
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following shows the correct changes in thermodynamic properties for a chemical reaction in which amino acids are linked to form a protein?",
-        "options": [
-            "A) +ΔH, +ΔS, +ΔG",
-            "B) +ΔH, -ΔS, -ΔG",
-            "C) +ΔH, -ΔS, +ΔG",
-            "D) -ΔH, -ΔS, +ΔG",
-            "E) -ΔH, +ΔS, +ΔG"
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "When glucose monomers are joined together by glycosidic linkages to form a cellulose polymer, the changes in free energy, total energy, and entropy are as follows:",
-        "options": [
-            "A) +ΔG, +ΔH, +ΔS.",
-            "B) +ΔG, +ΔH, -ΔS.",
-            "C) +ΔG, -ΔH, -ΔS.",
-            "D) -ΔG, +ΔH, +ΔS.",
-            "E) -ΔG, -ΔH, -ΔS."
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "A chemical reaction that has a positive ΔG is correctly described as",
-        "options": [
-            "A) endergonic.",
-            "B) endothermic.",
-            "C) enthalpic.",
-            "D) spontaneous.",
-            "E) exothermic."
-        ],
-        "back": "A",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following best describes enthalpy (H)?",
-        "options": [
-            "A) the total kinetic energy of a system",
-            "B) the heat content of a chemical system",
-            "C) the system's entropy",
-            "D) the cell's energy equilibrium",
-            "E) the condition of a cell that is not able to react"
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "For the hydrolysis of ATP to ADP + Pi, the free energy change is -7.3 kcal/mol under standard conditions (1 M concentration of both reactants and products). In the cellular environment, however, the free energy change is about -13 kcal/mol. What can we conclude about the free energy change for the formation of ATP from ADP and Pi under cellular conditions?",
-        "options": [
-            "A) It is +7.3 kcal/mol.",
-            "B) It is less than +7.3 kcal/mol.",
-            "C) It is about +13 kcal/mol.",
-            "D) It is greater than +13 kcal/mol.",
-            "E) The information given is insufficient to deduce the free energy change."
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Why is ATP an important molecule in metabolism?",
-        "options": [
-            "A) Its hydrolysis provides an input of free energy for exergonic reactions.",
-            "B) It provides energy coupling between exergonic and endergonic reactions.",
-            "C) Its terminal phosphate group contains a strong covalent bond that, when hydrolyzed, releases free energy.",
-            "D) Its terminal phosphate bond has higher energy than the other two.",
-            "E) It is one of the four building blocks for DNA synthesis."
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "When 10,000 molecules of ATP are hydrolyzed to ADP and Pi in a test tube, about twice as much heat is liberated as when a cell hydrolyzes the same amount of ATP. Which of the following is the best explanation for this observation?",
-        "options": [
-            "A) Cells are open systems, but a test tube is a closed system.",
-            "B) Cells are less efficient at heat production than nonliving systems.",
-            "C) The hydrolysis of ATP in a cell produces different chemical products than does the reaction in a test tube.",
-            "D) The reaction in cells must be catalyzed by enzymes, but the reaction in a test tube does not need enzymes.",
-            "E) Reactant and product concentrations in the test tube are different from those in the cell."
-        ],
-        "back": "E",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following is most similar in structure to ATP?",
-        "options": [
-            "A) a pentose sugar",
-            "B) a DNA nucleotide",
-            "C) an RNA nucleotide",
-            "D) an amino acid with three phosphate groups attached",
-            "E) a phospholipid"
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following statements is true concerning catabolic pathways?",
-        "options": [
-            "A) They combine molecules into more energy-rich molecules.",
-            "B) They supply energy, primarily in the form of ATP, for the cell's work.",
-            "C) They are endergonic.",
-            "D) They are spontaneous and do not need enzyme catalysis.",
-            "E) They build up complex molecules such as protein from simpler compounds."
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "When chemical, transport, or mechanical work is done by an organism, what happens to the heat generated?",
-        "options": [
-            "A) It is used to power yet more cellular work.",
-            "B) It is used to store energy as more ATP.",
-            "C) It is used to generate ADP from nucleotide precursors.",
-            "D) It is lost to the environment.",
-            "E) It is transported to specific organs such as the brain."
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "When ATP releases some energy, it also releases inorganic phosphate. What purpose does this serve (if any) in the cell?",
-        "options": [
-            "A) The phosphate is released as an excretory waste.",
-            "B) The phosphate can only be used to regenerate more ATP.",
-            "C) The phosphate can be added to water and excreted as a liquid.",
-            "D) The phosphate may be incorporated into any molecule that contains phosphate.",
-            "E) It enters the nucleus to affect gene expression."
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "A number of systems for pumping ions across membranes are powered by ATP. Such ATP-powered pumps are often called ATPases although they don't often hydrolyze ATP unless they are simultaneously transporting ions. Because small increases in calcium ions in the cytosol can trigger a number of different intracellular reactions, cells keep the cytosolic calcium concentration quite low under normal conditions, using ATP-powered calcium pumps. For example, muscle cells transport calcium from the cytosol into the membranous system called the sarcoplasmic reticulum (SR). If a resting muscle cell's cytosol has a free calcium ion concentration of 10⁻⁷ while the concentration in the SR is 10⁻², then how is the ATPase acting?",
-        "options": [
-            "A) ATPase activity must be powering an inflow of calcium from the outside of the cell into the SR.",
-            "B) ATPase activity must be transferring Pi to the SR to enable this to occur.",
-            "C) ATPase activity must be pumping calcium from the cytosol to the SR against the concentration gradient.",
-            "D) ATPase activity must be opening a channel for the calcium ions to diffuse back into the SR along the concentration gradient.",
-            "E) ATPase activity must be routing calcium ions from the SR to the cytosol, and then to the cell's environment."
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "What is the difference (if any) between the structure of ATP and the structure of the precursor of the A nucleotide in RNA?",
-        "options": [
-            "A) The sugar molecule is different.",
-            "B) The nitrogen-containing base is different.",
-            "C) The number of phosphates is three instead of one.",
-            "D) The number of phosphates is three instead of two.",
-            "E) There is no difference."
-        ],
-        "back": "E",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following statements is true about enzyme-catalyzed reactions?",
-        "options": [
-            "A) The reaction is faster than the same reaction in the absence of the enzyme.",
-            "B) The free energy change of the reaction is opposite from the reaction that occurs in the absence of the enzyme.",
-            "C) The reaction always goes in the direction toward chemical equilibrium.",
-            "D) Enzyme-catalyzed reactions require energy to activate the enzyme.",
-            "E) Enzyme-catalyzed reactions release more free energy than noncatalyzed reactions."
-        ],
-        "back": "A",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Reactants capable of interacting to form products in a chemical reaction must first overcome a thermodynamic barrier known as the reaction's",
-        "options": [
-            "A) entropy.",
-            "B) activation energy.",
-            "C) endothermic level.",
-            "D) equilibrium point.",
-            "E) free-energy content."
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "A solution of starch at room temperature does not readily decompose to form a solution of simple sugars because",
-        "options": [
-            "A) the starch solution has less free energy than the sugar solution.",
-            "B) the hydrolysis of starch to sugar is endergonic.",
-            "C) the activation energy barrier for this reaction cannot be surmounted.",
-            "D) starch cannot be hydrolyzed in the presence of so much water.",
-            "E) starch hydrolysis is nonspontaneous."
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following statements regarding enzymes is true?",
-        "options": [
-            "A) Enzymes increase the rate of a reaction by making the reaction more exergonic.",
-            "B) Enzymes increase the rate of a reaction by lowering the activation energy barrier.",
-            "C) Enzymes increase the rate of a reaction by reducing the rate of reverse reactions.",
-            "D) Enzymes change the equilibrium point of the reactions they catalyze.",
-            "E) Enzymes make the rate of a reaction independent of substrate concentrations."
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "During a laboratory experiment, you discover that an enzyme-catalyzed reaction has a ∆G of -20 kcal/mol. If you double the amount of enzyme in the reaction, what will be the ∆G for the new reaction?",
-        "options": [
-            "A) -40 kcal/mol",
-            "B) -20 kcal/mol",
-            "C) 0 kcal/mol",
-            "D) +20 kcal/mol",
-            "E) +40 kcal/mol"
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "The active site of an enzyme is the region that",
-        "options": [
-            "A) binds allosteric regulators of the enzyme.",
-            "B) is involved in the catalytic reaction of the enzyme.",
-            "C) binds noncompetitive inhibitors of the enzyme.",
-            "D) is inhibited by the presence of a coenzyme or a cofactor."
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "According to the induced fit hypothesis of enzyme catalysis, which of the following is correct?",
-        "options": [
-            "A) The binding of the substrate depends on the shape of the active site.",
-            "B) Some enzymes change their structure when activators bind to the enzyme.",
-            "C) A competitive inhibitor can outcompete the substrate for the active site.",
-            "D) The binding of the substrate changes the shape of the enzyme's active site.",
-            "E) The active site creates a microenvironment ideal for the reaction."
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Mutations that result in single amino acid substitutions in an enzyme",
-        "options": [
-            "A) can have no effect on the activity or properties of the enzyme.",
-            "B) will almost always destroy the activity of the enzyme.",
-            "C) will often cause a change in the substrate specificity of the enzyme.",
-            "D) may affect the physicochemical properties of the enzyme such as its optimal temperature and pH.",
-            "E) may, in rare cases, cause the enzyme to run reactions in reverse."
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Increasing the substrate concentration in an enzymatic reaction could overcome which of the following?",
-        "options": [
-            "A) denaturization of the enzyme",
-            "B) allosteric inhibition",
-            "C) competitive inhibition",
-            "D) saturation of the enzyme activity",
-            "E) insufficient cofactors"
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following is true of enzymes?",
-        "options": [
-            "A) Nonprotein cofactors alter the substrate specificity of enzymes.",
-            "B) Enzyme function is increased if the 3-D structure or conformation of an enzyme is altered.",
-            "C) Enzyme function is independent of physical and chemical environmental factors such as pH and temperature.",
-            "D) Enzymes increase the rate of chemical reaction by lowering activation energy barriers.",
-            "E) Enzymes increase the rate of chemical reaction by providing activation energy to the substrate."
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Zinc, an essential trace element for most organisms, is present in the active site of the enzyme carboxypeptidase. The zinc most likely functions as a(n)",
-        "options": [
-            "A) competitive inhibitor of the enzyme.",
-            "B) noncompetitive inhibitor of the enzyme.",
-            "C) allosteric activator of the enzyme.",
-            "D) cofactor necessary for enzyme activity.",
-            "E) coenzyme derived from a vitamin."
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "In order to attach a particular amino acid to the tRNA molecule that will transport it, an enzyme, an aminoacyl-tRNA synthetase, is required, along with ATP. Initially, the enzyme has an active site for ATP and another for the amino acid, but it is not able to attach the tRNA. What must occur in order for the final attachment to occur?",
-        "options": [
-            "A) The ATP must first have to attach to the tRNA.",
-            "B) The binding of the first two molecules must cause a 3-D change that opens another active site on the enzyme.",
-            "C) The ATP must be hydrolyzed to allow the amino acid to bind to the synthetase.",
-            "D) The tRNA molecule must have to alter its shape in order to be able to fit into the active site with the other two molecules.",
-            "E) The 3' end of the tRNA must have to be cleaved before it can have an attached amino acid."
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Some of the drugs used to treat HIV patients are competitive inhibitors of the HIV reverse transcriptase enzyme. Unfortunately, the high mutation rate of HIV means that the virus rapidly acquires mutations with amino acid changes that make them resistant to these competitive inhibitors. Where in the reverse transcriptase enzyme would such amino acid changes most likely occur in drug-resistant viruses?",
-        "options": [
-            "A) in or near the active site",
-            "B) at an allosteric site",
-            "C) at a cofactor binding site",
-            "D) in regions of the protein that determine packaging into the virus capsid",
-            "E) such mutations could occur anywhere with equal probability"
-        ],
-        "back": "A",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Protein kinases are enzymes that transfer the terminal phosphate from ATP to an amino acid residue on the target protein. Many are located on the plasma membrane as integral membrane proteins or peripheral membrane proteins. What purpose may be served by their plasma membrane localization?",
-        "options": [
-            "A) ATP is more abundant near the plasma membrane.",
-            "B) They can more readily encounter and phosphorylate other membrane proteins.",
-            "C) Membrane localization lowers the activation energy of the phosphorylation reaction.",
-            "D) They flip back and forth across the membrane to access target proteins on either side.",
-            "E) They require phospholipids as a cofactor."
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "When you have a severe fever, what grave consequence may occur if the fever is not controlled?",
-        "options": [
-            "A) destruction of your enzymes' primary structure",
-            "B) removal of amine groups from your proteins",
-            "C) change in the tertiary structure of your enzymes",
-            "D) removal of the amino acids in active sites of your enzymes",
-            "E) binding of your enzymes to inappropriate substrates"
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "How does a noncompetitive inhibitor decrease the rate of an enzyme reaction?",
-        "options": [
-            "A) by binding at the active site of the enzyme",
-            "B) by changing the shape of the enzyme's active site",
-            "C) by changing the free energy change of the reaction",
-            "D) by acting as a coenzyme for the reaction",
-            "E) by decreasing the activation energy of the reaction"
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "The mechanism in which the end product of a metabolic pathway inhibits an earlier step in the pathway is most precisely described as",
-        "options": [
-            "A) metabolic inhibition.",
-            "B) feedback inhibition.",
-            "C) allosteric inhibition.",
-            "D) noncooperative inhibition.",
-            "E) reversible inhibition."
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following statements describes enzyme cooperativity?",
-        "options": [
-            "A) A multienzyme complex contains all the enzymes of a metabolic pathway.",
-            "B) A product of a pathway serves as a competitive inhibitor of an early enzyme in the pathway.",
-            "C) A substrate molecule bound to an active site of one subunit promotes substrate binding to the active site of other subunits.",
-            "D) Several substrate molecules can be catalyzed by the same enzyme.",
-            "E) A substrate binds to an active site and inhibits cooperation between enzymes in a pathway."
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Allosteric enzyme regulation is usually associated with",
-        "options": [
-            "A) lack of cooperativity.",
-            "B) feedback inhibition.",
-            "C) activating activity.",
-            "D) an enzyme with more than one subunit.",
-            "E) the need for cofactors."
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following is an example of cooperativity?",
-        "options": [
-            "A) the binding of an end product of a metabolic pathway to the first enzyme that acts in the pathway",
-            "B) one enzyme in a metabolic pathway passing its product to act as a substrate for the next enzyme in the pathway",
-            "C) a molecule binding at one unit of a tetramer, allowing faster binding at each of the other three",
-            "D) the effect of increasing temperature on the rate of an enzymatic reaction",
-            "E) binding of an ATP molecule along with one of the substrate molecules in an active site"
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Protein kinases are enzymes that catalyze phosphorylation of target proteins at specific sites, whereas protein phosphatases catalyze removal of phosphate(s) from phosphorylated proteins. Phosphorylation and dephosphorylation can function as an on-off switch for a protein's activity, most likely through",
-        "options": [
-            "A) the change in a protein's charge leading to a conformational change.",
-            "B) the change in a protein's charge leading to cleavage.",
-            "C) a change in the optimal pH at which a reaction will occur.",
-            "D) a change in the optimal temperature at which a reaction will occur.",
-            "E) the excision of one or more peptides."
-        ],
-        "back": "A",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Besides turning enzymes on or off, what other means does a cell use to control enzymatic activity?",
-        "options": [
-            "A) cessation of cellular protein synthesis",
-            "B) localization of enzymes into specific organelles or membranes",
-            "C) exporting enzymes out of the cell",
-            "D) connecting enzymes into large aggregates",
-            "E) hydrophobic interactions"
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "An important group of peripheral membrane proteins are enzymes such as the phospholipases that cleave the head groups of phospholipids. What properties must these enzymes exhibit?",
-        "options": [
-            "A) resistance to degradation",
-            "B) independence from cofactor interaction",
-            "C) water solubility",
-            "D) lipid solubility",
-            "E) membrane-spanning domains"
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "In experimental tests of enzyme evolution, where a gene encoding an enzyme is subjected to multiple cycles of random mutagenesis and selection for altered substrate specificity, the resulting enzyme had multiple amino acid changes associated with altered substrate specificity. Where in the enzyme were these amino acid changes located?",
-        "options": [
-            "A) only in the active site",
-            "B) only in the active site or near the active site",
-            "C) in or near the active site and at surface sites away from the active site",
-            "D) only at surface sites away from the active site",
-            "E) only in the hydrophobic interior of the folded protein"
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "How might an amino acid change at a site distant from the active site of the enzyme alter the enzyme's substrate specificity?",
-        "options": [
-            "A) by changing the enzyme's stability",
-            "B) by changing the enzyme's location in the cell",
-            "C) by changing the shape of the protein",
-            "D) by changing the enzyme's pH optimum",
-            "E) an amino acid change away from the active site cannot alter the enzyme's substrate specificity"
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "For the enzyme-catalyzed reaction shown in the figure, which of these treatments will cause the greatest increase in the rate of the reaction, if the initial reactant concentration is 1.0 micromolar?",
-        "options": [
-            "A) doubling the activation energy needed",
-            "B) cooling the reaction by 10°C",
-            "C) doubling the concentration of the reactants to 2.0 micromolar",
-            "D) doubling the enzyme concentration",
-            "E) increasing the concentration of reactants to 10.0 micromolar, while reducing the concentration of enzyme by 1/2"
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": [
-            "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/713/29/73f8d0c4_13a509a985f__8000_00000009.png"
-        ]
-    },
-    {
-        "front": "In the figure, why does the reaction rate plateau at higher reactant concentrations?",
-        "options": [
-            "A) Feedback inhibition by product occurs at high reactant concentrations.",
-            "B) Most enzyme molecules are occupied by substrate at high reactant concentrations.",
-            "C) The reaction nears equilibrium at high reactant concentrations.",
-            "D) The activation energy for the reaction increases with reactant concentration.",
-            "E) The rate of the reverse reaction increases with reactant concentration."
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": [
-            "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/713/29/73f8d0c4_13a509a985f__8000_00000009.png"
-        ]
-    },
-    {
-        "front": "Which curve(s) on the graphs may represent the temperature and pH profiles of an enzyme taken from a bacterium that lives in a mildly alkaline hot springs at temperatures of 70°C or higher?",
-        "options": [
-            "A) curves 1 and 5",
-            "B) curves 2 and 4",
-            "C) curves 2 and 5",
-            "D) curves 3 and 4",
-            "E) curves 3 and 5"
-        ],
-        "back": "E",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": [
-            "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/715/31/73f8d0c4_13a509a985f__8000_00000011.png"
-        ]
-    },
-    {
-        "front": "Which temperature and pH profile curves on the graphs were most likely generated from analysis of an enzyme from a human stomach where conditions are strongly acid?",
-        "options": [
-            "A) curves 1 and 4",
-            "B) curves 1 and 5",
-            "C) curves 2 and 4",
-            "D) curves 2 and 5",
-            "E) curves 3 and 4"
-        ],
-        "back": "A",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": [
-            "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/715/31/73f8d0c4_13a509a985f__8000_00000011.png"
-        ]
-    },
-    {
-        "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following terms best describes the forward reaction in Figure 8.1?",
-        "options": [
-            "A) endergonic, ∆G > 0",
-            "B) exergonic, ∆G < 0",
-            "C) endergonic, ∆G < 0",
-            "D) exergonic, ∆G > 0",
-            "E) chemical equilibrium, ∆G = 0"
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": [
-            "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
-        ]
-    },
-    {
-        "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following represents the ΔG of the reaction in Figure 8.1?",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": [
-            "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
-        ]
-    },
-    {
-        "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following in Figure 8.1 would be the same in either an enzyme-catalyzed or a noncatalyzed reaction?",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": [
-            "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
-        ]
-    },
-    {
-        "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following represents the activation energy needed for the enzyme-catalyzed reverse reaction, C + D → A + B, in Figure 8.1?",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "A",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": [
-            "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
-        ]
-    },
-    {
-        "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following represents the difference between the free-energy content of the reaction and the free-energy content of the products in Figure 8.1?",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": [
-            "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
-        ]
-    },
-    {
-        "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following represents the activation energy required for the enzyme-catalyzed reaction in Figure 8.1?",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": [
-            "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
-        ]
-    },
-    {
-        "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following represents the activation energy required for a noncatalyzed reaction in Figure 8.1?",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": [
-            "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
-        ]
-    },
-    {
-        "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following represents the activation energy needed for the noncatalyzed reverse reaction, C + D → A + B, in Figure 8.1?",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "E",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": [
-            "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
-        ]
-    },
-    {
-        "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Assume that the reaction in Figure 8.1 has a ΔG of -5.6 kcal/mol. Which of the following would be true?",
-        "options": [
-            "A) The reaction could be coupled to power an endergonic reaction with a ΔG of +6.2 kcal/mol.",
-            "B) The reaction could be coupled to power an exergonic reaction with a ΔG of +8.8 kcal/mol.",
-            "C) The reaction would result in a decrease in entropy (S) and an increase in the total energy content (H) of the system.",
-            "D) The reaction would result in an increase in entropy (S) and a decrease in the total energy content (H) of the system.",
-            "E) The reaction would result in products (C + D) with a greater free-energy content than in the initial reactants (A + B)."
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": [
-            "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
-        ]
-    },
-    {
-        "front": "Which of the following is the most correct interpretation of the figure?",
-        "options": [
-            "A) Inorganic phosphate is created from organic phosphate.",
-            "B) Energy from catabolism can be used directly for performing cellular work.",
-            "C) ADP + Pi are a set of molecules that store energy for catabolism.",
-            "D) ATP is a molecule that acts as an intermediary to store energy for cellular work.",
-            "E) Pi acts as a shuttle molecule to move energy from ATP to ADP."
-        ],
-        "back": "D",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": [
-            "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/726/42/73f8d0c4_13a509a985f__8000_00000022.png"
-        ]
-    },
-    {
-        "front": "How do cells use the ATP cycle shown in the figure?",
-        "options": [
-            "A) Cells use the cycle to recycle ADP and phosphate.",
-            "B) Cells use the cycle to recycle energy released by ATP hydrolysis.",
-            "C) Cells use the cycle to recycle ADP, phosphate, and the energy released by ATP hydrolysis.",
-            "D) Cells use the cycle to generate or consume water molecules as needed.",
-            "E) Cells use the cycle primarily to generate heat."
-        ],
-        "back": "A",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": [
-            "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/726/42/73f8d0c4_13a509a985f__8000_00000022.png"
-        ]
-    },
-    {
-        "front": "Succinate dehydrogenase catalyzes the conversion of succinate to fumarate. The reaction is inhibited by malonic acid, which resembles succinate but cannot be acted upon by succinate dehydrogenase. Increasing the ratio of succinate to malonic acid reduces the inhibitory effect of malonic acid. Based on this information, which of the following is correct?",
-        "options": [
-            "A) Succinate dehydrogenase is the enzyme, and fumarate is the substrate.",
-            "B) Succinate dehydrogenase is the enzyme, and malonic acid is the substrate.",
-            "C) Succinate is the substrate, and fumarate is the product.",
-            "D) Fumarate is the product, and malonic acid is a noncompetitive inhibitor.",
-            "E) Malonic acid is the product, and fumarate is a competitive inhibitor."
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Succinate dehydrogenase catalyzes the conversion of succinate to fumarate. The reaction is inhibited by malonic acid, which resembles succinate but cannot be acted upon by succinate dehydrogenase. Increasing the ratio of succinate to malonic acid reduces the inhibitory effect of malonic acid. What is malonic acid's role with respect to succinate dehydrogenase?",
-        "options": [
-            "A) It is a competitive inhibitor.",
-            "B) It blocks the binding of fumarate.",
-            "C) It is a noncompetitive inhibitor.",
-            "D) It is able to bind to succinate.",
-            "E) It is an allosteric regulator."
-        ],
-        "back": "A",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "A series of enzymes catalyze the reaction X → Y → Z → A. Product A binds to the enzyme that converts X to Y at a position remote from its active site. This binding decreases the activity of the enzyme. What is substance X?",
-        "options": [
-            "A) a coenzyme",
-            "B) an allosteric inhibitor",
-            "C) a substrate",
-            "D) an intermediate",
-            "E) the product"
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "A series of enzymes catalyze the reaction X → Y → Z → A. Product A binds to the enzyme that converts X to Y at a position remote from its active site. This binding decreases the activity of the enzyme. With respect to the enzyme that converts X to Y, substance A functions as",
-        "options": [
-            "A) a coenzyme.",
-            "B) an allosteric inhibitor.",
-            "C) the substrate.",
-            "D) an intermediate.",
-            "E) a competitive inhibitor."
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Choose the pair of terms that correctly completes this sentence: Catabolism is to anabolism as ________ is to ________.",
-        "options": [
-            "A) exergonic; spontaneous",
-            "B) exergonic; endergonic",
-            "C) free energy; entropy",
-            "D) work; energy",
-            "E) entropy; enthalpy"
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Most cells cannot harness heat to perform work because",
-        "options": [
-            "A) heat is not a form of energy.",
-            "B) cells do not have much heat; they are relatively cool.",
-            "C) temperature is usually uniform throughout a cell.",
-            "D) heat can never be used to do work.",
-            "E) heat must remain constant during work."
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Which of the following metabolic processes can occur without a net influx of energy from some other process?",
-        "options": [
-            "A) ADP + Pi → ATP + H₂O",
-            "B) C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O",
-            "C) 6 CO₂ + 6 H₂O → C₆H₁₂O₆ + 6 O₂",
-            "D) amino acids → protein",
-            "E) glucose + fructose → sucrose"
-        ],
-        "back": "B",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "If an enzyme in solution is saturated with substrate, the most effective way to obtain a faster yield of products is to",
-        "options": [
-            "A) add more of the enzyme.",
-            "B) heat the solution to 90°C.",
-            "C) add more substrate.",
-            "D) add an allosteric inhibitor.",
-            "E) add a noncompetitive inhibitor."
-        ],
-        "back": "A",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "Some bacteria are metabolically active in hot springs because",
-        "options": [
-            "A) they are able to maintain a lower internal temperature.",
-            "B) high temperatures make catalysis unnecessary.",
-            "C) their enzymes have high optimal temperatures.",
-            "D) their enzymes are completely insensitive to temperature.",
-            "E) they use molecules other than proteins or RNAs as their main catalysts."
-        ],
-        "back": "C",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    },
-    {
-        "front": "If an enzyme is added to a solution where its substrate and product are in equilibrium, what will occur?",
-        "options": [
-            "A) Additional product will be formed.",
-            "B) Additional substrate will be formed.",
-            "C) The reaction will change from endergonic to exergonic.",
-            "D) The free energy of the system will change.",
-            "E) Nothing; the reaction will stay at equilibrium."
-        ],
-        "back": "E",
-        "unit": "Unit 8",
-        "chapter": "Chapter 8",
-        "images": []
-    }
+  {
+    "front": "Which term most precisely describes the cellular process of breaking down large molecules into smaller ones?",
+    "options": [
+      "A) catalysis",
+      "B) metabolism",
+      "C) anabolism",
+      "D) dehydration",
+      "E) catabolism"
+    ],
+    "back": "E",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following is (are) true for anabolic pathways?",
+    "options": [
+      "A) They do not depend on enzymes.",
+      "B) They are usually highly spontaneous chemical reactions.",
+      "C) They consume energy to build up polymers from monomers.",
+      "D) They release energy as they degrade polymers to monomers.",
+      "E) They consume energy to decrease the entropy of the organism and its environment."
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following is a statement of the first law of thermodynamics?",
+    "options": [
+      "A) Energy cannot be created or destroyed.",
+      "B) The entropy of the universe is decreasing.",
+      "C) The entropy of the universe is constant.",
+      "D) Kinetic energy is stored energy that results from the specific arrangement of matter.",
+      "E) Energy cannot be transferred or transformed."
+    ],
+    "back": "A",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "For living organisms, which of the following is an important consequence of the first law of thermodynamics?",
+    "options": [
+      "A) The energy content of an organism is constant.",
+      "B) The organism ultimately must obtain all of the necessary energy for life from its environment.",
+      "C) The entropy of an organism decreases with time as the organism grows in complexity.",
+      "D) Organisms grow by converting energy into organic matter.",
+      "E) Life does not obey the first law of thermodynamics."
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Living organisms increase in complexity as they grow, resulting in a decrease in the entropy of an organism. How does this relate to the second law of thermodynamics?",
+    "options": [
+      "A) Living organisms do not obey the second law of thermodynamics, which states that entropy must increase with time.",
+      "B) Life obeys the second law of thermodynamics because the decrease in entropy as the organism grows is exactly balanced by an increase in the entropy of the universe.",
+      "C) Living organisms do not follow the laws of thermodynamics.",
+      "D) As a consequence of growing, organisms cause a greater increase in entropy in their environment than the decrease in entropy associated with their growth.",
+      "E) Living organisms are able to transform energy into entropy."
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Whenever energy is transformed, there is always an increase in the",
+    "options": [
+      "A) free energy of the system.",
+      "B) free energy of the universe.",
+      "C) entropy of the system.",
+      "D) entropy of the universe.",
+      "E) enthalpy of the universe."
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following statements is a logical consequence of the second law of thermodynamics?",
+    "options": [
+      "A) If the entropy of a system increases, there must be a corresponding decrease in the entropy of the universe.",
+      "B) If there is an increase in the energy of a system, there must be a corresponding decrease in the energy of the rest of the universe.",
+      "C) Every energy transfer requires activation energy from the environment.",
+      "D) Every chemical reaction must increase the total entropy of the universe.",
+      "E) Energy can be transferred or transformed, but it cannot be created or destroyed."
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following statements is representative of the second law of thermodynamics?",
+    "options": [
+      "A) Conversion of energy from one form to another is always accompanied by some gain of free energy.",
+      "B) Heat represents a form of energy that can be used by most organisms to do work.",
+      "C) Without an input of energy, organisms would tend toward decreasing entropy.",
+      "D) Cells require a constant input of energy to maintain their high level of organization.",
+      "E) Every energy transformation by a cell decreases the entropy of the universe."
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following types of reactions would decrease the entropy within a cell?",
+    "options": [
+      "A) anabolic reactions",
+      "B) hydrolysis",
+      "C) respiration",
+      "D) digestion",
+      "E) catabolic reactions"
+    ],
+    "back": "A",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Biological evolution of life on Earth, from simple prokaryote-like cells to large, multicellar eukaryotic organisms,",
+    "options": [
+      "A) has occurred in accordance with the laws of thermodynamics.",
+      "B) has caused an increase in the entropy of the planet.",
+      "C) has been made possible by expending Earth's energy resources.",
+      "D) has occurred in accordance with the laws of thermodynamics, by expending Earth's energy resources and causing an increase in the entropy of the planet.",
+      "E) violates the laws of thermodynamics because Earth is a closed system."
+    ],
+    "back": "A",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following is an example of potential rather than kinetic energy?",
+    "options": [
+      "A) the muscle contractions of a person mowing grass",
+      "B) water rushing over Niagara Falls",
+      "C) light flashes emitted by a firefly",
+      "D) a molecule of glucose",
+      "E) the flight of an insect foraging for food"
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following is the smallest closed system?",
+    "options": [
+      "A) a cell",
+      "B) an organism",
+      "C) an ecosystem",
+      "D) Earth",
+      "E) the universe"
+    ],
+    "back": "E",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following is true of metabolism in its entirety in all organisms?",
+    "options": [
+      "A) Metabolism depends on a constant supply of energy from food.",
+      "B) Metabolism depends on an organism's adequate hydration.",
+      "C) Metabolism uses all of an organism's resources.",
+      "D) Metabolism consists of all the energy transformation reactions in an organism.",
+      "E) Metabolism manages the increase of entropy in an organism."
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "The mathematical expression for the change in free energy of a system is ΔG =ΔH - TΔS. Which of the following is (are) correct?",
+    "options": [
+      "A) ΔS is the change in enthalpy, a measure of randomness.",
+      "B) ΔH is the change in entropy, the energy available to do work.",
+      "C) ΔG is the change in free energy.",
+      "D) T is the temperature in degrees Celsius."
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "A system at chemical equilibrium",
+    "options": [
+      "A) consumes energy at a steady rate.",
+      "B) releases energy at a steady rate.",
+      "C) consumes or releases energy, depending on whether it is exergonic or endergonic.",
+      "D) has zero kinetic energy.",
+      "E) can do no work."
+    ],
+    "back": "E",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following is true for all exergonic reactions?",
+    "options": [
+      "A) The products have more total energy than the reactants.",
+      "B) The reaction proceeds with a net release of free energy.",
+      "C) The reaction goes only in a forward direction: all reactants will be converted to products, but no products will be converted to reactants.",
+      "D) A net input of energy from the surroundings is required for the reactions to proceed.",
+      "E) The reactions are rapid."
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Chemical equilibrium is relatively rare in living cells. Which of the following could be an example of a reaction at chemical equilibrium in a cell?",
+    "options": [
+      "A) a reaction in which the free energy at equilibrium is higher than the energy content at any point away from equilibrium",
+      "B) a chemical reaction in which the entropy change in the reaction is just balanced by an opposite entropy change in the cell's surroundings",
+      "C) an endergonic reaction in an active metabolic pathway where the energy for that reaction is supplied only by heat from the environment",
+      "D) a chemical reaction in which both the reactants and products are not being produced or used in any active metabolic pathway",
+      "E) no possibility of having chemical equilibrium in any living cell"
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following shows the correct changes in thermodynamic properties for a chemical reaction in which amino acids are linked to form a protein?",
+    "options": [
+      "A) +ΔH, +ΔS, +ΔG",
+      "B) +ΔH, -ΔS, -ΔG",
+      "C) +ΔH, -ΔS, +ΔG",
+      "D) -ΔH, -ΔS, +ΔG",
+      "E) -ΔH, +ΔS, +ΔG"
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "When glucose monomers are joined together by glycosidic linkages to form a cellulose polymer, the changes in free energy, total energy, and entropy are as follows:",
+    "options": [
+      "A) +ΔG, +ΔH, +ΔS.",
+      "B) +ΔG, +ΔH, -ΔS.",
+      "C) +ΔG, -ΔH, -ΔS.",
+      "D) -ΔG, +ΔH, +ΔS.",
+      "E) -ΔG, -ΔH, -ΔS."
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "A chemical reaction that has a positive ΔG is correctly described as",
+    "options": [
+      "A) endergonic.",
+      "B) endothermic.",
+      "C) enthalpic.",
+      "D) spontaneous.",
+      "E) exothermic."
+    ],
+    "back": "A",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following best describes enthalpy (H)?",
+    "options": [
+      "A) the total kinetic energy of a system",
+      "B) the heat content of a chemical system",
+      "C) the system's entropy",
+      "D) the cell's energy equilibrium",
+      "E) the condition of a cell that is not able to react"
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "For the hydrolysis of ATP to ADP + Pi, the free energy change is -7.3 kcal/mol under standard conditions (1 M concentration of both reactants and products). In the cellular environment, however, the free energy change is about -13 kcal/mol. What can we conclude about the free energy change for the formation of ATP from ADP and Pi under cellular conditions?",
+    "options": [
+      "A) It is +7.3 kcal/mol.",
+      "B) It is less than +7.3 kcal/mol.",
+      "C) It is about +13 kcal/mol.",
+      "D) It is greater than +13 kcal/mol.",
+      "E) The information given is insufficient to deduce the free energy change."
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Why is ATP an important molecule in metabolism?",
+    "options": [
+      "A) Its hydrolysis provides an input of free energy for exergonic reactions.",
+      "B) It provides energy coupling between exergonic and endergonic reactions.",
+      "C) Its terminal phosphate group contains a strong covalent bond that, when hydrolyzed, releases free energy.",
+      "D) Its terminal phosphate bond has higher energy than the other two.",
+      "E) It is one of the four building blocks for DNA synthesis."
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "When 10,000 molecules of ATP are hydrolyzed to ADP and Pi in a test tube, about twice as much heat is liberated as when a cell hydrolyzes the same amount of ATP. Which of the following is the best explanation for this observation?",
+    "options": [
+      "A) Cells are open systems, but a test tube is a closed system.",
+      "B) Cells are less efficient at heat production than nonliving systems.",
+      "C) The hydrolysis of ATP in a cell produces different chemical products than does the reaction in a test tube.",
+      "D) The reaction in cells must be catalyzed by enzymes, but the reaction in a test tube does not need enzymes.",
+      "E) Reactant and product concentrations in the test tube are different from those in the cell."
+    ],
+    "back": "E",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following is most similar in structure to ATP?",
+    "options": [
+      "A) a pentose sugar",
+      "B) a DNA nucleotide",
+      "C) an RNA nucleotide",
+      "D) an amino acid with three phosphate groups attached",
+      "E) a phospholipid"
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following statements is true concerning catabolic pathways?",
+    "options": [
+      "A) They combine molecules into more energy-rich molecules.",
+      "B) They supply energy, primarily in the form of ATP, for the cell's work.",
+      "C) They are endergonic.",
+      "D) They are spontaneous and do not need enzyme catalysis.",
+      "E) They build up complex molecules such as protein from simpler compounds."
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "When chemical, transport, or mechanical work is done by an organism, what happens to the heat generated?",
+    "options": [
+      "A) It is used to power yet more cellular work.",
+      "B) It is used to store energy as more ATP.",
+      "C) It is used to generate ADP from nucleotide precursors.",
+      "D) It is lost to the environment.",
+      "E) It is transported to specific organs such as the brain."
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "When ATP releases some energy, it also releases inorganic phosphate. What purpose does this serve (if any) in the cell?",
+    "options": [
+      "A) The phosphate is released as an excretory waste.",
+      "B) The phosphate can only be used to regenerate more ATP.",
+      "C) The phosphate can be added to water and excreted as a liquid.",
+      "D) The phosphate may be incorporated into any molecule that contains phosphate.",
+      "E) It enters the nucleus to affect gene expression."
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "A number of systems for pumping ions across membranes are powered by ATP. Such ATP-powered pumps are often called ATPases although they don't often hydrolyze ATP unless they are simultaneously transporting ions. Because small increases in calcium ions in the cytosol can trigger a number of different intracellular reactions, cells keep the cytosolic calcium concentration quite low under normal conditions, using ATP-powered calcium pumps. For example, muscle cells transport calcium from the cytosol into the membranous system called the sarcoplasmic reticulum (SR). If a resting muscle cell's cytosol has a free calcium ion concentration of 10⁻⁷ while the concentration in the SR is 10⁻², then how is the ATPase acting?",
+    "options": [
+      "A) ATPase activity must be powering an inflow of calcium from the outside of the cell into the SR.",
+      "B) ATPase activity must be transferring Pi to the SR to enable this to occur.",
+      "C) ATPase activity must be pumping calcium from the cytosol to the SR against the concentration gradient.",
+      "D) ATPase activity must be opening a channel for the calcium ions to diffuse back into the SR along the concentration gradient.",
+      "E) ATPase activity must be routing calcium ions from the SR to the cytosol, and then to the cell's environment."
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "What is the difference (if any) between the structure of ATP and the structure of the precursor of the A nucleotide in RNA?",
+    "options": [
+      "A) The sugar molecule is different.",
+      "B) The nitrogen-containing base is different.",
+      "C) The number of phosphates is three instead of one.",
+      "D) The number of phosphates is three instead of two.",
+      "E) There is no difference."
+    ],
+    "back": "E",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following statements is true about enzyme-catalyzed reactions?",
+    "options": [
+      "A) The reaction is faster than the same reaction in the absence of the enzyme.",
+      "B) The free energy change of the reaction is opposite from the reaction that occurs in the absence of the enzyme.",
+      "C) The reaction always goes in the direction toward chemical equilibrium.",
+      "D) Enzyme-catalyzed reactions require energy to activate the enzyme.",
+      "E) Enzyme-catalyzed reactions release more free energy than noncatalyzed reactions."
+    ],
+    "back": "A",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Reactants capable of interacting to form products in a chemical reaction must first overcome a thermodynamic barrier known as the reaction's",
+    "options": [
+      "A) entropy.",
+      "B) activation energy.",
+      "C) endothermic level.",
+      "D) equilibrium point.",
+      "E) free-energy content."
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "A solution of starch at room temperature does not readily decompose to form a solution of simple sugars because",
+    "options": [
+      "A) the starch solution has less free energy than the sugar solution.",
+      "B) the hydrolysis of starch to sugar is endergonic.",
+      "C) the activation energy barrier for this reaction cannot be surmounted.",
+      "D) starch cannot be hydrolyzed in the presence of so much water.",
+      "E) starch hydrolysis is nonspontaneous."
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following statements regarding enzymes is true?",
+    "options": [
+      "A) Enzymes increase the rate of a reaction by making the reaction more exergonic.",
+      "B) Enzymes increase the rate of a reaction by lowering the activation energy barrier.",
+      "C) Enzymes increase the rate of a reaction by reducing the rate of reverse reactions.",
+      "D) Enzymes change the equilibrium point of the reactions they catalyze.",
+      "E) Enzymes make the rate of a reaction independent of substrate concentrations."
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "During a laboratory experiment, you discover that an enzyme-catalyzed reaction has a ∆G of -20 kcal/mol. If you double the amount of enzyme in the reaction, what will be the ∆G for the new reaction?",
+    "options": [
+      "A) -40 kcal/mol",
+      "B) -20 kcal/mol",
+      "C) 0 kcal/mol",
+      "D) +20 kcal/mol",
+      "E) +40 kcal/mol"
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "The active site of an enzyme is the region that",
+    "options": [
+      "A) binds allosteric regulators of the enzyme.",
+      "B) is involved in the catalytic reaction of the enzyme.",
+      "C) binds noncompetitive inhibitors of the enzyme.",
+      "D) is inhibited by the presence of a coenzyme or a cofactor."
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "According to the induced fit hypothesis of enzyme catalysis, which of the following is correct?",
+    "options": [
+      "A) The binding of the substrate depends on the shape of the active site.",
+      "B) Some enzymes change their structure when activators bind to the enzyme.",
+      "C) A competitive inhibitor can outcompete the substrate for the active site.",
+      "D) The binding of the substrate changes the shape of the enzyme's active site.",
+      "E) The active site creates a microenvironment ideal for the reaction."
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Mutations that result in single amino acid substitutions in an enzyme",
+    "options": [
+      "A) can have no effect on the activity or properties of the enzyme.",
+      "B) will almost always destroy the activity of the enzyme.",
+      "C) will often cause a change in the substrate specificity of the enzyme.",
+      "D) may affect the physicochemical properties of the enzyme such as its optimal temperature and pH.",
+      "E) may, in rare cases, cause the enzyme to run reactions in reverse."
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Increasing the substrate concentration in an enzymatic reaction could overcome which of the following?",
+    "options": [
+      "A) denaturization of the enzyme",
+      "B) allosteric inhibition",
+      "C) competitive inhibition",
+      "D) saturation of the enzyme activity",
+      "E) insufficient cofactors"
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following is true of enzymes?",
+    "options": [
+      "A) Nonprotein cofactors alter the substrate specificity of enzymes.",
+      "B) Enzyme function is increased if the 3-D structure or conformation of an enzyme is altered.",
+      "C) Enzyme function is independent of physical and chemical environmental factors such as pH and temperature.",
+      "D) Enzymes increase the rate of chemical reaction by lowering activation energy barriers.",
+      "E) Enzymes increase the rate of chemical reaction by providing activation energy to the substrate."
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Zinc, an essential trace element for most organisms, is present in the active site of the enzyme carboxypeptidase. The zinc most likely functions as a(n)",
+    "options": [
+      "A) competitive inhibitor of the enzyme.",
+      "B) noncompetitive inhibitor of the enzyme.",
+      "C) allosteric activator of the enzyme.",
+      "D) cofactor necessary for enzyme activity.",
+      "E) coenzyme derived from a vitamin."
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "In order to attach a particular amino acid to the tRNA molecule that will transport it, an enzyme, an aminoacyl-tRNA synthetase, is required, along with ATP. Initially, the enzyme has an active site for ATP and another for the amino acid, but it is not able to attach the tRNA. What must occur in order for the final attachment to occur?",
+    "options": [
+      "A) The ATP must first have to attach to the tRNA.",
+      "B) The binding of the first two molecules must cause a 3-D change that opens another active site on the enzyme.",
+      "C) The ATP must be hydrolyzed to allow the amino acid to bind to the synthetase.",
+      "D) The tRNA molecule must have to alter its shape in order to be able to fit into the active site with the other two molecules.",
+      "E) The 3' end of the tRNA must have to be cleaved before it can have an attached amino acid."
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Some of the drugs used to treat HIV patients are competitive inhibitors of the HIV reverse transcriptase enzyme. Unfortunately, the high mutation rate of HIV means that the virus rapidly acquires mutations with amino acid changes that make them resistant to these competitive inhibitors. Where in the reverse transcriptase enzyme would such amino acid changes most likely occur in drug-resistant viruses?",
+    "options": [
+      "A) in or near the active site",
+      "B) at an allosteric site",
+      "C) at a cofactor binding site",
+      "D) in regions of the protein that determine packaging into the virus capsid",
+      "E) such mutations could occur anywhere with equal probability"
+    ],
+    "back": "A",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Protein kinases are enzymes that transfer the terminal phosphate from ATP to an amino acid residue on the target protein. Many are located on the plasma membrane as integral membrane proteins or peripheral membrane proteins. What purpose may be served by their plasma membrane localization?",
+    "options": [
+      "A) ATP is more abundant near the plasma membrane.",
+      "B) They can more readily encounter and phosphorylate other membrane proteins.",
+      "C) Membrane localization lowers the activation energy of the phosphorylation reaction.",
+      "D) They flip back and forth across the membrane to access target proteins on either side.",
+      "E) They require phospholipids as a cofactor."
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "When you have a severe fever, what grave consequence may occur if the fever is not controlled?",
+    "options": [
+      "A) destruction of your enzymes' primary structure",
+      "B) removal of amine groups from your proteins",
+      "C) change in the tertiary structure of your enzymes",
+      "D) removal of the amino acids in active sites of your enzymes",
+      "E) binding of your enzymes to inappropriate substrates"
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "How does a noncompetitive inhibitor decrease the rate of an enzyme reaction?",
+    "options": [
+      "A) by binding at the active site of the enzyme",
+      "B) by changing the shape of the enzyme's active site",
+      "C) by changing the free energy change of the reaction",
+      "D) by acting as a coenzyme for the reaction",
+      "E) by decreasing the activation energy of the reaction"
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "The mechanism in which the end product of a metabolic pathway inhibits an earlier step in the pathway is most precisely described as",
+    "options": [
+      "A) metabolic inhibition.",
+      "B) feedback inhibition.",
+      "C) allosteric inhibition.",
+      "D) noncooperative inhibition.",
+      "E) reversible inhibition."
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following statements describes enzyme cooperativity?",
+    "options": [
+      "A) A multienzyme complex contains all the enzymes of a metabolic pathway.",
+      "B) A product of a pathway serves as a competitive inhibitor of an early enzyme in the pathway.",
+      "C) A substrate molecule bound to an active site of one subunit promotes substrate binding to the active site of other subunits.",
+      "D) Several substrate molecules can be catalyzed by the same enzyme.",
+      "E) A substrate binds to an active site and inhibits cooperation between enzymes in a pathway."
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Allosteric enzyme regulation is usually associated with",
+    "options": [
+      "A) lack of cooperativity.",
+      "B) feedback inhibition.",
+      "C) activating activity.",
+      "D) an enzyme with more than one subunit.",
+      "E) the need for cofactors."
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following is an example of cooperativity?",
+    "options": [
+      "A) the binding of an end product of a metabolic pathway to the first enzyme that acts in the pathway",
+      "B) one enzyme in a metabolic pathway passing its product to act as a substrate for the next enzyme in the pathway",
+      "C) a molecule binding at one unit of a tetramer, allowing faster binding at each of the other three",
+      "D) the effect of increasing temperature on the rate of an enzymatic reaction",
+      "E) binding of an ATP molecule along with one of the substrate molecules in an active site"
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Protein kinases are enzymes that catalyze phosphorylation of target proteins at specific sites, whereas protein phosphatases catalyze removal of phosphate(s) from phosphorylated proteins. Phosphorylation and dephosphorylation can function as an on-off switch for a protein's activity, most likely through",
+    "options": [
+      "A) the change in a protein's charge leading to a conformational change.",
+      "B) the change in a protein's charge leading to cleavage.",
+      "C) a change in the optimal pH at which a reaction will occur.",
+      "D) a change in the optimal temperature at which a reaction will occur.",
+      "E) the excision of one or more peptides."
+    ],
+    "back": "A",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Besides turning enzymes on or off, what other means does a cell use to control enzymatic activity?",
+    "options": [
+      "A) cessation of cellular protein synthesis",
+      "B) localization of enzymes into specific organelles or membranes",
+      "C) exporting enzymes out of the cell",
+      "D) connecting enzymes into large aggregates",
+      "E) hydrophobic interactions"
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "An important group of peripheral membrane proteins are enzymes such as the phospholipases that cleave the head groups of phospholipids. What properties must these enzymes exhibit?",
+    "options": [
+      "A) resistance to degradation",
+      "B) independence from cofactor interaction",
+      "C) water solubility",
+      "D) lipid solubility",
+      "E) membrane-spanning domains"
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "In experimental tests of enzyme evolution, where a gene encoding an enzyme is subjected to multiple cycles of random mutagenesis and selection for altered substrate specificity, the resulting enzyme had multiple amino acid changes associated with altered substrate specificity. Where in the enzyme were these amino acid changes located?",
+    "options": [
+      "A) only in the active site",
+      "B) only in the active site or near the active site",
+      "C) in or near the active site and at surface sites away from the active site",
+      "D) only at surface sites away from the active site",
+      "E) only in the hydrophobic interior of the folded protein"
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "How might an amino acid change at a site distant from the active site of the enzyme alter the enzyme's substrate specificity?",
+    "options": [
+      "A) by changing the enzyme's stability",
+      "B) by changing the enzyme's location in the cell",
+      "C) by changing the shape of the protein",
+      "D) by changing the enzyme's pH optimum",
+      "E) an amino acid change away from the active site cannot alter the enzyme's substrate specificity"
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "For the enzyme-catalyzed reaction shown in the figure, which of these treatments will cause the greatest increase in the rate of the reaction, if the initial reactant concentration is 1.0 micromolar?",
+    "options": [
+      "A) doubling the activation energy needed",
+      "B) cooling the reaction by 10°C",
+      "C) doubling the concentration of the reactants to 2.0 micromolar",
+      "D) doubling the enzyme concentration",
+      "E) increasing the concentration of reactants to 10.0 micromolar, while reducing the concentration of enzyme by 1/2"
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": [
+      "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/713/29/73f8d0c4_13a509a985f__8000_00000009.png"
+    ]
+  },
+  {
+    "front": "In the figure, why does the reaction rate plateau at higher reactant concentrations?",
+    "options": [
+      "A) Feedback inhibition by product occurs at high reactant concentrations.",
+      "B) Most enzyme molecules are occupied by substrate at high reactant concentrations.",
+      "C) The reaction nears equilibrium at high reactant concentrations.",
+      "D) The activation energy for the reaction increases with reactant concentration.",
+      "E) The rate of the reverse reaction increases with reactant concentration."
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": [
+      "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/713/29/73f8d0c4_13a509a985f__8000_00000009.png"
+    ]
+  },
+  {
+    "front": "Which curve(s) on the graphs may represent the temperature and pH profiles of an enzyme taken from a bacterium that lives in a mildly alkaline hot springs at temperatures of 70°C or higher?",
+    "options": [
+      "A) curves 1 and 5",
+      "B) curves 2 and 4",
+      "C) curves 2 and 5",
+      "D) curves 3 and 4",
+      "E) curves 3 and 5"
+    ],
+    "back": "E",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": [
+      "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/715/31/73f8d0c4_13a509a985f__8000_00000011.png"
+    ]
+  },
+  {
+    "front": "Which temperature and pH profile curves on the graphs were most likely generated from analysis of an enzyme from a human stomach where conditions are strongly acid?",
+    "options": [
+      "A) curves 1 and 4",
+      "B) curves 1 and 5",
+      "C) curves 2 and 4",
+      "D) curves 2 and 5",
+      "E) curves 3 and 4"
+    ],
+    "back": "A",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": [
+      "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/715/31/73f8d0c4_13a509a985f__8000_00000011.png"
+    ]
+  },
+  {
+    "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following terms best describes the forward reaction in Figure 8.1?",
+    "options": [
+      "A) endergonic, ∆G > 0",
+      "B) exergonic, ∆G < 0",
+      "C) endergonic, ∆G < 0",
+      "D) exergonic, ∆G > 0",
+      "E) chemical equilibrium, ∆G = 0"
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": [
+      "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
+    ]
+  },
+  {
+    "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following represents the ΔG of the reaction in Figure 8.1?",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": [
+      "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
+    ]
+  },
+  {
+    "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following in Figure 8.1 would be the same in either an enzyme-catalyzed or a noncatalyzed reaction?",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": [
+      "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
+    ]
+  },
+  {
+    "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following represents the activation energy needed for the enzyme-catalyzed reverse reaction, C + D → A + B, in Figure 8.1?",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "A",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": [
+      "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
+    ]
+  },
+  {
+    "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following represents the difference between the free-energy content of the reaction and the free-energy content of the products in Figure 8.1?",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": [
+      "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
+    ]
+  },
+  {
+    "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following represents the activation energy required for the enzyme-catalyzed reaction in Figure 8.1?",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": [
+      "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
+    ]
+  },
+  {
+    "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following represents the activation energy required for a noncatalyzed reaction in Figure 8.1?",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": [
+      "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
+    ]
+  },
+  {
+    "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Which of the following represents the activation energy needed for the noncatalyzed reverse reaction, C + D → A + B, in Figure 8.1?",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "E",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": [
+      "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
+    ]
+  },
+  {
+    "front": "This question is based on the reaction A + B ↔ C + D shown in the figure. Assume that the reaction in Figure 8.1 has a ΔG of -5.6 kcal/mol. Which of the following would be true?",
+    "options": [
+      "A) The reaction could be coupled to power an endergonic reaction with a ΔG of +6.2 kcal/mol.",
+      "B) The reaction could be coupled to power an exergonic reaction with a ΔG of +8.8 kcal/mol.",
+      "C) The reaction would result in a decrease in entropy (S) and an increase in the total energy content (H) of the system.",
+      "D) The reaction would result in an increase in entropy (S) and a decrease in the total energy content (H) of the system.",
+      "E) The reaction would result in products (C + D) with a greater free-energy content than in the initial reactants (A + B)."
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": [
+      "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/717/33/73f8d0c4_13a509a985f__8000_00000013.png"
+    ]
+  },
+  {
+    "front": "Which of the following is the most correct interpretation of the figure?",
+    "options": [
+      "A) Inorganic phosphate is created from organic phosphate.",
+      "B) Energy from catabolism can be used directly for performing cellular work.",
+      "C) ADP + Pi are a set of molecules that store energy for catabolism.",
+      "D) ATP is a molecule that acts as an intermediary to store energy for cellular work.",
+      "E) Pi acts as a shuttle molecule to move energy from ATP to ADP."
+    ],
+    "back": "D",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": [
+      "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/726/42/73f8d0c4_13a509a985f__8000_00000022.png"
+    ]
+  },
+  {
+    "front": "How do cells use the ATP cycle shown in the figure?",
+    "options": [
+      "A) Cells use the cycle to recycle ADP and phosphate.",
+      "B) Cells use the cycle to recycle energy released by ATP hydrolysis.",
+      "C) Cells use the cycle to recycle ADP, phosphate, and the energy released by ATP hydrolysis.",
+      "D) Cells use the cycle to generate or consume water molecules as needed.",
+      "E) Cells use the cycle primarily to generate heat."
+    ],
+    "back": "A",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": [
+      "https://web.archive.org/web/20170715163530im_/http://www.easynotecards.com:80/uploads/726/42/73f8d0c4_13a509a985f__8000_00000022.png"
+    ]
+  },
+  {
+    "front": "Succinate dehydrogenase catalyzes the conversion of succinate to fumarate. The reaction is inhibited by malonic acid, which resembles succinate but cannot be acted upon by succinate dehydrogenase. Increasing the ratio of succinate to malonic acid reduces the inhibitory effect of malonic acid. Based on this information, which of the following is correct?",
+    "options": [
+      "A) Succinate dehydrogenase is the enzyme, and fumarate is the substrate.",
+      "B) Succinate dehydrogenase is the enzyme, and malonic acid is the substrate.",
+      "C) Succinate is the substrate, and fumarate is the product.",
+      "D) Fumarate is the product, and malonic acid is a noncompetitive inhibitor.",
+      "E) Malonic acid is the product, and fumarate is a competitive inhibitor."
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Succinate dehydrogenase catalyzes the conversion of succinate to fumarate. The reaction is inhibited by malonic acid, which resembles succinate but cannot be acted upon by succinate dehydrogenase. Increasing the ratio of succinate to malonic acid reduces the inhibitory effect of malonic acid. What is malonic acid's role with respect to succinate dehydrogenase?",
+    "options": [
+      "A) It is a competitive inhibitor.",
+      "B) It blocks the binding of fumarate.",
+      "C) It is a noncompetitive inhibitor.",
+      "D) It is able to bind to succinate.",
+      "E) It is an allosteric regulator."
+    ],
+    "back": "A",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "A series of enzymes catalyze the reaction X → Y → Z → A. Product A binds to the enzyme that converts X to Y at a position remote from its active site. This binding decreases the activity of the enzyme. What is substance X?",
+    "options": [
+      "A) a coenzyme",
+      "B) an allosteric inhibitor",
+      "C) a substrate",
+      "D) an intermediate",
+      "E) the product"
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "A series of enzymes catalyze the reaction X → Y → Z → A. Product A binds to the enzyme that converts X to Y at a position remote from its active site. This binding decreases the activity of the enzyme. With respect to the enzyme that converts X to Y, substance A functions as",
+    "options": [
+      "A) a coenzyme.",
+      "B) an allosteric inhibitor.",
+      "C) the substrate.",
+      "D) an intermediate.",
+      "E) a competitive inhibitor."
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Choose the pair of terms that correctly completes this sentence: Catabolism is to anabolism as ________ is to ________.",
+    "options": [
+      "A) exergonic; spontaneous",
+      "B) exergonic; endergonic",
+      "C) free energy; entropy",
+      "D) work; energy",
+      "E) entropy; enthalpy"
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Most cells cannot harness heat to perform work because",
+    "options": [
+      "A) heat is not a form of energy.",
+      "B) cells do not have much heat; they are relatively cool.",
+      "C) temperature is usually uniform throughout a cell.",
+      "D) heat can never be used to do work.",
+      "E) heat must remain constant during work."
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Which of the following metabolic processes can occur without a net influx of energy from some other process?",
+    "options": [
+      "A) ADP + Pi → ATP + H₂O",
+      "B) C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O",
+      "C) 6 CO₂ + 6 H₂O → C₆H₁₂O₆ + 6 O₂",
+      "D) amino acids → protein",
+      "E) glucose + fructose → sucrose"
+    ],
+    "back": "B",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "If an enzyme in solution is saturated with substrate, the most effective way to obtain a faster yield of products is to",
+    "options": [
+      "A) add more of the enzyme.",
+      "B) heat the solution to 90°C.",
+      "C) add more substrate.",
+      "D) add an allosteric inhibitor.",
+      "E) add a noncompetitive inhibitor."
+    ],
+    "back": "A",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "Some bacteria are metabolically active in hot springs because",
+    "options": [
+      "A) they are able to maintain a lower internal temperature.",
+      "B) high temperatures make catalysis unnecessary.",
+      "C) their enzymes have high optimal temperatures.",
+      "D) their enzymes are completely insensitive to temperature.",
+      "E) they use molecules other than proteins or RNAs as their main catalysts."
+    ],
+    "back": "C",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  },
+  {
+    "front": "If an enzyme is added to a solution where its substrate and product are in equilibrium, what will occur?",
+    "options": [
+      "A) Additional product will be formed.",
+      "B) Additional substrate will be formed.",
+      "C) The reaction will change from endergonic to exergonic.",
+      "D) The free energy of the system will change.",
+      "E) Nothing; the reaction will stay at equilibrium."
+    ],
+    "back": "E",
+    "unit": "Unit 3",
+    "chapter": "Chapter 8",
+    "images": []
+  }
 ]
+

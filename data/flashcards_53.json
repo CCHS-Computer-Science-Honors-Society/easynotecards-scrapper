@@ -1,1114 +1,1055 @@
 [
-    {
-        "front": "1) Population ecologists are primarily interested in",
-        "options": [
-            "A) studying interactions among populations of organisms that inhabit the same area.",
-            "B) understanding how biotic and abiotic factors influence the density, distribution, size, and age structure of populations.",
-            "C) how humans affect the size of wild populations of organisms.",
-            "D) how populations evolve as natural selection acts on heritable variations among individuals and changes in gene frequency.",
-            "E) the overall vitality of a population of organisms."
-        ],
-        "back": "B",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "2) A population is correctly defined as having which of the following characteristics? I. inhabiting the same general area II. belonging to the same species III. possessing a constant and uniform density and dispersion",
-        "options": [
-            "A) I only",
-            "B) III only",
-            "C) I and II only",
-            "D) II and III only",
-            "E) I, II, and III"
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "3) An ecologist recorded 12 white-tailed deer, Odocoileus virginianus, per square mile in one woodlot and 20 per square mile in another woodlot. What was the ecologist comparing?",
-        "options": [
-            "A) density",
-            "B) dispersion",
-            "C) carrying capacity",
-            "D) cohorts",
-            "E) range"
-        ],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "4) During the spring, you are studying the mice that live in a field near your home. The population density is high, but you realize that you rarely observe any reproductive female mice. This most likely indicates",
-        "options": [
-            "A) that there is selective predation on female mice.",
-            "B) that female mice die before reproducing.",
-            "C) that this habitat is a good place for mice to reproduce.",
-            "D) that you are observing immigrant mice.",
-            "E) that the breeding season is over."
-        ],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "5) Uniform spacing patterns in plants such as the creosote bush are most often associated with",
-        "options": [
-            "A) chance.",
-            "B) patterns of high humidity.",
-            "C) the random distribution of seeds.",
-            "D) competitive interaction between individuals of the same population.",
-            "E) the concentration of nutrients within the population's range."
-        ],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "6) Which of the following groups would be most likely to exhibit uniform dispersion?",
-        "options": [
-            "A) red squirrels, who actively defend territories",
-            "B) cattails, which grow primarily at edges of lakes and streams",
-            "C) dwarf mistletoes, which parasitize particular species of forest tree",
-            "D) moths, in a city at night",
-            "E) lake trout, which seek out cold, deep water high in dissolved oxygen"
-        ],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "7) To construct a reproductive table for a sexual species, one needs to",
-        "options": [
-            "A) assess sperm viability for the males in the population.",
-            "B) keep track of all of the offspring of a cohort.",
-            "C) keep track of the females in a cohort.",
-            "D) keep track of all of the offspring of the females in a cohort.",
-            "E) analyze the ratio of deaths to births in a cohort."
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "8) Which of the following examples would most accurately measure the density of the population being studied?",
-        "options": [
-            "A) counting the number of prairie dog burrows per hectare",
-            "B) counting the number of times a 1 kilometer transect is intersected by tracks of red squirrels after a snowfall",
-            "C) counting the number of coyote droppings per hectare",
-            "D) multiplying the number of moss plants counted in 10 quadrats of 1m² each by 100 to determine the density per kilometer².",
-            "E) counting the number of zebras from airplane census observations."
-        ],
-        "back": "E",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "9) Which of the following assumptions have to be made regarding the capture-recapture estimate of population size? I. Marked and unmarked individuals have the same probability of being trapped. II. The marked individuals have thoroughly mixed with the population after being marked. III. No individuals have entered or left the population by immigration or emigration, and no individuals have been added by birth or eliminated by death during the course of the estimate.",
-        "options": [
-            "A) I only",
-            "B) II only",
-            "C) I and II only",
-            "D) II and III only",
-            "E) I, II, and III"
-        ],
-        "back": "E",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "10) Long-term studies of Belding's ground squirrels show that immigrants move nearly 2 km from where they are born and become 1%-8% of the males and 0.7%-6% of the females in other populations. On an evolutionary scale, why is this significant?",
-        "options": [
-            "A) These immigrants make up for the deaths of individuals, keeping the other populations' size stable.",
-            "B) Young reproductive males tend to stay in their home population and are not driven out by other territorial males.",
-            "C) These immigrants provide a source of genetic diversity for the other populations.",
-            "D) Those individuals that emigrate to these new populations are looking for less crowded conditions with more resources.",
-            "E) Gradually, the populations of ground squirrels will move from a clumped to a uniform population pattern of dispersion."
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "11) Which of the following sets of measurements is the most useful when studying populations?",
-        "options": [
-            "A) density, dispersion, and demographics of a population",
-            "B) gene frequency over time and the ratio of reproductive to nonreproductive individuals",
-            "C) annual precipitation averages and mean annual temperatures",
-            "D) minimum and maximum amounts of precipitation and annual temperature extremes",
-            "E) ratio of predators and the number of immigrants and emigrants"
-        ],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "12) Which of the following scenarios would provide the most legitimate data on population density?",
-        "options": [
-            "A) Count the number of nests of a particular species of songbird and multiply this by a factor that extrapolates these data to actual animals.",
-            "B) Count the number of pine trees in several randomly selected 10 m x 10 m plots and extrapolate this number to the fraction of the study area these plots represent.",
-            "C) Use the mark-and-recapture method to estimate the size of the population.",
-            "D) Calculate the difference between all of the immigrants and emigrants to see if the population is growing or shrinking.",
-            "E) Add the number of births and subtract the individuals that die to see if the population's density is increasing or decreasing."
-        ],
-        "back": "B",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "13) Which of the following is the best example of uniform distribution?",
-        "options": [
-            "A) bees collecting pollen in a wildflower meadow",
-            "B) snails in an intertidal zone at low tide",
-            "C) territorial songbirds in a mature forest during mating season",
-            "D) mushrooms growing on the floor of an old growth forest",
-            "E) a cultivated cornfield in the Midwest"
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "14) Which of the following choices would most likely promote random distribution?",
-        "options": [
-            "A) territorial species",
-            "B) species that secrete chemicals to attract or inhibit other individuals",
-            "C) flocking and schooling behaviors",
-            "D) spacing during the breeding season",
-            "E) homogeneous chemical and physical factors in the environment"
-        ],
-        "back": "E",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "15) Which of the following best defines a cohort?",
-        "options": [
-            "A) a group of individuals that inhabits a small isolated region within the range for the species",
-            "B) all of the individuals that are annually added to a population by birth and immigration",
-            "C) the reproductive males and females within the population",
-            "D) a group of the individuals from the same age group, from birth until they are all dead",
-            "E) the number of individuals that annually die or emigrate out of a population"
-        ],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "16) Why do some invertebrates, such as lobsters, show a \"stair-step\" survivorship curve?",
-        "options": [
-            "A) Many invertebrates mate and produce offspring on multiyear cycles.",
-            "B) Within a species of invertebrates, younger individuals have a higher survivorship than older individuals.",
-            "C) Many invertebrates molt in order to grow, and they are vulnerable to predation during their \"soft shell\" stage.",
-            "D) Many invertebrate species have population cycles that go up and down according to the frequency of sunspots.",
-            "E) The number of fertilized eggs that mature to become females in many species of invertebrates is based on ambient temperature."
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "17) Which of the following is the most important assumption for the capture-recapture method to estimate the size of wildlife populations?",
-        "options": [
-            "A) All females in the population have the same litter size.",
-            "B) More individuals emigrate from, as opposed to immigrate into, a population.",
-            "C) Over 50% of the marked individuals need to be trapped during the recapture phase.",
-            "D) There is a 50:50 ratio of males to females in the population before and after trapping and recapture.",
-            "E) Marked individuals have the same probability of being recaptured as unmarked individuals during the recapture phase."
-        ],
-        "back": "E",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "18) A population of ground squirrels has an annual per capita birth rate of 0.06 and an annual per capita death rate of 0.02. Calculate an estimate of the number of individuals added to (or lost from) a population of 1,000 individuals in one year.",
-        "options": [
-            "A) 120 individuals added",
-            "B) 40 individuals added",
-            "C) 20 individuals added",
-            "D) 400 individuals added",
-            "E) 20 individuals lost"
-        ],
-        "back": "B",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "19) Exponential growth of a population is represented by dN/dt = A. SEE IMAGE B. SEE IMAGE C. SEE IMAGE D. SEE IMAGE E. SEE IMAGE",
-        "options": [],
-        "back": "B",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/495/21/_39367d51_13ab9201884__8000_00000217.jpg"
-        ]
-    },
-    {
-        "front": "20) Starting from a single individual, what is the size of a population of bacteria that reproduce by binary fission every 20 minutes at the end of a 2-hour time period? (Assume unlimited resources and no mortality.)",
-        "options": [
-            "A) 6",
-            "B) 18",
-            "C) 128",
-            "D) 512",
-            "E) 1,024"
-        ],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "21) Which of the following is the equation for zero population growth (ZPG)?",
-        "options": [
-            "A) R = b - m",
-            "B) dN/dt = rN",
-            "C) dN/dt =rmax N (K -N)/K",
-            "D) dN/dt =rmax N",
-            "E) dN/dt = 1.0N"
-        ],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "22) In July 2008, the United States had a population of approximately 302,000,000 people. How many Americans were there in July 2009, if the estimated 2008 growth rate was 0.88%?",
-        "options": [
-            "A) 2,700,000",
-            "B) 5,500,000",
-            "C) 303,000,000",
-            "D) 304,000,000",
-            "E) 2,710,800,000"
-        ],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "23) In 2008, the population of New Zealand was approximately 4,275,000 people. If the birth rate was 14 births for every 1,000 people, approximately how many births occurred in New Zealand in 2008?",
-        "options": [
-            "A) 6,000",
-            "B) 42,275",
-            "C) 60,000",
-            "D) 140,000",
-            "E) 600,000"
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "24) Consider two forests: one is an undisturbed old-growth forest, while the other has recently been logged. In which forest are species likely to experience exponential growth, and why?",
-        "options": [
-            "A) Old growth, because of stable conditions that would favor exponential growth of all species in the forest.",
-            "B) Old growth, because each of the species is well established and can produce many offspring.",
-            "C) Logged, because the disturbed forest affords more resources for increased specific populations to grow.",
-            "D) Logged, because the various populations are stimulated to a higher reproductive potential.",
-            "E) Exponential growth is equally probable in old-growth and logged forests."
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "25) Logistic growth of a population is represented by dN/dt = A. SEE IMAGE B. SEE IMAGE C. SEE IMAGE D. SEE IMAGE E. SEE IMAGE",
-        "options": [],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/495/21/_39367d51_13ab9201884__8000_00000217.jpg"
-        ]
-    },
-    {
-        "front": "26) As N approaches K for a certain population, which of the following is predicted by the logistic equation?",
-        "options": [
-            "A) The growth rate will not change.",
-            "B) The growth rate will approach zero.",
-            "C) The population will show an Allee effect.",
-            "D) The population will increase exponentially.",
-            "E) The carrying capacity of the environment will increase."
-        ],
-        "back": "B",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "Please read the paragraph below and review Figure 53.2 to answer the following question. Researchers in the Netherlands studied the effects of parental care given in European kestrels over five years. The researchers transferred chicks among nests to produce reduced broods (three or four chicks), normal broods (five or six chicks), and enlarged broods (seven or eight chicks). They then measured the percentage of male and female parent birds that survived the following winter. (Both males and females provide care for chicks.) Figure 53.2: Brood size manipulations in the kestrel: Effects on offspring and parent survival. 58) Which of the following is a conclusion that can be drawn from this graph?",
-        "options": [
-            "A) Female survivability is more negatively affected by larger brood size than is male survivability.",
-            "B) Male survivability decreased by 50% between reduced and enlarged brood treatments.",
-            "C) Both males and females had increases in daily hunting with the enlarged brood size.",
-            "D) There appears to be a negative correlation between brood enlargements and parental survival.",
-            "E) Chicks in reduced brood treatment received more food, weight gain, and reduced mortality."
-        ],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/505/31/_39367d51_13ab9201884__8000_00000227.jpg"
-        ]
-    },
-    {
-        "front": "28) The Allee effect is used to describe a population that",
-        "options": [
-            "A) has become so small that it will have difficulty surviving and reproducing.",
-            "B) has become so large that it will have difficulty surviving and reproducing.",
-            "C) is viable and stable at its carrying capacity.",
-            "D) has exceeded its carrying capacity.",
-            "E) is in crash decline."
-        ],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "29) Carrying capacity is",
-        "options": [
-            "A) seldom reached by marine producers and consumers because of the vast resources of the ocean.",
-            "B) the maximum population size that a particular environment can support.",
-            "C) fixed for most species over most of their range most of the time.",
-            "D) determined by density and dispersion data.",
-            "E) the term used to describe the stress a population undergoes due to limited resources."
-        ],
-        "back": "B",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "30) Which of the following causes populations to shift most quickly from an exponential to a logistic population growth?",
-        "options": [
-            "A) increased birth rate",
-            "B) removal of predators",
-            "C) decreased death rate",
-            "D) competition for resources",
-            "E) favorable climatic conditions"
-        ],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "31) Which of the following statements about the evolution of life histories is correct?",
-        "options": [
-            "A) Stable environments with limited resources favor r-selected populations.",
-            "B) K-selected populations are most often found in environments where density-independent factors are important regulators of population size.",
-            "C) Most populations have both r- and K-selected characteristics that vary under different environmental conditions.",
-            "D) The reproductive efforts of r-selected populations are directed at producing just a few offspring with good competitive abilities.",
-            "E) K-selected populations rarely approach carrying capacity."
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "32) Natural selection involves energetic trade-offs between",
-        "options": [
-            "A) choosing how many offspring to produce over the course of a lifetime and how long to live.",
-            "B) producing large numbers of gametes when employing internal fertilization versus fewer numbers of gametes when employing external fertilization.",
-            "C) the emigration of individuals when they are no longer reproductively capable or committing suicide.",
-            "D) increasing the number of individuals produced during each reproductive episode with a corresponding decrease in parental care.",
-            "E) high survival rates of offspring and the cost of parental care."
-        ],
-        "back": "E",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "33) The three basic variables that make up the life history of an organism are",
-        "options": [
-            "A) life expectancy, birth rate, and death rate.",
-            "B) number of reproductive females in the population, age structure of the population, and life expectancy.",
-            "C) age when reproduction begins, how often reproduction occurs, and how many offspring are produced per reproductive episode.",
-            "D) how often reproduction occurs, life expectancy of females in the population, and number of offspring per reproductive episode.",
-            "E) the number of reproductive females in the population, how often reproduction occurs, and death rate."
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "34) Which of the following pairs of reproductive strategies is consistent with energetic trade-off and reproductive success?",
-        "options": [
-            "A) Pioneer species of plants produce many very small, highly airborne seeds, whereas large elephants that are very good parents produce many offspring.",
-            "B) Female rabbits that suffer high predation rates may produce several litters per breeding season, and coconuts produce few fruits, but most survive when they encounter proper growing conditions.",
-            "C) Species that have to broadcast to distant habitats tend to produce seeds with heavy protective seed coats, and animals that are caring parents produce fewer offspring with lower infant mortality.",
-            "D) Free-living insects lay thousands of eggs and provide no parental care, whereas flowers take good care of their seeds until they are ready to germinate.",
-            "E) Some mammals will not reproduce when environmental resources are low so they can survive until conditions get better, and plants that produce many small seeds are likely found in stable environments."
-        ],
-        "back": "B",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "35) Pacific salmon and annual plants are excellent examples of",
-        "options": [
-            "A) cohort disintegration.",
-            "B) dispersion.",
-            "C) Allee effect.",
-            "D) iteroparous reproduction.",
-            "E) semelparous reproduction."
-        ],
-        "back": "E",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "36) Which of the following is characteristic of K-selected populations?",
-        "options": [
-            "A) offspring with good chances of survival",
-            "B) many offspring per reproductive episode",
-            "C) small offspring",
-            "D) a high intrinsic rate of increase",
-            "E) early parental reproduction"
-        ],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "37) Which variables define the ecological life history of a species?",
-        "options": [
-            "A) the age at which reproduction begins, frequency of reproduction, and the number of offspring for each reproductive episode",
-            "B) the ratio of females to males, the length of the breeding season, and the number of offspring for each reproductive episode",
-            "C) the number of offspring produced over a lifetime by a breeding pair and the survivability of the offspring",
-            "D) timing breeding sessions with optimal environmental conditions and the number of offspring produced during each breeding session",
-            "E) the amount of parental care given after birth, the number of reproductive episodes per year, and the number of years females are capable of producing viable offspring"
-        ],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "38) Which pattern of reproduction is correctly paired with a species?",
-        "options": [
-            "A) iteroparityPacific salmon",
-            "B) iteroparityelephant",
-            "C) semelparityoak tree",
-            "D) semelparityrabbit",
-            "E) semelparity–polar bear"
-        ],
-        "back": "B",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "39) Often the growth cycle of one population has an effect on the cycle of another. As moose populations increase, for example, wolf populations also increase. Thus, if we are considering the logistic equation for the wolf population, SEE IMAGE which of the factors accounts for the effect on the moose population?",
-        "options": [
-            "A) r",
-            "B) N",
-            "C) rN",
-            "D) K",
-            "E) dt"
-        ],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/497/23/_39367d51_13ab9201884__8000_00000219.jpg"
-        ]
-    },
-    {
-        "front": "40) In which of the following situations would you expect to find the largest number of K-selected individuals?",
-        "options": [
-            "A) a recently abandoned agricultural field in Ohio",
-            "B) the sand dune communities of south Lake Michigan",
-            "C) the flora and fauna of a coral reef in the Caribbean",
-            "D) South Florida after a hurricane",
-            "E) a newly emergent volcanic island"
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "41) Which of the following is most likely to contribute to density-dependent regulation of populations?",
-        "options": [
-            "A) the removal of toxic waste by decomposers",
-            "B) intraspecific competition for nutrients",
-            "C) earthquakes",
-            "D) floods",
-            "E) fires"
-        ],
-        "back": "B",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "42) Why do populations grow more slowly as they approach their carrying capacity?",
-        "options": [
-            "A) Density-dependent factors lead to fewer births and increased mortality.",
-            "B) Density-independent factors lead to fewer births and increased mortality.",
-            "C) Hormonal changes promote higher death rates in crowded populations.",
-            "D) Individuals voluntarily stop mating so that overcrowding does not occur.",
-            "E) The incoming energy decreases in populations experiencing a high rate of increase."
-        ],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "43) A population of white-footed mice becomes severely overpopulated in a habitat that has been disturbed by human activity. Sometimes intrinsic factors cause the population to increase in mortality and lower reproduction rates to occur in reaction to the stress of overpopulation. Which of the following is an example of intrinsic population control?",
-        "options": [
-            "A) Owl populations frequent the area more often because of increased hunting success.",
-            "B) Females undergo hormonal changes that delay sexual maturation and many individuals suffer depressed immune systems and die due to the stress of overpopulation.",
-            "C) Clumped dispersion of the population leads to increased spread of disease and parasites, resulting in a population crash.",
-            "D) All of the resources (food and shelter) are used up by overpopulation and much of the population dies of exposure and/or starvation.",
-            "E) Because the individuals are vulnerable they are more likely to die off if a drought or flood were to occur."
-        ],
-        "back": "B",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "44) Why is territoriality an adaptive behavior for songbirds maintaining populations at or near their carrying capacity?",
-        "options": [
-            "A) Songbirds expend a tremendous amount of energy defending territories so that they spend less time feeding their young and fledgling mortality increases.",
-            "B) Only the fittest males defend territories and they attract the fittest females so the best genes are conveyed to the next generation.",
-            "C) Songbird males defend territories commensurate with the size from which they can derive adequate resources for themselves, their mate, and their chicks.",
-            "D) Many individuals are killed in the agonistic behaviors that go along with territorial defense.",
-            "E) Adult songbirds make improvements to the territories they inhabit so that they can produce successfully fledged chicks."
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "45) Which of the following could be a density-independent factor limiting human population growth?",
-        "options": [
-            "A) social pressure for birth control",
-            "B) earthquakes",
-            "C) plagues",
-            "D) famines",
-            "E) pollution"
-        ],
-        "back": "B",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "46) An ecological footprint is a construct that is useful",
-        "options": [
-            "A) for a person living in a developed nation to consider to make better choices when using global food and energy resources.",
-            "B) for a person living in a developing country to see how much of the world's resources are left for him/her.",
-            "C) in converting human foods' meat biomass to plant biomass.",
-            "D) in making predictions about the global carrying capacity of humans.",
-            "E) in determining which nations produce the least amount of carbon dioxide from the burning of fossil fuels."
-        ],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "47) Which of the following was the most significant limiting factor in human population growth in the 20th century?",
-        "options": [
-            "A) famine",
-            "B) non-HIV disease",
-            "C) HIV",
-            "D) genocide",
-            "E) clean water"
-        ],
-        "back": "E",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "48) Which of the following is most key to understanding the demographic transition in human population growth?",
-        "options": [
-            "A) education of global famine",
-            "B) improved worldwide health care",
-            "C) voluntary reduction of family size",
-            "D) improved sanitary conditions in the world's hospitals",
-            "E) reduction of casualties of war"
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "49) Why does the 2009 U.S. population continue to grow even though the United States has essentially established a ZPG?",
-        "options": [
-            "A) emigration",
-            "B) immigration",
-            "C) better sanitation",
-            "D) baby boomer reproduction",
-            "E) the 2007-2009 economic recession"
-        ],
-        "back": "B",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "50) Which statement is true with regard to human population growth?",
-        "options": [
-            "A) It is at a zero reproduction rate.",
-            "B) Its rate of increase continues to grow at an exponential rate.",
-            "C) Its rate of growth is slowing.",
-            "D) Its rate of growth is increasing.",
-            "E) There is no scientific prediction that can be made about human population growth."
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "51) Which curve best describes survivorship in marine molluscs?",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "E",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/499/25/_39367d51_13ab9201884__8000_00000221.jpg"
-        ]
-    },
-    {
-        "front": "52) Which curve best describes survivorship in elephants?",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/499/25/_39367d51_13ab9201884__8000_00000221.jpg"
-        ]
-    },
-    {
-        "front": "53) Which curve best describes survivorship in a marine crustacean that molts?",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/499/25/_39367d51_13ab9201884__8000_00000221.jpg"
-        ]
-    },
-    {
-        "front": "54) Which curve best describes survivorship in humans who live in undeveloped nations?",
-        "options": [
-            "A) A",
-            "B) B",
-            "C) C",
-            "D) D",
-            "E) E"
-        ],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/499/25/_39367d51_13ab9201884__8000_00000221.jpg"
-        ]
-    },
-    {
-        "front": "55) Which statement best explains survivorship curve B?",
-        "options": [
-            "A) It is likely a species that provides little postnatal care, but lots of care for offspring during midlife as indicated by increased survivorship.",
-            "B) This curve is likely of a species that produces lots of offspring, only a few of which are expected to survive.",
-            "C) It is likely a species where no individuals in the cohort die when they are at 60—70% relative age.",
-            "D) There was a mass emigration of young to middle-aged individuals in this cohort.",
-            "E) Survivorship can only decrease; therefore, this curve could not happen in nature."
-        ],
-        "back": "E",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/499/25/_39367d51_13ab9201884__8000_00000221.jpg"
-        ]
-    },
-    {
-        "front": "56) Which of the following graphs illustrates the population growth curve of single bacterium growing in a flask of ideal medium at optimum temperature over a 24-hour period? A. SEE IMAGE B. SEE IMAGE C. SEE IMAGE D. SEE IMAGE E. SEE IMAGE",
-        "options": [],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/503/29/_39367d51_13ab9201884__8000_00000225.jpg"
-        ]
-    },
-    {
-        "front": "57) Which of the following graphs illustrates the growth curve of a small population of rodents that has grown to reach a static carrying capacity?",
-        "options": [],
-        "back": "E",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/503/29/_39367d51_13ab9201884__8000_00000225.jpg"
-        ]
-    },
-    {
-        "front": "Please read the paragraph below and review Figure 53.2 to answer the following question. Researchers in the Netherlands studied the effects of parental care given in European kestrels over five years. The researchers transferred chicks among nests to produce reduced broods (three or four chicks), normal broods (five or six chicks), and enlarged broods (seven or eight chicks). They then measured the percentage of male and female parent birds that survived the following winter. (Both males and females provide care for chicks.) Figure 53.2: Brood size manipulations in the kestrel: Effects on offspring and parent survival. 58) Which of the following is a conclusion that can be drawn from this graph?",
-        "options": [
-            "A) Female survivability is more negatively affected by larger brood size than is male survivability.",
-            "B) Male survivability decreased by 50% between reduced and enlarged brood treatments.",
-            "C) Both males and females had increases in daily hunting with the enlarged brood size.",
-            "D) There appears to be a negative correlation between brood enlargements and parental survival.",
-            "E) Chicks in reduced brood treatment received more food, weight gain, and reduced mortality."
-        ],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/505/31/_39367d51_13ab9201884__8000_00000227.jpg"
-        ]
-    },
-    {
-        "front": "59) Which of the following is a likely graphic outcome of a population of deer introduced to an island with an adequate herbivory and without natural predators, parasites, or disease? A. SEE IMAGE B. SEE IMAGE C. SEE IMAGE D. SEE IMAGE E. SEE IMAGE",
-        "options": [],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/506/32/_39367d51_13ab9201884__8000_00000228.jpg"
-        ]
-    },
-    {
-        "front": "60) Which of the following graphs illustrates the growth over several seasons of a population of snowshoe hares that were introduced to an appropriate habitat also inhabited by predators in northern Canada?",
-        "options": [],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/507/33/_39367d51_13ab9201884__8000_00000229.jpg"
-        ]
-    },
-    {
-        "front": "The following questions refer to Figure 53.3, which depicts the age structure of three populations. 61) Which population(s) is (are) in the process of decreasing?",
-        "options": [
-            "A) I",
-            "B) II",
-            "C) III",
-            "D) I and II",
-            "E) II and III"
-        ],
-        "back": "B",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/508/34/_39367d51_13ab9201884__8000_00000230.jpg"
-        ]
-    },
-    {
-        "front": "The following questions refer to Figure 53.3, which depicts the age structure of three populations. 62) Which population(s) appear(s) to be stable?",
-        "options": [
-            "A) I",
-            "B) II",
-            "C) III",
-            "D) I and II",
-            "E) II and III"
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/508/34/_39367d51_13ab9201884__8000_00000230.jpg"
-        ]
-    },
-    {
-        "front": "The following questions refer to Figure 53.3, which depicts the age structure of three populations. 63) Assuming these age-structure diagrams describe human populations, in which population is unemployment likely to be a societal issue in the future?",
-        "options": [
-            "A) I",
-            "B) II",
-            "C) III",
-            "D) No differences in the magnitude of future unemployment would be expected among these populations.",
-            "E) It is not possible to infer anything about future social conditions from age-structure diagrams."
-        ],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/508/34/_39367d51_13ab9201884__8000_00000230.jpg"
-        ]
-    },
-    {
-        "front": "The following questions refer to Figure 53.3, which depicts the age structure of three populations. 64) Assuming these age-structure diagrams describe human populations, which population(s) is (are) likely to experience zero population growth (ZPG)?",
-        "options": [
-            "A) I",
-            "B) II",
-            "C) III",
-            "D) I and II",
-            "E) II and III"
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/508/34/_39367d51_13ab9201884__8000_00000230.jpg"
-        ]
-    },
-    {
-        "front": "Refer to Figure 53.4 and then answer the following questions. Figure 53.4: Infant mortality and life expectancy at birth in developed and developing countries (data as of 2005). 65) What is a logical conclusion that can be drawn from the graphs above?",
-        "options": [
-            "A) Developed countries have lower infant mortality rates and lower life expectancy than developing countries.",
-            "B) Developed countries have higher infant mortality rates and lower life expectancy than developing countries.",
-            "C) Developed countries have lower infant mortality rates and higher life expectancy than developing countries.",
-            "D) Developed countries have higher infant mortality rates and higher life expectancy than developing countries.",
-            "E) Developed countries have a life expectancy that is about 42 years more than life expectancy in developing countries."
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/512/38/_39367d51_13ab9201884__8000_00000234.jpg"
-        ]
-    },
-    {
-        "front": "Refer to Figure 53.4 and then answer the following questions. Figure 53.4: Infant mortality and life expectancy at birth in developed and developing countries (data as of 2005). 66) In terms of demographics, which country is likely to experience the greatest population growth problem over the next ten years?",
-        "options": [
-            "A) Mexico, because there are fewer pre-reproductive individuals in their population",
-            "B) China, whose population is more than a billion, but whose expected fertility rate is 1.8 children",
-            "C) Germany, where the growth rate of the population is 0.1% per year",
-            "D) United States (2009 population ~ 205,000,000, where 200,000 Americans are added to the population each day)",
-            "E) Afghanistan, with a 3.85 annual growth rate"
-        ],
-        "back": "E",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/512/38/_39367d51_13ab9201884__8000_00000234.jpg"
-        ]
-    },
-    {
-        "front": "67) To measure the population of lake trout in a 250-hectare lake, 400 individual trout were netted and marked with a fin clip, then returned to the lake. The next week, the lake was netted again, and out of the 200 lake trout that were caught, 50 had fin clips. Using the capture-recapture estimate, the lake trout population size could be closest to which of the following?",
-        "options": [
-            "A) 160",
-            "B) 200",
-            "C) 400",
-            "D) 1,600",
-            "E) 80,000"
-        ],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "68) Your friend comes to you with a problem. It seems his shrimp boats aren't catching nearly as much shrimp as they used to. He can't understand why because he used to catch all the shrimp he could handle. Each year he added a new boat, and for a long time each boat caught tons of shrimp. As he added more boats, there came a time when each boat caught somewhat fewer shrimp, and now, each boat is catching a lot less shrimp. Which of the following topics might help your friend understand the source of his problem?",
-        "options": [
-            "A) density-dependent population regulation and intrinsic characteristics of population growth",
-            "B) exponential growth curves and unlimited environmental resources",
-            "C) density-independent population regulation and chance occurrence",
-            "D) pollution effects of a natural environment and learned shrimp behavior",
-            "E) a K-selected population switching to an r-selected population"
-        ],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "69) Imagine that you are managing a large game ranch. You know from historical accounts that a species of deer used to live there, but they have been extirpated. You decide to reintroduce them. After doing some research to determine what might be an appropriately sized founding population, you do so. You then watch the population increase for several generations, and graph the number of individuals (vertical axis) against the number of generations (horizontal axis). The graph will likely appear as",
-        "options": [
-            "A) a diagonal line, getting higher with each generation.",
-            "B) an \"S,\" increasing with each generation.",
-            "C) an upside-down \"U.\"",
-            "D) a \"J,\" increasing with each generation.",
-            "E) an \"S\" that ends with a vertical line."
-        ],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "70) Population ecologists follow the fate of same-age cohorts to",
-        "options": [
-            "A) determine a population's carrying capacity.",
-            "B) determine the birth rate and death rate of each group in a population.",
-            "C) determine if a population is regulated by density-dependent processes.",
-            "D) determine the factors that regulate the size of a population.",
-            "E) determine if a population's growth is cyclic."
-        ],
-        "back": "B",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "71) A population's carrying capacity",
-        "options": [
-            "A) may change as environmental conditions change.",
-            "B) can be accurately calculated using the logistic growth model.",
-            "C) generally remains constant over time.",
-            "D) increases as the per capita growth rate (r) decreases.",
-            "E) can never be exceeded."
-        ],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "72) Scientific study of the population cycles of the snowshoe hare and its predator, the lynx, has revealed that",
-        "options": [
-            "A) the prey population is controlled by predators alone.",
-            "B) hares and lynx are so mutually dependent that each species cannot survive without the other.",
-            "C) multiple biotic and abiotic factors contribute to the cycling of the hare and lynx populations.",
-            "D) both hare and lynx populations are regulated mainly by abiotic factors.",
-            "E) the hare population is r-selected and the lynx population is K-selected."
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "73) Based on current growth rates, Earth's human population in 2012 will be closest to",
-        "options": [
-            "A) 2 million.",
-            "B) 3 billion.",
-            "C) 4 billion.",
-            "D) 7 billion.",
-            "E) 10 billion."
-        ],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "74) A recent study of ecological footprints concluded that",
-        "options": [
-            "A) Earth's carrying capacity for humans is about 10 billion.",
-            "B) Earth's carrying capacity would increase if per capita meat consumption increased.",
-            "C) current demand by industrialized countries for resources is much smaller than the ecological footprint of those countries.",
-            "D) it is not possible for technological improvements to increase Earth's carrying capacity for humans.",
-            "E) the ecological footprint of the United States is large because per capita resource use is high."
-        ],
-        "back": "E",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "75) The observation that members of a population are uniformly distributed suggests that",
-        "options": [
-            "A) the size of the area occupied by the population is increasing.",
-            "B) resources are distributed unevenly.",
-            "C) the members of the population are competing for access to a resource.",
-            "D) the members of the population are neither attracted to nor repelled by one another.",
-            "E) the density of the population is low."
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "76) According to the logistic growth equation SEE IMAGE",
-        "options": [
-            "A) the number of individuals added per unit time is greatest when N is close to zero.",
-            "B) the per capita growth rate (r) increases as N approaches K.",
-            "C) population growth is zero when N equals K.",
-            "D) the population grows exponentially when K is small.",
-            "E) the birth rate (b) approaches zero as N approaches K."
-        ],
-        "back": "C",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": [
-            "http://www.zo.utexas.edu/courses/bio301/chapters/Chapter9/Fig9-3.jpg"
-        ]
-    },
-    {
-        "front": "77) Which pair of terms most accurately describes life history traits for a stable population of wolves?",
-        "options": [
-            "A) semelparous; r-selected",
-            "B) semelparous; K-selected",
-            "C) iteroparous; r-selected",
-            "D) iteroparous; K-selected",
-            "E) iteroparous; N-selected"
-        ],
-        "back": "D",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "78) During exponential growth, a population always",
-        "options": [
-            "A) grows by thousands of individuals.",
-            "B) grows at its maximum per capita rate.",
-            "C) quickly reaches its carrying capacity.",
-            "D) cycles through time.",
-            "E) loses some individuals to emigration."
-        ],
-        "back": "B",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    },
-    {
-        "front": "79) Which of the following statements about human population in industrialized countries is incorrect?",
-        "options": [
-            "A) Life history is r-selected.",
-            "B) Average family size is relatively small.",
-            "C) The population has undergone the demographic transition.",
-            "D) The survivorship curve is Type I.",
-            "E) Age distribution is relatively uniform."
-        ],
-        "back": "A",
-        "unit": "Unit 53",
-        "chapter": "Chapter 53",
-        "images": []
-    }
+  {
+    "front": "1) Population ecologists are primarily interested in",
+    "options": [
+      "A) studying interactions among populations of organisms that inhabit the same area.",
+      "B) understanding how biotic and abiotic factors influence the density, distribution, size, and age structure of populations.",
+      "C) how humans affect the size of wild populations of organisms.",
+      "D) how populations evolve as natural selection acts on heritable variations among individuals and changes in gene frequency.",
+      "E) the overall vitality of a population of organisms."
+    ],
+    "back": "B",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "2) A population is correctly defined as having which of the following characteristics? I. inhabiting the same general area II. belonging to the same species III. possessing a constant and uniform density and dispersion",
+    "options": [
+      "A) I only",
+      "B) III only",
+      "C) I and II only",
+      "D) II and III only",
+      "E) I, II, and III"
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "3) An ecologist recorded 12 white-tailed deer, Odocoileus virginianus, per square mile in one woodlot and 20 per square mile in another woodlot. What was the ecologist comparing?",
+    "options": [
+      "A) density",
+      "B) dispersion",
+      "C) carrying capacity",
+      "D) cohorts",
+      "E) range"
+    ],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "4) During the spring, you are studying the mice that live in a field near your home. The population density is high, but you realize that you rarely observe any reproductive female mice. This most likely indicates",
+    "options": [
+      "A) that there is selective predation on female mice.",
+      "B) that female mice die before reproducing.",
+      "C) that this habitat is a good place for mice to reproduce.",
+      "D) that you are observing immigrant mice.",
+      "E) that the breeding season is over."
+    ],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "5) Uniform spacing patterns in plants such as the creosote bush are most often associated with",
+    "options": [
+      "A) chance.",
+      "B) patterns of high humidity.",
+      "C) the random distribution of seeds.",
+      "D) competitive interaction between individuals of the same population.",
+      "E) the concentration of nutrients within the population's range."
+    ],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "6) Which of the following groups would be most likely to exhibit uniform dispersion?",
+    "options": [
+      "A) red squirrels, who actively defend territories",
+      "B) cattails, which grow primarily at edges of lakes and streams",
+      "C) dwarf mistletoes, which parasitize particular species of forest tree",
+      "D) moths, in a city at night",
+      "E) lake trout, which seek out cold, deep water high in dissolved oxygen"
+    ],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "7) To construct a reproductive table for a sexual species, one needs to",
+    "options": [
+      "A) assess sperm viability for the males in the population.",
+      "B) keep track of all of the offspring of a cohort.",
+      "C) keep track of the females in a cohort.",
+      "D) keep track of all of the offspring of the females in a cohort.",
+      "E) analyze the ratio of deaths to births in a cohort."
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "8) Which of the following examples would most accurately measure the density of the population being studied?",
+    "options": [
+      "A) counting the number of prairie dog burrows per hectare",
+      "B) counting the number of times a 1 kilometer transect is intersected by tracks of red squirrels after a snowfall",
+      "C) counting the number of coyote droppings per hectare",
+      "D) multiplying the number of moss plants counted in 10 quadrats of 1m² each by 100 to determine the density per kilometer².",
+      "E) counting the number of zebras from airplane census observations."
+    ],
+    "back": "E",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "9) Which of the following assumptions have to be made regarding the capture-recapture estimate of population size? I. Marked and unmarked individuals have the same probability of being trapped. II. The marked individuals have thoroughly mixed with the population after being marked. III. No individuals have entered or left the population by immigration or emigration, and no individuals have been added by birth or eliminated by death during the course of the estimate.",
+    "options": [
+      "A) I only",
+      "B) II only",
+      "C) I and II only",
+      "D) II and III only",
+      "E) I, II, and III"
+    ],
+    "back": "E",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "10) Long-term studies of Belding's ground squirrels show that immigrants move nearly 2 km from where they are born and become 1%-8% of the males and 0.7%-6% of the females in other populations. On an evolutionary scale, why is this significant?",
+    "options": [
+      "A) These immigrants make up for the deaths of individuals, keeping the other populations' size stable.",
+      "B) Young reproductive males tend to stay in their home population and are not driven out by other territorial males.",
+      "C) These immigrants provide a source of genetic diversity for the other populations.",
+      "D) Those individuals that emigrate to these new populations are looking for less crowded conditions with more resources.",
+      "E) Gradually, the populations of ground squirrels will move from a clumped to a uniform population pattern of dispersion."
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "11) Which of the following sets of measurements is the most useful when studying populations?",
+    "options": [
+      "A) density, dispersion, and demographics of a population",
+      "B) gene frequency over time and the ratio of reproductive to nonreproductive individuals",
+      "C) annual precipitation averages and mean annual temperatures",
+      "D) minimum and maximum amounts of precipitation and annual temperature extremes",
+      "E) ratio of predators and the number of immigrants and emigrants"
+    ],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "12) Which of the following scenarios would provide the most legitimate data on population density?",
+    "options": [
+      "A) Count the number of nests of a particular species of songbird and multiply this by a factor that extrapolates these data to actual animals.",
+      "B) Count the number of pine trees in several randomly selected 10 m x 10 m plots and extrapolate this number to the fraction of the study area these plots represent.",
+      "C) Use the mark-and-recapture method to estimate the size of the population.",
+      "D) Calculate the difference between all of the immigrants and emigrants to see if the population is growing or shrinking.",
+      "E) Add the number of births and subtract the individuals that die to see if the population's density is increasing or decreasing."
+    ],
+    "back": "B",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "13) Which of the following is the best example of uniform distribution?",
+    "options": [
+      "A) bees collecting pollen in a wildflower meadow",
+      "B) snails in an intertidal zone at low tide",
+      "C) territorial songbirds in a mature forest during mating season",
+      "D) mushrooms growing on the floor of an old growth forest",
+      "E) a cultivated cornfield in the Midwest"
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "14) Which of the following choices would most likely promote random distribution?",
+    "options": [
+      "A) territorial species",
+      "B) species that secrete chemicals to attract or inhibit other individuals",
+      "C) flocking and schooling behaviors",
+      "D) spacing during the breeding season",
+      "E) homogeneous chemical and physical factors in the environment"
+    ],
+    "back": "E",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "15) Which of the following best defines a cohort?",
+    "options": [
+      "A) a group of individuals that inhabits a small isolated region within the range for the species",
+      "B) all of the individuals that are annually added to a population by birth and immigration",
+      "C) the reproductive males and females within the population",
+      "D) a group of the individuals from the same age group, from birth until they are all dead",
+      "E) the number of individuals that annually die or emigrate out of a population"
+    ],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "16) Why do some invertebrates, such as lobsters, show a \"stair-step\" survivorship curve?",
+    "options": [
+      "A) Many invertebrates mate and produce offspring on multiyear cycles.",
+      "B) Within a species of invertebrates, younger individuals have a higher survivorship than older individuals.",
+      "C) Many invertebrates molt in order to grow, and they are vulnerable to predation during their \"soft shell\" stage.",
+      "D) Many invertebrate species have population cycles that go up and down according to the frequency of sunspots.",
+      "E) The number of fertilized eggs that mature to become females in many species of invertebrates is based on ambient temperature."
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "17) Which of the following is the most important assumption for the capture-recapture method to estimate the size of wildlife populations?",
+    "options": [
+      "A) All females in the population have the same litter size.",
+      "B) More individuals emigrate from, as opposed to immigrate into, a population.",
+      "C) Over 50% of the marked individuals need to be trapped during the recapture phase.",
+      "D) There is a 50:50 ratio of males to females in the population before and after trapping and recapture.",
+      "E) Marked individuals have the same probability of being recaptured as unmarked individuals during the recapture phase."
+    ],
+    "back": "E",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "18) A population of ground squirrels has an annual per capita birth rate of 0.06 and an annual per capita death rate of 0.02. Calculate an estimate of the number of individuals added to (or lost from) a population of 1,000 individuals in one year.",
+    "options": [
+      "A) 120 individuals added",
+      "B) 40 individuals added",
+      "C) 20 individuals added",
+      "D) 400 individuals added",
+      "E) 20 individuals lost"
+    ],
+    "back": "B",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "19) Exponential growth of a population is represented by dN/dt = A. SEE IMAGE B. SEE IMAGE C. SEE IMAGE D. SEE IMAGE E. SEE IMAGE",
+    "options": [],
+    "back": "B",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/495/21/_39367d51_13ab9201884__8000_00000217.jpg"
+    ]
+  },
+  {
+    "front": "20) Starting from a single individual, what is the size of a population of bacteria that reproduce by binary fission every 20 minutes at the end of a 2-hour time period? (Assume unlimited resources and no mortality.)",
+    "options": ["A) 6", "B) 18", "C) 128", "D) 512", "E) 1,024"],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "21) Which of the following is the equation for zero population growth (ZPG)?",
+    "options": [
+      "A) R = b - m",
+      "B) dN/dt = rN",
+      "C) dN/dt =rmax N (K -N)/K",
+      "D) dN/dt =rmax N",
+      "E) dN/dt = 1.0N"
+    ],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "22) In July 2008, the United States had a population of approximately 302,000,000 people. How many Americans were there in July 2009, if the estimated 2008 growth rate was 0.88%?",
+    "options": [
+      "A) 2,700,000",
+      "B) 5,500,000",
+      "C) 303,000,000",
+      "D) 304,000,000",
+      "E) 2,710,800,000"
+    ],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "23) In 2008, the population of New Zealand was approximately 4,275,000 people. If the birth rate was 14 births for every 1,000 people, approximately how many births occurred in New Zealand in 2008?",
+    "options": [
+      "A) 6,000",
+      "B) 42,275",
+      "C) 60,000",
+      "D) 140,000",
+      "E) 600,000"
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "24) Consider two forests: one is an undisturbed old-growth forest, while the other has recently been logged. In which forest are species likely to experience exponential growth, and why?",
+    "options": [
+      "A) Old growth, because of stable conditions that would favor exponential growth of all species in the forest.",
+      "B) Old growth, because each of the species is well established and can produce many offspring.",
+      "C) Logged, because the disturbed forest affords more resources for increased specific populations to grow.",
+      "D) Logged, because the various populations are stimulated to a higher reproductive potential.",
+      "E) Exponential growth is equally probable in old-growth and logged forests."
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "25) Logistic growth of a population is represented by dN/dt = A. SEE IMAGE B. SEE IMAGE C. SEE IMAGE D. SEE IMAGE E. SEE IMAGE",
+    "options": [],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/495/21/_39367d51_13ab9201884__8000_00000217.jpg"
+    ]
+  },
+  {
+    "front": "26) As N approaches K for a certain population, which of the following is predicted by the logistic equation?",
+    "options": [
+      "A) The growth rate will not change.",
+      "B) The growth rate will approach zero.",
+      "C) The population will show an Allee effect.",
+      "D) The population will increase exponentially.",
+      "E) The carrying capacity of the environment will increase."
+    ],
+    "back": "B",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "Please read the paragraph below and review Figure 53.2 to answer the following question. Researchers in the Netherlands studied the effects of parental care given in European kestrels over five years. The researchers transferred chicks among nests to produce reduced broods (three or four chicks), normal broods (five or six chicks), and enlarged broods (seven or eight chicks). They then measured the percentage of male and female parent birds that survived the following winter. (Both males and females provide care for chicks.) Figure 53.2: Brood size manipulations in the kestrel: Effects on offspring and parent survival. 58) Which of the following is a conclusion that can be drawn from this graph?",
+    "options": [
+      "A) Female survivability is more negatively affected by larger brood size than is male survivability.",
+      "B) Male survivability decreased by 50% between reduced and enlarged brood treatments.",
+      "C) Both males and females had increases in daily hunting with the enlarged brood size.",
+      "D) There appears to be a negative correlation between brood enlargements and parental survival.",
+      "E) Chicks in reduced brood treatment received more food, weight gain, and reduced mortality."
+    ],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/505/31/_39367d51_13ab9201884__8000_00000227.jpg"
+    ]
+  },
+  {
+    "front": "28) The Allee effect is used to describe a population that",
+    "options": [
+      "A) has become so small that it will have difficulty surviving and reproducing.",
+      "B) has become so large that it will have difficulty surviving and reproducing.",
+      "C) is viable and stable at its carrying capacity.",
+      "D) has exceeded its carrying capacity.",
+      "E) is in crash decline."
+    ],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "29) Carrying capacity is",
+    "options": [
+      "A) seldom reached by marine producers and consumers because of the vast resources of the ocean.",
+      "B) the maximum population size that a particular environment can support.",
+      "C) fixed for most species over most of their range most of the time.",
+      "D) determined by density and dispersion data.",
+      "E) the term used to describe the stress a population undergoes due to limited resources."
+    ],
+    "back": "B",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "30) Which of the following causes populations to shift most quickly from an exponential to a logistic population growth?",
+    "options": [
+      "A) increased birth rate",
+      "B) removal of predators",
+      "C) decreased death rate",
+      "D) competition for resources",
+      "E) favorable climatic conditions"
+    ],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "31) Which of the following statements about the evolution of life histories is correct?",
+    "options": [
+      "A) Stable environments with limited resources favor r-selected populations.",
+      "B) K-selected populations are most often found in environments where density-independent factors are important regulators of population size.",
+      "C) Most populations have both r- and K-selected characteristics that vary under different environmental conditions.",
+      "D) The reproductive efforts of r-selected populations are directed at producing just a few offspring with good competitive abilities.",
+      "E) K-selected populations rarely approach carrying capacity."
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "32) Natural selection involves energetic trade-offs between",
+    "options": [
+      "A) choosing how many offspring to produce over the course of a lifetime and how long to live.",
+      "B) producing large numbers of gametes when employing internal fertilization versus fewer numbers of gametes when employing external fertilization.",
+      "C) the emigration of individuals when they are no longer reproductively capable or committing suicide.",
+      "D) increasing the number of individuals produced during each reproductive episode with a corresponding decrease in parental care.",
+      "E) high survival rates of offspring and the cost of parental care."
+    ],
+    "back": "E",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "33) The three basic variables that make up the life history of an organism are",
+    "options": [
+      "A) life expectancy, birth rate, and death rate.",
+      "B) number of reproductive females in the population, age structure of the population, and life expectancy.",
+      "C) age when reproduction begins, how often reproduction occurs, and how many offspring are produced per reproductive episode.",
+      "D) how often reproduction occurs, life expectancy of females in the population, and number of offspring per reproductive episode.",
+      "E) the number of reproductive females in the population, how often reproduction occurs, and death rate."
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "34) Which of the following pairs of reproductive strategies is consistent with energetic trade-off and reproductive success?",
+    "options": [
+      "A) Pioneer species of plants produce many very small, highly airborne seeds, whereas large elephants that are very good parents produce many offspring.",
+      "B) Female rabbits that suffer high predation rates may produce several litters per breeding season, and coconuts produce few fruits, but most survive when they encounter proper growing conditions.",
+      "C) Species that have to broadcast to distant habitats tend to produce seeds with heavy protective seed coats, and animals that are caring parents produce fewer offspring with lower infant mortality.",
+      "D) Free-living insects lay thousands of eggs and provide no parental care, whereas flowers take good care of their seeds until they are ready to germinate.",
+      "E) Some mammals will not reproduce when environmental resources are low so they can survive until conditions get better, and plants that produce many small seeds are likely found in stable environments."
+    ],
+    "back": "B",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "35) Pacific salmon and annual plants are excellent examples of",
+    "options": [
+      "A) cohort disintegration.",
+      "B) dispersion.",
+      "C) Allee effect.",
+      "D) iteroparous reproduction.",
+      "E) semelparous reproduction."
+    ],
+    "back": "E",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "36) Which of the following is characteristic of K-selected populations?",
+    "options": [
+      "A) offspring with good chances of survival",
+      "B) many offspring per reproductive episode",
+      "C) small offspring",
+      "D) a high intrinsic rate of increase",
+      "E) early parental reproduction"
+    ],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "37) Which variables define the ecological life history of a species?",
+    "options": [
+      "A) the age at which reproduction begins, frequency of reproduction, and the number of offspring for each reproductive episode",
+      "B) the ratio of females to males, the length of the breeding season, and the number of offspring for each reproductive episode",
+      "C) the number of offspring produced over a lifetime by a breeding pair and the survivability of the offspring",
+      "D) timing breeding sessions with optimal environmental conditions and the number of offspring produced during each breeding session",
+      "E) the amount of parental care given after birth, the number of reproductive episodes per year, and the number of years females are capable of producing viable offspring"
+    ],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "38) Which pattern of reproduction is correctly paired with a species?",
+    "options": [
+      "A) iteroparityPacific salmon",
+      "B) iteroparityelephant",
+      "C) semelparityoak tree",
+      "D) semelparityrabbit",
+      "E) semelparity–polar bear"
+    ],
+    "back": "B",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "39) Often the growth cycle of one population has an effect on the cycle of another. As moose populations increase, for example, wolf populations also increase. Thus, if we are considering the logistic equation for the wolf population, SEE IMAGE which of the factors accounts for the effect on the moose population?",
+    "options": ["A) r", "B) N", "C) rN", "D) K", "E) dt"],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/497/23/_39367d51_13ab9201884__8000_00000219.jpg"
+    ]
+  },
+  {
+    "front": "40) In which of the following situations would you expect to find the largest number of K-selected individuals?",
+    "options": [
+      "A) a recently abandoned agricultural field in Ohio",
+      "B) the sand dune communities of south Lake Michigan",
+      "C) the flora and fauna of a coral reef in the Caribbean",
+      "D) South Florida after a hurricane",
+      "E) a newly emergent volcanic island"
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "41) Which of the following is most likely to contribute to density-dependent regulation of populations?",
+    "options": [
+      "A) the removal of toxic waste by decomposers",
+      "B) intraspecific competition for nutrients",
+      "C) earthquakes",
+      "D) floods",
+      "E) fires"
+    ],
+    "back": "B",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "42) Why do populations grow more slowly as they approach their carrying capacity?",
+    "options": [
+      "A) Density-dependent factors lead to fewer births and increased mortality.",
+      "B) Density-independent factors lead to fewer births and increased mortality.",
+      "C) Hormonal changes promote higher death rates in crowded populations.",
+      "D) Individuals voluntarily stop mating so that overcrowding does not occur.",
+      "E) The incoming energy decreases in populations experiencing a high rate of increase."
+    ],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "43) A population of white-footed mice becomes severely overpopulated in a habitat that has been disturbed by human activity. Sometimes intrinsic factors cause the population to increase in mortality and lower reproduction rates to occur in reaction to the stress of overpopulation. Which of the following is an example of intrinsic population control?",
+    "options": [
+      "A) Owl populations frequent the area more often because of increased hunting success.",
+      "B) Females undergo hormonal changes that delay sexual maturation and many individuals suffer depressed immune systems and die due to the stress of overpopulation.",
+      "C) Clumped dispersion of the population leads to increased spread of disease and parasites, resulting in a population crash.",
+      "D) All of the resources (food and shelter) are used up by overpopulation and much of the population dies of exposure and/or starvation.",
+      "E) Because the individuals are vulnerable they are more likely to die off if a drought or flood were to occur."
+    ],
+    "back": "B",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "44) Why is territoriality an adaptive behavior for songbirds maintaining populations at or near their carrying capacity?",
+    "options": [
+      "A) Songbirds expend a tremendous amount of energy defending territories so that they spend less time feeding their young and fledgling mortality increases.",
+      "B) Only the fittest males defend territories and they attract the fittest females so the best genes are conveyed to the next generation.",
+      "C) Songbird males defend territories commensurate with the size from which they can derive adequate resources for themselves, their mate, and their chicks.",
+      "D) Many individuals are killed in the agonistic behaviors that go along with territorial defense.",
+      "E) Adult songbirds make improvements to the territories they inhabit so that they can produce successfully fledged chicks."
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "45) Which of the following could be a density-independent factor limiting human population growth?",
+    "options": [
+      "A) social pressure for birth control",
+      "B) earthquakes",
+      "C) plagues",
+      "D) famines",
+      "E) pollution"
+    ],
+    "back": "B",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "46) An ecological footprint is a construct that is useful",
+    "options": [
+      "A) for a person living in a developed nation to consider to make better choices when using global food and energy resources.",
+      "B) for a person living in a developing country to see how much of the world's resources are left for him/her.",
+      "C) in converting human foods' meat biomass to plant biomass.",
+      "D) in making predictions about the global carrying capacity of humans.",
+      "E) in determining which nations produce the least amount of carbon dioxide from the burning of fossil fuels."
+    ],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "47) Which of the following was the most significant limiting factor in human population growth in the 20th century?",
+    "options": [
+      "A) famine",
+      "B) non-HIV disease",
+      "C) HIV",
+      "D) genocide",
+      "E) clean water"
+    ],
+    "back": "E",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "48) Which of the following is most key to understanding the demographic transition in human population growth?",
+    "options": [
+      "A) education of global famine",
+      "B) improved worldwide health care",
+      "C) voluntary reduction of family size",
+      "D) improved sanitary conditions in the world's hospitals",
+      "E) reduction of casualties of war"
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "49) Why does the 2009 U.S. population continue to grow even though the United States has essentially established a ZPG?",
+    "options": [
+      "A) emigration",
+      "B) immigration",
+      "C) better sanitation",
+      "D) baby boomer reproduction",
+      "E) the 2007-2009 economic recession"
+    ],
+    "back": "B",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "50) Which statement is true with regard to human population growth?",
+    "options": [
+      "A) It is at a zero reproduction rate.",
+      "B) Its rate of increase continues to grow at an exponential rate.",
+      "C) Its rate of growth is slowing.",
+      "D) Its rate of growth is increasing.",
+      "E) There is no scientific prediction that can be made about human population growth."
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "51) Which curve best describes survivorship in marine molluscs?",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "E",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/499/25/_39367d51_13ab9201884__8000_00000221.jpg"
+    ]
+  },
+  {
+    "front": "52) Which curve best describes survivorship in elephants?",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/499/25/_39367d51_13ab9201884__8000_00000221.jpg"
+    ]
+  },
+  {
+    "front": "53) Which curve best describes survivorship in a marine crustacean that molts?",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/499/25/_39367d51_13ab9201884__8000_00000221.jpg"
+    ]
+  },
+  {
+    "front": "54) Which curve best describes survivorship in humans who live in undeveloped nations?",
+    "options": ["A) A", "B) B", "C) C", "D) D", "E) E"],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/499/25/_39367d51_13ab9201884__8000_00000221.jpg"
+    ]
+  },
+  {
+    "front": "55) Which statement best explains survivorship curve B?",
+    "options": [
+      "A) It is likely a species that provides little postnatal care, but lots of care for offspring during midlife as indicated by increased survivorship.",
+      "B) This curve is likely of a species that produces lots of offspring, only a few of which are expected to survive.",
+      "C) It is likely a species where no individuals in the cohort die when they are at 60—70% relative age.",
+      "D) There was a mass emigration of young to middle-aged individuals in this cohort.",
+      "E) Survivorship can only decrease; therefore, this curve could not happen in nature."
+    ],
+    "back": "E",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/499/25/_39367d51_13ab9201884__8000_00000221.jpg"
+    ]
+  },
+  {
+    "front": "56) Which of the following graphs illustrates the population growth curve of single bacterium growing in a flask of ideal medium at optimum temperature over a 24-hour period? A. SEE IMAGE B. SEE IMAGE C. SEE IMAGE D. SEE IMAGE E. SEE IMAGE",
+    "options": [],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/503/29/_39367d51_13ab9201884__8000_00000225.jpg"
+    ]
+  },
+  {
+    "front": "57) Which of the following graphs illustrates the growth curve of a small population of rodents that has grown to reach a static carrying capacity?",
+    "options": [],
+    "back": "E",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/503/29/_39367d51_13ab9201884__8000_00000225.jpg"
+    ]
+  },
+  {
+    "front": "Please read the paragraph below and review Figure 53.2 to answer the following question. Researchers in the Netherlands studied the effects of parental care given in European kestrels over five years. The researchers transferred chicks among nests to produce reduced broods (three or four chicks), normal broods (five or six chicks), and enlarged broods (seven or eight chicks). They then measured the percentage of male and female parent birds that survived the following winter. (Both males and females provide care for chicks.) Figure 53.2: Brood size manipulations in the kestrel: Effects on offspring and parent survival. 58) Which of the following is a conclusion that can be drawn from this graph?",
+    "options": [
+      "A) Female survivability is more negatively affected by larger brood size than is male survivability.",
+      "B) Male survivability decreased by 50% between reduced and enlarged brood treatments.",
+      "C) Both males and females had increases in daily hunting with the enlarged brood size.",
+      "D) There appears to be a negative correlation between brood enlargements and parental survival.",
+      "E) Chicks in reduced brood treatment received more food, weight gain, and reduced mortality."
+    ],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/505/31/_39367d51_13ab9201884__8000_00000227.jpg"
+    ]
+  },
+  {
+    "front": "59) Which of the following is a likely graphic outcome of a population of deer introduced to an island with an adequate herbivory and without natural predators, parasites, or disease? A. SEE IMAGE B. SEE IMAGE C. SEE IMAGE D. SEE IMAGE E. SEE IMAGE",
+    "options": [],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/506/32/_39367d51_13ab9201884__8000_00000228.jpg"
+    ]
+  },
+  {
+    "front": "60) Which of the following graphs illustrates the growth over several seasons of a population of snowshoe hares that were introduced to an appropriate habitat also inhabited by predators in northern Canada?",
+    "options": [],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/507/33/_39367d51_13ab9201884__8000_00000229.jpg"
+    ]
+  },
+  {
+    "front": "The following questions refer to Figure 53.3, which depicts the age structure of three populations. 61) Which population(s) is (are) in the process of decreasing?",
+    "options": ["A) I", "B) II", "C) III", "D) I and II", "E) II and III"],
+    "back": "B",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/508/34/_39367d51_13ab9201884__8000_00000230.jpg"
+    ]
+  },
+  {
+    "front": "The following questions refer to Figure 53.3, which depicts the age structure of three populations. 62) Which population(s) appear(s) to be stable?",
+    "options": ["A) I", "B) II", "C) III", "D) I and II", "E) II and III"],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/508/34/_39367d51_13ab9201884__8000_00000230.jpg"
+    ]
+  },
+  {
+    "front": "The following questions refer to Figure 53.3, which depicts the age structure of three populations. 63) Assuming these age-structure diagrams describe human populations, in which population is unemployment likely to be a societal issue in the future?",
+    "options": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) No differences in the magnitude of future unemployment would be expected among these populations.",
+      "E) It is not possible to infer anything about future social conditions from age-structure diagrams."
+    ],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/508/34/_39367d51_13ab9201884__8000_00000230.jpg"
+    ]
+  },
+  {
+    "front": "The following questions refer to Figure 53.3, which depicts the age structure of three populations. 64) Assuming these age-structure diagrams describe human populations, which population(s) is (are) likely to experience zero population growth (ZPG)?",
+    "options": ["A) I", "B) II", "C) III", "D) I and II", "E) II and III"],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/508/34/_39367d51_13ab9201884__8000_00000230.jpg"
+    ]
+  },
+  {
+    "front": "Refer to Figure 53.4 and then answer the following questions. Figure 53.4: Infant mortality and life expectancy at birth in developed and developing countries (data as of 2005). 65) What is a logical conclusion that can be drawn from the graphs above?",
+    "options": [
+      "A) Developed countries have lower infant mortality rates and lower life expectancy than developing countries.",
+      "B) Developed countries have higher infant mortality rates and lower life expectancy than developing countries.",
+      "C) Developed countries have lower infant mortality rates and higher life expectancy than developing countries.",
+      "D) Developed countries have higher infant mortality rates and higher life expectancy than developing countries.",
+      "E) Developed countries have a life expectancy that is about 42 years more than life expectancy in developing countries."
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/512/38/_39367d51_13ab9201884__8000_00000234.jpg"
+    ]
+  },
+  {
+    "front": "Refer to Figure 53.4 and then answer the following questions. Figure 53.4: Infant mortality and life expectancy at birth in developed and developing countries (data as of 2005). 66) In terms of demographics, which country is likely to experience the greatest population growth problem over the next ten years?",
+    "options": [
+      "A) Mexico, because there are fewer pre-reproductive individuals in their population",
+      "B) China, whose population is more than a billion, but whose expected fertility rate is 1.8 children",
+      "C) Germany, where the growth rate of the population is 0.1% per year",
+      "D) United States (2009 population ~ 205,000,000, where 200,000 Americans are added to the population each day)",
+      "E) Afghanistan, with a 3.85 annual growth rate"
+    ],
+    "back": "E",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "https://web.archive.org/web/20170717081801im_/http://www.easynotecards.com:80/uploads/512/38/_39367d51_13ab9201884__8000_00000234.jpg"
+    ]
+  },
+  {
+    "front": "67) To measure the population of lake trout in a 250-hectare lake, 400 individual trout were netted and marked with a fin clip, then returned to the lake. The next week, the lake was netted again, and out of the 200 lake trout that were caught, 50 had fin clips. Using the capture-recapture estimate, the lake trout population size could be closest to which of the following?",
+    "options": ["A) 160", "B) 200", "C) 400", "D) 1,600", "E) 80,000"],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "68) Your friend comes to you with a problem. It seems his shrimp boats aren't catching nearly as much shrimp as they used to. He can't understand why because he used to catch all the shrimp he could handle. Each year he added a new boat, and for a long time each boat caught tons of shrimp. As he added more boats, there came a time when each boat caught somewhat fewer shrimp, and now, each boat is catching a lot less shrimp. Which of the following topics might help your friend understand the source of his problem?",
+    "options": [
+      "A) density-dependent population regulation and intrinsic characteristics of population growth",
+      "B) exponential growth curves and unlimited environmental resources",
+      "C) density-independent population regulation and chance occurrence",
+      "D) pollution effects of a natural environment and learned shrimp behavior",
+      "E) a K-selected population switching to an r-selected population"
+    ],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "69) Imagine that you are managing a large game ranch. You know from historical accounts that a species of deer used to live there, but they have been extirpated. You decide to reintroduce them. After doing some research to determine what might be an appropriately sized founding population, you do so. You then watch the population increase for several generations, and graph the number of individuals (vertical axis) against the number of generations (horizontal axis). The graph will likely appear as",
+    "options": [
+      "A) a diagonal line, getting higher with each generation.",
+      "B) an \"S,\" increasing with each generation.",
+      "C) an upside-down \"U.\"",
+      "D) a \"J,\" increasing with each generation.",
+      "E) an \"S\" that ends with a vertical line."
+    ],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "70) Population ecologists follow the fate of same-age cohorts to",
+    "options": [
+      "A) determine a population's carrying capacity.",
+      "B) determine the birth rate and death rate of each group in a population.",
+      "C) determine if a population is regulated by density-dependent processes.",
+      "D) determine the factors that regulate the size of a population.",
+      "E) determine if a population's growth is cyclic."
+    ],
+    "back": "B",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "71) A population's carrying capacity",
+    "options": [
+      "A) may change as environmental conditions change.",
+      "B) can be accurately calculated using the logistic growth model.",
+      "C) generally remains constant over time.",
+      "D) increases as the per capita growth rate (r) decreases.",
+      "E) can never be exceeded."
+    ],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "72) Scientific study of the population cycles of the snowshoe hare and its predator, the lynx, has revealed that",
+    "options": [
+      "A) the prey population is controlled by predators alone.",
+      "B) hares and lynx are so mutually dependent that each species cannot survive without the other.",
+      "C) multiple biotic and abiotic factors contribute to the cycling of the hare and lynx populations.",
+      "D) both hare and lynx populations are regulated mainly by abiotic factors.",
+      "E) the hare population is r-selected and the lynx population is K-selected."
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "73) Based on current growth rates, Earth's human population in 2012 will be closest to",
+    "options": [
+      "A) 2 million.",
+      "B) 3 billion.",
+      "C) 4 billion.",
+      "D) 7 billion.",
+      "E) 10 billion."
+    ],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "74) A recent study of ecological footprints concluded that",
+    "options": [
+      "A) Earth's carrying capacity for humans is about 10 billion.",
+      "B) Earth's carrying capacity would increase if per capita meat consumption increased.",
+      "C) current demand by industrialized countries for resources is much smaller than the ecological footprint of those countries.",
+      "D) it is not possible for technological improvements to increase Earth's carrying capacity for humans.",
+      "E) the ecological footprint of the United States is large because per capita resource use is high."
+    ],
+    "back": "E",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "75) The observation that members of a population are uniformly distributed suggests that",
+    "options": [
+      "A) the size of the area occupied by the population is increasing.",
+      "B) resources are distributed unevenly.",
+      "C) the members of the population are competing for access to a resource.",
+      "D) the members of the population are neither attracted to nor repelled by one another.",
+      "E) the density of the population is low."
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "76) According to the logistic growth equation SEE IMAGE",
+    "options": [
+      "A) the number of individuals added per unit time is greatest when N is close to zero.",
+      "B) the per capita growth rate (r) increases as N approaches K.",
+      "C) population growth is zero when N equals K.",
+      "D) the population grows exponentially when K is small.",
+      "E) the birth rate (b) approaches zero as N approaches K."
+    ],
+    "back": "C",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": [
+      "http://www.zo.utexas.edu/courses/bio301/chapters/Chapter9/Fig9-3.jpg"
+    ]
+  },
+  {
+    "front": "77) Which pair of terms most accurately describes life history traits for a stable population of wolves?",
+    "options": [
+      "A) semelparous; r-selected",
+      "B) semelparous; K-selected",
+      "C) iteroparous; r-selected",
+      "D) iteroparous; K-selected",
+      "E) iteroparous; N-selected"
+    ],
+    "back": "D",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "78) During exponential growth, a population always",
+    "options": [
+      "A) grows by thousands of individuals.",
+      "B) grows at its maximum per capita rate.",
+      "C) quickly reaches its carrying capacity.",
+      "D) cycles through time.",
+      "E) loses some individuals to emigration."
+    ],
+    "back": "B",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  },
+  {
+    "front": "79) Which of the following statements about human population in industrialized countries is incorrect?",
+    "options": [
+      "A) Life history is r-selected.",
+      "B) Average family size is relatively small.",
+      "C) The population has undergone the demographic transition.",
+      "D) The survivorship curve is Type I.",
+      "E) Age distribution is relatively uniform."
+    ],
+    "back": "A",
+    "unit": "Unit 2",
+    "chapter": "Chapter 53",
+    "images": []
+  }
 ]
+
