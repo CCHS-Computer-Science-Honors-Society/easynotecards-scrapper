@@ -1,0 +1,41 @@
+name: Python CI with uv
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install uv
+      run: |
+        pip install --upgrade pip
+        pip install uv
+
+    - name: Initialize uv (if not already initialized)
+      run: |
+        if [ ! -f uv.lock ]; then
+          uv init
+        fi
+
+    - name: Install dependencies with uv
+      run: |
+        uv install
+
+    - name: Run tests with uv and pytest
+      run: |
+        uv run pytest --verbose 
